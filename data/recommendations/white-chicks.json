@@ -1,6 +1,6 @@
 {
   "sourceMovie": {
-    "tmdbId": 12507,
+    "tmdbId": 12153,
     "title": "White Chicks",
     "slug": "white-chicks",
     "year": 2004,
@@ -18,7 +18,7 @@
   },
   "recommendations": [
     {
-      "tmdbId": 10664,
+      "tmdbId": 10625,
       "title": "Mean Girls",
       "year": 2004,
       "matchPercentage": 88,

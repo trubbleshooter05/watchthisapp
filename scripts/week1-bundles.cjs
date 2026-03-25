@@ -535,7 +535,7 @@ module.exports = {
 
   "mean-girls": {
     sourceMovie: {
-      tmdbId: 10664,
+      tmdbId: 10625,
       title: "Mean Girls",
       slug: "mean-girls",
       year: 2004,
@@ -556,7 +556,7 @@ module.exports = {
         mood: "funny",
       },
       {
-        tmdbId: 10625,
+        tmdbId: 9603,
         title: "Clueless",
         year: 1995,
         matchPercentage: 90,
@@ -636,7 +636,7 @@ module.exports = {
         mood: "funny",
       },
       {
-        tmdbId: 12507,
+        tmdbId: 12153,
         title: "White Chicks",
         year: 2004,
         matchPercentage: 74,
@@ -668,7 +668,7 @@ module.exports = {
 
   "white-chicks": {
     sourceMovie: {
-      tmdbId: 12507,
+      tmdbId: 12153,
       title: "White Chicks",
       slug: "white-chicks",
       year: 2004,
@@ -679,7 +679,7 @@ module.exports = {
     },
     recommendations: [
       {
-        tmdbId: 10664,
+        tmdbId: 10625,
         title: "Mean Girls",
         year: 2004,
         matchPercentage: 88,
