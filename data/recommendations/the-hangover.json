@@ -1,0 +1,160 @@
+{
+  "sourceMovie": {
+    "tmdbId": 18785,
+    "title": "The Hangover",
+    "slug": "the-hangover",
+    "year": 2009,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Hangover (2009) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 45243,
+      "title": "The Hangover Part II",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Hangover clicked for you, The Hangover Part II (2011) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 109439,
+      "title": "The Hangover Part III",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Hangover clicked for you, The Hangover Part III (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2109,
+      "title": "Rush Hour",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Rush Hour (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4944,
+      "title": "Burn After Reading",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Burn After Reading (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2907,
+      "title": "The Addams Family",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Hangover clicked for you, The Addams Family (1991) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1878,
+      "title": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Fear and Loathing in Las Vegas (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2978,
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Ghostbusters II (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2123,
+      "title": "Me, Myself & Irene",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Me, Myself & Irene (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2757,
+      "title": "Adaptation.",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Adaptation. (2002) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137093,
+      "title": "Last Vegas",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Hangover clicked for you, Last Vegas (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Hangover?",
+      "answer": "Try The Hangover Part II, The Hangover Part III, Rush Hour—each shares DNA with The Hangover while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Hangover?",
+      "answer": "The Hangover (2009) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Hangover part of a franchise?",
+      "answer": "Yes—it's part of the \"The Hangover Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "barbie",
+    "bodies-bodies-bodies",
+    "bridesmaids",
+    "glass-onion",
+    "knives-out",
+    "la-la-land"
+  ]
+}

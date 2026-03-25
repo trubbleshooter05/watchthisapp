@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync } from "fs";
+import { readFileSync, readdirSync, statSync } from "fs";
 import path from "path";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
 
@@ -34,4 +34,28 @@ export function getSeoDescription(sourceTitle: string): string {
 export function filterExistingRelatedSlugs(related: string[]): string[] {
   const valid = new Set(getAllMovieSlugs());
   return related.filter((s) => valid.has(s));
+}
+
+/** For sitemap lastmod — updates when that page’s recommendation JSON changes. */
+export function getRecommendationJsonMtime(slug: string): Date {
+  try {
+    return statSync(path.join(DATA_DIR, `${slug}.json`)).mtime;
+  } catch {
+    return new Date();
+  }
+}
+
+/** Newest mtime among all recommendation JSON files (home / browse “content” freshness). */
+export function getLatestRecommendationBundleMtime(): Date {
+  try {
+    const files = readdirSync(DATA_DIR).filter((f) => f.endsWith(".json"));
+    let maxMs = 0;
+    for (const f of files) {
+      const ms = statSync(path.join(DATA_DIR, f)).mtimeMs;
+      if (ms > maxMs) maxMs = ms;
+    }
+    return maxMs > 0 ? new Date(maxMs) : new Date();
+  } catch {
+    return new Date();
+  }
 }

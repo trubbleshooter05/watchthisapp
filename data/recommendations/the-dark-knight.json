@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 155,
+    "title": "The Dark Knight",
+    "slug": "the-dark-knight",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Dark Knight (2008) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Christopher Nolan's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2112,
+      "title": "Payback",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Payback (1999) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 69735,
+      "title": "Batman: Year One",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman: Year One (2011) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "animation"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 339095,
+      "title": "The Last Days of American Crime",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Last Days of American Crime (2020) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2153,
+      "title": "The Driver",
+      "year": 1978,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Driver (1978) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman Begins (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 414906,
+      "title": "The Batman",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Batman (2022) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 495764,
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 268,
+      "title": "Batman",
+      "year": 1989,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman (1989) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Dark Knight?",
+      "answer": "Try The Dark Knight Rises, Payback, Batman: Year One—each shares DNA with The Dark Knight while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Dark Knight?",
+      "answer": "The Dark Knight (2008) is best described as Action, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Dark Knight part of a franchise?",
+      "answer": "Yes—it's part of the \"The Dark Knight Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "inception",
+    "john-wick",
+    "pulp-fiction",
+    "the-hunger-games",
+    "avatar",
+    "black-swan",
+    "divergent"
+  ]
+}

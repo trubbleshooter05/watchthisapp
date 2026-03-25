@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { AllMovieGuideLinks } from "@/components/AllMovieGuideLinks";
 import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
 import { posterPlaceholderHint } from "@/lib/tmdb";
@@ -144,7 +145,14 @@ export default async function MovieLikePage({ params }: Props) {
           </section>
 
           <h2 className="font-display text-2xl font-bold mb-8">Your 10 recommendations</h2>
-          <RecommendationList items={recommendations} />
+          {bundle.recommendations.length === 0 ? (
+            <p className="text-sm text-amber-500/90 border border-amber-500/20 rounded-xl bg-amber-500/5 px-4 py-3 max-w-xl">
+              This guide is being filled out—recommendations will appear here after the list is added
+              to the site data.
+            </p>
+          ) : (
+            <RecommendationList items={recommendations} />
+          )}
 
           <section className="mt-16 border-t border-white/10 pt-12">
             <h2 className="font-display text-xl font-semibold mb-6 flex items-center gap-2">
@@ -181,6 +189,15 @@ export default async function MovieLikePage({ params }: Props) {
               </ul>
             </section>
           )}
+
+          <section className="mt-16 border-t border-white/10 pt-12">
+            <h2 className="font-display text-xl font-semibold mb-2">More movie guides</h2>
+            <p className="text-sm text-[#6B7280] mb-6">
+              Browse every &quot;movies like&quot; page on the site—including ones still waiting to be
+              indexed.
+            </p>
+            <AllMovieGuideLinks exceptSlug={slug} />
+          </section>
         </main>
       </div>
     </>

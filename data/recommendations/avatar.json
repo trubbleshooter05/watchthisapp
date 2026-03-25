@@ -1,0 +1,133 @@
+{
+  "sourceMovie": {
+    "tmdbId": 19995,
+    "title": "Avatar",
+    "slug": "avatar",
+    "year": 2009,
+    "genres": ["Action", "Adventure", "Fantasy", "Science Fiction"],
+    "whyPeopleLoveIt": "James Cameron sold the planet on a feeling: you’re not watching Pandora—you’re *there*, thanks to 3D and world-building that treats ecology like a character. People return for the immersion (bioluminescent forests, floating mountains, banshee rides) and the blunt but effective clash between corporate extraction and Indigenous defense. It’s big-movie spectacle with a clear moral spine, which is why it stayed a cultural bookmark for a decade before the sequels arrived.",
+    "vibes": [
+      "sci-fi-epic",
+      "worldbuilding",
+      "spectacle",
+      "eco-fable",
+      "immersive-VFX",
+      "blockbuster"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 76600,
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "Same director, same obsession with underwater and forest ecosystems as living sets—more family saga, even richer environments. If Avatar hooked you on ‘I want to live in that frame,’ this is the direct continuation.",
+      "sharedVibes": ["sci-fi-epic", "worldbuilding", "spectacle", "immersive-VFX"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 438631,
+      "title": "Dune",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Desert instead of jungle, but the same appetite for scale: politics, prophecy, and a planet that fights back against outsiders who want what’s under the sand. Great if you liked Avatar’s ‘colonial greed vs. native world’ tension.",
+      "sharedVibes": ["sci-fi-epic", "worldbuilding", "spectacle", "eco-fable"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157336,
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Another love-letter to awe—cosmic vistas, clock-ticking stakes, and emotion played at IMAX volume. Less ‘alien paradise,’ more physics and parentage, but the ‘sit forward in your seat’ blockbuster DNA matches.",
+      "sharedVibes": ["sci-fi-epic", "spectacle", "blockbuster"],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 335984,
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Slower and more noir than Avatar, but every shot is a world-building flex—color, weather, and ruin as storytelling. If your favorite part of Pandora was *atmosphere*, Villeneuve’s future is a mood-heavy cousin.",
+      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Different palette (dust and chrome), same commitment to practical-feeling mayhem and geography you can read in one glance. If Avatar’s third-act battle energy is what you crave, this is lean, mean spectacle.",
+      "sharedVibes": ["spectacle", "blockbuster", "eco-fable"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 137113,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Sci-fi war loop with crisp VFX and a propulsive sense of ‘one more run’—less mystical forest, more exosuit carnage, but the same tight marriage of humor, stakes, and set pieces.",
+      "sharedVibes": ["sci-fi-epic", "spectacle", "blockbuster"],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 70981,
+      "title": "Prometheus",
+      "year": 2012,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "A lavish, uneasy prequel about explorers poking creation myths—gorgeous ship design and alien landscapes, with horror creeping in at the edges. Pandora fans who like ‘big questions + pretty nightmares’ tend to vibe with this.",
+      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Del Toro’s giant-robot vs. kaiju love letter—earnest, colorful, and built for cheering crowds. Less philosophical than Avatar, but the same joy in impossible scale and tactile monster design.",
+      "sharedVibes": ["spectacle", "blockbuster", "immersive-VFX"],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 602,
+      "title": "Independence Day",
+      "year": 1996,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "The 90s template for ‘event movie’ alien invasion—crowd scenes, speeches, and city-scale destruction before CGI saturation. If you like Cameron’s blunt populist clarity, Emmerich’s playbook is a fun time capsule.",
+      "sharedVibes": ["spectacle", "blockbuster", "sci-fi-epic"],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "A cyberpunk scrapyard metropolis with a sympathetic cyborg lead and fights staged like an anime brought to photoreal life. Strong pick if Avatar’s draw was ‘new body, new world, underdog vs. the powerful.’",
+      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Avatar if I loved the world-building?",
+      "answer": "Try Dune (2021) for political sci-fi on a hostile planet, Blade Runner 2049 for mood-drenched future cities, or Avatar: The Way of Water for more of Cameron’s ecosystem-as-spectacle approach."
+    },
+    {
+      "question": "Is Avatar mostly CGI?",
+      "answer": "Yes—Pandora, creatures, and much of the action are digital, blended with performance capture and live-action where it helps. The design goal was immersion: you’re meant to feel the place, not count the pixels."
+    },
+    {
+      "question": "Do I need to watch Avatar before The Way of Water?",
+      "answer": "The sequel catches you up on basics, but the first film establishes Jake and Neytiri’s bond and why Pandora matters. Watching Avatar first makes the family and territorial stakes in the sequel land harder."
+    }
+  ],
+  "relatedPages": [
+    "dune",
+    "interstellar",
+    "inception",
+    "oppenheimer",
+    "top-gun-maverick",
+    "everything-everywhere-all-at-once",
+    "the-dark-knight"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 68718,
+    "title": "Django Unchained",
+    "slug": "django-unchained",
+    "year": 2012,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "whyPeopleLoveIt": "Django Unchained works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and western blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "western",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 273248,
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, The Hateful Eight (2015) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 44264,
+      "title": "True Grit",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, True Grit (2010) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 581,
+      "title": "Dances with Wolves",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, Dances with Wolves (1990) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 581032,
+      "title": "News of the World",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, News of the World (2020) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 922,
+      "title": "Dead Man",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, Dead Man (1995) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2055,
+      "title": "Open Range",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, Open Range (2003) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 785663,
+      "title": "Old Henry",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, Old Henry (2021) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3110,
+      "title": "Shane",
+      "year": 1953,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, Shane (1953) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2118,
+      "title": "L.A. Confidential",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, L.A. Confidential (1997) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2898,
+      "title": "As Good as It Gets",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Django Unchained clicked for you, As Good as It Gets (1997) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Django Unchained?",
+      "answer": "Try The Hateful Eight, True Grit, Dances with Wolves—each shares DNA with Django Unchained while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Django Unchained?",
+      "answer": "Django Unchained (2012) is best described as Drama, Western. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Django Unchained worth revisiting?",
+      "answer": "Viewer scores sit around 8.2/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "a-quiet-place",
+    "after",
+    "black-swan",
+    "fifty-shades-of-grey",
+    "fight-club",
+    "gone-girl"
+  ]
+}

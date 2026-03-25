@@ -1,9 +1,7 @@
 import Link from "next/link";
-import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import { AllMovieGuideLinks } from "@/components/AllMovieGuideLinks";
 
 export default function HomePage() {
-  const slugs = getAllMovieSlugs();
-
   return (
     <main className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
       <div className="max-w-2xl">
@@ -32,24 +30,12 @@ export default function HomePage() {
       </div>
 
       <section className="mt-20">
-        <h2 className="font-display text-xl font-semibold mb-6">Popular picks</h2>
-        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {slugs.slice(0, 9).map((slug) => {
-            const b = getRecommendationBundle(slug);
-            const title = b?.sourceMovie.title ?? slug;
-            return (
-              <li key={slug}>
-                <Link
-                  href={`/movies-like/${slug}`}
-                  className="block rounded-xl border border-white/10 bg-[#141414] px-4 py-4 hover:border-amber-500/30 transition-colors"
-                >
-                  <span className="text-amber-500/90 text-xs font-medium">Movies like</span>
-                  <span className="block font-display font-semibold text-[#FAFAFA] mt-0.5">{title}</span>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
+        <h2 className="font-display text-xl font-semibold mb-2">All movie guides</h2>
+        <p className="text-sm text-[#6B7280] mb-6 max-w-2xl">
+          Every link below is a real page—helps people and search engines discover all &quot;movies
+          like&quot; guides.
+        </p>
+        <AllMovieGuideLinks />
       </section>
     </main>
   );

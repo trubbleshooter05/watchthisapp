@@ -8,6 +8,11 @@
     "start": "next start",
     "lint": "next lint",
     "data:week1": "node scripts/export-week1-json.mjs",
+    "data:backlog-ids": "node scripts/tmdb-bulk-ids.mjs",
+    "data:scaffold": "node scripts/scaffold-movie.mjs",
+    "data:bulk-scaffold": "node scripts/bulk-scaffold-backlog.mjs",
+    "data:fill-all": "node scripts/fill-all-bundles.mjs",
+    "data:refine-auto": "node scripts/fill-all-bundles.mjs --refine-auto",
     "deploy:vercel": "npx vercel@latest deploy --prod"
   },
   "dependencies": {

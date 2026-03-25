@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 245891,
+    "title": "John Wick",
+    "slug": "john-wick",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit John Wick for the same reason it broke through in 2014: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Chad Stahelski keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 324552,
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 2 (2017) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 458156,
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 3 - Parabellum (2019) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 615457,
+      "title": "Nobody",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If John Wick clicked for you, Nobody (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603692,
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 4 (2023) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241554,
+      "title": "Run All Night",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If John Wick clicked for you, Run All Night (2015) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8374,
+      "title": "The Boondock Saints",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If John Wick clicked for you, The Boondock Saints (1999) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If John Wick clicked for you, The Jackal (1997) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10431,
+      "title": "War",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If John Wick clicked for you, War (2007) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7304,
+      "title": "Running Scared",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If John Wick clicked for you, Running Scared (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 20083,
+      "title": "Shinjuku Incident",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If John Wick clicked for you, Shinjuku Incident (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after John Wick?",
+      "answer": "Try John Wick: Chapter 2, John Wick: Chapter 3 - Parabellum, Nobody—each shares DNA with John Wick while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is John Wick?",
+      "answer": "John Wick (2014) is best described as Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is John Wick part of a franchise?",
+      "answer": "Yes—it's part of the \"John Wick Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "inception",
+    "the-dark-knight",
+    "the-hunger-games",
+    "avatar",
+    "black-swan",
+    "divergent",
+    "everything-everywhere-all-at-once"
+  ]
+}

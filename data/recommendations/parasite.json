@@ -1,0 +1,118 @@
+{
+  "sourceMovie": {
+    "tmdbId": 496243,
+    "title": "Parasite",
+    "slug": "parasite",
+    "year": 2019,
+    "genres": ["Comedy", "Thriller", "Drama"],
+    "whyPeopleLoveIt": "Bong Joon Ho turns a con-artist family farce into a surgical class thriller—every staircase, smell joke, and rainstorm lands with moral weight. The tone whiplash is the point: you laugh until the floor drops out, then the film refuses to let anyone off the hook.",
+    "vibes": ["class-conscious", "darkly-funny", "twisty", "Korean-cinema", "social-thriller", "ensemble"]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 110415,
+      "title": "Snowpiercer",
+      "year": 2013,
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "Same director, same appetite for blunt allegory—here the train cars are a moving caste system with knives-out pacing. If Parasite’s vertical architecture hooked you, this horizontal dystopia is the sibling film.",
+      "sharedVibes": ["class-conscious", "thriller", "ensemble"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11423,
+      "title": "Memories of Murder",
+      "year": 2003,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Early Bong masterpiece: incompetent cops, rural dread, and comedy that curdles into horror. The social observation is quieter than Parasite but the moral fog feels cut from the same cloth.",
+      "sharedVibes": ["darkly-funny", "thriller", "ensemble"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 446893,
+      "title": "Burning",
+      "year": 2018,
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "Lee Chang-dong stretches class envy into a slow-burn mystery—less joke-driven, equally obsessed with who gets to disappear and who gets watched. Great if Parasite’s ‘basement energy’ unsettled you.",
+      "sharedVibes": ["class-conscious", "twisty", "social-thriller"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290098,
+      "title": "The Handmaiden",
+      "year": 2016,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "Park Chan-wook’s con-game romance—lavish, kinky, and structurally sneaky in ways Parasite fans tend to adore. Every reveal rewrites who’s predator and who’s prey.",
+      "sharedVibes": ["twisty", "thriller", "ensemble"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 505192,
+      "title": "Shoplifters",
+      "year": 2018,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Kore-eda’s found family survives by small crimes until the film asks what ‘deserving’ even means. Softer than Parasite, but the empathy trap rhymes: you root for people the world labels disposable.",
+      "sharedVibes": ["class-conscious", "ensemble", "emotional"],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 670,
+      "title": "Oldboy",
+      "year": 2003,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Korean neo-noir with a legendary twist and operatic violence—more extreme than Parasite, but the same love of buried secrets and class-adjacent cruelty. Not for squeamish viewers.",
+      "sharedVibes": ["twisty", "thriller", "dark"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 419430,
+      "title": "Get Out",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "American cousin to Parasite’s social thriller DNA—polite surfaces, basement truths, and comedy used as camouflage. Peele’s debut hits a similar ‘nice house, bad vibes’ frequency.",
+      "sharedVibes": ["social-thriller", "twisty", "darkly-funny"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 387426,
+      "title": "Okja",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Bong again, toggling between kids’ adventure and corporate satire with zero apology. If you liked how Parasite weaponizes tone, Okja is the louder, weirder cousin about who profits from innocence.",
+      "sharedVibes": ["class-conscious", "darkly-funny", "ensemble"],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 546554,
+      "title": "Knives Out",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Wealthy family, hidden rooms, and a mystery that’s really about who the house was built to protect—lighter and more cozy than Parasite, but the upstairs/downstairs itch is familiar.",
+      "sharedVibes": ["twisty", "ensemble", "darkly-funny"],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 497828,
+      "title": "Triangle of Sadness",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Ruben Östlund’s Palme winner weaponizes fashion-world vanity until the yacht capsizes—literally—and the social order inverts. Gross-out satire for viewers who liked Parasite’s dinner-table class warfare.",
+      "sharedVibes": ["class-conscious", "darkly-funny", "ensemble"],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movie feels closest to Parasite?",
+      "answer": "Many viewers reach for Snowpiercer (same director, class allegory) or Burning (Korean slow-burn class anxiety). If you want twisty con energy, The Handmaiden is a strong next watch."
+    },
+    {
+      "question": "Is Parasite a horror movie?",
+      "answer": "It’s billed as comedy-thriller-drama with horror-adjacent tension and violence in the back half—not jump-scare horror, but increasingly dread-heavy as the class divide turns physical."
+    },
+    {
+      "question": "Do I need subtitles for films like Parasite?",
+      "answer": "Most Korean picks here are best in original language with subtitles; dubs exist but you lose performance nuance that Bong and Park films lean on."
+    }
+  ],
+  "relatedPages": ["inception", "shutter-island", "fight-club", "midsommar", "the-shawshank-redemption"]
+}
