@@ -11,6 +11,7 @@ import {
   getSeoTitle,
 } from "@/lib/recommendations";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
+import { getSiteUrl } from "@/lib/site-url";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const dynamic = "force-dynamic";
@@ -24,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const t = bundle.sourceMovie.title;
   const title = getSeoTitle(t);
   const description = getSeoDescription(t);
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const baseUrl = getSiteUrl();
   return {
     title,
     description,
@@ -33,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title,
       description,
       type: "website",
-      url: `${base}/movies-like/${slug}`,
+      url: `${baseUrl}/movies-like/${slug}`,
     },
     twitter: {
       card: "summary_large_image",
@@ -80,8 +81,8 @@ export default async function MovieLikePage({ params }: Props) {
 
   const { source, recommendations } = await enrichMovieLikePage(bundle);
   const related = filterExistingRelatedSlugs(bundle.relatedPages);
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
-  const structured = jsonLd(bundle, base, slug);
+  const baseUrl = getSiteUrl();
+  const structured = jsonLd(bundle, baseUrl, slug);
 
   return (
     <>
