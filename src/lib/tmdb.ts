@@ -31,6 +31,16 @@ function getKey(): string | undefined {
   return process.env.TMDB_API_KEY;
 }
 
+/** Shown when poster_url is null (missing env vs bad TMDB response). */
+export function posterPlaceholderHint(): string {
+  if (!getKey()?.trim()) {
+    return process.env.VERCEL
+      ? "Add TMDB_API_KEY in Vercel → Settings → Environment Variables (Production), then Redeploy."
+      : "Set TMDB_API_KEY in .env.local and restart the dev server.";
+  }
+  return "No poster from TMDB for this title (invalid ID or API error).";
+}
+
 export function posterUrl(posterPath: string | null, size: "w342" | "w500" = "w500"): string | null {
   if (!posterPath) return null;
   return `${TMDB_IMAGE}/${size}${posterPath}`;

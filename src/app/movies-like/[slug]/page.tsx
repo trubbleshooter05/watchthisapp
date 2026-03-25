@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
+import { posterPlaceholderHint } from "@/lib/tmdb";
 import {
   filterExistingRelatedSlugs,
   getRecommendationBundle,
@@ -116,7 +117,7 @@ export default async function MovieLikePage({ params }: Props) {
                 />
               ) : (
                 <div className="flex h-full min-h-[280px] items-center justify-center text-sm text-[#4B5563] px-4 text-center">
-                  Set TMDB_API_KEY in .env.local (not NEXT_PUBLIC_*) and restart the server
+                  {posterPlaceholderHint()}
                 </div>
               )}
             </div>
