@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "data:week1": "node scripts/export-week1-json.mjs"
   },
   "dependencies": {
     "react": "^18",

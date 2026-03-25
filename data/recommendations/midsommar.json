@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 530385,
+    "title": "Midsommar",
+    "slug": "midsommar",
+    "year": 2019,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Daylight horror in Swedish pastoral drag—grief, bad relationships, and rituals that start weird and end unforgettable. Aster’s folk nightmare is as funny as it is upsetting.",
+    "vibes": [
+      "folk-horror",
+      "tense",
+      "visually-stunning",
+      "uncomfortable",
+      "slow-burn"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 530723,
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Historical dread, isolation, and a family unraveling in nature’s indifference. If Midsommar’s folk texture hooked you, Eggers’ Puritan nightmare is the obvious next ritual.",
+      "sharedVibes": [
+        "slow-burn",
+        "tense",
+        "atmospheric"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 694,
+      "title": "The Wicker Man",
+      "year": 1973,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The blueprint for ‘nice villagers, terrible agenda’ horror—quirky, creepy, and ending on a note you won’t shake.",
+      "sharedVibes": [
+        "folk-horror",
+        "tense",
+        "twisty"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 475557,
+      "title": "Joker",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Not horror, but shared DNA in mental fracture, social pressure, and discomfort-as-vibe. If you liked Midsommar’s relationship rot, Phoenix’s spiral rhymes.",
+      "sharedVibes": [
+        "dark",
+        "psychological",
+        "uncomfortable"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 501929,
+      "title": "The Lighthouse",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Two men, a rock, madness in monochrome. Eggers again—claustrophobic, mythic, and darkly funny in the same way Midsommar winks before it hurts you.",
+      "sharedVibes": [
+        "psychological",
+        "tense",
+        "atmospheric"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 376570,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Aster’s first family grief grenade—more domestic, equally traumatic. If Midsommar’s relationship dynamics felt too real, you’ve been warned.",
+      "sharedVibes": [
+        "dark",
+        "tense",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 406759,
+      "title": "Suspiria",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Dance academy cults, grotesque set pieces, and a hypnotic score. Arty, loud, and committed—good if you liked Midsommar’s communal dread.",
+      "sharedVibes": [
+        "visually-stunning",
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 242224,
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Clinical dialogue and impossible choices—Lanthimos dread with a mythic title. Unsettling in a flat-affect way that pairs with Aster’s controlled tone.",
+      "sharedVibes": [
+        "uncomfortable",
+        "tense",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 756999,
+      "title": "The Black Phone",
+      "year": 2021,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "More conventional horror thrills, but strong craft and kid-in-peril tension. A palate cleanser if you still want dread without folk pageantry.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 565028,
+      "title": "Titane",
+      "year": 2021,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Body horror that refuses categorization—provocative, tender, and wild. For viewers who want Midsommar-level ‘I can’t believe I’m watching this’ energy.",
+      "sharedVibes": [
+        "uncomfortable",
+        "visually-stunning"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 913290,
+      "title": "Barbarian",
+      "year": 2022,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "A rental-house thriller that keeps changing genres on you—funny, nasty, and designed for audiences who yell at the screen.",
+      "sharedVibes": [
+        "tense",
+        "twisty"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is Midsommar scarier than Hereditary?",
+      "answer": "Taste varies: Hereditary is often felt as more relentlessly grim at home; Midsommar’s daylight and communal horror can feel eerier in a different register."
+    },
+    {
+      "question": "What movies are like Midsommar but less disturbing?",
+      "answer": "The Witch is still intense but slower; if you want lighter folk flavor without trauma-core, consider something like The Village (knowing its twist debate)."
+    },
+    {
+      "question": "Why is Midsommar called a breakup movie?",
+      "answer": "Aster frames relationship dysfunction as loudly as the cult plot—many viewers read the final act as a grotesque metaphor for emotional release and agency."
+    }
+  ],
+  "relatedPages": [
+    "shutter-island",
+    "fight-club",
+    "interstellar",
+    "the-notebook",
+    "mean-girls"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "sourceMovie": {
+    "tmdbId": 157336,
+    "title": "Interstellar",
+    "slug": "interstellar",
+    "year": 2014,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "A mind-bending space epic about love and time, with Nolan-scale ambition, practical-meets-CGI spectacle, and an emotional father-daughter spine that lands long after the credits.",
+    "vibes": [
+      "cerebral",
+      "emotional",
+      "epic",
+      "visually-stunning",
+      "sci-fi"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 329865,
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "Language and physics replace wormholes, but the same slow-burn intelligence and gut-punch emotion are here. Amy Adams carries a first-contact story that rewards patience.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional",
+        "sci-fi"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 62,
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "The granddaddy of serious space cinema: awe, silence, and ideas bigger than exposition. If Interstellar’s scale hooked you, this is the pure, uncompromising version.",
+      "sharedVibes": [
+        "cerebral",
+        "epic",
+        "visually-stunning"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 686,
+      "title": "Contact",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Science vs. faith, first contact, and a personal emotional core—Interstellar fans who liked the ‘what if we’re small in the universe’ feeling will vibe hard.",
+      "sharedVibes": [
+        "emotional",
+        "sci-fi",
+        "cerebral"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 286217,
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Less metaphysics, more problem-solving on Mars, but the same love of science-as-hero and survival against impossible odds with a surprisingly warm tone.",
+      "sharedVibes": [
+        "sci-fi",
+        "uplifting",
+        "visually-stunning"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49047,
+      "title": "Gravity",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Stripped-down survival in orbit with relentless tension and stunning imagery. If Interstellar’s space sequences were your favorite part, this is laser-focused on that rush.",
+      "sharedVibes": [
+        "tense",
+        "visually-stunning",
+        "sci-fi"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 419704,
+      "title": "Ad Astra",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "A quieter, more melancholy father-son odyssey through the solar system. Moody, introspective, and gorgeous—Nolan fans who like the emotional spine will find parallels.",
+      "sharedVibes": [
+        "emotional",
+        "sci-fi",
+        "slow-burn"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1272,
+      "title": "Sunshine",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "A crew mission to reignite the sun turns philosophical and intense. Big ideas, claustrophobic pressure, and a third-act swing that splits rooms—in a fun way.",
+      "sharedVibes": [
+        "sci-fi",
+        "tense",
+        "visually-stunning"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 44264,
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Small-scale sci-fi with a lonely lunar worker and a twisty identity story. If you liked Interstellar’s human cost beneath the spectacle, this is intimate and sharp.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional",
+        "sci-fi"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 369972,
+      "title": "First Man",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Grounded NASA procedural with tactile filmmaking and grief threaded through ambition. Less time-travel, more human stakes in the race to the moon.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 14337,
+      "title": "Primer",
+      "year": 2004,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Micro-budget time logic that demands attention. If Interstellar’s time mechanics were your candy, Primer is the obsessive puzzle-box antidote—then watch again with a chart.",
+      "sharedVibes": [
+        "cerebral",
+        "sci-fi"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movie is most similar to Interstellar?",
+      "answer": "Many viewers point to Arrival for a similar blend of heady sci-fi and emotional payoff, or Contact for science-meets-wonder with a personal story at the center."
+    },
+    {
+      "question": "Are there movies like Interstellar on Netflix?",
+      "answer": "Availability changes often; use each title’s watch providers on this page for current US streaming, rent, and purchase options."
+    },
+    {
+      "question": "What should I watch if I like Christopher Nolan’s style?",
+      "answer": "Try Inception for layered Nolan structure, or Oppenheimer for large-scale historical drama with IMAX-minded craft."
+    }
+  ],
+  "relatedPages": [
+    "inception",
+    "fight-club",
+    "the-shawshank-redemption",
+    "midsommar",
+    "shutter-island"
+  ]
+}

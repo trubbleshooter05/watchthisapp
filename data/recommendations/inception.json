@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 27205,
+    "title": "Inception",
+    "slug": "inception",
+    "year": 2010,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Dream heists, zero-gravity hallways, and a spinning top that broke group chats—Nolan’s blockbuster puzzle wears a suit and brings feelings under the spectacle.",
+    "vibes": [
+      "cerebral",
+      "action-packed",
+      "visually-stunning",
+      "high-concept",
+      "tense"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Reality isn’t real—philosophy with kung fu and leather. If Inception’s rules-and-layers structure hooked you, this is the godfather.",
+      "sharedVibes": [
+        "cerebral",
+        "action-packed",
+        "sci-fi"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11324,
+      "title": "Shutter Island",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Same release-year mind games, different genre—psychological thriller framing that keeps rewriting what you think you know.",
+      "sharedVibes": [
+        "twisty",
+        "tense",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157336,
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "More Nolan sci-fi with time as a character and emotion as fuel—bigger tears, bigger cosmos, same love of practical spectacle.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional",
+        "sci-fi"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 20526,
+      "title": "TRON: Legacy",
+      "year": 2010,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Digital worlds as architecture—thin script, absurdly gorgeous sound and visuals. Good if Inception’s ‘vibe-first’ midnight energy is your thing.",
+      "sharedVibes": [
+        "visually-stunning",
+        "sci-fi"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59961,
+      "title": "Looper",
+      "year": 2012,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Time travel with noir grit and a nasty ethical question—tighter and messier than Inception, but the puzzle bones are there.",
+      "sharedVibes": [
+        "cerebral",
+        "sci-fi",
+        "tense"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1124,
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Nolan’s twisty obsession duel—less explosions, more sleight-of-hand. If you like structure as storytelling, this is peak.",
+      "sharedVibes": [
+        "cerebral",
+        "twisty",
+        "dark"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 244786,
+      "title": "Coherence",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Micro-budget dinner party that fractures reality—improvised energy and escalating paranoia for puzzle fans who want indie scale.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 137113,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Video-game loop as blockbuster—propulsive, funny, and crystal-clear rules. Less dream logic, more repeatable mayhem.",
+      "sharedVibes": [
+        "action-packed",
+        "sci-fi"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 545611,
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Multiverse maximalism with emotional payoff—if Inception’s layers excited you, this turns the knob until it snaps off (in a good way).",
+      "sharedVibes": [
+        "visually-stunning",
+        "emotional",
+        "sci-fi"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 671,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Spielberg sci-fi thriller with world-building and moral questions—sleek future noir for fans of rules-based futures.",
+      "sharedVibes": [
+        "sci-fi",
+        "tense",
+        "action-packed"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movies are like Inception but easier to follow?",
+      "answer": "Edge of Tomorrow lays out its loop cleanly; Minority Report is procedural sci-fi with a strong through-line."
+    },
+    {
+      "question": "Does the Inception top fall?",
+      "answer": "Nolan intentionally leaves ambiguity—the point is less the answer than how obsession and doubt linger after the cut to black."
+    },
+    {
+      "question": "What should I watch for more Christopher Nolan heist energy?",
+      "answer": "The Dark Knight for urban scale, Tenet for time inversion, Dunkirk for structural experimentation across timelines."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "fight-club",
+    "shutter-island",
+    "the-shawshank-redemption",
+    "midsommar"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11036,
+    "title": "The Notebook",
+    "slug": "the-notebook",
+    "year": 2004,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "A decades-spanning love story built on chemistry, rain-soaked confessions, and the kind of earnest melodrama that rewires your tear ducts.",
+    "vibes": [
+      "romantic",
+      "emotional",
+      "nostalgic",
+      "bittersweet"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 240,
+      "title": "Blue Valentine",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The other side of the romance coin: intimacy, regret, and time’s cruelty. If The Notebook’s emotional weight mattered, this is the raw, indie counterpart.",
+      "sharedVibes": [
+        "emotional",
+        "bittersweet"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Longing, pride, and rain (again)—Joe Wright’s tactile period romance delivers swoon with sharper social edges than a typical weepie.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18239,
+      "title": "The Time Traveler's Wife",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Love story plus time disorder—messy, sentimental, and built for people who like fate-tested couples and crying on the couch.",
+      "sharedVibes": [
+        "romantic",
+        "emotional",
+        "bittersweet"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 6977,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Epic romance crushed by a single lie—gorgeous filmmaking, unbearable longing, and a third act that stings for days.",
+      "sharedVibes": [
+        "emotional",
+        "bittersweet",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 18148,
+      "title": "The Fault in Our Stars",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Young love with mortality upfront—funny, sincere, and engineered to make you feel everything out loud.",
+      "sharedVibes": [
+        "emotional",
+        "romantic"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Less traditional sweep, more sci-fi heartbreak about memory and second chances. If you like love stories with brains and ache, start here.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral",
+        "romantic"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "If Beale Street Could Talk",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Barry Jenkins color and tenderness—romance as resistance. A quieter, artful emotional experience with unforgettable faces in close-up.",
+      "sharedVibes": [
+        "emotional",
+        "romantic"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 290098,
+      "title": "The Age of Adaline",
+      "year": 2015,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Fantasy hook (ageless heroine) in service of old-fashioned romance—lush, soft-focus, and comfort-watch friendly.",
+      "sharedVibes": [
+        "romantic",
+        "nostalgic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 162,
+      "title": "Before Sunrise",
+      "year": 1995,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Two people, one night, endless conversation—proof that romance can be just words and glances. Start a trilogy if you fall in love.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 376867,
+      "title": "Moonlight",
+      "year": 2016,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Not a traditional tearjerker, but a poetic triptych about identity and tenderness—emotionally overwhelming in a different register.",
+      "sharedVibes": [
+        "emotional",
+        "bittersweet"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movies are similar to The Notebook?",
+      "answer": "Try Atonement for epic longing, The Time Traveler’s Wife for fate-heavy romance, or Blue Valentine for a grittier look at the same relationship arc."
+    },
+    {
+      "question": "Is The Notebook based on a book?",
+      "answer": "Yes—Nicholas Sparks’ novel is the source material, and the film leans into his signature earnest, time-jumping romance structure."
+    },
+    {
+      "question": "What should I watch for more Ryan Gosling romance?",
+      "answer": "La La Land mixes romance with musical ambition; Crazy, Stupid, Love shows his comedic charm—both pair well after The Notebook."
+    }
+  ],
+  "relatedPages": [
+    "after",
+    "mean-girls",
+    "white-chicks",
+    "interstellar",
+    "midsommar"
+  ]
+}

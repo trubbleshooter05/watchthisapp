@@ -1,0 +1,163 @@
+{
+  "sourceMovie": {
+    "tmdbId": 537915,
+    "title": "After",
+    "slug": "after",
+    "year": 2019,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Wattpad-to-screen intensity: brooding college boy, good-girl protagonist, and soap-level stakes engineered for late-night streaming obsession.",
+    "vibes": [
+      "romantic",
+      "angsty",
+      "teen-adult",
+      "melodrama"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 336845,
+      "title": "Beautiful Disaster",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Tattoos, fights, and push-pull romance—built from the same ‘dangerous boy, tender heart’ playbook After popularized.",
+      "sharedVibes": [
+        "romantic",
+        "angsty"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11036,
+      "title": "The Notebook",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Less toxic, more sweeping—if After’s emotional highs are your drug, The Notebook is the prestige tearjerker version.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 216015,
+      "title": "Fifty Shades of Grey",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Power dynamics, longing stares, and franchise thirst—different window dressing, similar ‘will they, won’t they’ engine.",
+      "sharedVibes": [
+        "romantic",
+        "tense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "If you want romance with real emotional consequences and inventive storytelling—less fantasy boyfriend, more ache.",
+      "sharedVibes": [
+        "romantic",
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10229,
+      "title": "A Walk to Remember",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Soft-focus teen tragedy romance—sincere, sentimental, and built for viewers who like love stories that hurt a little.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Endless Love",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Passionate young love vs. parental walls—soapier and more thriller-adjacent in places, but the melodrama hits familiar notes.",
+      "sharedVibes": [
+        "romantic",
+        "angsty"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 528085,
+      "title": "After We Collided",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Direct sequel—more fights, more reconciliations, more playlists. If you’re here, you probably already know.",
+      "sharedVibes": [
+        "romantic",
+        "angsty"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 762975,
+      "title": "Purple Hearts",
+      "year": 2022,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Marriage-of-convenience turns into feelings—streaming romance engineered for emotional investment and montages.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 455207,
+      "title": "The Kissing Booth",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "High-school Netflix romance with best-friend rules and sequels—same ‘bad idea crush’ serotonin.",
+      "sharedVibes": [
+        "teen",
+        "romantic"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 447332,
+      "title": "Midnight Sun",
+      "year": 2018,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "Illness-meets-first-love melodrama—earnest, music-heavy, and designed to make you cry on purpose.",
+      "sharedVibes": [
+        "romantic",
+        "emotional"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is After based on a book?",
+      "answer": "Yes—it adapts Anna Todd’s After series, which began as One Direction–inspired fanfiction before becoming its own publishing phenomenon."
+    },
+    {
+      "question": "What should I watch after finishing the After movies?",
+      "answer": "The Kissing Booth and Purple Hearts hit similar streaming-romance beats; Beautiful Disaster leans harder into bad-boy fantasy."
+    },
+    {
+      "question": "Is After similar to Fifty Shades?",
+      "answer": "Different plot, similar appetite for intense attraction and conflict—Fifty Shades is more explicit, After stays more YA-angled."
+    }
+  ],
+  "relatedPages": [
+    "the-notebook",
+    "mean-girls",
+    "white-chicks",
+    "interstellar",
+    "fight-club"
+  ]
+}

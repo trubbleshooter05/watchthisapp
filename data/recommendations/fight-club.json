@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 550,
+    "title": "Fight Club",
+    "slug": "fight-club",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Fincher’s toxic masculinity satire disguised as a cult thriller—sticky quotes, sweaty aesthetics, and a twist that redefines the whole movie.",
+    "vibes": [
+      "dark",
+      "satirical",
+      "psychological",
+      "edgy",
+      "90s"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 274,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Psychological intimacy with monstrous ideas—less satire, more procedural dread. If Fight Club’s mind games hooked you, Lecter still plays chess.",
+      "sharedVibes": [
+        "psychological",
+        "dark",
+        "tense"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 807,
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Fincher’s grimy masterpiece—if you liked Fight Club’s filth-under-neon texture, this is the same director at his most relentless.",
+      "sharedVibes": [
+        "dark",
+        "tense",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 745,
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Same era, different twist economy—quiet grief horror with a reveal that rewatches the film for you.",
+      "sharedVibes": [
+        "twisty",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 264644,
+      "title": "Nightcrawler",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "American success story as sociopathy—sleek, satirical, and deeply uncomfortable. If Fight Club critiques identity, this critiques hustle culture.",
+      "sharedVibes": [
+        "dark",
+        "satirical",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 629,
+      "title": "Trainspotting",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Energy, voice, and self-destruction as style—less plot twist, more propulsive nihilism with a killer soundtrack.",
+      "sharedVibes": [
+        "dark",
+        "edgy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7451,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Satire sharpened into horror-comedy—yuppie void, unreliable narration, and business-card one-upmanship as cultural wound.",
+      "sharedVibes": [
+        "satirical",
+        "dark",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1124,
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Obsession and doubles—less political, more Victorian, but the ‘who am I really’ engine hums similarly.",
+      "sharedVibes": [
+        "twisty",
+        "dark",
+        "cerebral"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "Reality-as-lie with action chops—if Fight Club’s underground movement fantasy appealed, Neo’s red pill is the adjacent myth.",
+      "sharedVibes": [
+        "sci-fi",
+        "edgy",
+        "action-packed"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 475557,
+      "title": "Joker",
+      "year": 2019,
+      "matchPercentage": 77,
+      "whyYoullLoveIt": "Society-breakdown character study with uncomfortable empathy—controversial, loud, and built for debate afterward.",
+      "sharedVibes": [
+        "dark",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 77,
+      "title": "Memento",
+      "year": 2000,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Nolan’s fractured identity thriller—memory as trap, structure as theme. Puzzle-forward like Fight Club but with a different emotional temperature.",
+      "sharedVibes": [
+        "cerebral",
+        "twisty",
+        "psychological"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is Fight Club satire?",
+      "answer": "Fincher and Palahniuk frame toxic ideology critically, but the film’s cool aesthetics famously led some viewers to miss the critique—debate is part of its legacy."
+    },
+    {
+      "question": "What movies capture Fight Club’s 90s nihilism?",
+      "answer": "Trainspotting and American Psycho share abrasive voice; The Matrix adds sci-fi mythmaking to the same cultural moment."
+    },
+    {
+      "question": "What should I watch if I liked the twist?",
+      "answer": "The Sixth Sense and The Prestige are twist-forward classics; Shutter Island goes full psychological Gothic."
+    }
+  ],
+  "relatedPages": [
+    "inception",
+    "shutter-island",
+    "the-shawshank-redemption",
+    "midsommar",
+    "interstellar"
+  ]
+}

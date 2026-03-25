@@ -1,0 +1,162 @@
+{
+  "sourceMovie": {
+    "tmdbId": 278,
+    "title": "The Shawshank Redemption",
+    "slug": "the-shawshank-redemption",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Hope as contraband in a corrupt prison—patient storytelling, friendship that feels lived-in, and a finale so satisfying it became cable-TV scripture.",
+    "vibes": [
+      "emotional",
+      "uplifting",
+      "humanist",
+      "classic",
+      "dramatic"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 497,
+      "title": "The Green Mile",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Same Stephen King universe of decency inside cruelty—supernatural grace notes and tears engineered with precision.",
+      "sharedVibes": [
+        "emotional",
+        "dramatic"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 769,
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Therapy, class, and found family—intellect as armor cracking under compassion. Less prison, same cathartic release.",
+      "sharedVibes": [
+        "emotional",
+        "uplifting"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 453,
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Institutions, mind, and love as anchor—Oscar-friendly but sincere, with a twist on perception that rewards empathy.",
+      "sharedVibes": [
+        "emotional",
+        "dramatic"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 105,
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Institutional pressure vs. individual spark—Robin Williams’ warmth cuts through rigid systems like Andy Dufresne’s quiet defiance.",
+      "sharedVibes": [
+        "emotional",
+        "uplifting"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 453399,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Grinding hardship with a father-son heart—shameless inspiration that lands if you want hope earned through endurance.",
+      "sharedVibes": [
+        "emotional",
+        "uplifting"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 423,
+      "title": "The Pianist",
+      "year": 2002,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Survival with far graver stakes—sparse, devastating, and humanist in a colder register than Shawshank, but spiritually adjacent.",
+      "sharedVibes": [
+        "dramatic",
+        "emotional"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 424,
+      "title": "Schindler's List",
+      "year": 1993,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Moral awakening under oppression—essential, brutal history filmmaking. Pair only when you’re ready for something heavier than prison drama.",
+      "sharedVibes": [
+        "emotional",
+        "dramatic"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 489,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 68,
+      "whyYoullLoveIt": "Less wholesome—identity theft and desire curdle into suspense. For viewers who like meticulous planning and moral gray zones from a different angle.",
+      "sharedVibes": [
+        "tense",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "Corruption inside institutions, ratcheting tension, and Scorsese velocity—darker and bloodier, but the ‘system is rigged’ theme echoes.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Same era’s mainstream humanism—sweeping American myth with earnest emotion. Different tone, similar ‘feel good through pain’ appetite.",
+      "sharedVibes": [
+        "emotional",
+        "uplifting"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is The Shawshank Redemption based on a true story?",
+      "answer": "No—it adapts Stephen King’s novella Rita Hayworth and Shawshank Redemption, a work of fiction with King’s trademark empathy."
+    },
+    {
+      "question": "What movies feel like Shawshank’s hope arc?",
+      "answer": "The Green Mile is the closest kin; Good Will Hunting and The Pursuit of Happyness offer different settings but similar cathartic release."
+    },
+    {
+      "question": "Why is Shawshank so highly rated?",
+      "answer": "Accessible themes, strong performances, and a deeply satisfying narrative payoff make it endlessly rewatchable—especially on TV."
+    }
+  ],
+  "relatedPages": [
+    "fight-club",
+    "inception",
+    "the-notebook",
+    "interstellar",
+    "shutter-island"
+  ]
+}

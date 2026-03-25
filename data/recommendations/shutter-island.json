@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11324,
+    "title": "Shutter Island",
+    "slug": "shutter-island",
+    "year": 2010,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Scorsese goes full Gothic noir: a storm-battered island, unreliable perspective, and a twist that rewires everything you thought you were watching.",
+    "vibes": [
+      "dark",
+      "tense",
+      "twisty",
+      "psychological",
+      "atmospheric"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 210577,
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Marriage as a thriller, media as a weapon, and a mid-film rug-pull. If Shutter Island’s ‘what is real?’ energy hooked you, Fincher’s precision will too.",
+      "sharedVibes": [
+        "dark",
+        "tense",
+        "twisty"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146233,
+      "title": "Prisoners",
+      "year": 2013,
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "Rain-soaked moral descent and unbearable tension as a father crosses lines. Same grim gravity and dread, with a powerhouse Hugh Jackman–Jake Gyllenhaal dynamic.",
+      "sharedVibes": [
+        "dark",
+        "tense",
+        "emotional"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 807,
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "A procedural that curdles into horror. If you liked Shutter Island’s oppressive mood and detective framing, Fincher’s classic is essential.",
+      "sharedVibes": [
+        "dark",
+        "tense",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1949,
+      "title": "Zodiac",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Obsession replaces twists, but the paranoia and detail work feel cut from the same cloth. A slow-burn investigation that stains your brain.",
+      "sharedVibes": [
+        "cerebral",
+        "tense",
+        "atmospheric"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 77,
+      "title": "Memento",
+      "year": 2000,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Nolan dismantles memory and timeline until you’re as disoriented as the protagonist—Shutter Island fans who love structural games will eat this up.",
+      "sharedVibes": [
+        "cerebral",
+        "twisty",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1124,
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Rival magicians, sacrifice, and a reveal that recontextualizes everything. Twist-forward storytelling with a darker Victorian pulse.",
+      "sharedVibes": [
+        "twisty",
+        "dark",
+        "cerebral"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 44214,
+      "title": "Black Swan",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Psychological fracture dressed as art—paranoia, mirrors, and a finale that doesn’t comfort. Aronofsky’s pressure cooker matches Island’s unease.",
+      "sharedVibes": [
+        "psychological",
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 670,
+      "title": "Oldboy",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Korean neo-noir with one of cinema’s most infamous twists. Violent, stylish, and emotionally brutal—only if you want your thrillers uncompromising.",
+      "sharedVibes": [
+        "dark",
+        "twisty",
+        "tense"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2649,
+      "title": "The Game",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Fincher again: a rich man trapped in an escalating ‘game’ where the rules keep moving. Paranoid fun with a wicked sense of escalation.",
+      "sharedVibes": [
+        "tense",
+        "twisty",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 756999,
+      "title": "The Black Phone",
+      "year": 2021,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Kidnapping horror with tight craft and a propulsive escape story. Less puzzle-box, more survival dread—good if you liked Island’s trapped, stormy mood.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movie has a twist like Shutter Island?",
+      "answer": "Try Gone Girl, The Prestige, or Oldboy—each uses a late reveal that changes how you read the entire story."
+    },
+    {
+      "question": "Is Shutter Island a horror movie?",
+      "answer": "It’s primarily a psychological thriller with horror atmosphere: isolation, dread, and disturbing imagery without leaning on jump-scare formula."
+    },
+    {
+      "question": "What should I watch if I like Martin Scorsese thrillers?",
+      "answer": "Cape Fear (1991) is pure tension, while Taxi Driver shares a fractured point-of-view—both pair well with Scorsese’s genre experiments."
+    }
+  ],
+  "relatedPages": [
+    "inception",
+    "fight-club",
+    "midsommar",
+    "interstellar",
+    "the-notebook"
+  ]
+}

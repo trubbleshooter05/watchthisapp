@@ -1,0 +1,161 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12507,
+    "title": "White Chicks",
+    "slug": "white-chicks",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "The Wayans brothers go undercover as socialites—absurd prosthetics, relentless bits, and a cult following built on pure commitment to the joke.",
+    "vibes": [
+      "funny",
+      "absurd",
+      "buddy-comedy",
+      "2000s"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10664,
+      "title": "Mean Girls",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Same year, opposite toolkits—social satire vs. slapstick disguise comedy. If you like high-school hierarchy jokes, pair them back-to-back.",
+      "sharedVibes": [
+        "funny",
+        "teen"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10634,
+      "title": "Friday",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Neighborhood hangout comedy with iconic one-liners—looser structure than White Chicks but the same quotable DNA.",
+      "sharedVibes": [
+        "funny",
+        "buddy-comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8488,
+      "title": "Anchorman",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Will Ferrell absurdism at full blast—random, quotable, and committed. Good if White Chicks’ ‘no grounded reality’ comedy is your thing.",
+      "sharedVibes": [
+        "funny",
+        "absurd"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 584,
+      "title": "Airplane!",
+      "year": 1980,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Joke density royalty—if you love a comedy that never stops throwing bits, this is the blueprint.",
+      "sharedVibes": [
+        "funny",
+        "absurd"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8363,
+      "title": "Superbad",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Teen party quest with heart—cruder and more grounded, but the friendship warmth under the chaos rhymes with buddy energy.",
+      "sharedVibes": [
+        "funny",
+        "teen"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425,
+      "title": "Bringing Down the House",
+      "year": 2003,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Early-2000s culture-clash comedy energy—broad setups and big performances if you want that DVD-era multiplex vibe.",
+      "sharedVibes": [
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 445629,
+      "title": "Game Night",
+      "year": 2018,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Escalating mistaken-identity chaos with a tight ensemble—less prosthetics, more propulsive plotting.",
+      "sharedVibes": [
+        "funny",
+        "tense"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 956,
+      "title": "The Waterboy",
+      "year": 1998,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "Sandler maximalism—if White Chicks’ commitment to a silly premise is what you like, Bobby Boucher delivers in a different costume.",
+      "sharedVibes": [
+        "funny",
+        "absurd"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8699,
+      "title": "Anchorman 2: The Legend Continues",
+      "year": 2013,
+      "matchPercentage": 71,
+      "whyYoullLoveIt": "Even more unhinged than the first—hit-miss by design, but the highs are pure meme fuel.",
+      "sharedVibes": [
+        "funny",
+        "absurd"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8329,
+      "title": "Norbit",
+      "year": 2007,
+      "matchPercentage": 68,
+      "whyYoullLoveIt": "Transformation comedy pushed to extremes—if prosthetics-driven performance comedy is your lane, Murphy goes all-in.",
+      "sharedVibes": [
+        "funny",
+        "absurd"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What comedy is similar to White Chicks?",
+      "answer": "Try Superbad for teen-party energy, Anchorman for quotable absurdism, or Norbit for more prosthetics-heavy character comedy."
+    },
+    {
+      "question": "Is White Chicks appropriate for kids?",
+      "answer": "It’s rated PG-13 but leans on crude humor and stereotypes used as comedy—parental discretion is sensible."
+    },
+    {
+      "question": "Why is White Chicks considered a cult movie?",
+      "answer": "Rewatch memes, TikTok audio, and sheer commitment to the bit helped it outlive mixed initial reviews—comfort chaos for many fans."
+    }
+  ],
+  "relatedPages": [
+    "mean-girls",
+    "after",
+    "fight-club",
+    "the-notebook",
+    "midsommar"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10664,
+    "title": "Mean Girls",
+    "slug": "mean-girls",
+    "year": 2004,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Tina Fey’s endlessly quotable high-school satire—sharp social observation disguised as pink plastic, with a cast that became instant pop culture.",
+    "vibes": [
+      "funny",
+      "quotable",
+      "teen",
+      "satirical"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 37735,
+      "title": "Easy A",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Whip-smart teen comedy with literary flair and Emma Stone owning every frame. If you liked Mean Girls’ verbal velocity, this is a perfect double feature.",
+      "sharedVibes": [
+        "funny",
+        "satirical",
+        "teen"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10625,
+      "title": "Clueless",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The queen bee template, Austenified—kind-hearted satire with iconic outfits and one-liners that still circulate decades later.",
+      "sharedVibes": [
+        "funny",
+        "teen",
+        "satirical"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280741,
+      "title": "The DUFF",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Labels, high-school hierarchies, and a rom-com heart—lighter than Mean Girls but built from the same social petri dish.",
+      "sharedVibes": [
+        "teen",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 515195,
+      "title": "Booksmart",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Female friendship front and center, chaotic energy, and jokes that land with generosity instead of cruelty—Gen-Z’s answer to the teen classic.",
+      "sharedVibes": [
+        "funny",
+        "uplifting"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16252,
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Shakespeare in a Seattle high school—romantic, funny, and packed with charisma. Great if you want teen comedy with more swoon.",
+      "sharedVibes": [
+        "teen",
+        "funny",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8835,
+      "title": "Legally Blonde",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Pink-as-armor feminism and underestimated heroine energy—broad comedy with a surprisingly sturdy spine, like Mean Girls with law school.",
+      "sharedVibes": [
+        "funny",
+        "uplifting"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 803,
+      "title": "Election",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Dark satire beneath a student council race—Payne’s edge is meaner than Mean Girls, but the social anthropology rhymes.",
+      "sharedVibes": [
+        "satirical",
+        "dark"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 50546,
+      "title": "Bridesmaids",
+      "year": 2011,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Adult friendships and set-piece comedy chaos—if you liked ensemble chemistry and cringe-laughs, Wiig and McCarthy deliver.",
+      "sharedVibes": [
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 773867,
+      "title": "Do Revenge",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Neon Y2K revival energy with revenge plotting and teen-movie self-awareness—feels like Mean Girls’ chaotic younger cousin.",
+      "sharedVibes": [
+        "teen",
+        "funny",
+        "satirical"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12507,
+      "title": "White Chicks",
+      "year": 2004,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Broad, absurd, and committed—less satirical scalpel, more slapstick. If you want the same era’s comedy turned up to cartoon volume.",
+      "sharedVibes": [
+        "funny"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What movies capture Mean Girls’ vibe?",
+      "answer": "Easy A and Clueless are the closest matches for witty teen satire; Booksmart updates the friendship comedy for a new generation."
+    },
+    {
+      "question": "Is there a Mean Girls musical movie?",
+      "answer": "A musical adaptation exists—if you want the stage energy on screen, pair it with the original to compare how the jokes land in each format."
+    },
+    {
+      "question": "What should I watch for more Tina Fey writing?",
+      "answer": "30 Rock is essential; Baby Mama and Date Night showcase her comic voice in different genres."
+    }
+  ],
+  "relatedPages": [
+    "white-chicks",
+    "the-notebook",
+    "after",
+    "midsommar",
+    "inception"
+  ]
+}
