@@ -1,0 +1,159 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Peaky Blinders: The Immortal Man?",
+      "answer": "The King captures a similar blend of historical drama and character-driven storytelling that fans of Peaky Blinders would appreciate."
+    },
+    {
+      "question": "Is Peaky Blinders: The Immortal Man a continuation of the series?",
+      "answer": "Yes, it serves as a cinematic extension of the beloved series, exploring new supernatural elements while retaining the essence of the original story."
+    },
+    {
+      "question": "What are the main themes in Peaky Blinders: The Immortal Man?",
+      "answer": "The film explores themes of power, loyalty, and the consequences of ambition, set against a backdrop of supernatural intrigue."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The King",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This film explores the complexities of power and leadership, much like Thomas Shelby's struggles in 'Peaky Blinders.' Its gritty atmosphere and intense character development will resonate with fans.",
+      "sharedVibes": [
+        "dark",
+        "epic"
+      ],
+      "mood": "tense",
+      "tmdbId": 504949
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films delve into the depths of the human psyche and the blurred lines between reality and illusion, making for a cerebral experience.",
+      "sharedVibes": [
+        "cerebral",
+        "epic"
+      ],
+      "mood": "dark",
+      "tmdbId": 27205
+    },
+    {
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "With its atmospheric tension and focus on family dynamics under supernatural duress, this film echoes the dark themes found in 'Peaky Blinders: The Immortal Man.'",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 310131
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "This visually stunning film tackles themes of identity and humanity, similar to the existential questions posed in 'Peaky Blinders: The Immortal Man.'",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 335984
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films feature relentless protagonists facing insurmountable odds, creating a gripping narrative filled with survival and revenge.",
+      "sharedVibes": [
+        "epic",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 281957
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film's unsettling atmosphere and exploration of human relationships in the face of horror resonate with the dark themes of 'Peaky Blinders.'",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 530385
+    },
+    {
+      "title": "The Night Manager",
+      "year": 2016,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Its intricate plot and morally ambiguous characters will appeal to those who enjoy the strategic maneuvers of the Shelby family.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "title": "The Irishman",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This sprawling crime epic shares a similar narrative style and themes of loyalty and betrayal found in the Peaky Blinders saga.",
+      "sharedVibes": [
+        "epic",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 398978
+    },
+    {
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Its blend of neo-noir and sci-fi elements mirrors the dark and complex atmosphere of 'Peaky Blinders: The Immortal Man.'",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 2666
+    },
+    {
+      "title": "The Sopranos",
+      "year": 1999,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "This iconic series explores the moral complexities of organized crime, similar to the moral dilemmas faced by the Shelby family.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "relatedPages": [
+    "gone-girl",
+    "bridesmaids",
+    "superbad",
+    "inception",
+    "interstellar"
+  ],
+  "sourceMovie": {
+    "tmdbId": 875828,
+    "title": "Peaky Blinders: The Immortal Man",
+    "slug": "peaky-blinders-the-immortal-man",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Fans are captivated by the blend of historical drama and supernatural elements, creating a narrative that is both thrilling and thought-provoking.",
+    "vibes": [
+      "dark",
+      "epic",
+      "cerebral"
+    ]
+  }
+}
