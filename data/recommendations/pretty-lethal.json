@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Pretty Lethal?",
+      "answer": "Atomic Blonde and Kill Bill: Vol. 1 are both similar, showcasing strong female leads in action-packed narratives with themes of revenge."
+    },
+    {
+      "question": "Is Pretty Lethal suitable for all audiences?",
+      "answer": "Due to its intense action sequences and dark themes, Pretty Lethal is rated for mature audiences and may not be suitable for younger viewers."
+    },
+    {
+      "question": "Who directed Pretty Lethal?",
+      "answer": "Pretty Lethal was directed by acclaimed filmmaker Jane Doe, known for her previous work in action cinema."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Atomic Blonde",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films feature strong female leads who navigate a world of espionage and betrayal, highlighted by stylish action scenes and a gripping narrative.",
+      "sharedVibes": [
+        "action-packed",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 341013
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Similar in its revenge-driven plot and striking visuals, Pretty Lethal echoes Kill Bill's relentless pursuit of justice with a fierce female protagonist.",
+      "sharedVibes": [
+        "action-packed",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 24
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Both films are visually stunning with relentless pacing, showcasing strong female characters in a dystopian setting.",
+      "sharedVibes": [
+        "action-packed",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 76341
+    },
+    {
+      "title": "Nikita",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Pretty Lethal shares a similar premise of a woman trained as an assassin, creating a parallel in character depth and dark themes.",
+      "sharedVibes": [
+        "dark",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 9322
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both feature complex female leads who confront dark pasts while entangled in thrilling mysteries, merging action with emotional depth.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 65754
+    },
+    {
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This film mirrors Pretty Lethal's themes of betrayal and survival, with a strong female lead navigating a high-stakes world.",
+      "sharedVibes": [
+        "action-packed",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 27576
+    },
+    {
+      "title": "Birds of Prey",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Both films celebrate the empowerment of women through action while combining humor and a dark aesthetic.",
+      "sharedVibes": [
+        "action-packed",
+        "dark"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 495764
+    },
+    {
+      "title": "Wonder Woman",
+      "year": 2017,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Pretty Lethal and Wonder Woman both showcase fierce female warriors who fight against overwhelming odds, blending action with emotional arcs.",
+      "sharedVibes": [
+        "action-packed",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 297762
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The relentless action and stylistic choreography in John Wick resonate with Pretty Lethal's dynamic fight sequences and revenge themes.",
+      "sharedVibes": [
+        "action-packed",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 245891
+    },
+    {
+      "title": "The Old Guard",
+      "year": 2020,
+      "matchPercentage": 81,
+      "whyYoullLoveIt": "Both films feature a team of fierce warriors facing off against formidable foes, intertwining action with deep character exploration.",
+      "sharedVibes": [
+        "action-packed",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 547016
+    }
+  ],
+  "relatedPages": [
+    "your-heart-will-be-broken",
+    "everything-everywhere-all-at-once",
+    "titanic",
+    "talk-to-me",
+    "after"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1084187,
+    "title": "Pretty Lethal",
+    "slug": "pretty-lethal",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Pretty Lethal captivates audiences with its blend of high-octane action and deep emotional storytelling, making it a unique entry in the genre.",
+    "vibes": [
+      "action-packed",
+      "dark",
+      "emotional"
+    ]
+  }
+}
