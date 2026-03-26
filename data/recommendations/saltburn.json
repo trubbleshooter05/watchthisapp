@@ -10,120 +10,109 @@
   },
   "recommendations": [
     {
-      "tmdbId": 1213,
+      "tmdbId": 1598,
       "title": "The Talented Mr. Ripley",
       "year": 1999,
-      "matchPercentage": 98,
-      "whyYoullLoveIt": "Tom Ripley doesn't knock on the manor door so much as slide through it, mirroring Oliver's hunger to belong inside Felix's glittering world until want curdles into something lethal. The Italian coast here is Saltburn's country house in a different postcode: same voyeuristic thrill of watching a striver perform class he wasn't born into.",
-      "sharedVibes": ["obsession", "class-infiltration", "identity", "psychological"],
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "Matt Damon climbs the Italian social ladder with the same desperate hunger Oliver brings to the Catton estate — except Ripley's consequences are bloodier. The identity theft and obsessive desire to belong will feel like Saltburn's spiritual prequel.",
+      "sharedVibes": ["obsession", "class", "identity", "dark"],
       "mood": "dark"
     },
     {
-      "tmdbId": 496243,
+      "tmdbId": 323675,
       "title": "Parasite",
       "year": 2019,
-      "matchPercentage": 97,
-      "whyYoullLoveIt": "Bong maps class as architecture — stairs, basements, and borrowed rooms — the way Saltburn maps it as long dinners and who gets to use which bathroom. Both films weaponize politeness: you're laughing at the table until you realize the house itself is the trap.",
-      "sharedVibes": ["class-warfare", "infiltration", "dark-comedy", "twist"],
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "A family infiltrates a wealthy household and the power dynamics curdle in exactly the way Oliver's summer at Saltburn does. Bong Joon-ho's tonal shifts between comedy and horror mirror Emerald Fennell's own refusal to pick a lane.",
+      "sharedVibes": ["class", "infiltration", "dark", "twist-ending"],
       "mood": "tense"
     },
     {
-      "tmdbId": 210577,
-      "title": "Gone Girl",
-      "year": 2014,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Amy's monologues and diary games are a different mask than Oliver's shy scholarship act, but the engine is identical: whoever controls the story controls the room. Fincher's Midwest gloss rhymes with Emerald Fennell's estate glamour — both films love watching pretty surfaces crack into something vicious.",
-      "sharedVibes": ["manipulation", "psychological", "unreliable-narrator", "dark"],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 796,
+      "tmdbId": 843,
       "title": "Cruel Intentions",
       "year": 1999,
-      "matchPercentage": 95,
-      "whyYoullLoveIt": "Upper East Side teens treat sex and secrets like currency, not unlike how Saltburn's circle turns charm and humiliation into sport. The wager structure here is a cleaner, nastier cousin to the games played around Felix's family table — who is predator and who is prize keeps shifting.",
-      "sharedVibes": ["privilege", "manipulation", "psychosexual", "games"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 399057,
-      "title": "The Killing of a Sacred Deer",
-      "year": 2017,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Lanthimos traps a comfortable surgeon's household in moral debt the way Saltburn traps Oliver inside a family that can't see the knife coming. The sterile corridors and deadpan cruelty echo that queasy late-film energy where the estate stops feeling like a fantasy and starts feeling like a courtroom.",
-      "sharedVibes": ["psychological-horror", "wealthy-family", "dread", "punishment"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 400617,
-      "title": "Phantom Thread",
-      "year": 2017,
       "matchPercentage": 93,
-      "whyYoullLoveIt": "Reynolds Woodcock's house runs on ritual, fabric, and who is allowed to disturb the silence — a couture version of Saltburn's rules about rooms, meals, and who truly belongs upstairs. The romance is all needle-thread tension between control and appetite, much like Oliver circling Felix's life until the power flips.",
-      "sharedVibes": ["obsession", "power-dynamics", "isolation", "psychosexual"],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 340666,
-      "title": "Nocturnal Animals",
-      "year": 2016,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Ford cuts between LA wealth and a brutal highway narrative so revenge and regret feel inescapably linked — a structural cousin to Saltburn's final-act recontextualization. Susan reading her ex-husband's manuscript is its own kind of voyeurism, not unlike how Saltburn keeps inviting you to stare at ugliness dressed in velvet.",
-      "sharedVibes": ["revenge", "dual-narrative", "disturbing", "class-image"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 582014,
-      "title": "Promising Young Woman",
-      "year": 2020,
-      "matchPercentage": 91,
-      "whyYoullLoveIt": "Cassie's candy-colored revenge scheme weaponizes the same polite surfaces Saltburn uses — smiles at the party, venom in the aftermath. The tonal whiplash from flirtation to menace should feel familiar if Saltburn's bathtub-to-ballroom shocks left you off-balance.",
-      "sharedVibes": ["revenge", "tone-shift", "privilege", "dark-feminine"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 270302,
-      "title": "The Riot Club",
-      "year": 2014,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "A single Oxford-adjacent dinner with Britain's worst heirs devolves into violence and cover-up — it's Saltburn's upstairs cruelty with the mask ripped off earlier in the night. The club's entitlement to bodies and property rhymes with how Felix's world treats outsiders as entertainment.",
-      "sharedVibes": ["british-upper-class", "excess", "dark-turn", "privilege"],
+      "whyYoullLoveIt": "Privileged kids weaponizing seduction and manipulation — swap the Manhattan townhouse for a Cotswolds estate and you've got the same toxic energy. Ryan Phillippe's bet echoes the games Oliver plays with Felix's family.",
+      "sharedVibes": ["manipulation", "privilege", "psychosexual", "dark"],
       "mood": "dark"
     },
     {
       "tmdbId": 398818,
       "title": "Call Me by Your Name",
       "year": 2017,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Elio's Italian summer is sun-drenched where Saltburn is candlelit, but both films live in the ache of wanting someone whose world is larger and safer than yours. The villa as a character — meals, pools, parents down the hall — plays the same role as Saltburn's estate as a stage for desire and imbalance.",
-      "sharedVibes": ["desire", "summer-estate", "class-adjacent", "obsession"],
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "A summer guest becomes consumed by desire in a sun-drenched estate — the setting and obsession mirror Saltburn's golden-hour atmosphere before everything turns. Where Elio's longing is tender, Oliver Quick's is predatory, but both films make you feel the heat.",
+      "sharedVibes": ["obsession", "summer", "desire", "class"],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 466272,
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Yorgos Lanthimos traps a wealthy surgeon's family in the same suffocating dread that fills Saltburn's hallways. A mysterious outsider poisons a privileged household from within — the slow unraveling will feel sickeningly familiar.",
+      "sharedVibes": ["psychological-horror", "privilege", "unsettling", "dark"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 841,
+      "title": "Phantom Thread",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Daniel Day-Lewis's couturier and his muse wage a war of control disguised as romance — the same obsessive power dynamic that drives Oliver and Felix. PTA shoots luxury with the same seductive eye Fennell uses on the Catton estate.",
+      "sharedVibes": ["obsession", "power-dynamics", "luxury", "dark"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 459003,
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Emerald Fennell's first film shares Saltburn's candy-colored exterior hiding a razor underneath. Carey Mulligan's calculated performance has the same unnerving patience as Barry Keoghan's — you never know when the mask drops.",
+      "sharedVibes": ["revenge", "dark", "twist-ending", "class"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1933,
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Amy Dunne and Oliver Quick share the same sociopathic commitment to performance — both construct elaborate fictions to control the people around them. Fincher's cold precision makes every domestic scene feel like a crime scene, just like the Saltburn bathroom.",
+      "sharedVibes": ["manipulation", "psychological", "dark", "twist-ending"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 297762,
+      "title": "Nocturnal Animals",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Tom Ford wraps revenge inside a dual narrative where wealth and aesthetics can't mask the ugliness underneath. The same tension between beautiful surfaces and dark interiors that makes Saltburn's estate feel like a gilded cage.",
+      "sharedVibes": ["revenge", "luxury", "dark", "psychological"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11798,
+      "title": "The Riot Club",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Oxford elites destroying everything they touch because they can — this is the world Oliver Quick desperately wants entry to. The dinner scene escalation mirrors Saltburn's party sequences where privilege curdles into violence.",
+      "sharedVibes": ["privilege", "british", "class", "dark"],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
-      "question": "What should I watch after Saltburn if I want the same class-obsession vibe?",
-      "answer": "Start with The Talented Mr. Ripley or Parasite for infiltration thrillers, then layer in Cruel Intentions or The Riot Club for privilege-as-violence. If you want the sickening family-house dread, try The Killing of a Sacred Deer or Phantom Thread."
+      "question": "What movie is most similar to Saltburn?",
+      "answer": "The Talented Mr. Ripley (1999) is the closest match — both follow an outsider who infiltrates a wealthy world through obsession and manipulation, with devastating consequences."
     },
     {
-      "question": "Is Saltburn a comedy or a thriller?",
-      "answer": "It's billed as drama-comedy-thriller — the jokes are part of the trap. Many viewers describe it as a psychosexual class satire that turns into psychological horror once Oliver's plan comes into focus."
+      "question": "Are there movies like Saltburn on Netflix?",
+      "answer": "Promising Young Woman and The Killing of a Sacred Deer are often available on streaming platforms. Check current availability as catalogs rotate monthly."
     },
     {
-      "question": "Why do people argue about the ending?",
-      "answer": "The final stretch rewrites who has been performing for whom; fans revisit earlier estate scenes the way they'd re-read a mystery once they know the culprit."
+      "question": "What should I watch if I liked the dark tone of Saltburn?",
+      "answer": "Gone Girl, Nocturnal Animals, and Phantom Thread all share Saltburn's ability to make beautiful settings feel deeply unsettling."
     }
   ],
-  "relatedPages": [
-    "parasite",
-    "gone-girl",
-    "knives-out",
-    "midsommar",
-    "shutter-island",
-    "fight-club",
-    "black-swan",
-    "the-menu",
-    "get-out",
-    "hereditary"
-  ]
+  "relatedPages": ["gone-girl", "parasite", "get-out", "black-swan", "the-menu"]
 }
