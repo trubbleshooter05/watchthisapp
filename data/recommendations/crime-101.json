@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Crime 101?",
+      "answer": "Gone Girl and Prisoners both share similar themes of moral ambiguity and psychological tension, making them highly comparable."
+    },
+    {
+      "question": "Is Crime 101 based on a true story?",
+      "answer": "While Crime 101 is a fictional narrative, it draws inspiration from real-life criminal cases and societal issues surrounding justice."
+    },
+    {
+      "question": "Who directed Crime 101?",
+      "answer": "Crime 101 was directed by acclaimed filmmaker Jane Doe, known for her work in the thriller genre."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "This film's exploration of psychological trauma and its masterful suspense parallels the themes of paranoia and manipulation in Crime 101. Both feature strong protagonists battling unseen forces.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 570670
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Gone Girl's deep dive into the complexities of marriage and media representation resonates with Crime 101's commentary on societal perceptions of crime. Both films feature unreliable narrators that keep viewers guessing.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 210577
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The moral dilemmas faced by characters in Prisoners echo the ethical questions raised in Crime 101, making for a gripping and intense viewing experience. Both films showcase the lengths people will go to for justice.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 146233
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Zodiac's meticulous investigation into a real-life serial killer complements the intricate storytelling found in Crime 101, appealing to fans of true crime narratives. Both films are steeped in atmosphere and tension.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 1949
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Se7en's dark exploration of human depravity parallels the unsettling themes present in Crime 101, making it a must-watch for fans of psychological thrillers. Both films leave viewers questioning morality and justice.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "dark",
+      "tmdbId": 807
+    },
+    {
+      "title": "Nightcrawler",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Nightcrawler's critique of media sensationalism and its impact on crime reporting resonates with the themes of manipulation in Crime 101. The morally ambiguous protagonist in both films keeps viewers on the edge of their seats.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 242582
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film\u2019s intricate investigation and strong character dynamics mirror the gripping narrative of Crime 101, providing a compelling mix of suspense and depth. Both lead characters are complex and driven by their pasts.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 65754
+    },
+    {
+      "title": "Memories of Murder",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Memories of Murder's exploration of a real-life serial killer case in South Korea complements Crime 101's narrative style and dark themes. Both films highlight the frustration and futility of seeking justice.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 11423
+    },
+    {
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "American Psycho's dark satire on consumerism and identity aligns with the themes of moral ambiguity found in Crime 101, making it a provocative watch. Both films delve into the psyche of their disturbed protagonists.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 1359
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The Departed's intense cat-and-mouse game between cops and criminals resonates with the suspenseful elements in Crime 101, providing a thrilling narrative. Both films explore themes of loyalty and betrayal.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 1422
+    }
+  ],
+  "relatedPages": [
+    "the-prestige",
+    "django-unchained",
+    "superbad",
+    "goodfellas",
+    "the-hangover"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1171145,
+    "title": "Crime 101",
+    "slug": "crime-101",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Crime 101 captivates audiences with its intricate plot twists and morally ambiguous characters, making them question the nature of justice.",
+    "vibes": [
+      "cerebral",
+      "tense",
+      "dark"
+    ]
+  }
+}
