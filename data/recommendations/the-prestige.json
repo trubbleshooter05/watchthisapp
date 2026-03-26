@@ -9,168 +9,133 @@
       "Mystery",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "Audiences are captivated by the intense rivalry between Alfred Borden and Robert Angier, which unfolds through a series of mind-bending twists that keep you guessing until the very end. The film's exploration of obsession, sacrifice, and the lengths one will go to for greatness, combined with Nolan's clever narrative structure that interweaves timelines, creates an experience that feels like a magic trick itself, leaving you both in awe and contemplation long after the credits roll.",
+    "whyPeopleLoveIt": "The Prestige captivates audiences with its intricate narrative and the exploration of obsession and sacrifice in the world of magic.",
     "vibes": [
-      "dark-magic",
-      "obsession",
-      "rivalry",
-      "twisted-narrative",
-      "sacrifice"
+      "cerebral",
+      "tense",
+      "dark"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 1213,
-      "title": "The Talented Mr. Ripley",
-      "year": 1999,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Both Tom Ripley and Alfred Borden embody the terrifying lengths one will go to for the sake of identity and ambition, driving a narrative rife with deception and obsession. The chilling transformation of Ripley mirrors Borden’s sacrifices, as both characters are ensnared by their relentless pursuits, leaving viewers to ponder the true cost of their aspirations.",
-      "sharedVibes": [
-        "obsession",
-        "identity",
-        "psychological"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 210577,
-      "title": "Gone Girl",
-      "year": 2014,
-      "matchPercentage": 93,
-      "whyYoullLoveIt": "The intricate narrative structure of 'Gone Girl' expertly weaves multiple perspectives, akin to the nonlinear storytelling of 'The Prestige' that keeps audiences guessing until the last moment. Both films dive deep into the darkness of obsession, exploring how twisted love can lead to manipulation and self-destruction.",
-      "sharedVibes": [
-        "obsession",
-        "manipulation",
-        "mystery"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 77,
-      "title": "Memento",
-      "year": 2000,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The puzzle-like narrative of 'Memento' draws viewers into a labyrinth of memory and identity, similar to how 'The Prestige' unfolds its mysteries through layers of deception. Both films emphasize how obsession can warp perception and reality, leading to shocking revelations that change everything.",
-      "sharedVibes": [
-        "memory",
-        "obsession",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 44214,
-      "title": "Black Swan",
-      "year": 2010,
-      "matchPercentage": 91,
-      "whyYoullLoveIt": "Nina's descent into madness as she seeks perfection parallels the obsessive rivalry of Angier and Borden, showcasing the high stakes of ambition and the sacrifices made for greatness. Both films capture the terrifying beauty of performance and the toll it takes on one's psyche.",
-      "sharedVibes": [
-        "sacrifice",
-        "obsession",
-        "performance"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1491,
       "title": "The Illusionist",
       "year": 2006,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "As with 'The Prestige', 'The Illusionist' explores the intricate dance between love and ambition within the world of magic, creating a captivating rivalry that challenges perceptions. Both films reveal how the quest for greatness can shatter lives, holding viewers spellbound until the final reveal.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film presents a captivating story about a magician whose love for a woman drives him to use his skills in innovative ways. It shares a similar aesthetic and thematic depth with 'The Prestige', focusing on love, mystery, and the blurred lines between illusion and reality.",
       "sharedVibes": [
-        "magic",
-        "rivalry",
-        "sacrifice"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 522815,
-      "title": "Enemy",
-      "year": 2013,
-      "matchPercentage": 85,
-      "whyYoullLoveIt": "The eerie duality and psychological unraveling in 'Enemy' resonates with the complex identities in 'The Prestige', both films exploring how obsession can lead to self-destruction. Just as Borden and Angier confront their darker selves, Adam's journey into his own psyche reveals haunting truths.",
-      "sharedVibes": [
-        "identity",
-        "obsession",
-        "psychological"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 2649,
-      "title": "The Game",
-      "year": 1997,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The mind-bending twists and relentless tension in 'The Game' echo the surprises and manipulations found in 'The Prestige', where reality and illusion blur in a mesmerizing dance. Both films explore how obsession with control can lead to devastating consequences, keeping viewers on the edge of their seats.",
-      "sharedVibes": [
-        "mystery",
-        "manipulation",
-        "tension"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 146233,
-      "title": "Prisoners",
-      "year": 2013,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The relentless pursuit of answers in 'Prisoners' reflects the obsessive rivalry seen in 'The Prestige', where every decision comes with a heavy cost. Both films explore the lengths to which individuals will go for their loved ones, revealing the dark side of desperation and ambition.",
-      "sharedVibes": [
-        "desperation",
-        "sacrifice",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 164502,
-      "title": "The Double",
-      "year": 2013,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The unsettling exploration of identity and duality in 'The Double' mirrors the complex character dynamics found in 'The Prestige', both films questioning the nature of self and ambition. As characters grapple with their obsessions, the dark humor and surreal elements add a unique twist to the narrative.",
-      "sharedVibes": [
-        "identity",
-        "obsession",
-        "dark-humor"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 1949,
-      "title": "Zodiac",
-      "year": 2007,
-      "matchPercentage": 75,
-      "whyYoullLoveIt": "The obsessive investigation of the Zodiac killer reflects the relentless rivalry and pursuit of truth seen in 'The Prestige', as both films illustrate how obsession can consume and destroy. Both narratives build a haunting atmosphere that leaves viewers questioning the boundaries of reality.",
-      "sharedVibes": [
-        "obsession",
-        "mystery",
+        "cerebral",
         "dark"
       ],
-      "mood": "dark"
-    }
-  ],
-  "faq": [
-    {
-      "question": "What should I watch after The Prestige?",
-      "answer": "Try The Talented Mr. Ripley, Gone Girl, Memento—each shares DNA with The Prestige while changing the setting enough to feel fresh."
+      "mood": "tense",
+      "tmdbId": 1491
     },
     {
-      "question": "What genre is The Prestige?",
-      "answer": "The Prestige (2006) is best described as Drama, Mystery, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+      "title": "Memento",
+      "year": 2000,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Like 'The Prestige', this film challenges viewers with its non-linear storytelling and a central character's obsession. Its exploration of memory and identity resonates as deeply as the themes of rivalry and deception.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 77
     },
     {
-      "question": "Is The Prestige worth revisiting?",
-      "answer": "Viewer scores sit around 8.2/10 on TMDB—high enough that replays are common for people who like this drama lane."
+      "title": "Fight Club",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This movie delves into the themes of identity and societal norms, paralleling the intense rivalries in 'The Prestige'. Both films feature plot twists that force the viewer to reconsider what they thought they knew.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 550
+    },
+    {
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film emphasizes a suspenseful atmosphere and a twist ending that keeps you guessing until the very end, much like 'The Prestige'. Its dark ambiance and character-driven plot create a similar emotional experience.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 1933
+    },
+    {
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Focusing on the themes of revelation and hidden truths, this film winds its way to a shocking conclusion reminiscent of the dramatic turns found in 'The Prestige'. It shares an eerie atmosphere and thoughtful storytelling.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 745
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "With its psychological thriller elements and shocking twists, 'Shutter Island' offers a tension-filled journey akin to 'The Prestige'. Both films explore themes of obsession, guilt, and the nature of reality.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 11324
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "This film intricately weaves a narrative full of deception and character complexity, similar to the rivalries in 'The Prestige'. Its exploration of marriage and media manipulation provides compelling parallels.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 210577
+    },
+    {
+      "title": "The Game",
+      "year": 1997,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This psychological thriller\u2019s twists and layered narrative reflect the intricate storytelling found in 'The Prestige'. Both films keep viewers on the edge with their unexpected turns and expanding plot complexities.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 2649
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "With its dark themes and a plot driven by obsession and morality, 'Se7en' resonates deeply with 'The Prestige'. Both films excel in creating suspense and an unsettling experience that lingers.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 807
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "This film presents a harrowing tale of desperation and moral ambiguity, mirroring the lengths characters go to in 'The Prestige'. The tension and emotional weight resonate powerfully with fans of intricate thrillers.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 146233
     }
-  ],
-  "relatedPages": [
-    "a-quiet-place",
-    "gone-girl",
-    "midsommar",
-    "shutter-island",
-    "10-things-i-hate-about-you",
-    "after",
-    "avatar"
   ]
 }
