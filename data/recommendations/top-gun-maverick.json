@@ -8,142 +8,143 @@
       "Action",
       "Drama"
     ],
-    "whyPeopleLoveIt": "People revisit Top Gun: Maverick for the same reason it broke through in 2022: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Joseph Kosinski keeps the ensemble pointed in one direction. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the powerful emotional journey of Maverick as he confronts his past while training a new generation of pilots, especially the dynamic with Rooster, which beautifully explores themes of legacy and sacrifice. The film's heart-racing flight sequences, paired with the nostalgic callbacks to the original, create a thrilling experience that resonates deeply with fans, making them feel the adrenaline and weight of every decision on screen.",
     "vibes": [
-      "action",
-      "drama",
-      "crowd-favorite"
+      "nostalgic",
+      "heartfelt",
+      "thrilling",
+      "intense",
+      "redemption"
     ]
   },
   "recommendations": [
     {
+      "tmdbId": 244786,
+      "title": "Whiplash",
+      "year": 2014,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The intense mentor-student dynamic in Whiplash mirrors the push-pull relationship between Maverick and his young protégés, highlighting how ambition can lead to both greatness and personal ruin. The relentless rhythm of the drumming parallels the high-stakes flight sequences in Top Gun: Maverick, creating an electrifying experience that keeps you on the edge of your seat.",
+      "sharedVibes": [
+        "obsession",
+        "mentorship",
+        "identity"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9549,
+      "title": "The Right Stuff",
+      "year": 1983,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Exploring the camaraderie and rivalry among early astronauts, The Right Stuff captures the same exhilarating spirit of competition and brotherhood found in Top Gun: Maverick. Its breathtaking aerial sequences and the weight of personal sacrifice resonate deeply, making every flight an emotional journey.",
+      "sharedVibes": [
+        "camaraderie",
+        "sacrifice",
+        "heroism"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 374720,
+      "title": "Dunkirk",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Dunkirk’s masterful pacing and interwoven narratives create a relentless tension similar to the high-stakes dogfights in Top Gun: Maverick. The film captures the essence of bravery under fire, evoking a profound sense of urgency and camaraderie among its characters.",
+      "sharedVibes": [
+        "bravery",
+        "survival",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 359724,
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The thrilling collaboration and competition between Carroll Shelby and Ken Miles echo the mentor-mentee dynamic seen in Maverick’s relationship with his team. The high-speed races are as pulse-pounding as aerial maneuvers, making every moment a race against the clock.",
+      "sharedVibes": [
+        "competition",
+        "teamwork",
+        "passion"
+      ],
+      "mood": "uplifting"
+    },
+    {
       "tmdbId": 744,
       "title": "Top Gun",
       "year": 1986,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Top Gun (1986) is a strong next stop: both trade in action and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The original Top Gun offers an exhilarating blend of action and character-driven drama, much like its modern counterpart, celebrating the thrill of aviation and the complexities of military life. The nostalgia of iconic flights and personal stakes ties it closely to Maverick's journey of redemption.",
       "sharedVibes": [
-        "action",
-        "drama",
+        "nostalgia",
+        "camaraderie",
         "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9798,
+      "title": "Enemy of the State",
+      "year": 1998,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The cat-and-mouse tension between the protagonist and government operatives captures the same relentless pursuit and high stakes found in aerial combat. The film's dynamic pacing and twists keep you engaged, much like the relentless action sequences of Top Gun: Maverick.",
+      "sharedVibes": [
+        "paranoia",
+        "surveillance",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 514921,
+      "title": "The Aeronauts",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The bond formed between the two lead characters as they brave the skies mirrors the mentor-student relationships in Top Gun: Maverick. The breathtaking visuals and exploration of human courage against nature's fury provide that same exhilarating rush.",
+      "sharedVibes": [
+        "adventure",
+        "exploration",
+        "courage"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 96721,
+      "title": "Rush",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Rush delves into the fierce rivalry between two F1 drivers, echoing the competitive spirit and personal stakes that are prominent in Maverick's world. The film's dramatic racing sequences parallel the emotional highs and lows found in airborne battles.",
+      "sharedVibes": [
+        "rivalry",
+        "passion",
+        "speed"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 516486,
-      "title": "Greyhound",
-      "year": 2020,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Greyhound (2020) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "drama",
-        "war"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 8963,
-      "title": "Crimson Tide",
-      "year": 1995,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Crimson Tide (1995) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "drama",
-        "thriller",
-        "war"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 11422,
-      "title": "Midway",
-      "year": 1976,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Midway (1976) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "drama",
-        "history",
-        "war"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 20526,
-      "title": "TRON: Legacy",
-      "year": 2010,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, TRON: Legacy (2010) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "adventure",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 676,
-      "title": "Pearl Harbor",
-      "year": 2001,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Pearl Harbor (2001) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "war",
-        "romance",
-        "history"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 9595,
-      "title": "Hot Shots!",
-      "year": 1991,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Hot Shots! (1991) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "war"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 993710,
-      "title": "Back in Action",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Back in Action (2025) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 72431,
-      "title": "Red Tails",
-      "year": 2012,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, Red Tails (2012) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "history",
-        "war"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 550231,
-      "title": "The Secret: Dare to Dream",
-      "year": 2020,
+      "tmdbId": 13922,
+      "title": "The Great Raid",
+      "year": 2005,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Top Gun: Maverick clicked for you, The Secret: Dare to Dream (2020) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The heroism and sacrifice of soldiers in The Great Raid reflect the themes of bravery and duty found in Top Gun: Maverick. The emotional weight of the mission and the bond between the soldiers evoke a similar sense of camaraderie and purpose.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "sacrifice",
+        "heroism",
+        "war"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 395991,
+      "title": "Only the Brave",
+      "year": 2017,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Only the Brave's portrayal of the brotherhood among firefighters evokes the same emotional depth as the team dynamics in Top Gun: Maverick. The personal sacrifices made in the face of danger and the strong bonds forged in adversity create a powerful narrative of courage.",
+      "sharedVibes": [
+        "brotherhood",
+        "sacrifice",
+        "heroism"
       ],
       "mood": "bittersweet"
     }
@@ -151,7 +152,7 @@
   "faq": [
     {
       "question": "What should I watch after Top Gun: Maverick?",
-      "answer": "Try Top Gun, Greyhound, Crimson Tide—each shares DNA with Top Gun: Maverick while changing the setting enough to feel fresh."
+      "answer": "Try Whiplash, The Right Stuff, Dunkirk—each shares DNA with Top Gun: Maverick while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Top Gun: Maverick?",

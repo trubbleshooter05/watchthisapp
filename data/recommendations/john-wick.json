@@ -8,143 +8,143 @@
       "Action",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "People revisit John Wick for the same reason it broke through in 2014: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Chad Stahelski keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'John Wick' for its raw emotional core, as we witness Keanu Reeves’ character seek vengeance for the loss of his beloved dog, a symbol of his late wife’s love that adds a heartbreaking layer to the relentless action. The film's innovative choreography and world-building, especially the intriguing underworld of assassins and the iconic Continental Hotel, create a mesmerizing experience that keeps viewers on the edge of their seats while emotionally invested in John's journey of retribution.",
     "vibes": [
-      "action",
-      "thriller",
-      "rewatchable"
+      "gritty-revenge",
+      "heartfelt-loss",
+      "stylish-action",
+      "underground-world",
+      "unforgiving-path"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 324552,
-      "title": "John Wick: Chapter 2",
-      "year": 2017,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 2 (2017) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 458156,
-      "title": "John Wick: Chapter 3 - Parabellum",
-      "year": 2019,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 3 - Parabellum (2019) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 615457,
       "title": "Nobody",
       "year": 2021,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The relentless pursuit of vengeance in 'Nobody' mirrors Wick's journey, as both protagonists are ordinary men driven to extraordinary extremes. The visceral fight choreography and darkly humorous tone evoke that same thrill of watching a man reclaim his lost identity amidst chaos.",
+      "sharedVibes": [
+        "revenge",
+        "identity",
+        "dark-humor"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 156022,
+      "title": "The Equalizer",
+      "year": 2014,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Just like John Wick, Robert McCall’s world is defined by a personal code that he is compelled to protect, leading to a series of intense confrontations. The way both characters navigate their violent pasts to find a sense of justice resonates deeply with anyone drawn to Wick's quest for retribution.",
+      "sharedVibes": [
+        "justice",
+        "redemption",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 341013,
+      "title": "Atomic Blonde",
+      "year": 2017,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If John Wick clicked for you, Nobody (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Charlize Theron's portrayal of a cold-blooded spy echoes Wick's icy resolve, with both films showcasing balletic fight scenes that feel like high-stakes choreography. The layers of betrayal and intrigue keep you riveted, much like the emotional stakes in John Wick's journey.",
+      "sharedVibes": [
+        "betrayal",
+        "espionage",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 670,
+      "title": "Oldboy",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The intense, spiraling journey of revenge in 'Oldboy' captures a similar depth of emotional turmoil that John Wick embodies. Both films present a protagonist whose relentless quest for answers leads to brutal, unforgettable confrontations that linger long after the credits roll.",
+      "sharedVibes": [
+        "revenge",
+        "identity",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 64690,
+      "title": "Drive",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Much like John Wick, the protagonist in 'Drive' operates in a shadowy underworld, where his desire to protect those he loves ignites a chain of violent events. The stylish direction and gripping atmosphere create an experience that’s both thrilling and emotionally resonant.",
+      "sharedVibes": [
+        "obsession",
+        "protection",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 51608,
+      "title": "The Man from Nowhere",
+      "year": 2010,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The bond between the protagonist and a vulnerable child mirrors John Wick’s connection with his late puppy, infusing the violence with a poignant emotional core. Both films elegantly balance high-octane action with deep personal stakes, making each confrontation feel meaningful.",
+      "sharedVibes": [
+        "redemption",
+        "protection",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 24,
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The fierce dedication of The Bride to her quest for vengeance echoes John Wick’s unwavering resolve as both characters navigate a world filled with stylish violence and rich visual storytelling. The relentless pacing and brilliantly choreographed fight sequences will satisfy anyone craving that adrenaline rush.",
+      "sharedVibes": [
+        "revenge",
+        "obsession",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 403605,
+      "title": "Headshot",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "In 'Headshot,' the protagonist’s fight against powerful foes on a quest for lost memories resonates with Wick’s emotional journey amidst relentless action. The film’s raw energy and brutal fights are complemented by a deep exploration of identity, echoing the themes that make Wick’s tale so compelling.",
+      "sharedVibes": [
+        "identity",
+        "revenge",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 94329,
+      "title": "The Raid",
+      "year": 2012,
+      "matchPercentage": 77,
+      "whyYoullLoveIt": "The visceral intensity and relentless pacing of 'The Raid' puts you in the middle of a life-or-death struggle that mirrors Wick’s own harrowing battles. Each fight feels uniquely choreographed and deeply personal, capturing the same adrenaline-fueled experience that makes John Wick so memorable.",
       "sharedVibes": [
         "action",
+        "survival",
         "thriller"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 603692,
-      "title": "John Wick: Chapter 4",
-      "year": 2023,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If John Wick clicked for you, John Wick: Chapter 4 (2023) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 460885,
+      "title": "Mandy",
+      "year": 2018,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The haunting revenge narrative of 'Mandy' pairs beautifully with the emotional depth of John Wick, as both films delve into the destructive power of love and loss. The surreal visuals and intense action create an experience that is both mesmerizing and heart-wrenching.",
       "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 241554,
-      "title": "Run All Night",
-      "year": 2015,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If John Wick clicked for you, Run All Night (2015) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 8374,
-      "title": "The Boondock Saints",
-      "year": 1999,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If John Wick clicked for you, The Boondock Saints (1999) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4824,
-      "title": "The Jackal",
-      "year": 1997,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If John Wick clicked for you, The Jackal (1997) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "adventure",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 10431,
-      "title": "War",
-      "year": 2007,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If John Wick clicked for you, War (2007) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 7304,
-      "title": "Running Scared",
-      "year": 2006,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If John Wick clicked for you, Running Scared (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 20083,
-      "title": "Shinjuku Incident",
-      "year": 2009,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If John Wick clicked for you, Shinjuku Incident (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "drama",
-        "crime"
+        "revenge",
+        "loss",
+        "psychological"
       ],
       "mood": "dark"
     }
@@ -152,7 +152,7 @@
   "faq": [
     {
       "question": "What should I watch after John Wick?",
-      "answer": "Try John Wick: Chapter 2, John Wick: Chapter 3 - Parabellum, Nobody—each shares DNA with John Wick while changing the setting enough to feel fresh."
+      "answer": "Try Nobody, The Equalizer, Atomic Blonde—each shares DNA with John Wick while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is John Wick?",

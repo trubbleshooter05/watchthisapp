@@ -8,149 +8,150 @@
       "Comedy",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "People revisit Barbie for the same reason it broke through in 2023: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Greta Gerwig keeps the ensemble pointed in one direction. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Barbie' because it brilliantly juxtaposes the vibrant, fantastical world of Barbie Land with the stark realities of the real world, especially in scenes where Barbie grapples with her identity and purpose after stepping out of her perfect existence. The witty script, combined with a powerful performance by Margot Robbie and the hilarious antics of characters like Ken, creates a playful yet poignant exploration of feminism and self-discovery that resonates deeply with viewers of all ages.",
     "vibes": [
-      "comedy",
-      "adventure",
-      "rewatchable"
+      "whimsical-empowerment",
+      "self-discovery",
+      "satirical-humor",
+      "colorful-fantasy"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 1832,
-      "title": "Dogma",
-      "year": 1999,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Barbie clicked for you, Dogma (1999) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 120467,
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The vibrant ensemble and whimsical adventure in 'Barbie' echo the quirky characters and meticulously crafted world of Wes Anderson's film. Both journeys are punctuated by comedic misadventures that explore themes of friendship and loyalty amidst chaos and absurdity.",
       "sharedVibes": [
-        "comedy",
-        "adventure",
-        "fantasy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 585511,
-      "title": "Luck",
-      "year": 2022,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Barbie clicked for you, Luck (2022) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "adventure",
-        "animation",
-        "fantasy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 65215,
-      "title": "Stewie Griffin: The Untold Story",
-      "year": 2005,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Barbie clicked for you, Stewie Griffin: The Untold Story (2005) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "adventure",
-        "animation"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1858,
-      "title": "Transformers",
-      "year": 2007,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Barbie clicked for you, Transformers (2007) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "adventure",
-        "science-fiction",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 10674,
-      "title": "Mulan",
-      "year": 1998,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Barbie clicked for you, Mulan (1998) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "adventure",
-        "animation",
-        "family"
+        "friendship",
+        "whimsy",
+        "adventure"
       ],
       "mood": "uplifting"
     },
     {
-      "tmdbId": 466282,
-      "title": "To All the Boys I've Loved Before",
-      "year": 2018,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Barbie clicked for you, To All the Boys I've Loved Before (2018) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 587,
-      "title": "Big Fish",
-      "year": 2003,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Barbie clicked for you, Big Fish (2003) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "adventure",
-        "fantasy",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 1635,
-      "title": "The Island",
-      "year": 2005,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Barbie clicked for you, The Island (2005) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "adventure",
-        "action",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 639933,
-      "title": "The Northman",
+      "tmdbId": 545611,
+      "title": "Everything Everywhere All at Once",
       "year": 2022,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Barbie clicked for you, The Northman (2022) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Like the multiverse exploration in 'Barbie', this film dives into the complexities of identity and purpose through a fantastical adventure. The emotional stakes are high, all while maintaining a humorous tone that resonates with the comedic elements of Barbie's journey.",
       "sharedVibes": [
-        "adventure",
-        "action",
-        "fantasy"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 3981,
-      "title": "What Women Want",
-      "year": 2000,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Barbie clicked for you, What Women Want (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
+        "identity",
+        "multiverse",
+        "absurdity"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The charming blend of romance, adventure, and humor in 'The Princess Bride' mirrors the heart and hilarity found in 'Barbie'. Both films offer fantastical quests where the stakes are clear, and the characters are memorable and relatable.",
+      "sharedVibes": [
+        "romance",
+        "adventure",
+        "whimsy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 194,
+      "title": "Amélie",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The whimsical storytelling and vibrant aesthetics in 'Barbie' evoke a similar feeling found in 'Amélie', where each moment brims with charm and delight. Both films celebrate individuality and the pursuit of happiness through quirky adventures that invite you to dream.",
+      "sharedVibes": [
+        "whimsy",
+        "individuality",
+        "happiness"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 22538,
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The dynamic character interactions and playful approach to real-world stakes in 'Barbie' resonate well with the frenetic energy of 'Scott Pilgrim vs. The World'. Both films cleverly balance humor and adventure as they navigate the complexities of love and self-discovery.",
+      "sharedVibes": [
+        "romance",
+        "self-discovery",
+        "humor"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 455207,
+      "title": "Crazy Rich Asians",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The exploration of familial expectations and personal identity in 'Barbie' aligns beautifully with the cultural themes in 'Crazy Rich Asians'. Both films feature a vibrant cast and comedic elements that propel the narrative forward without losing emotional depth.",
+      "sharedVibes": [
+        "identity",
+        "family",
+        "comedy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 116745,
+      "title": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "In 'Barbie', the adventure is a journey of self-discovery, much like Walter Mitty’s trek through stunning landscapes that lead to personal growth. Both films encourage embracing life’s adventures with humor and heart, making them endlessly rewatchable.",
+      "sharedVibes": [
+        "self-discovery",
+        "adventure",
+        "whimsy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 400579,
+      "title": "Tully",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The raw yet humorous exploration of motherhood in 'Tully' resonates with the themes of identity and societal expectations found in 'Barbie'. Both films strikingly portray the chaotic yet rewarding journey of self-acceptance and growth through laughter.",
+      "sharedVibes": [
+        "identity",
+        "motherhood",
+        "humor"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 147773,
+      "title": "The Way Way Back",
+      "year": 2013,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The coming-of-age adventure in 'The Way Way Back' captures the essence of finding oneself, akin to Barbie’s exploration of purpose and belonging. Both films emphasize the importance of relationships and personal growth, all while delivering humorous and heartfelt moments.",
+      "sharedVibes": [
+        "coming-of-age",
+        "friendship",
+        "humor"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 254320,
+      "title": "The Lobster",
+      "year": 2015,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The absurdist take on relationships and societal pressures in 'The Lobster' reflects the comedic yet critical lens on identity and expectations seen in 'Barbie'. Both films challenge conventions while inviting viewers into unique worlds filled with memorable characters.",
+      "sharedVibes": [
+        "absurdity",
+        "relationships",
+        "society"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Barbie?",
-      "answer": "Try Dogma, Luck, Stewie Griffin: The Untold Story—each shares DNA with Barbie while changing the setting enough to feel fresh."
+      "answer": "Try The Grand Budapest Hotel, Everything Everywhere All at Once, The Princess Bride—each shares DNA with Barbie while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Barbie?",

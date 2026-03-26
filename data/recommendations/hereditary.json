@@ -9,51 +9,26 @@
       "Mystery",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "People revisit Hereditary for the same reason it broke through in 2018: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. Ari Aster keeps the ensemble pointed in one direction. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Hereditary' because of its raw exploration of grief and family dysfunction, especially through Toni Collette's haunting portrayal of Annie as she unravels after the death of her mother. The film’s unsettling atmosphere is amplified by eerie sound design and moments like the chilling scene where Charlie is decapitated, which jolts viewers into a nightmare that feels all too real, leaving them questioning the legacy of trauma and the bonds that bind families together.",
     "vibes": [
-      "horror",
-      "mystery",
-      "thriller",
-      "rewatchable"
+      "haunting",
+      "intense",
+      "dysfunctional-family",
+      "psychological-horror",
+      "existential-terror"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 24740,
-      "title": "The Entity",
-      "year": 1982,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Hereditary clicked for you, The Entity (1982) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 526667,
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The suffocating family dynamics and the gradual descent into despair echo the chilling atmosphere of Hereditary, especially in how familial bonds unravel under external pressures. Just as Annie's grief manifests in supernatural horror, The Witch explores how paranoia and isolation can transform a family's faith into something sinister and destructive.",
       "sharedVibes": [
-        "horror",
-        "mystery",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 745,
-      "title": "The Sixth Sense",
-      "year": 1999,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Hereditary clicked for you, The Sixth Sense (1999) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 1949,
-      "title": "Zodiac",
-      "year": 2007,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Zodiac (2007) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "crime"
+        "family-dysfunction",
+        "isolation",
+        "paranoia"
       ],
       "mood": "dark"
     },
@@ -61,88 +36,116 @@
       "tmdbId": 530385,
       "title": "Midsommar",
       "year": 2019,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The emotional exploration of trauma and the unraveling of relationships aligns closely with the themes of Hereditary, particularly the way shared grief can breed horror. Much like Annie's family disintegrates under the weight of loss, Midsommar dissects how deep-rooted pain can lead to terrifying consequences within a seemingly idyllic setting.",
+      "sharedVibes": [
+        "grief",
+        "ritual",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 242224,
+      "title": "The Babadook",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films skillfully weave psychological horror into the fabric of family life, revealing how unresolved trauma can manifest as monstrous dread. Just as Hereditary uses horror to explore the depths of grief and dysfunction, The Babadook delves into the haunting effects of loss and the struggle for acceptance.",
+      "sharedVibes": [
+        "grief",
+        "psychological",
+        "motherhood"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 805,
+      "title": "Rosemary's Baby",
+      "year": 1968,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Midsommar (2019) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The haunting paranoia and sense of impending doom in Rosemary's Baby resonate strongly with the oppressive atmosphere of Hereditary, particularly in how the protagonist is isolated by those closest to her. Both films explore the fragility of motherhood and how sinister forces can invade the most intimate corners of family life.",
       "sharedVibes": [
-        "horror",
-        "mystery",
-        "drama"
+        "paranoia",
+        "motherhood",
+        "isolation"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 201085,
-      "title": "Crimson Peak",
-      "year": 2015,
+      "tmdbId": 399057,
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Crimson Peak (2015) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The chillingly unsettling atmosphere and the themes of familial obligation in The Killing of a Sacred Deer create a sense of inevitable doom that mirrors the tension in Hereditary. Just as Annie faces the harrowing consequences of her lineage, the film examines the moral complexities of guilt and sacrifice within a family.",
       "sharedVibes": [
-        "horror",
-        "mystery",
-        "romance"
+        "guilt",
+        "sacrifice",
+        "psychological"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 588,
-      "title": "Silent Hill",
-      "year": 2006,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Silent Hill (2006) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 1933,
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films masterfully elicit dread through their atmospheric tension and focus on family secrets that threaten to unravel everything. The Others' twist and emotional depth reflect the shocking revelations in Hereditary, keeping you on edge as the truth surfaces.",
       "sharedVibes": [
-        "horror",
+        "secrets",
+        "family",
         "mystery"
       ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The mounting tension and unsettling vibes during a seemingly innocent gathering transform into something nightmarish, much like the family’s fraught interactions in Hereditary. Both films expertly exploit the discomfort of social dynamics, revealing the horror lurking beneath the surface of familial and social ties.",
+      "sharedVibes": [
+        "tension",
+        "betrayal",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284303,
+      "title": "Goodnight Mommy",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The central theme of a fractured family and the unraveling of trust resonates with the disintegration seen in Hereditary, especially through the lens of childhood innocence turned sinister. Goodnight Mommy's haunting atmosphere and chilling twists reflect the same emotional depth and psychological horror found in Aster's work.",
+      "sharedVibes": [
+        "trust",
+        "family",
+        "psychological"
+      ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 474764,
+      "title": "The Lodge",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The shared themes of isolation and the psychological effects of trauma are palpable in both films, especially as characters navigate their darkest fears. Just as Hereditary uses familial upheaval to create fear, The Lodge crafts a chilling tale of vulnerability and emotional breakdown in a secluded setting.",
+      "sharedVibes": [
+        "isolation",
+        "trauma",
+        "psychological"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 397243,
       "title": "The Autopsy of Jane Doe",
       "year": 2016,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Hereditary clicked for you, The Autopsy of Jane Doe (2016) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 17609,
-      "title": "Antichrist",
-      "year": 2009,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Antichrist (2009) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "thriller",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1632,
-      "title": "Mississippi Burning",
-      "year": 1988,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Mississippi Burning (1988) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The sense of dread that permeates the investigation in The Autopsy of Jane Doe echoes the mounting horrors that Annie and her family face in Hereditary, particularly as they grapple with dark discoveries. Both films intertwine mystery and family dynamics, leading to unsettling revelations that linger long after the credits roll.",
       "sharedVibes": [
         "mystery",
-        "thriller",
-        "drama",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1216191,
-      "title": "Oddity",
-      "year": 2024,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Hereditary clicked for you, Oddity (2024) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "mystery"
+        "family",
+        "horror"
       ],
       "mood": "dark"
     }
@@ -150,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after Hereditary?",
-      "answer": "Try The Entity, The Sixth Sense, Zodiac—each shares DNA with Hereditary while changing the setting enough to feel fresh."
+      "answer": "Try The Witch, Midsommar, The Babadook—each shares DNA with Hereditary while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Hereditary?",

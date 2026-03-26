@@ -9,144 +9,143 @@
       "Crime",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "Knives Out (2019) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Rian Johnson's control of tone keeps the ride coherent. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the clever and twisty plot that keeps you guessing until the very end, expertly crafted by Rian Johnson, who fills every scene with both humor and tension. The ensemble cast, including the charmingly eccentric Benoit Blanc and the sharp-witted Marta, creates a dynamic that feels both fresh and nostalgic, making it a delightful modern take on the classic whodunit while exploring themes of privilege, family dysfunction, and deception.",
     "vibes": [
-      "comedy",
-      "crime",
-      "mystery",
-      "crowd-favorite"
+      "whodunit",
+      "darkly-comedic",
+      "family-drama",
+      "social-commentary",
+      "intellectual-thriller"
     ]
   },
   "recommendations": [
     {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "The chilling dynamics between Dickie and Ripley mirror the family discord seen in 'Knives Out', showcasing how envy can erode personal connections. The film's meticulously crafted tension creates an unsettling yet engaging atmosphere akin to the film's dinner party reveal scenes.",
+      "sharedVibes": [
+        "obsession",
+        "class",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
       "tmdbId": 15196,
       "title": "Clue",
       "year": 1985,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Knives Out clicked for you, Clue (1985) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "Much like 'Knives Out', 'Clue' thrives on a whimsical yet sharp interplay of characters, weaving humor through a murder mystery format. The clever twist endings and memorable banter will leave you laughing, recalling the film’s expertly timed comedic moments.",
       "sharedVibes": [
-        "comedy",
-        "crime",
         "mystery",
-        "thriller"
+        "humor",
+        "ensemble"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 290250,
+      "title": "The Nice Guys",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The buddy cop dynamic between Holland and Healy mirrors the familial tension in 'Knives Out', where flawed characters navigate complicated relationships. The film's clever dialogue and absurd scenarios amplify the comedic crime aspect, reminiscent of the chaotic investigation scenes.",
+      "sharedVibes": [
+        "crime",
+        "humor",
+        "buddy-dynamic"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 445571,
+      "title": "Game Night",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The mix of comedy and unexpected thrills in 'Game Night' echoes the unpredictable twists of 'Knives Out', as friends descend into a night of chaos and mystery. The film's sharp wit and character-driven antics create an engaging atmosphere that feels familiar yet fresh.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "friendship"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 484247,
+      "title": "A Simple Favor",
+      "year": 2018,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The interplay of trust and deception in 'A Simple Favor' resonates with the web of lies and secrets found in 'Knives Out'. With a flair for dark humor, the film crafts an engaging narrative that keeps audiences guessing and laughing.",
+      "sharedVibes": [
+        "deception",
+        "mystery",
+        "dark-humor"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8321,
+      "title": "In Bruges",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The moral complexities and dark humor in 'In Bruges' echo the sharp social commentary and character depth of 'Knives Out'. The film's blend of crime and comedy creates poignant moments that linger, much like the familial confrontations in the latter.",
+      "sharedVibes": [
+        "moral-dilemma",
+        "dark-humor",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 402897,
+      "title": "The Death of Stalin",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The political machinations and character absurdities in 'The Death of Stalin' draw parallels to the familial scheming in 'Knives Out', where chaos reigns amidst a backdrop of power struggles. Its sharp wit and intricate plot twists offer a similarly engaging ride.",
+      "sharedVibes": [
+        "political-intrigue",
+        "dark-comedy",
+        "ensemble"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 514999,
+      "title": "Murder Mystery",
+      "year": 2019,
+      "matchPercentage": 77,
+      "whyYoullLoveIt": "The unlikely partnership between the leads in 'Murder Mystery' offers a delightful contrast to the family dynamics in 'Knives Out', with comedic misadventures at its heart. The light-hearted take on a murder investigation provides a playful energy that maintains mystery while entertaining.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "couple-dynamic"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21755,
+      "title": "The Brothers Bloom",
+      "year": 2008,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The intricate sibling relationship in 'The Brothers Bloom' mirrors the familial ties explored in 'Knives Out', where schemes and cons unfold with wit. The film's whimsical tone and engaging narrative structure create a similar feeling of exploration in its unfolding mystery.",
+      "sharedVibes": [
+        "siblings",
+        "con-artistry",
+        "whimsy"
+      ],
+      "mood": "uplifting"
     },
     {
       "tmdbId": 766475,
       "title": "See How They Run",
       "year": 2022,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Knives Out clicked for you, See How They Run (2022) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The meta-commentary on storytelling within 'See How They Run' resonates with the self-awareness found in 'Knives Out', where everyone has something to hide. Its charming characters and playful twists make for an entertaining homage to the murder mystery genre.",
       "sharedVibes": [
-        "comedy",
-        "crime",
-        "mystery"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 744653,
-      "title": "The Thursday Murder Club",
-      "year": 2025,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Knives Out clicked for you, The Thursday Murder Club (2025) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "crime",
-        "mystery"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1594,
-      "title": "A Shot in the Dark",
-      "year": 1964,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Knives Out clicked for you, A Shot in the Dark (1964) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "crime",
-        "mystery"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2118,
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Knives Out clicked for you, L.A. Confidential (1997) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "mystery",
-        "thriller",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4771,
-      "title": "Gone Baby Gone",
-      "year": 2007,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Knives Out clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in crime and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "mystery",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 812583,
-      "title": "Wake Up Dead Man: A Knives Out Mystery",
-      "year": 2025,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Knives Out clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "mystery",
-        "thriller"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 870028,
-      "title": "The Accountant²",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Knives Out clicked for you, The Accountant² (2025) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "mystery",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 866463,
-      "title": "Reptile",
-      "year": 2023,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Knives Out clicked for you, Reptile (2023) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "mystery",
-        "thriller",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 10440,
-      "title": "Manhattan Murder Mystery",
-      "year": 1993,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Knives Out clicked for you, Manhattan Murder Mystery (1993) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "mystery"
+        "meta-narrative",
+        "murder-mystery",
+        "humor"
       ],
       "mood": "funny"
     }
@@ -154,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after Knives Out?",
-      "answer": "Try Clue, See How They Run, The Thursday Murder Club—each shares DNA with Knives Out while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Clue, The Nice Guys—each shares DNA with Knives Out while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Knives Out?",

@@ -9,149 +9,151 @@
       "Drama",
       "Romance"
     ],
-    "whyPeopleLoveIt": "Twilight (2008) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Catherine Hardwicke's control of tone keeps the ride coherent. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn into the intoxicating, moody romance between Bella and Edward, where the tension of forbidden love is palpable in every longing glance and stolen moment, especially during their first kiss in the forest. The film masterfully blends themes of danger and desire, heightened by the haunting score and the atmospheric Pacific Northwest setting that makes you feel like you’re part of their secret world.",
     "vibes": [
-      "fantasy",
-      "drama",
-      "romance",
-      "divisive"
+      "forbidden-love",
+      "moody-romance",
+      "teen-angst",
+      "supernatural-tension",
+      "introspective"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 50620,
-      "title": "The Twilight Saga: Breaking Dawn - Part 2",
-      "year": 2012,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Twilight clicked for you, The Twilight Saga: Breaking Dawn - Part 2 (2012) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intense dynamics of identity and obsession in 'Twilight' resonate in Tom Ripley's chilling journey as he adopts the persona of the wealthy Dickie Greenleaf. Both films delve into the seductive allure of lives we covet, capturing the resulting tension and moral ambiguity beautifully.",
       "sharedVibes": [
-        "fantasy",
-        "drama",
-        "romance",
-        "adventure"
+        "obsession",
+        "identity",
+        "psychological"
       ],
-      "mood": "bittersweet"
+      "mood": "dark"
     },
     {
-      "tmdbId": 24021,
-      "title": "The Twilight Saga: Eclipse",
-      "year": 2010,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Twilight clicked for you, The Twilight Saga: Eclipse (2010) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "fantasy",
-        "drama",
-        "romance",
-        "adventure"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 38117,
-      "title": "Beastly",
-      "year": 2011,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Twilight clicked for you, Beastly (2011) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "fantasy",
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 11036,
-      "title": "The Notebook",
-      "year": 2004,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Twilight clicked for you, The Notebook (2004) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 50619,
-      "title": "The Twilight Saga: Breaking Dawn - Part 1",
-      "year": 2011,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Twilight clicked for you, The Twilight Saga: Breaking Dawn - Part 1 (2011) is a strong next stop: both trade in fantasy and romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "fantasy",
-        "romance",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 537915,
-      "title": "After",
-      "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Twilight clicked for you, After (2019) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 2270,
-      "title": "Stardust",
+      "tmdbId": 4347,
+      "title": "Atonement",
       "year": 2007,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Twilight clicked for you, Stardust (2007) is a strong next stop: both trade in fantasy and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Much like Bella's passionate yet tragic love for Edward, 'Atonement' explores how the forces of fate and misunderstanding can alter the trajectory of love. The lush visuals and emotional stakes in both films create a haunting atmosphere that lingers long after the credits roll.",
       "sharedVibes": [
-        "fantasy",
         "romance",
-        "adventure",
-        "family"
+        "misunderstanding",
+        "tragic"
       ],
-      "mood": "uplifting"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 2280,
-      "title": "Big",
-      "year": 1988,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Twilight clicked for you, Big (1988) is a strong next stop: both trade in fantasy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 152603,
+      "title": "Only Lovers Left Alive",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The centuries-old love between Adam and Eve echoes Bella and Edward's timeless connection, blending romance with elements of fantasy. Both films embrace a moody aesthetic, immersing you in their unique worlds filled with longing and existential reflection.",
       "sharedVibes": [
-        "fantasy",
-        "drama",
-        "comedy"
+        "romance",
+        "existential",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 82654,
+      "title": "Warm Bodies",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "In a similar vein to Bella's experience of love crossing species, 'Warm Bodies' reimagines romance amidst a zombie apocalypse, showcasing a bond that defies natural boundaries. The film's quirky humor combined with heartfelt moments provides a fresh twist on the theme of love transforming identity.",
+      "sharedVibes": [
+        "romance",
+        "humor",
+        "identity"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 226857,
-      "title": "Endless Love",
-      "year": 2014,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Twilight clicked for you, Endless Love (2014) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 399055,
+      "title": "The Shape of Water",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Like Bella's connection to the supernatural, the ethereal romance between Elisa and the amphibious creature in 'The Shape of Water' thrives in the realm of fantasy and otherness. Both films beautifully capture marginalized love stories, inviting audiences to believe in the impossible.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "romance",
+        "fantasy",
+        "otherness"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 72710,
+      "title": "The Host",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The struggle between love and possession mirrors Bella's conflict with her desires in 'Twilight', as Melanie and Jared navigate their own love triangle in the wake of an alien invasion. This film weaves together romance and sci-fi in a way that echoes the dramatic tensions you enjoyed.",
+      "sharedVibes": [
+        "love-triangle",
+        "sci-fi",
+        "identity"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 293863,
+      "title": "The Age of Adaline",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Adaline's eternal youth and the romantic complications that arise from it reflect the same sense of forbidden love and timelessness that defines Bella and Edward's bond. The film's enchanting storytelling will draw you into its spell, much like the passion of 'Twilight'.",
+      "sharedVibes": [
+        "romance",
+        "time",
+        "forbidden-love"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 744276,
-      "title": "After Ever Happy",
-      "year": 2022,
+      "tmdbId": 4922,
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Twilight clicked for you, After Ever Happy (2022) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Similar to Bella's age-defying love for Edward, Benjamin's unique condition leads him to experience love in ways that challenge societal norms and expectations. The poignant exploration of time and love in both films evokes a deeply emotional response, making you reflect on what it means to cherish fleeting moments.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "love",
+        "time",
+        "existential"
       ],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 203739,
+      "title": "Vampire Academy",
+      "year": 2014,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The friendships and conflicts within the vampiric world in 'Vampire Academy' echo Bella's struggles with loyalty and love among supernatural beings. With a blend of humor, drama, and romance, it offers a fresh take on the vampiric lore that fans of 'Twilight' can appreciate.",
+      "sharedVibes": [
+        "friendship",
+        "supernatural",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1016121,
+      "title": "Beautiful Disaster",
+      "year": 2023,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The charged romance and tumultuous relationship dynamics in 'Beautiful Disaster' parallel Bella's intense emotions and tumult in 'Twilight'. Both films capture the feeling of young love as a powerful force that can lead to both ecstasy and chaos, resonating with the passionate spirit of teenage love.",
+      "sharedVibes": [
+        "young-love",
+        "chaos",
+        "romance"
+      ],
+      "mood": "uplifting"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Twilight?",
-      "answer": "Try The Twilight Saga: Breaking Dawn - Part 2, The Twilight Saga: Eclipse, Beastly—each shares DNA with Twilight while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Atonement, Only Lovers Left Alive—each shares DNA with Twilight while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Twilight?",

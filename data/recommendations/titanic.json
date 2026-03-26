@@ -8,49 +8,25 @@
       "Drama",
       "Romance"
     ],
-    "whyPeopleLoveIt": "Titanic (1997) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. James Cameron's control of tone keeps the ride coherent. The drama and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the heart-wrenching love story between Jack and Rose, whose passionate romance blooms against the backdrop of impending tragedy, making every stolen moment feel electric and fleeting. The way James Cameron interweaves real historical events with personal stakes—like the sinking ship's chaos mirroring Rose's struggle for freedom—creates an emotional rollercoaster that resonates long after the credits roll.",
     "vibes": [
-      "drama",
-      "romance",
-      "crowd-favorite"
+      "epic-romance",
+      "tragic-love",
+      "historical-drama",
+      "heartfelt-sacrifice"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 8966,
-      "title": "Twilight",
-      "year": 2008,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Titanic clicked for you, Twilight (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance",
-        "fantasy"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 4922,
-      "title": "The Curious Case of Benjamin Button",
-      "year": 2008,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Titanic clicked for you, The Curious Case of Benjamin Button (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance",
-        "fantasy"
-      ],
-      "mood": "bittersweet"
-    },
-    {
       "tmdbId": 11036,
       "title": "The Notebook",
       "year": 2004,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Titanic clicked for you, The Notebook (2004) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The heartbreaking love story between Noah and Allie captures the essence of youthful passion and societal obstacles, reminiscent of Jack and Rose's whirlwind romance aboard the Titanic. Both films masterfully showcase how love can transcend time and class barriers, culminating in unforgettable moments of heartache and devotion.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "romance",
+        "class-struggle",
+        "heartbreak"
       ],
       "mood": "bittersweet"
     },
@@ -58,94 +34,124 @@
       "tmdbId": 4347,
       "title": "Atonement",
       "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "The tragic consequences of a single misunderstanding echo the profound love and loss experienced by Jack and Rose, highlighting how choices can ripple through time. Atonement's sweeping visual storytelling and emotional weight mirror the epic scope and tragic romance that made Titanic unforgettable.",
+      "sharedVibes": [
+        "regret",
+        "love",
+        "class"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 293863,
+      "title": "The Age of Adaline",
+      "year": 2015,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Adaline's struggle with immortality and the sacrifices she makes for love reflect the intense bond between Jack and Rose, who live for their fleeting moments together. The film's beautiful cinematography and poignant exploration of love against the odds will remind you of Titanic’s visual grandeur and emotional depth.",
+      "sharedVibes": [
+        "romance",
+        "sacrifice",
+        "timeless"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 283552,
+      "title": "The Light Between Oceans",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The emotional turmoil faced by Tom and Isabel as they navigate love, loss, and moral choices echoes the tragic dilemmas that Jack and Rose confront. Both films explore the depths of human emotion against breathtaking backdrops, making the heart-wrenching decisions even more impactful.",
+      "sharedVibes": [
+        "moral-dilemma",
+        "love",
+        "loss"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Titanic clicked for you, Atonement (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Elizabeth Bennet and Mr. Darcy's spirited romance and the societal pressures they face resonate with Jack and Rose's forbidden love aboard the Titanic. Both films excel in portraying the tension between passion and societal expectations, leading to unforgettable, climactic moments.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "class-anxiety",
+        "romance",
+        "tension"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 770,
-      "title": "Gone with the Wind",
-      "year": 1939,
+      "tmdbId": 222935,
+      "title": "The Fault in Our Stars",
+      "year": 2014,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Titanic clicked for you, Gone with the Wind (1939) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The poignant love story between Hazel and Gus, set against the backdrop of illness, reflects the bittersweet romance of Jack and Rose, who are also constrained by circumstance. Both films harness the power of love to confront mortality, leaving viewers with a profound sense of connection.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "war"
+        "love",
+        "loss",
+        "youth"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 2623,
-      "title": "An Officer and a Gentleman",
-      "year": 1982,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Titanic clicked for you, An Officer and a Gentleman (1982) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 354912,
+      "title": "Coco",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The themes of love, memory, and loss in Coco resonate deeply with the tragic elegance of Titanic, where fleeting connections are forever cherished. With its vibrant visuals and emotional storytelling, this film evokes the same sense of longing and celebration of life that makes Titanic so memorable.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "family",
+        "memory",
+        "love"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 6003,
-      "title": "Romeo and Juliet",
-      "year": 1968,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Titanic clicked for you, Romeo and Juliet (1968) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 13949,
-      "title": "Persuasion",
-      "year": 2007,
+      "tmdbId": 24420,
+      "title": "The Time Traveler's Wife",
+      "year": 2009,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "If Titanic clicked for you, Persuasion (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The transcendent love story between Henry and Clare, marked by time and separation, evokes the tragic romance of Jack and Rose, who are also fighting against the odds. This film's exploration of love's endurance through challenges provides a similar emotional punch that resonates long after the credits roll.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "tv-movie"
+        "time",
+        "love",
+        "loss"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 20024,
-      "title": "The End of the Affair",
-      "year": 1999,
+      "tmdbId": 10229,
+      "title": "A Walk to Remember",
+      "year": 2002,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Titanic clicked for you, The End of the Affair (1999) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The powerful transformation of Landon and Jamie’s relationship under the weight of impending loss mirrors the impassioned romance of Jack and Rose, who are also caught in fleeting moments of love. This tale captures the beauty and sorrow of young love, echoing the emotional highs and lows felt throughout Titanic.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "young-love",
+        "loss",
+        "redemption"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 429300,
-      "title": "Adrift",
-      "year": 2018,
+      "tmdbId": 409,
+      "title": "The English Patient",
+      "year": 1996,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Titanic clicked for you, Adrift (2018) is a strong next stop: both trade in romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intertwining stories of love and loss in wartime reflect the dramatic stakes present in Titanic, where every moment is steeped in urgency and tragedy. Both films encapsulate the essence of passion amidst chaos, leaving viewers with a haunting sense of what could have been.",
       "sharedVibes": [
-        "romance",
-        "thriller",
-        "adventure"
+        "war",
+        "love",
+        "loss"
       ],
-      "mood": "tense"
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Titanic?",
-      "answer": "Try Twilight, The Curious Case of Benjamin Button, The Notebook—each shares DNA with Titanic while changing the setting enough to feel fresh."
+      "answer": "Try The Notebook, Atonement, The Age of Adaline—each shares DNA with Titanic while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Titanic?",

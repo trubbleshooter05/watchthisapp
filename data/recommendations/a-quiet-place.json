@@ -9,150 +9,150 @@
       "Drama",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "A Quiet Place works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'A Quiet Place' because it masterfully transforms silence into a palpable source of tension, leaving you on the edge of your seat during every moment when characters communicate through sign language or subtle gestures. The heart-wrenching scenes of family sacrifice, particularly when a parent must choose between survival and protecting their children, hit deep, resonating with anyone who's ever felt the weight of responsibility in a world that feels overwhelmingly dangerous.",
     "vibes": [
-      "horror",
-      "drama",
-      "science-fiction",
-      "rewatchable"
+      "intense-suspense",
+      "family-bond",
+      "survival-instinct",
+      "emotional-tension"
     ]
   },
   "recommendations": [
     {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The tension in Bird Box mirrors the primal fear found in A Quiet Place, as characters navigate a world where unseen forces threaten their survival. Both films delve into the theme of maternal instinct, with moments that reveal the lengths a parent will go to protect their children amidst chaos.",
+      "sharedVibes": [
+        "survival",
+        "fear",
+        "parenthood"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 418078,
+      "title": "It Comes at Night",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Just like the family dynamics in A Quiet Place, It Comes at Night examines the fragile bonds between characters in a world filled with paranoia and unseen dangers. The film's oppressive atmosphere and gripping tension will leave you questioning trust and the lengths to which people will go to protect their loved ones.",
+      "sharedVibes": [
+        "paranoia",
+        "trust",
+        "survival"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 20766,
+      "title": "The Road",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The emotional journey between father and son in The Road resonates with the familial themes present in A Quiet Place, showcasing survival in a bleak, post-apocalyptic landscape. Both films explore how love and desperation intersect, driving characters to make unimaginable choices to protect those they hold dear.",
+      "sharedVibes": [
+        "apocalypse",
+        "love",
+        "desperation"
+      ],
+      "mood": "bittersweet"
+    },
+    {
       "tmdbId": 333371,
       "title": "10 Cloverfield Lane",
       "year": 2016,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in horror and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "drama",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 520763,
-      "title": "A Quiet Place Part II",
-      "year": 2021,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, A Quiet Place Part II (2021) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 2675,
-      "title": "Signs",
-      "year": 2002,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, Signs (2002) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 762441,
-      "title": "A Quiet Place: Day One",
-      "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, A Quiet Place: Day One (2024) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 985,
-      "title": "Eraserhead",
-      "year": 1977,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, Eraserhead (1977) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The claustrophobic tension in 10 Cloverfield Lane reflects the intense, confined atmosphere of A Quiet Place, where survival hinges on trust and uncertainty. Both films masterfully build suspense, with characters facing external threats that force them to confront their own fears and vulnerabilities.",
       "sharedVibes": [
-        "horror",
-        "science-fiction"
+        "claustrophobia",
+        "trust",
+        "fear"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 64720,
-      "title": "Take Shelter",
-      "year": 2011,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, Take Shelter (2011) is a strong next stop: both trade in horror and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "drama",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 145135,
-      "title": "Dark Skies",
-      "year": 2013,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, Dark Skies (2013) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 199575,
-      "title": "These Final Hours",
+      "tmdbId": 242224,
+      "title": "The Babadook",
       "year": 2014,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, These Final Hours (2014) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The haunting exploration of grief and motherhood in The Babadook echoes the emotional depth of A Quiet Place, where fear and love intertwine in the face of tragedy. Both films showcase the struggle against dark forces, symbolizing internal battles that manifest as external horrors.",
       "sharedVibes": [
-        "drama",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 329004,
-      "title": "The Survivalist",
-      "year": 2015,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, The Survivalist (2015) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 1190868,
-      "title": "V/H/S/Beyond",
-      "year": 2024,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If A Quiet Place clicked for you, V/H/S/Beyond (2024) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "science-fiction",
-        "thriller"
+        "grief",
+        "motherhood",
+        "internal"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 428449,
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "In A Ghost Story, the meditation on time and loss resonates with A Quiet Place's exploration of family and sacrifice under extreme circumstances. Both films evoke a sense of haunting, where the past looms large over the present, shaping the characters' experiences and choices.",
+      "sharedVibes": [
+        "loss",
+        "time",
+        "memory"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 5876,
+      "title": "The Mist",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The escalating tension and moral dilemmas faced by characters in The Mist evoke the same survival instincts showcased in A Quiet Place. Both films explore how fear can unravel community ties, revealing true human nature when faced with the unknown.",
+      "sharedVibes": [
+        "fear",
+        "community",
+        "dilemma"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The palpable sense of unease and tension in The Invitation mirrors the suspenseful atmosphere of A Quiet Place, where every moment feels charged with hidden dangers. Both films create a suffocating sense of dread, forcing characters to confront unsettling truths about themselves and their relationships.",
+      "sharedVibes": [
+        "suspense",
+        "relationships",
+        "truth"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 220289,
+      "title": "Coherence",
+      "year": 2014,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Coherence crafts a slow-burn tension that draws parallels to the suspenseful character dynamics in A Quiet Place, where the unknown creates deep rifts among friends. Both films explore how extraordinary circumstances can fracture relationships and challenge the very essence of trust.",
+      "sharedVibes": [
+        "trust",
+        "fracture",
+        "unknown"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 505948,
+      "title": "I Am Mother",
+      "year": 2019,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "I Am Mother explores the complex relationship between a mother and her daughter in a dystopian setting, paralleling the protective instincts found in A Quiet Place. Both films examine themes of isolation and the moral choices faced when survival is at stake, creating a thought-provoking narrative.",
+      "sharedVibes": [
+        "isolation",
+        "motherhood",
+        "morality"
+      ],
+      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after A Quiet Place?",
-      "answer": "Try 10 Cloverfield Lane, A Quiet Place Part II, Signs—each shares DNA with A Quiet Place while changing the setting enough to feel fresh."
+      "answer": "Try Bird Box, It Comes at Night, The Road—each shares DNA with A Quiet Place while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is A Quiet Place?",

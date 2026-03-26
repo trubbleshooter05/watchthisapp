@@ -8,141 +8,142 @@
       "Science Fiction",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "Dune (2021) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Denis Villeneuve's control of tone keeps the ride coherent. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are completely drawn into the epic struggle of Paul Atreides as he grapples with his destiny amidst the treachery of House Harkonnen and the mystical allure of the spice on Arrakis, making every moment feel like a crucial turning point in his journey. Denis Villeneuve's choice to immerse us in the intimate yet grand scale of this universe, from the haunting whispers of the Bene Gesserit to the breathtaking sandworm encounters, creates a palpable tension that resonates deeply with the themes of power, prophecy, and environmental struggle.",
     "vibes": [
-      "science-fiction",
-      "adventure",
-      "crowd-favorite"
+      "epic-journey",
+      "intense-struggle",
+      "mystical-realism",
+      "environmental-tension"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 76341,
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Dune clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 1893,
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "year": 1999,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Dune clicked for you, Star Wars: Episode I - The Phantom Menace (1999) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 604,
-      "title": "The Matrix Reloaded",
-      "year": 2003,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Dune clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 339964,
-      "title": "Valerian and the City of a Thousand Planets",
+      "tmdbId": 335984,
+      "title": "Blade Runner 2049",
       "year": 2017,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The haunting exploration of identity and purpose in a dystopian world resonates deeply with Paul Atreides' journey in Dune. Just as Paul navigates treachery and destiny, K's quest for meaning in a synthetic existence offers a visually stunning and emotionally profound experience.",
+      "sharedVibes": [
+        "identity",
+        "destiny",
+        "dystopia"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 329865,
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The intricate weaving of time and language in Arrival mirrors the complex tapestry of politics and prophecy in Dune. With its focus on communication and the weight of choices, you'll find a similarly thought-provoking emotional core.",
+      "sharedVibes": [
+        "communication",
+        "time",
+        "philosophy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9693,
+      "title": "Children of Men",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The relentless tension and bleak world-building in Children of Men echo the stakes and atmosphere of Dune's epic struggle for survival. Just as Paul faces overwhelming odds, this film immerses you in a desperate fight for humanity's future.",
+      "sharedVibes": [
+        "survival",
+        "desperation",
+        "hope"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1381,
+      "title": "The Fountain",
+      "year": 2006,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Dune clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intertwining narratives of love, death, and the quest for immortality in The Fountain parallel Paul’s journey into the depths of spirituality and sacrifice in Dune. Both films evoke a profound emotional experience that challenges the boundaries between life and legacy.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "love",
+        "sacrifice",
+        "spirituality"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 20526,
-      "title": "TRON: Legacy",
-      "year": 2010,
+      "tmdbId": 157336,
+      "title": "Interstellar",
+      "year": 2014,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Dune clicked for you, TRON: Legacy (2010) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The vastness of space and themes of sacrifice in Interstellar resonate with the cosmic stakes and personal losses Paul faces throughout his journey in Dune. Both films explore the intricate relationships between time, love, and the human experience against a backdrop of grand adventure.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "sacrifice",
+        "space",
+        "time"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13363,
+      "title": "The Man from Earth",
+      "year": 2007,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The philosophical discussions and revelations in The Man from Earth have a similar depth to the political and religious themes explored in Dune. Just as Paul's heritage shapes his destiny, the protagonist's life story challenges the beliefs of those around him, prompting profound reflections on existence.",
+      "sharedVibes": [
+        "philosophy",
+        "identity",
+        "existentialism"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 624860,
-      "title": "The Matrix Resurrections",
-      "year": 2021,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Dune clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 80274,
-      "title": "Ender's Game",
-      "year": 2013,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Dune clicked for you, Ender's Game (2013) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 428078,
-      "title": "Mortal Engines",
+      "tmdbId": 300668,
+      "title": "Annihilation",
       "year": 2018,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Dune clicked for you, Mortal Engines (2018) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The surreal visuals and existential dread in Annihilation echo the otherworldly atmosphere and psychological conflict present in Dune. As Paul confronts the unknown, the characters in this film grapple with their own transformations and the nature of self within a mysterious environment.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure"
+        "transformation",
+        "mystery",
+        "psychological"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 72710,
-      "title": "The Host",
-      "year": 2013,
+      "tmdbId": 17431,
+      "title": "Moon",
+      "year": 2009,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Dune clicked for you, The Host (2013) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The themes of solitude and self-discovery in Moon resonate with Paul Atreides' internal struggles against external pressures in Dune. Just as Paul must confront his fate, the protagonist's journey in this isolated setting evokes deep questions about identity and humanity.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "identity",
+        "solitude",
+        "self-discovery"
       ],
-      "mood": "tense"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 588228,
-      "title": "The Tomorrow War",
-      "year": 2021,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Dune clicked for you, The Tomorrow War (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 407451,
+      "title": "A Wrinkle in Time",
+      "year": 2018,
+      "matchPercentage": 77,
+      "whyYoullLoveIt": "The blend of adventure and a quest to save someone dear in A Wrinkle in Time evokes the stakes of Paul’s mission to protect his family and fulfill his destiny in Dune. Both films emphasize the importance of love and courage in the face of overwhelming odds.",
       "sharedVibes": [
-        "science-fiction",
+        "family",
         "adventure",
-        "action"
+        "courage"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 430231,
+      "title": "The Endless",
+      "year": 2017,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "The mysterious cult and the exploration of cyclical time in The Endless parallel the intricate world-building and themes of destiny in Dune. Just as Paul uncovers deeper truths about his world and himself, the protagonists' journey leads to unsettling revelations about existence.",
+      "sharedVibes": [
+        "mystery",
+        "destiny",
+        "existentialism"
       ],
       "mood": "tense"
     }
@@ -150,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after Dune?",
-      "answer": "Try Mad Max: Fury Road, Star Wars: Episode I - The Phantom Menace, The Matrix Reloaded—each shares DNA with Dune while changing the setting enough to feel fresh."
+      "answer": "Try Blade Runner 2049, Arrival, Children of Men—each shares DNA with Dune while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Dune?",

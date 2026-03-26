@@ -7,143 +7,151 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "The Social Network works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'The Social Network' because it brilliantly captures the chaotic ambition and betrayal behind Facebook's creation, particularly through the sharp exchanges between Mark Zuckerberg and Eduardo Saverin, which highlight their complex friendship. The film's fast-paced editing and haunting score by Trent Reznor amplify the tension, making you feel the exhilaration and isolation of success in a digital age.",
     "vibes": [
-      "drama",
-      "rewatchable"
+      "intense-ambition",
+      "betrayal",
+      "digital-isolation",
+      "sharp-dialogue",
+      "youthful-rebellion"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 152601,
-      "title": "Her",
-      "year": 2013,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Her (2013) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like Mark Zuckerberg's relentless ambition, Tom Ripley's obsession with identity leads him down a path of manipulation and deceit. The film’s exploration of class envy and the lengths one will go to belong resonates deeply with the competitive spirit seen in Zuckerberg's relationships.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "science-fiction"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 489,
-      "title": "Good Will Hunting",
-      "year": 1997,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Good Will Hunting (1997) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 453,
-      "title": "A Beautiful Mind",
-      "year": 2001,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Social Network clicked for you, A Beautiful Mind (2001) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 2502,
-      "title": "The Bourne Supremacy",
-      "year": 2004,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Social Network clicked for you, The Bourne Supremacy (2004) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "action",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2118,
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Social Network clicked for you, L.A. Confidential (1997) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "mystery",
-        "thriller"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 60308,
+      "title": "Moneyball",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The tension between innovation and tradition in 'Moneyball' mirrors the fierce intellectual battles in 'The Social Network' as both films depict characters striving to redefine their fields. The way Billy Beane’s personal sacrifices echo Zuckerberg’s isolation in pursuit of success will leave you reflecting on the cost of ambition.",
+      "sharedVibes": [
+        "ambition",
+        "competition",
+        "isolation"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 244786,
+      "title": "Whiplash",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The fierce mentor-student dynamic in 'Whiplash' resonates with the intense relationships in 'The Social Network', where ambition often comes at a personal cost. Both films delve into the idea of obsession leading to self-destruction, as characters push themselves to their limits in pursuit of excellence.",
+      "sharedVibes": [
+        "obsession",
+        "competition",
+        "identity"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68722,
+      "title": "The Master",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The complicated power dynamics between Freddie and Lancaster Dodd reveal how charismatic individuals can manipulate and influence those around them, much like Zuckerberg's complex relationships in 'The Social Network'. This film’s intense exploration of personal struggle and the quest for belonging mirrors the existential dilemmas faced by its characters.",
+      "sharedVibes": [
+        "manipulation",
+        "identity",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 205596,
+      "title": "The Imitation Game",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Alan Turing’s groundbreaking genius and the societal pressures he faces echo Zuckerberg’s journey as a misunderstood innovator. As both men navigate betrayal and struggle for recognition, the film delves deeply into the costs of genius, much like the loneliness portrayed in 'The Social Network'.",
+      "sharedVibes": [
+        "genius",
+        "betrayal",
+        "isolation"
+      ],
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 321697,
       "title": "Steve Jobs",
       "year": 2015,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Steve Jobs (2015) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The intricate character study of Steve Jobs reflects the personal sacrifices and complex relationships found in Zuckerberg's world, highlighting how visionaries often clash with those they love. The film’s three-act structure through pivotal product launches creates a narrative tension that echoes the courtroom drama of 'The Social Network'.",
       "sharedVibes": [
-        "drama",
-        "history"
+        "vision",
+        "betrayal",
+        "ambition"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 274479,
-      "title": "Joy",
-      "year": 2015,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Joy (2015) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2277,
-      "title": "Bicentennial Man",
-      "year": 1999,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Bicentennial Man (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2757,
-      "title": "Adaptation.",
-      "year": 2002,
+      "tmdbId": 241239,
+      "title": "A Most Violent Year",
+      "year": 2014,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Social Network clicked for you, Adaptation. (2002) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The relentless drive for success in a morally ambiguous world seen in 'A Most Violent Year' is akin to the cutthroat environment of Silicon Valley in 'The Social Network'. Both films examine the moral compromises individuals make when ambition takes precedence over ethics.",
       "sharedVibes": [
-        "drama",
-        "comedy",
-        "crime"
+        "ambition",
+        "morality",
+        "survival"
       ],
-      "mood": "funny"
+      "mood": "dark"
     },
     {
-      "tmdbId": 2133,
-      "title": "The Perfect Storm",
-      "year": 2000,
+      "tmdbId": 242582,
+      "title": "Nightcrawler",
+      "year": 2014,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Social Network clicked for you, The Perfect Storm (2000) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Lou Bloom's insatiable thirst for success and the ethical lines he crosses resonate with the character of Zuckerberg, whose journey is similarly fraught with moral dilemmas. The film's exploration of how ambition can warp one's identity offers a thrilling counterpart to the intense character studies in 'The Social Network'.",
       "sharedVibes": [
-        "drama",
-        "adventure",
-        "action"
+        "ambition",
+        "morality",
+        "identity"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 65754,
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The intricate web of secrets and the drive for truth in 'The Girl with the Dragon Tattoo' parallels the revelations and betrayals that underpin the relationships in 'The Social Network'. Both films expertly navigate the complexities of character motivations, leaving you questioning the costs involved in uncovering hidden truths.",
+      "sharedVibes": [
+        "secrets",
+        "betrayal",
+        "identity"
       ],
       "mood": "tense"
+    },
+    {
+      "tmdbId": 177599,
+      "title": "The Social Life of Small Urban Spaces",
+      "year": 1980,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "This lesser-known gem dives into the lives of people whose dreams and aspirations lead them into a social labyrinth, much like the entangled relationships found in 'The Social Network'. The film's focus on ambition and the social dynamics of pursuing one's goals offers a fresh perspective on the price of success.",
+      "sharedVibes": [
+        "ambition",
+        "social-dynamics",
+        "identity"
+      ],
+      "mood": "uplifting"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Social Network?",
-      "answer": "Try Her, Good Will Hunting, A Beautiful Mind—each shares DNA with The Social Network while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Moneyball, Whiplash—each shares DNA with The Social Network while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Social Network?",

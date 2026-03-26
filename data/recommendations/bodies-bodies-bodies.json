@@ -9,75 +9,90 @@
       "Comedy",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "Bodies Bodies Bodies works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Bodies Bodies Bodies' for its razor-sharp satire of millennial social dynamics, where the intense paranoia and trust issues bubble up in a chaotic party game that spirals into chaos, highlighting both the absurdity and fragility of friendships. The film's clever use of humor and tension, especially in scenes where the characters' true natures are revealed through their reactions to the escalating madness, makes it an exhilarating ride that resonates with anyone who's ever felt the pressure of social expectations.",
     "vibes": [
-      "horror",
-      "comedy",
-      "mystery",
-      "divisive"
+      "dark-comedy",
+      "social-satire",
+      "thrilling-paranoia",
+      "friendship-dynamics"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 58151,
-      "title": "Fright Night",
-      "year": 2011,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Fright Night (2011) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intense jealousy and betrayal among friends in 'Bodies Bodies Bodies' finds a chilling parallel in the way Tom Ripley manipulates his relationships to fulfill his desires. Both films explore how the façade of friendship can become a dangerous game of trust, with suspense bubbling under the surface at every turn.",
       "sharedVibes": [
-        "horror",
-        "comedy"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 11797,
-      "title": "Fright Night",
-      "year": 1985,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Fright Night (1985) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "comedy"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11974,
-      "title": "The 'Burbs",
-      "year": 1989,
+      "tmdbId": 565383,
+      "title": "The Death of Dick Long",
+      "year": 2019,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, The 'Burbs (1989) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Just as paranoia breaks apart the dynamics of friendship in 'Bodies Bodies Bodies', 'The Death of Dick Long' concocts a brew of dark humor and absurdity as its characters grapple with the consequences of a disastrous night. The chaotic reveal of secrets will leave you both laughing and squirming in your seat, much like the party gone awry.",
       "sharedVibes": [
-        "horror",
-        "comedy",
-        "thriller"
+        "absurdity",
+        "betrayal",
+        "dark-humor"
       ],
-      "mood": "dark"
+      "mood": "funny"
     },
     {
-      "tmdbId": 807356,
-      "title": "Watcher",
-      "year": 2022,
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Watcher (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The tension among friends in 'Bodies Bodies Bodies' mimics the underlying dread in 'The Invitation', where a dinner party becomes a psychological thriller filled with mistrust and unsettling revelations. Both films expertly unravel the fabric of seemingly close relationships, leaving you questioning the true intentions of those you thought you knew.",
       "sharedVibes": [
-        "horror",
-        "mystery",
-        "thriller"
+        "mistrust",
+        "thriller",
+        "friendship"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 744653,
-      "title": "The Thursday Murder Club",
-      "year": 2025,
+      "tmdbId": 567609,
+      "title": "Ready or Not",
+      "year": 2019,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, The Thursday Murder Club (2025) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like the spiraling paranoia that permeates 'Bodies Bodies Bodies', 'Ready or Not' thrusts its protagonist into a deadly game of survival where family ties are tested in the most grotesque ways. The film balances dark humor and thrilling tension as it explores the absurd lengths people will go to in protecting their own.",
       "sharedVibes": [
-        "comedy",
-        "mystery",
-        "crime"
+        "survival",
+        "betrayal",
+        "dark-humor"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 37799,
+      "title": "The Social Network",
+      "year": 2010,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "In 'Bodies Bodies Bodies', the insidious impact of social media on friendships is deftly portrayed, paralleling how 'The Social Network' examines the corrosive effects of ambition and betrayal among the creators of Facebook. Both films capture the darker aspects of connection in the digital age, showcasing how quickly trust can erode in pursuit of success.",
+      "sharedVibes": [
+        "ambition",
+        "betrayal",
+        "friendship"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 254320,
+      "title": "The Lobster",
+      "year": 2015,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The absurdity of romantic and social conventions in 'The Lobster' echoes the twisted friendships explored in 'Bodies Bodies Bodies', where the quest for connection turns hilariously tragic. Both delve into the darkly comedic side of human relationships, revealing how societal pressures can distort genuine bonds.",
+      "sharedVibes": [
+        "absurdity",
+        "romance",
+        "dark-humor"
       ],
       "mood": "funny"
     },
@@ -85,63 +100,51 @@
       "tmdbId": 446101,
       "title": "Assassination Nation",
       "year": 2018,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Assassination Nation (2018) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "comedy",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 736769,
-      "title": "They Cloned Tyrone",
-      "year": 2023,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, They Cloned Tyrone (2023) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "mystery",
-        "science-fiction"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 18086,
-      "title": "Fright Night Part 2",
-      "year": 1988,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Fright Night Part 2 (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "comedy"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 12535,
-      "title": "High Anxiety",
-      "year": 1977,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, High Anxiety (1977) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The unraveling of trust amidst a backdrop of chaos in 'Bodies Bodies Bodies' resonates with the explosive events of 'Assassination Nation', where secrets and lies lead to a violent climax. Both films highlight the absurd lengths people go to protect themselves in a hyper-connected world fraught with paranoia.",
       "sharedVibes": [
-        "comedy",
-        "mystery",
-        "thriller"
+        "chaos",
+        "social-media",
+        "betrayal"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489925,
+      "title": "Eighth Grade",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The awkwardness of young friendships and the impact of social media in 'Bodies Bodies Bodies' finds a poignant echo in 'Eighth Grade', showcasing the trials of navigating adolescence in a digital world. Both films beautifully capture the struggle for connection and validation amidst the noise of modern life.",
+      "sharedVibes": [
+        "friendship",
+        "coming-of-age",
+        "social-media"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 480001,
+      "title": "The Art of Self-Defense",
+      "year": 2019,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The darkly comedic exploration of identity and masculinity in 'The Art of Self-Defense' mirrors the tension and absurdity found in 'Bodies Bodies Bodies', where the true nature of characters is laid bare in moments of crisis. Both films offer sharp social commentary packaged in humor that challenges conventional norms.",
+      "sharedVibes": [
+        "identity",
+        "dark-humor",
+        "absurdity"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 8271,
-      "title": "Disturbia",
-      "year": 2007,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Bodies Bodies Bodies clicked for you, Disturbia (2007) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 521935,
+      "title": "Cam",
+      "year": 2018,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The theme of identity and the unsettling impact of online personas in 'Cam' aligns closely with the social media critique found in 'Bodies Bodies Bodies', especially as characters grapple with who they really are. Both films expertly weave together psychological tension with a satirical edge, leaving you questioning the nature of reality.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama"
+        "identity",
+        "social-media",
+        "psychological"
       ],
       "mood": "tense"
     }
@@ -149,7 +152,7 @@
   "faq": [
     {
       "question": "What should I watch after Bodies Bodies Bodies?",
-      "answer": "Try Fright Night, Fright Night, The 'Burbs—each shares DNA with Bodies Bodies Bodies while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, The Death of Dick Long, The Invitation—each shares DNA with Bodies Bodies Bodies while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Bodies Bodies Bodies?",

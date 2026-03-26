@@ -8,144 +8,151 @@
       "Drama",
       "History"
     ],
-    "whyPeopleLoveIt": "Oppenheimer (2023) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. Christopher Nolan's control of tone keeps the ride coherent. The drama and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Oppenheimer' because of its intense exploration of moral ambiguity, especially as J. Robert Oppenheimer grapples with the consequences of creating the atomic bomb, which is embodied in the haunting scenes of the Trinity test. The film's non-linear storytelling and Christopher Nolan's masterful balancing of personal and historical drama create an immersive experience that lingers long after the credits roll, making us reflect on the weight of scientific discovery and human ethics.",
     "vibes": [
-      "drama",
-      "history",
-      "crowd-favorite"
+      "introspective",
+      "tense",
+      "historical",
+      "philosophical",
+      "emotional"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 292011,
-      "title": "Richard Jewell",
-      "year": 2019,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Richard Jewell (2019) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Ripley's undercurrent of envy and the lengths he goes to reinvent himself echo the haunting obsession of Oppenheimer's titular character with the pursuit of greatness. Both films masterfully portray the fragility of identity when ambition becomes all-consuming, particularly in their climactic moments of moral reckoning.",
       "sharedVibes": [
-        "drama",
-        "history"
+        "obsession",
+        "identity",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7345,
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The relentless drive of Daniel Plainview mirrors Oppenheimer's own obsession with legacy, both men sacrificing humanity for ambition, culminating in a poignant confrontation with self. The film's bleak visual storytelling and aching emotional core create a tension-filled atmosphere that resonates deeply with Oppenheimer's moral complexities.",
+      "sharedVibes": [
+        "ambition",
+        "sacrifice",
+        "isolation"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 467244,
-      "title": "The Zone of Interest",
-      "year": 2023,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, The Zone of Interest (2023) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "history"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 480857,
-      "title": "Radioactive",
-      "year": 2020,
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Radioactive (2020) is a strong next stop: both trade in drama and history, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The tragic implications of a single moment leading to irrevocable change reflect Oppenheimer's own conflicts around creation and destruction, emphasizing how history is shaped by personal choices. Much like Oppenheimer, Atonement poignantly explores the weight of guilt and the quest for redemption across time.",
       "sharedVibes": [
-        "drama",
-        "history",
-        "romance"
+        "guilt",
+        "regret",
+        "historical"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 1214931,
-      "title": "Nuremberg",
-      "year": 2025,
+      "tmdbId": 205596,
+      "title": "The Imitation Game",
+      "year": 2014,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Nuremberg (2025) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Alan Turing's struggle against societal norms and internal demons aligns with Oppenheimer's own fight against the ethical implications of his genius, both men existing in a world that doesn't fully understand their contributions. The film's exploration of sacrifice and brilliance under oppressive circumstances provides a gripping parallel to Oppenheimer's narrative.",
       "sharedVibes": [
-        "drama",
-        "history"
+        "identity",
+        "sacrifice",
+        "genius"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 467952,
-      "title": "The Catcher Was a Spy",
-      "year": 2018,
+      "tmdbId": 37799,
+      "title": "The Social Network",
+      "year": 2010,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, The Catcher Was a Spy (2018) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The portrayal of ambition and betrayal in The Social Network mirrors Oppenheimer's complex relationships and the betrayals born from intense ambition. Both films incisively capture how the pursuit of innovation can fracture personal connections and alter the course of history.",
       "sharedVibes": [
-        "drama",
-        "history",
-        "war",
-        "thriller"
+        "betrayal",
+        "ambition",
+        "innovation"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 296096,
-      "title": "Me Before You",
-      "year": 2016,
+      "tmdbId": 582,
+      "title": "The Lives of Others",
+      "year": 2006,
       "matchPercentage": 86,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Me Before You (2016) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The moral dilemmas faced by the characters during a dark political regime resonate deeply with Oppenheimer's exploration of ethical boundaries in science, where loyalty and betrayal intertwine. This film's intimate character studies and powerful emotion create a similar sense of urgency and heartbreak.",
       "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 296098,
-      "title": "Bridge of Spies",
-      "year": 2015,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Bridge of Spies (2015) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller"
+        "loyalty",
+        "betrayal",
+        "politics"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 600583,
-      "title": "The Power of the Dog",
-      "year": 2021,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, The Power of the Dog (2021) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 68722,
+      "title": "The Master",
+      "year": 2012,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The relationship between Freddie and Lancaster Dodd captures the theme of manipulation and control, paralleling Oppenheimer's struggle with the consequences of his actions and the people he influences. The emotional intensity and psychological depth found in both films create a riveting experience that lingers long after the credits roll.",
       "sharedVibes": [
-        "drama",
-        "western"
+        "manipulation",
+        "control",
+        "psychological"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 4476,
-      "title": "Legends of the Fall",
-      "year": 1994,
+      "tmdbId": 7979,
+      "title": "The Kite Runner",
+      "year": 2007,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Legends of the Fall (1994) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The haunting themes of regret and the longing for redemption in The Kite Runner echo Oppenheimer's burden of creating the atomic bomb and the moral dilemmas that follow. Both narratives weave personal history with larger historical events, creating a tapestry of emotional complexity.",
       "sharedVibes": [
-        "drama",
-        "western",
-        "romance",
-        "war"
+        "regret",
+        "redemption",
+        "historical"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 50839,
-      "title": "Margin Call",
-      "year": 2011,
+      "tmdbId": 369972,
+      "title": "First Man",
+      "year": 2018,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Oppenheimer clicked for you, Margin Call (2011) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The emotional toll of Neil Armstrong's journey to the moon parallels Oppenheimer's internal struggles with the repercussions of his scientific pursuits, both embodying the dichotomy of achievement and personal sacrifice. First Man's meticulous attention to detail and its portrayal of a single man's ambition in the face of overwhelming odds resonates with Oppenheimer's themes of isolation and moral conflict.",
       "sharedVibes": [
-        "drama",
-        "thriller"
+        "sacrifice",
+        "isolation",
+        "achievement"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 627463,
+      "title": "The Assistant",
+      "year": 2020,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The suffocating atmosphere of workplace dynamics in The Assistant captures the essence of moral compromise and the ethical dilemmas faced by those around a powerful figure, reminiscent of Oppenheimer's world. The film’s nuanced character study of complicity and the quiet struggle for integrity creates a profound emotional resonance.",
+      "sharedVibes": [
+        "complicity",
+        "ethics",
+        "workplace"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Oppenheimer?",
-      "answer": "Try Richard Jewell, The Zone of Interest, Radioactive—each shares DNA with Oppenheimer while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, There Will Be Blood, Atonement—each shares DNA with Oppenheimer while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Oppenheimer?",

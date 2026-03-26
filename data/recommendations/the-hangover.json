@@ -7,137 +7,151 @@
     "genres": [
       "Comedy"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto The Hangover (2009) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "whyPeopleLoveIt": "Audiences love 'The Hangover' for its wild, unpredictable journey through Las Vegas, where the mix of unforgettable characters like the clueless Alan and the frantic Phil creates a perfect storm of chaos and humor. The clever storytelling, especially the non-linear flashbacks that piece together the outrageous night, keeps viewers on their toes while the outrageous situations, like a tiger in a bathroom and a baby in a closet, resonate with anyone who's ever had a night out spiral out of control.",
     "vibes": [
-      "comedy",
-      "rewatchable"
+      "wild-adventure",
+      "dark-comedy",
+      "friendship",
+      "chaotic-fun",
+      "unexpected-twists"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 45243,
-      "title": "The Hangover Part II",
-      "year": 2011,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Hangover clicked for you, The Hangover Part II (2011) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 8363,
+      "title": "Superbad",
+      "year": 2007,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The chaotic friendship dynamics in Superbad mirror the hilarious misadventures of Phil, Stu, and Alan as they navigate a wild night in Las Vegas. Both films capture the essence of youthful camaraderie, where the stakes feel absurd yet profoundly real.",
       "sharedVibes": [
+        "friendship",
+        "adventure",
+        "youth"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 138832,
+      "title": "We're the Millers",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The unlikely family dynamic in We're the Millers reflects the bizarre and dysfunctional camaraderie found in The Hangover. As they embark on a wild road trip filled with comedic mishaps, the sense of bonding amidst chaos resonates strongly.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "dysfunction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 55721,
+      "title": "Bridesmaids",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The raw and raucous friendship between the bridesmaids showcases the highs and lows of relationships, akin to the chaotic bond between the groomsmen in The Hangover. Expect laugh-out-loud moments that blend with genuine emotional depth.",
+      "sharedVibes": [
+        "friendship",
+        "romance",
+        "comedy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10189,
+      "title": "Pineapple Express",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The absurdity of a thrill-seeking adventure undertaken by two friends in Pineapple Express parallels the wild escapades of The Hangover crew. Both films expertly blend action with humor, leaving viewers both laughing and cringing in delight.",
+      "sharedVibes": [
+        "friendship",
+        "action",
         "comedy"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 107811,
+      "title": "21 & Over",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The night of debauchery in 21 & Over shares thematic elements with The Hangover, showcasing how a seemingly innocent evening can spiral into chaos. The mix of friendship and outrageous circumstances creates a contagious energy that keeps you engaged.",
+      "sharedVibes": [
+        "youth",
+        "party",
+        "friendship"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27581,
+      "title": "The Other Guys",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The hilarious misadventures of hapless detectives in The Other Guys evoke the same comedic surprises and unexpected twists found in The Hangover. Both films excel at blending humor with a surprisingly engaging narrative, peppered with memorable character moments.",
+      "sharedVibes": [
+        "buddy-cop",
+        "humor",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10074,
+      "title": "Hot Rod",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The absurdity of Rod's quest to become a stuntman resonates with the outrageous escapades of the characters in The Hangover. Both films thrive on the charm of eccentric characters and their wild determination to succeed against all odds.",
+      "sharedVibes": [
+        "determination",
+        "humor",
+        "quirky"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16614,
+      "title": "Adventureland",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The feeling of nostalgia and coming-of-age in Adventureland parallels the themes of self-discovery present in The Hangover amid the wild chaos. This bittersweet narrative captures the essence of youth's fleeting moments, wrapped in humor and heart.",
+      "sharedVibes": [
+        "nostalgia",
+        "youth",
+        "coming-of-age"
+      ],
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 109439,
       "title": "The Hangover Part III",
       "year": 2013,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Hangover clicked for you, The Hangover Part III (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The final chapter of the Hangover saga explores themes of friendship and closure, similar to the way the original film highlighted the bonds formed through shared adventures. Expect a mix of nostalgia and humorous chaos as the gang comes together for one last ride.",
       "sharedVibes": [
-        "comedy"
+        "friendship",
+        "closure",
+        "adventure"
       ],
-      "mood": "funny"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 2109,
-      "title": "Rush Hour",
-      "year": 1998,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Rush Hour (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 469192,
+      "title": "The Good Time Girls",
+      "year": 2017,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "This lesser-known gem brings together a group of women navigating their wild night, much like the chaotic escapades of the guys in The Hangover. It captures the spirit of adventure and the unexpected surprises that come with a quest for freedom.",
       "sharedVibes": [
-        "comedy",
-        "action",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 4944,
-      "title": "Burn After Reading",
-      "year": 2008,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Burn After Reading (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2907,
-      "title": "The Addams Family",
-      "year": 1991,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Hangover clicked for you, The Addams Family (1991) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "fantasy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1878,
-      "title": "Fear and Loathing in Las Vegas",
-      "year": 1998,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Fear and Loathing in Las Vegas (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
+        "freedom",
         "adventure",
-        "drama"
+        "female-empowerment"
       ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2978,
-      "title": "Ghostbusters II",
-      "year": 1989,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Ghostbusters II (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "fantasy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2123,
-      "title": "Me, Myself & Irene",
-      "year": 2000,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Me, Myself & Irene (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 2757,
-      "title": "Adaptation.",
-      "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Adaptation. (2002) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "crime",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 137093,
-      "title": "Last Vegas",
-      "year": 2013,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Hangover clicked for you, Last Vegas (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy"
-      ],
-      "mood": "funny"
+      "mood": "uplifting"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Hangover?",
-      "answer": "Try The Hangover Part II, The Hangover Part III, Rush Hour—each shares DNA with The Hangover while changing the setting enough to feel fresh."
+      "answer": "Try Superbad, We're the Millers, Bridesmaids—each shares DNA with The Hangover while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Hangover?",

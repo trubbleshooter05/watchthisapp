@@ -8,11 +8,13 @@
       "Drama",
       "Western"
     ],
-    "whyPeopleLoveIt": "Django Unchained works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and western blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences love 'Django Unchained' for its fearless blend of dark humor and brutal realism, where Django’s journey from a slave to a gunslinging hero feels cathartic and empowering, especially in scenes like the explosive rescue of his wife, Broomhilda. Tarantino's sharp dialogue and iconic references create an unforgettable experience, making us cheer for Django while confronting the ugly truths of America’s past.",
     "vibes": [
-      "drama",
-      "western",
-      "crowd-favorite"
+      "dark-humor",
+      "empowerment",
+      "revenge",
+      "historical-commentary",
+      "stylized-violence"
     ]
   },
   "recommendations": [
@@ -20,137 +22,137 @@
       "tmdbId": 273248,
       "title": "The Hateful Eight",
       "year": 2015,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, The Hateful Eight (2015) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The tension between characters trapped in a hostile environment echoes the dynamic between Django and his oppressors, as grievances unfold amidst a backdrop of violence. This film’s exploration of loyalty and betrayal will resonate with the same intensity as Django’s quest for freedom and justice.",
       "sharedVibes": [
-        "drama",
-        "western",
-        "mystery"
+        "betrayal",
+        "violence",
+        "survival"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 44264,
-      "title": "True Grit",
-      "year": 2010,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, True Grit (2010) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 76203,
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The harrowing journey of Solomon Northup mirrors Django's fight for dignity and freedom, encapsulating the brutal realities of slavery with heart-wrenching authenticity. Both films highlight the resilience of the human spirit against oppressive systems, making you reflect on the price of survival.",
       "sharedVibes": [
-        "drama",
-        "western",
-        "adventure"
+        "resilience",
+        "oppression",
+        "historical"
       ],
-      "mood": "tense"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 581,
-      "title": "Dances with Wolves",
-      "year": 1990,
+      "tmdbId": 16869,
+      "title": "Inglourious Basterds",
+      "year": 2009,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, Dances with Wolves (1990) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The blend of revenge and moral complexity in this film mirrors Django’s own vengeful journey, featuring characters who navigate the thin line between heroism and villainy. The masterful dialogue and tension-filled scenes will leave you on edge, just like when Django confronts his enemies.",
       "sharedVibes": [
-        "drama",
-        "western",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 581032,
-      "title": "News of the World",
-      "year": 2020,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, News of the World (2020) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 922,
-      "title": "Dead Man",
-      "year": 1995,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, Dead Man (1995) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western",
-        "fantasy"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2055,
-      "title": "Open Range",
-      "year": 2003,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, Open Range (2003) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 785663,
-      "title": "Old Henry",
-      "year": 2021,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, Old Henry (2021) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 3110,
-      "title": "Shane",
-      "year": 1953,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, Shane (1953) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2118,
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, L.A. Confidential (1997) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "mystery",
-        "thriller"
+        "revenge",
+        "moral-complexity",
+        "tension"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 2898,
-      "title": "As Good as It Gets",
-      "year": 1997,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Django Unchained clicked for you, As Good as It Gets (1997) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 294963,
+      "title": "Bone Tomahawk",
+      "year": 2015,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "The relentless survival instincts of the characters as they face a brutal threat resonate with Django's own struggle against dehumanization and violence. The stark portrayal of humanity in dire circumstances draws parallels to Django's quest for his love and freedom.",
       "sharedVibes": [
-        "drama",
-        "comedy",
-        "romance"
+        "survival",
+        "violence",
+        "humanity"
       ],
-      "mood": "funny"
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 281957,
+      "title": "The Revenant",
+      "year": 2015,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Like Django's relentless pursuit of justice, Hugh Glass’s journey is a raw exploration of survival and vengeance, fueled by a desire for retribution against unimaginable odds. Both films share stunning cinematography that elevates the emotional weight of their protagonists' struggles.",
+      "sharedVibes": [
+        "revenge",
+        "survival",
+        "nature"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 429,
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The complex relationships between the titular characters reflect Django's alliances and conflicts, where trust is a fleeting concept amidst greed and violence. The film's iconic standoffs and morally ambiguous figures will keep you captivated, reminiscent of Django's own confrontations with foes.",
+      "sharedVibes": [
+        "greed",
+        "betrayal",
+        "morality"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 395834,
+      "title": "Wind River",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The film’s exploration of justice within a marginalized community resonates deeply with Django’s narrative of fighting against systemic oppression. The chilling atmosphere and emotional weight of the characters’ struggles will remind you of the stakes faced by Django and his loved ones.",
+      "sharedVibes": [
+        "justice",
+        "marginalization",
+        "atmosphere"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 16608,
+      "title": "The Proposition",
+      "year": 2005,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The exploration of familial loyalty and moral ambiguity in a brutal frontier setting resonates with Django’s fight for his loved ones, where violence is an undeniable part of survival. The film’s haunting atmosphere and stark imagery will linger with you, much like Django's unforgettable journey.",
+      "sharedVibes": [
+        "loyalty",
+        "violence",
+        "morality"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3112,
+      "title": "The Night of the Hunter",
+      "year": 1955,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The film's portrayal of a charismatic villain and the children’s fight for safety evokes the same tension and emotional stakes present in Django's story. The haunting visuals and psychological depth will leave you pondering the nature of evil, much like the characters in Django's world.",
+      "sharedVibes": [
+        "villainy",
+        "innocence",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11967,
+      "title": "Young Guns",
+      "year": 1988,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Young Guns as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Django Unchained?",
-      "answer": "Try The Hateful Eight, True Grit, Dances with Wolves—each shares DNA with Django Unchained while changing the setting enough to feel fresh."
+      "answer": "Try The Hateful Eight, 12 Years a Slave, Inglourious Basterds—each shares DNA with Django Unchained while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Django Unchained?",

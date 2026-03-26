@@ -9,149 +9,151 @@
       "Thriller",
       "Horror"
     ],
-    "whyPeopleLoveIt": "Black Swan works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the intense psychological descent of Nina, portrayed with haunting precision by Natalie Portman, as she transforms from the innocent White Swan into the darkly obsessive Black Swan. The film’s surreal choreography and the palpable tension in scenes like the pivotal performance where Nina embraces her shadow self draw you into a world where ambition and madness blur, making you feel every heartbeat of her harrowing journey.",
     "vibes": [
-      "drama",
-      "thriller",
-      "horror",
-      "rewatchable"
+      "psychological-thriller",
+      "obsession",
+      "transformation",
+      "darkness",
+      "artistic-struggle"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 805,
-      "title": "Rosemary's Baby",
-      "year": 1968,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Rosemary's Baby (1968) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intricate psychological manipulation and obsession in 'Black Swan' finds its chilling counterpart in Tom Ripley's desire to assume another's identity. Both films explore how ambition and envy can corrupt the very essence of a person, culminating in harrowing consequences.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "horror"
+        "obsession",
+        "identity",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 86825,
-      "title": "Stoker",
-      "year": 2013,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Stoker (2013) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 10494,
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "As Nina's descent into madness reflects her struggle for perfection, 'Perfect Blue' weaves a haunting tale of a pop idol's psychological unraveling under the pressures of fame. Both films explore the harrowing intersection of identity and artistic ambition through unsettling, surreal imagery.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11481,
-      "title": "Repulsion",
-      "year": 1965,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Repulsion (1965) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11167,
-      "title": "Peeping Tom",
-      "year": 1960,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Peeping Tom (1960) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 361292,
-      "title": "Suspiria",
-      "year": 2018,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Suspiria (2018) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 476299,
-      "title": "Ghostland",
-      "year": 2018,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Ghostland (2018) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 2291,
-      "title": "Jacob's Ladder",
-      "year": 1990,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Jacob's Ladder (1990) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 807356,
-      "title": "Watcher",
-      "year": 2022,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Watcher (2022) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 50837,
-      "title": "Martha Marcy May Marlene",
-      "year": 2011,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Martha Marcy May Marlene (2011) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller"
+        "obsession",
+        "identity",
+        "psychological"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 17645,
-      "title": "Leave Her to Heaven",
-      "year": 1945,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Black Swan clicked for you, Leave Her to Heaven (1945) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "In 'Midsommar', the unraveling of personal trauma mirrors Nina's psychological collapse as she strives for acceptance in a world that feels increasingly alien. Both films delve into how desire and grief can warp one’s sense of self amidst visually stunning yet horrifying landscapes.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "romance"
+        "trauma",
+        "survival",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 641,
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The harrowing spiral into addiction in 'Requiem for a Dream' resonates with Nina's all-consuming pursuit of perfection and the toll it takes on her psyche. Both films vividly illustrate how dreams can transform into nightmares when fueled by obsession.",
+      "sharedVibes": [
+        "obsession",
+        "addiction",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7340,
+      "title": "Carrie",
+      "year": 1976,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The explosive climax of 'Carrie' serves as a powerful parallel to Nina’s own tragic transformation under the weight of societal expectations and personal demons. Both films navigate the fragile boundary between innocence and destruction fueled by deep-seated trauma.",
+      "sharedVibes": [
+        "bullying",
+        "identity",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 244786,
+      "title": "Whiplash",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The intense mentor-student dynamic in 'Whiplash' evokes the same kind of psychological warfare that Nina faces as she strives to be the best. Both films capture the suffocating pressure of ambition and the personal sacrifices made in pursuit of greatness.",
+      "sharedVibes": [
+        "ambition",
+        "mentorship",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 526667,
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Much like Nina grappling with her dark side, 'The Witch' explores a young woman's descent into paranoia and madness in a repressive environment. Both films evoke a sense of dread as they unearth the terrifying consequences of societal and familial pressures.",
+      "sharedVibes": [
+        "paranoia",
+        "identity",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 42628,
+      "title": "Goké, Body Snatcher from Hell",
+      "year": 1968,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "In its exploration of identity and the body, 'Goke, Body Snatcher from Hell' resonates with Nina's struggles as she becomes consumed by her role. Both films create a nightmarish atmosphere where the psychological and the horrific intertwine unsettlingly.",
+      "sharedVibes": [
+        "identity",
+        "horror",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3537,
+      "title": "Fame",
+      "year": 1980,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The pursuit of artistic excellence in 'Fame' parallels Nina's obsession with perfection, revealing the darker side of fame and talent. Both films illustrate the toll that ambition takes on the individual, all while showcasing the beauty of performance.",
+      "sharedVibes": [
+        "ambition",
+        "performance",
+        "psychological"
       ],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 371560,
+      "title": "The Eyes of My Mother",
+      "year": 2016,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The haunting exploration of isolation and identity in 'The Eyes of My Mother' echoes Nina's isolation as she spirals into madness. Both films evoke a visceral sense of dread, examining how trauma shapes one's reality.",
+      "sharedVibes": [
+        "isolation",
+        "identity",
+        "psychological"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Black Swan?",
-      "answer": "Try Rosemary's Baby, Stoker, Repulsion—each shares DNA with Black Swan while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Perfect Blue, Midsommar—each shares DNA with Black Swan while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Black Swan?",

@@ -9,146 +9,151 @@
       "Drama",
       "Romance"
     ],
-    "whyPeopleLoveIt": "People revisit La La Land for the same reason it broke through in 2016: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Damien Chazelle keeps the ensemble pointed in one direction. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'La La Land' for its bittersweet exploration of dreams and love through the enchanting dance sequences and the palpable chemistry between Mia and Sebastian, especially during that iconic planetarium scene where they float among the stars. The film's ending—where they share a poignant moment of what could have been—leaves you both heartbroken and inspired, reminding us of the sacrifices made for our passions.",
     "vibes": [
-      "comedy",
-      "drama",
-      "romance",
-      "crowd-favorite"
+      "nostalgic",
+      "bittersweet",
+      "dreamy",
+      "romantic",
+      "ambitious"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 50646,
-      "title": "Crazy, Stupid, Love.",
-      "year": 2011,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If La La Land clicked for you, Crazy, Stupid, Love. (2011) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 8976,
-      "title": "A Lot Like Love",
-      "year": 2005,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If La La Land clicked for you, A Lot Like Love (2005) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 9410,
-      "title": "Great Expectations",
-      "year": 1998,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If La La Land clicked for you, Great Expectations (1998) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 114,
-      "title": "Pretty Woman",
-      "year": 1990,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If La La Land clicked for you, Pretty Woman (1990) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 9762,
-      "title": "Step Up",
-      "year": 2006,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If La La Land clicked for you, Step Up (2006) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance",
-        "music",
-        "crime"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 872,
-      "title": "Singin' in the Rain",
-      "year": 1952,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If La La Land clicked for you, Singin' in the Rain (1952) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 42297,
-      "title": "Burlesque",
-      "year": 2010,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If La La Land clicked for you, Burlesque (2010) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 243683,
-      "title": "Step Up All In",
+      "tmdbId": 244786,
+      "title": "Whiplash",
       "year": 2014,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If La La Land clicked for you, Step Up All In (2014) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "The intense student-teacher dynamic captures the same obsession for perfection that Mia and Sebastian navigate in La La Land. Just as Mia faces her fears in the audition scene, Andrew's relentless drive leads him to both triumph and peril in his pursuit of greatness.",
       "sharedVibes": [
-        "drama",
+        "obsession",
+        "ambition",
+        "identity"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 198277,
+      "title": "Begin Again",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The intertwining stories of lost dreams and rekindled hopes echo the soulful moments of La La Land, particularly in how music serves as a healing force. Just like the rooftop scene in La La Land, the spontaneous performances in Begin Again create a sense of magic and connection among characters.",
+      "sharedVibes": [
+        "redemption",
+        "music",
+        "relationships"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 332562,
+      "title": "A Star Is Born",
+      "year": 2018,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "The exploration of love and ambition in A Star is Born resonates deeply with the balance of dreams and romance found in La La Land. Much like the bittersweet ending of Mia and Sebastian's journey, the emotional climax of this film will leave you breathless.",
+      "sharedVibes": [
+        "love",
+        "ambition",
+        "tragedy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 86829,
+      "title": "Inside Llewyn Davis",
+      "year": 2013,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "The struggle of an artist grappling with failure and the pursuit of authenticity evokes the same poignant undertones found in La La Land. Just as Mia fights through rejections, Llewyn's journey through the New York folk scene highlights the sacrifices made for one's passion.",
+      "sharedVibes": [
+        "struggle",
+        "identity",
+        "dreams"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 316029,
+      "title": "The Greatest Showman",
+      "year": 2017,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The colorful spectacle of ambition and dreams in The Greatest Showman mirrors the vibrant energy of La La Land, particularly in how passion fuels creativity. As characters navigate personal and societal hurdles, the emotional resonance will remind you of Mia and Sebastian's journey.",
+      "sharedVibes": [
+        "dreams",
+        "ambition",
+        "celebration"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 5967,
+      "title": "The Umbrellas of Cherbourg",
+      "year": 1964,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The deep emotional connection and musical storytelling in The Umbrellas of Cherbourg captures the essence of love and longing reminiscent of Mia and Sebastian's relationship. The film’s use of song as dialogue reflects the same lyrical quality that defines La La Land's charm.",
+      "sharedVibes": [
         "romance",
+        "loss",
         "music"
       ],
       "mood": "bittersweet"
     },
     {
+      "tmdbId": 369557,
+      "title": "Sing Street",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The heartwarming journey of a young man finding his voice through music and love parallels the struggles faced by Mia and Sebastian in La La Land. Just like the vibrant dream sequences, Sing Street's musical moments capture the essence of hope and creativity amidst adversity.",
+      "sharedVibes": [
+        "youth",
+        "music",
+        "dreams"
+      ],
+      "mood": "uplifting"
+    },
+    {
       "tmdbId": 121986,
       "title": "Frances Ha",
       "year": 2013,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If La La Land clicked for you, Frances Ha (2013) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The exploration of friendships and dreams in Frances Ha evokes the same relatable struggles Mia faces while chasing her aspirations. The film's blend of humor and pathos mirrors the rhythm of La La Land, inviting reflection on the pursuit of happiness.",
       "sharedVibes": [
-        "comedy",
-        "drama"
+        "friendship",
+        "identity",
+        "dreams"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 9429,
-      "title": "A Night at the Roxbury",
-      "year": 1998,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If La La Land clicked for you, A Night at the Roxbury (1998) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 206296,
+      "title": "The Last Five Years",
+      "year": 2014,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "The unique narrative structure of The Last Five Years, capturing love through past and present, provides a fresh perspective similar to the emotional highs and lows present in La La Land. As characters navigate their relationship's evolution, you'll experience the same bittersweet resonance that defines Mia and Sebastian's journey.",
       "sharedVibes": [
-        "comedy",
-        "romance"
+        "romance",
+        "loss",
+        "musical"
       ],
-      "mood": "funny"
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 152601,
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "The poignant exploration of love and isolation in Her resonates with the emotional depth found in La La Land, particularly in how relationships evolve amidst personal ambition. Just as Mia and Sebastian confront their dreams, Theodore grapples with connection and technology in a beautifully rendered world.",
+      "sharedVibes": [
+        "love",
+        "isolation",
+        "technology"
+      ],
+      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after La La Land?",
-      "answer": "Try Crazy, Stupid, Love., A Lot Like Love, Great Expectations—each shares DNA with La La Land while changing the setting enough to feel fresh."
+      "answer": "Try Whiplash, Begin Again, A Star Is Born—each shares DNA with La La Land while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is La La Land?",

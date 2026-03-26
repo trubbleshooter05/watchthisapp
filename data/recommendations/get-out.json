@@ -9,142 +9,143 @@
       "Thriller",
       "Horror"
     ],
-    "whyPeopleLoveIt": "Get Out (2017) stuck because it commits to its mystery premise without apologizing—viewers remember set pieces and momentum as much as plot. Jordan Peele's control of tone keeps the ride coherent. The mystery and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences love 'Get Out' because it masterfully blends horror and social commentary, especially through the character of Chris who navigates the chilling tension of meeting his white girlfriend's family, only to uncover their sinister motivations. The film's use of unsettling imagery, like the increasingly disturbing 'sunken place' scenes, alongside sharp dialogue and moments of dark humor, creates a uniquely harrowing experience that resonates long after the credits roll.",
     "vibes": [
-      "mystery",
-      "thriller",
-      "horror",
-      "rewatchable"
+      "psychological-thriller",
+      "social-commentary",
+      "dark-humor",
+      "tension-filled",
+      "unsettling"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 631843,
-      "title": "Old",
-      "year": 2021,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Get Out clicked for you, Old (2021) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The way Tom Ripley adopts new identities echoes Chris's struggle with authenticity in a world that fetishizes him. Both films explore the sinister side of privilege with a chilling sense of inevitability that keeps you on edge.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
+        "obsession",
+        "class",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 496243,
+      "title": "Parasite",
+      "year": 2019,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The tension in Parasite builds similarly to the eerie, escalating discomfort found in the dinner scene of Get Out. As class warfare unfolds, the film masterfully navigates shifting tones that keep you guessing until the very end.",
+      "sharedVibes": [
+        "class-anxiety",
+        "deception",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "The raw emotional turmoil within a family mirrors Chris's alienation, creating a suffocating atmosphere of dread. Both films expertly manipulate familial dynamics to unravel deep-seated horrors that linger long after the credits roll.",
+      "sharedVibes": [
+        "familial-psychology",
+        "trauma",
         "horror"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The subtle, creeping unease at a dinner gathering resonates with the unsettling atmosphere of Chris's visit to his girlfriend's family. Both films captivate viewers by gradually revealing the true nature of seemingly benign social interactions.",
+      "sharedVibes": [
+        "tension",
+        "psychological",
+        "social-dynamics"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 242224,
+      "title": "The Babadook",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The suffocating pressure of grief and motherhood parallels Chris's struggle against external and internal demons in Get Out. Both narratives delve into the horror of confronting one’s own identity amidst crushing societal expectations.",
+      "sharedVibes": [
+        "trauma",
+        "psychological",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 521935,
+      "title": "Cam",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The exploration of identity theft in Cam evokes the disorientation felt by Chris as he navigates a world that distorts his essence. Both films are unsettling journeys that question the boundaries of individuality in the face of social media and perception.",
+      "sharedVibes": [
+        "identity",
+        "technology",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 424781,
+      "title": "Sorry to Bother You",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The biting satire and surreal approach to race and capitalism resonates with the social critique found throughout Get Out. Both films utilize dark humor to expose the absurdities of identity and the lengths people go to fit into societal molds.",
+      "sharedVibes": [
+        "social-commentary",
+        "capitalism",
+        "absurdity"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1933,
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The slow reveal of haunting truths in The Others parallels the gripping build-up of suspense in Get Out's final act. Both films draw you into a world that blurs the line between reality and the supernatural, keeping you guessing until the very last moment.",
+      "sharedVibes": [
+        "mystery",
+        "haunting",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The unsettling exploration of relationships and emotional trauma during a seemingly idyllic festival echoes the hidden horrors beneath the surface in Get Out. Both films use vibrant visuals to juxtapose the chaotic and the serene, crafting an unforgettable experience.",
+      "sharedVibes": [
+        "relationship-dynamics",
+        "cultural-horror",
+        "identity"
+      ],
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 476299,
       "title": "Ghostland",
       "year": 2018,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Get Out clicked for you, Ghostland (2018) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Ghostland as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 20126,
-      "title": "Deep Red",
-      "year": 1975,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Get Out clicked for you, Deep Red (1975) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 207933,
-      "title": "Stonehearst Asylum",
-      "year": 2014,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Get Out clicked for you, Stonehearst Asylum (2014) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 814800,
-      "title": "Goodnight Mommy",
-      "year": 2022,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Get Out clicked for you, Goodnight Mommy (2022) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 399057,
-      "title": "The Killing of a Sacred Deer",
-      "year": 2017,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Get Out clicked for you, The Killing of a Sacred Deer (2017) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 13483,
-      "title": "Awake",
-      "year": 2007,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Get Out clicked for you, Awake (2007) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 536437,
-      "title": "Hypnotic",
-      "year": 2023,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Get Out clicked for you, Hypnotic (2023) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 11974,
-      "title": "The 'Burbs",
-      "year": 1989,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Get Out clicked for you, The 'Burbs (1989) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
         "horror",
-        "comedy"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 101669,
-      "title": "Mother's Day",
-      "year": 2010,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Get Out clicked for you, Mother's Day (2010) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "horror",
-        "crime"
+        "mystery",
+        "thriller"
       ],
       "mood": "dark"
     }
@@ -152,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after Get Out?",
-      "answer": "Try Old, Ghostland, Deep Red—each shares DNA with Get Out while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Parasite, Hereditary—each shares DNA with Get Out while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Get Out?",

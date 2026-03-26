@@ -9,12 +9,13 @@
       "Crime",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "People revisit Glass Onion: A Knives Out Mystery for the same reason it broke through in 2022: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Rian Johnson keeps the ensemble pointed in one direction. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Glass Onion' because it brilliantly weaves humor and social commentary through its sharp-witted characters like the flamboyant tech billionaire Miles Bron and the astute detective Benoit Blanc, who navigate a web of deceit among the wealthy elite. The film's intricate plot twists and playful nods to classic whodunits create an engaging experience that keeps viewers guessing, while the sunny, vibrant setting of the private island contrasts with the dark undertones of betrayal and privilege.",
     "vibes": [
-      "comedy",
-      "crime",
+      "whodunit",
+      "satirical",
+      "quirky",
       "mystery",
-      "rewatchable"
+      "ensemble-cast"
     ]
   },
   "recommendations": [
@@ -22,51 +23,51 @@
       "tmdbId": 546554,
       "title": "Knives Out",
       "year": 2019,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Knives Out (2019) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The intricate family dynamics and sharp social commentary will feel familiar, especially when the characters' motives unravel in unexpected ways. Just like in Glass Onion, the comedic timing amid the tension creates a consistently engaging rhythm that keeps you guessing and laughing.",
       "sharedVibes": [
-        "comedy",
-        "crime",
-        "mystery"
+        "mystery",
+        "class-anxiety",
+        "dark-humor"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 744653,
-      "title": "The Thursday Murder Club",
-      "year": 2025,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, The Thursday Murder Club (2025) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 26331,
+      "title": "The Last of Sheila",
+      "year": 1973,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The layered storytelling and biting wit in this whodunit mimic the ensemble dynamics found in Glass Onion, as secrets come to light during a high-stakes game. The playful yet deadly atmosphere will keep you hooked, making you question each character's role just like the guests on the island.",
       "sharedVibes": [
-        "comedy",
-        "crime",
+        "deception",
+        "class",
         "mystery"
       ],
-      "mood": "funny"
+      "mood": "tense"
     },
     {
-      "tmdbId": 9749,
-      "title": "Fletch",
-      "year": 1985,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Fletch (1985) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "crime",
-        "mystery"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1594,
-      "title": "A Shot in the Dark",
-      "year": 1964,
+      "tmdbId": 505026,
+      "title": "Death on the Nile",
+      "year": 2022,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, A Shot in the Dark (1964) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The luxurious setting and ensemble cast echo the high society critique found in Glass Onion, with each character hiding secrets that ultimately collide. The film's blend of suspense and humor will keep you entertained while unraveling a complex murder plot.",
       "sharedVibes": [
-        "comedy",
-        "crime",
+        "betrayal",
+        "wealth",
         "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 445571,
+      "title": "Game Night",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The blend of humor and tension as the characters navigate a real-life mystery mirrors the playful yet perilous energy of Glass Onion. The escalating stakes throughout the film create an exciting atmosphere where nothing is as it seems.",
+      "sharedVibes": [
+        "mystery",
+        "friendship",
+        "humor"
       ],
       "mood": "funny"
     },
@@ -74,86 +75,85 @@
       "tmdbId": 290250,
       "title": "The Nice Guys",
       "year": 2016,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, The Nice Guys (2016) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The dynamic between the mismatched duo in this neo-noir comedy echoes the camaraderie and conflict seen in Glass Onion's ensemble. The clever dialogue and absurd situations create a compelling rhythm that balances comedy and crime seamlessly.",
       "sharedVibes": [
-        "comedy",
-        "crime",
-        "action"
+        "buddy-cop",
+        "humor",
+        "crime"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 573435,
-      "title": "Bad Boys: Ride or Die",
-      "year": 2024,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Bad Boys: Ride or Die (2024) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 15196,
+      "title": "Clue",
+      "year": 1985,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The farcical approach to a murder mystery in Clue resonates deeply with the playful tone and sharp wit of Glass Onion. The chaotic unveiling of secrets and motives will keep you laughing while you try to piece together the clues alongside the characters.",
       "sharedVibes": [
-        "comedy",
-        "crime",
-        "action"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 169917,
-      "title": "A Walk Among the Tombstones",
-      "year": 2014,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
         "mystery",
-        "drama",
-        "thriller"
+        "humor",
+        "ensemble"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 514999,
+      "title": "Murder Mystery",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This film's mix of comedy and intrigue, centered around a murder on a lavish yacht, echoes the extravagant settings and playful tone found in Glass Onion. The chemistry between the leads drives the narrative, adding a layer of charm to the unfolding mystery.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 21755,
+      "title": "The Brothers Bloom",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The whimsical storytelling and the con artist angle mirror the clever plotting and character interactions found in Glass Onion. As the intricate plan unfolds, you'll appreciate the humor and charm of each character navigating their convoluted scheme.",
+      "sharedVibes": [
+        "con-artistry",
+        "humor",
+        "twists"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 601666,
+      "title": "I Care a Lot",
+      "year": 2021,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The morally ambiguous characters and their cunning schemes reflect the sharp social commentary of Glass Onion, as they navigate a world where trust is scarce. The tension between comedy and crime creates a thrilling experience that will keep you on your toes.",
+      "sharedVibes": [
+        "deception",
+        "greed",
+        "humor"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 812583,
-      "title": "Wake Up Dead Man: A Knives Out Mystery",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "mystery",
-        "thriller"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 396461,
-      "title": "Under the Silver Lake",
+      "tmdbId": 484247,
+      "title": "A Simple Favor",
       "year": 2018,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Under the Silver Lake (2018) is a strong next stop: both trade in crime and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The interplay of friendship and betrayal combined with a mystery element resonates with the character-driven narrative in Glass Onion. The film's stylish execution and dark humor create a captivating atmosphere as the plot thickens.",
       "sharedVibes": [
-        "crime",
+        "friendship",
         "mystery",
-        "drama"
+        "dark-humor"
       ],
       "mood": "tense"
-    },
-    {
-      "tmdbId": 520023,
-      "title": "Bodies Bodies Bodies",
-      "year": 2022,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Glass Onion: A Knives Out Mystery clicked for you, Bodies Bodies Bodies (2022) is a strong next stop: both trade in comedy and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "mystery",
-        "horror"
-      ],
-      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Glass Onion: A Knives Out Mystery?",
-      "answer": "Try Knives Out, The Thursday Murder Club, Fletch—each shares DNA with Glass Onion: A Knives Out Mystery while changing the setting enough to feel fresh."
+      "answer": "Try Knives Out, The Last of Sheila, Death on the Nile—each shares DNA with Glass Onion: A Knives Out Mystery while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Glass Onion: A Knives Out Mystery?",

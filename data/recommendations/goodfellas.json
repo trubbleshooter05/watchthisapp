@@ -8,24 +8,39 @@
       "Drama",
       "Crime"
     ],
-    "whyPeopleLoveIt": "GoodFellas (1990) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. Martin Scorsese's control of tone keeps the ride coherent. The drama and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences adore 'GoodFellas' for its raw and unfiltered portrayal of mob life, masterfully crafted by Scorsese, who immerses us in the adrenaline rush of Henry Hill's rise and fall, perfectly punctuated by the iconic 'Layla' scene that juxtaposes the chaos of violence with a hauntingly beautiful soundtrack. The film's dynamic characters, particularly Joe Pesci's unpredictable Tommy, deliver unforgettable moments that keep you on edge, making you feel the thrill and despair of a world where loyalty is everything and betrayal lurks around every corner.",
     "vibes": [
-      "drama",
-      "crime",
-      "crowd-favorite"
+      "intense",
+      "gritty",
+      "unpredictable",
+      "nostalgic",
+      "emotional"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 398978,
-      "title": "The Irishman",
-      "year": 2019,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, The Irishman (2019) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 238,
+      "title": "The Godfather",
+      "year": 1972,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The intricate dynamics of loyalty and betrayal echo the deep character relationships in GoodFellas, particularly between Henry and his criminal mentors. Just like Henry's journey, Michael Corleone's transformation from outsider to kingpin reveals the corrosive nature of power and ambition within a crime family.",
       "sharedVibes": [
-        "drama",
-        "crime",
-        "history"
+        "loyalty",
+        "betrayal",
+        "power"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 111,
+      "title": "Scarface",
+      "year": 1983,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films present an exhilarating rise-and-fall narrative that examines the intoxicating allure of crime, much like Henry Hill's journey through the mob life. Tony Montana’s relentless ambition and ultimate downfall parallel the frantic energy and tragic consequences that define the world of GoodFellas.",
+      "sharedVibes": [
+        "ambition",
+        "downfall",
+        "crime"
       ],
       "mood": "tense"
     },
@@ -33,122 +48,111 @@
       "tmdbId": 524,
       "title": "Casino",
       "year": 1995,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Casino (1995) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 311,
-      "title": "Once Upon a Time in America",
-      "year": 1984,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Once Upon a Time in America (1984) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intense character dynamics and the exploration of greed resonate deeply with the themes in GoodFellas, particularly Henry’s relationships with his partners. Just as GoodFellas dives into the emotional cost of crime, Casino reveals the destructive nature of obsession through the tumultuous lives of its characters.",
       "sharedVibes": [
-        "drama",
-        "crime"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2118,
-      "title": "L.A. Confidential",
-      "year": 1997,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, L.A. Confidential (1997) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "mystery",
-        "thriller"
+        "greed",
+        "obsession",
+        "betrayal"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 9366,
-      "title": "Donnie Brasco",
-      "year": 1997,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Donnie Brasco (1997) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Both films navigate the intersection of identity and moral decay, showcasing protagonists whose lives spiral under the weight of their obsessions. Patrick Bateman’s chilling detachment and pursuit of status reflect Henry's own struggles with self-identity amid the chaotic crime scene.",
       "sharedVibes": [
-        "drama",
-        "crime",
-        "thriller"
+        "identity",
+        "obsession",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 457799,
-      "title": "Extremely Wicked, Shockingly Evil and Vile",
-      "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Extremely Wicked, Shockingly Evil and Vile (2019) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 6075,
-      "title": "Carlito's Way",
-      "year": 1993,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Carlito's Way (1993) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 169917,
-      "title": "A Walk Among the Tombstones",
-      "year": 2014,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "mystery",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1429,
-      "title": "25th Hour",
+      "tmdbId": 598,
+      "title": "City of God",
       "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, 25th Hour (2002) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The way City of God portrays the brutal underbelly of crime through vivid storytelling mirrors the gripping narrative style of GoodFellas. Both films effectively combine thrilling set pieces with a haunting portrayal of how violence shapes lives and communities.",
       "sharedVibes": [
-        "drama",
-        "crime"
+        "violence",
+        "community",
+        "survival"
       ],
       "mood": "tense"
+    },
+    {
+      "tmdbId": 4133,
+      "title": "Blow",
+      "year": 2001,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The thrilling rise of George Jung parallels Henry Hill’s journey into the drug trade, shedding light on the seductive nature of crime and the inevitable downfall that follows. The film captures the same frenetic energy and emotional weight as GoodFellas, emphasizing the cost of ambition and addiction.",
+      "sharedVibes": [
+        "ambition",
+        "addiction",
+        "downfall"
+      ],
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 4836,
       "title": "Layer Cake",
       "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Layer Cake's exploration of the complexities of the criminal underworld resonates with the layered storytelling of GoodFellas, particularly its focus on the personal toll of crime. The film’s stylish execution and shifting tones echo the way Scorsese masterfully combines moments of levity with brutal reality.",
+      "sharedVibes": [
+        "identity",
+        "crime",
+        "class"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If GoodFellas clicked for you, Layer Cake (2004) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The tension between loyalty and betrayal in The Departed mirrors the relationships in GoodFellas, especially the perilous balance that comes with living a double life. Both films delve into the moral complexities of crime, maintaining a pulse of suspense and emotional depth throughout.",
+      "sharedVibes": [
+        "loyalty",
+        "betrayal",
+        "suspense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 21575,
+      "title": "A Prophet",
+      "year": 2009,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "A Prophet's exploration of a young man's evolution within a tough prison environment echoes the formative experiences that shape Henry Hill's character in GoodFellas. As the protagonist navigates loyalty and survival, the film delivers a raw depiction of the choices that define one's path in a world of crime.",
+      "sharedVibes": [
+        "survival",
+        "identity",
+        "loyalty"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 466081,
+      "title": "The Informer",
+      "year": 2019,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider The Informer as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
       "sharedVibes": [
         "drama",
         "crime",
         "thriller"
       ],
-      "mood": "dark"
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after GoodFellas?",
-      "answer": "Try The Irishman, Casino, Once Upon a Time in America—each shares DNA with GoodFellas while changing the setting enough to feel fresh."
+      "answer": "Try The Godfather, Scarface, Casino—each shares DNA with GoodFellas while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is GoodFellas?",

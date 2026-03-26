@@ -9,139 +9,143 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "The Menu works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'The Menu' because it masterfully dissects the pretentiousness of fine dining through dark humor and satirical commentary, with Chef Slowik's twisted dinner party creating an atmosphere of escalating tension and moral reckoning. The dynamic between Margot and the other guests serves as a relatable reflection on privilege and the desire for authenticity, culminating in a shocking yet cathartic climax that leaves viewers questioning their own values around consumption and artistry.",
     "vibes": [
-      "comedy",
-      "horror",
-      "thriller",
-      "rewatchable"
+      "dark-comedy",
+      "satire",
+      "intense",
+      "social-commentary",
+      "thrilling"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 11974,
-      "title": "The 'Burbs",
-      "year": 1989,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Menu clicked for you, The 'Burbs (1989) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The cunning social dynamics and intense obsession in The Menu mirror Tom Ripley's chilling desire to assume another's identity in this film. As the tension escalates between Tom and his affluent target, you'll experience a similar thrill of moral ambiguity and escalating horror that challenges your perceptions of desire and identity.",
       "sharedVibes": [
-        "comedy",
-        "horror",
+        "obsession",
+        "class",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 567609,
+      "title": "Ready or Not",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The chaotic blend of dark comedy and survival horror in The Menu finds a kindred spirit in Ready or Not, where a bride must navigate a deadly game set by her in-laws. Both films explore the grotesque extremes of class and privilege with razor-sharp wit and visceral tension.",
+      "sharedVibes": [
+        "survival",
+        "class-anxiety",
+        "dark-humor"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 491584,
+      "title": "Burning",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The slow-burn tension and class disparity in Burning resonate deeply with the underlying themes of power and desire found in The Menu. The enigmatic interactions between the characters evoke a feeling of dread and obsession that lingers long after the credits roll.",
+      "sharedVibes": [
+        "class-anxiety",
+        "mystery",
+        "obsession"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 254320,
+      "title": "The Lobster",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Both films delve into the absurdity of societal expectations around relationships, showcasing a darkly comedic lens on survival and desire. The Lobster's bizarre and chilling exploration of love and conformity leaves you questioning the very fabric of human connection, much like the dinner guests in The Menu.",
+      "sharedVibes": [
+        "absurdity",
+        "class-anxiety",
+        "survival"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 401246,
+      "title": "The Square",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The Square's satirical commentary on art and class mirrors the biting critique of privilege in The Menu, creating an unsettling yet thought-provoking experience. Both films present a series of uncomfortable scenarios that force characters—and audiences—to confront their morals and ethics in a world driven by power.",
+      "sharedVibes": [
+        "class-anxiety",
+        "satire",
+        "morality"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The intense moral quandaries and the blend of horror and social commentary in The Hunt align with the unsettling truths explored in The Menu. As characters grapple with their own survival in a cruel game of power, the film captures a similar blend of thrill and moral ambiguity.",
+      "sharedVibes": [
+        "survival",
+        "morality",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The Invitation creates a palpable sense of dread in a social gathering reminiscent of the dinner party in The Menu, where underlying tensions and hidden truths come to light. Both films expertly escalate discomfort, examining how personal relationships can shift into something dark and threatening.",
+      "sharedVibes": [
+        "tension",
+        "betrayal",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 26466,
+      "title": "Triangle",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The psychological horror and circular narrative of Triangle echo the themes of obsession and survival in The Menu, creating an experience that toys with your understanding of reality. Both films leave you questioning the cost of desire and the lengths one might go to escape their own fate.",
+      "sharedVibes": [
+        "obsession",
+        "psychological",
         "thriller"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 10576,
-      "title": "Psycho II",
-      "year": 1983,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Menu clicked for you, Psycho II (1983) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 12573,
+      "title": "A Serious Man",
+      "year": 2009,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "A Serious Man offers a darkly comedic exploration of existential dilemmas that resonate with the philosophical undertones of The Menu, where every character's choices lead to unexpected consequences. The film's absurdity in the face of life's uncertainties mirrors the unsettling humor found in the struggle for survival and acceptance.",
       "sharedVibes": [
-        "horror",
-        "thriller",
-        "mystery"
+        "existential",
+        "absurdity",
+        "dark-humor"
       ],
-      "mood": "dark"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 637649,
-      "title": "Wrath of Man",
-      "year": 2021,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Menu clicked for you, Wrath of Man (2021) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 254302,
+      "title": "High-Rise",
+      "year": 2015,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "High-Rise's claustrophobic setting and descent into chaos echo the chilling atmosphere of The Menu, where social structures unravel amidst grotesque excess. Both films offer a biting critique of class and privilege through an absurd lens, inviting viewers to reflect on the fragility of civility.",
       "sharedVibes": [
-        "thriller",
-        "crime",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 37094,
-      "title": "Falling Down",
-      "year": 1993,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Menu clicked for you, Falling Down (1993) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "crime",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 3594,
-      "title": "The Number 23",
-      "year": 2007,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Menu clicked for you, The Number 23 (2007) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "mystery",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 542178,
-      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
-      "year": 2021,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Menu clicked for you, The French Dispatch of the Liberty, Kansas Evening Sun (2021) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 800158,
-      "title": "The Killer",
-      "year": 2023,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Menu clicked for you, The Killer (2023) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 574475,
-      "title": "Final Destination Bloodlines",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Menu clicked for you, Final Destination Bloodlines (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 51608,
-      "title": "The Man from Nowhere",
-      "year": 2010,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Menu clicked for you, The Man from Nowhere (2010) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "action",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 68812,
-      "title": "The Iceman",
-      "year": 2012,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Menu clicked for you, The Iceman (2012) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "thriller",
-        "crime",
-        "drama"
+        "class-anxiety",
+        "social-commentary",
+        "dystopian"
       ],
       "mood": "dark"
     }
@@ -149,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after The Menu?",
-      "answer": "Try The 'Burbs, Psycho II, Wrath of Man—each shares DNA with The Menu while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Ready or Not, Burning—each shares DNA with The Menu while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Menu?",

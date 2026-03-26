@@ -10,39 +10,26 @@
       "Action",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto The Hunger Games (2012) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'The Hunger Games' because of Katniss Everdeen's fierce determination and the palpable tension in the arena scenes, especially when she volunteers to save her sister Prim, showcasing a powerful bond that resonates deeply. The film tackles themes of survival and oppression through its haunting depiction of a dystopian society and the emotional weight of choices made for love and sacrifice, leaving viewers both exhilarated and reflective.",
     "vibes": [
-      "science-fiction",
-      "adventure",
-      "action",
-      "thriller",
-      "rewatchable"
+      "dystopian-drama",
+      "suspenseful",
+      "heartfelt-sacrifice",
+      "rebellion",
+      "survival"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 101299,
-      "title": "The Hunger Games: Catching Fire",
-      "year": 2013,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, The Hunger Games: Catching Fire (2013) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 3176,
+      "title": "Battle Royale",
+      "year": 2000,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The intense survival game orchestrated by a manipulative authority in Battle Royale mirrors the brutal competition of The Hunger Games, where young lives are pitted against each other for entertainment. The raw emotional connections between friends turned enemies resonate deeply, particularly in the heart-wrenching moments of betrayal and sacrifice that both films portray.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 131631,
-      "title": "The Hunger Games: Mockingjay - Part 1",
-      "year": 2014,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, The Hunger Games: Mockingjay - Part 1 (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "thriller"
+        "survival",
+        "betrayal",
+        "authority"
       ],
       "mood": "tense"
     },
@@ -51,110 +38,123 @@
       "title": "Divergent",
       "year": 2014,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, Divergent (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like Katniss's struggle against a repressive regime, Divergent's Tris faces the oppressive forces of her society, exploring identity and rebellion. The thrilling action scenes and the complex relationships she navigates echo the emotional stakes found in The Hunger Games.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "identity",
+        "rebellion",
+        "class-anxiety"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 131634,
-      "title": "The Hunger Games: Mockingjay - Part 2",
-      "year": 2015,
+      "tmdbId": 198663,
+      "title": "The Maze Runner",
+      "year": 2014,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, The Hunger Games: Mockingjay - Part 2 (2015) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The sense of camaraderie and the fight against a faceless enemy in The Maze Runner align closely with the team dynamics and survival instincts displayed in The Hunger Games. Both films compel you to invest in characters who are continually striving for freedom amidst terrifying predicaments.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "friendship",
+        "freedom",
+        "survival"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 262500,
-      "title": "Insurgent",
-      "year": 2015,
+      "tmdbId": 110415,
+      "title": "Snowpiercer",
+      "year": 2013,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Snowpiercer's class struggle within a confined environment mirrors the societal divisions explored in The Hunger Games, where the fight against oppression is central to the narrative. The film's gripping action and moral dilemmas create a thrilling atmosphere that keeps you engaged, much like Katniss’s own journey.",
       "sharedVibes": [
-        "science-fiction",
-        "action",
+        "class-struggle",
+        "oppression",
         "thriller"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 399579,
-      "title": "Alita: Battle Angel",
-      "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 227156,
+      "title": "The Giver",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "In The Giver, the protagonist's awakening to the harsh realities of her seemingly perfect society evokes the journey of self-discovery and rebellion experienced by Katniss in The Hunger Games. The emotional weight of fighting against conformity resonates deeply, revealing the cost of true freedom.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "identity",
+        "conformity",
+        "rebellion"
       ],
-      "mood": "tense"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 2787,
-      "title": "Pitch Black",
-      "year": 2000,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, Pitch Black (2000) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "action",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 865,
-      "title": "The Running Man",
-      "year": 1987,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, The Running Man (1987) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "science-fiction",
-        "action",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 2135,
-      "title": "The Time Machine",
-      "year": 2002,
+      "tmdbId": 10360,
+      "title": "Hunger",
+      "year": 2008,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, The Time Machine (2002) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Hunger’s harrowing exploration of sacrifice and moral choices within a brutal system strikes a chord similar to Katniss’s struggles against the Capitol's oppressive nature. The visceral storytelling and stark realism enhances the emotional journey, as characters are pushed to their limits.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "action"
+        "survival",
+        "sacrifice",
+        "grit"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 72710,
+      "title": "The Host",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The love story entwined with a fight against alien invaders in The Host reflects the complex relationships and struggles for survival seen in The Hunger Games. The emotional depth and action-packed sequences keep the stakes high, much like Katniss's endeavors.",
+      "sharedVibes": [
+        "alien-invasion",
+        "love",
+        "survival"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 339988,
+      "title": "The Circle",
+      "year": 2017,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The themes of surveillance and the quest for truth in The Circle resonate with the constant monitoring and control present in The Hunger Games, highlighting the dangers of a society driven by technology and power. The protagonist's struggle against the system vividly reflects Katniss's own fight for autonomy.",
+      "sharedVibes": [
+        "surveillance",
+        "power",
+        "identity"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 324670,
-      "title": "Spectral",
-      "year": 2016,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Hunger Games clicked for you, Spectral (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 447332,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "matchPercentage": 73,
+      "whyYoullLoveIt": "The palpable tension and the struggle for survival in a post-apocalyptic world in A Quiet Place evoke the same adrenaline and emotional stakes present in The Hunger Games. The strong family bonds and sacrifices made for loved ones echo Katniss's fierce loyalty to her sister, Prim.",
       "sharedVibes": [
-        "science-fiction",
-        "action",
-        "thriller"
+        "family",
+        "survival",
+        "sacrifice"
       ],
       "mood": "tense"
+    },
+    {
+      "tmdbId": 619264,
+      "title": "The Platform",
+      "year": 2019,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The harrowing social commentary and the fight for resources in The Platform resonate with the themes of class struggle and survival that are central to The Hunger Games. The psychological tension and moral dilemmas faced by characters reflect the same intense stakes that Katniss endures.",
+      "sharedVibes": [
+        "class-struggle",
+        "survival",
+        "psychological"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Hunger Games?",
-      "answer": "Try The Hunger Games: Catching Fire, The Hunger Games: Mockingjay - Part 1, Divergent—each shares DNA with The Hunger Games while changing the setting enough to feel fresh."
+      "answer": "Try Battle Royale, Divergent, The Maze Runner—each shares DNA with The Hunger Games while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Hunger Games?",

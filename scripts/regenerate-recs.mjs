@@ -127,23 +127,38 @@ function extractJsonObject(text) {
   return JSON.parse(raw);
 }
 
+/** Strip control chars / lone UTF-16 surrogates so JSON.stringify → OpenAI never breaks the request body. */
+function sanitizeChatText(s) {
+  return String(s)
+    .replace(/[\u0000-\u0008\u000b\u000c\u000e-\u001f]/g, " ")
+    .replace(/[\uD800-\uDFFF]/g, "");
+}
+
 async function openaiJson(system, user) {
   if (!OPENAI_API_KEY) throw new Error("OPENAI_API_KEY missing in .env.local");
+  const sys = sanitizeChatText(system);
+  const usr = sanitizeChatText(user);
+  let body;
+  try {
+    body = JSON.stringify({
+      model: OPENAI_MODEL,
+      temperature: 0.8,
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: sys },
+        { role: "user", content: usr },
+      ],
+    });
+  } catch (e) {
+    throw new Error(`Failed to serialize OpenAI request: ${e.message}`);
+  }
   const res = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
       Authorization: `Bearer ${OPENAI_API_KEY}`,
     },
-    body: JSON.stringify({
-      model: OPENAI_MODEL,
-      temperature: 0.8,
-      response_format: { type: "json_object" },
-      messages: [
-        { role: "system", content: system },
-        { role: "user", content: user },
-      ],
-    }),
+    body,
   });
   const data = await res.json();
   if (!res.ok) {
@@ -208,6 +223,31 @@ Also provide 4-6 short vibe tags (kebab-case) capturing tone and theme.
 Return ONLY JSON: { "whyPeopleLoveIt": "...", "vibes": ["tag-one", "tag-two"] }`;
 }
 
+/** Count "sentences" for validation: . ! ? ; or em dash between substantial clauses. Abbreviations like Dr. are masked. */
+function countWhySentences(text) {
+  let s = String(text).trim();
+  if (!s) return 0;
+  s = s.replace(/\b(Mr|Mrs|Ms|Mx|Dr|Prof|Jr|Sr|St)\./gi, (m) => m.replace(/\./g, "․"));
+  s = s.replace(/\b(e\.g\.|i\.e\.|vs\.|etc\.)\b/gi, (m) => m.replace(/\./g, "․"));
+  const restore = (t) => t.replace(/․/g, ".");
+  const byTerminal = s
+    .split(/(?<=[.!?])\s+/)
+    .map((x) => restore(x).trim())
+    .filter((x) => x.length > 0);
+  if (byTerminal.length >= 2) return byTerminal.length;
+  const bySemi = s
+    .split(/;\s+/)
+    .map((x) => restore(x).trim())
+    .filter((x) => x.length >= 20);
+  if (bySemi.length >= 2) return 2;
+  const byDash = s
+    .split(/\s+—\s+|\s+–\s+/)
+    .map((x) => restore(x).trim())
+    .filter((x) => x.length >= 20);
+  if (byDash.length >= 2) return 2;
+  return byTerminal.length;
+}
+
 function validateRecItem(x, i) {
   const yr = typeof x.year === "number" ? x.year : parseInt(x.year, 10);
   if (!x.title || !Number.isFinite(yr)) return `rec[${i}] missing title/year`;
@@ -215,8 +255,7 @@ function validateRecItem(x, i) {
   if (typeof x.matchPercentage !== "number" || x.matchPercentage < 70 || x.matchPercentage > 98)
     return `rec[${i}] bad matchPercentage`;
   if (!x.whyYoullLoveIt || typeof x.whyYoullLoveIt !== "string") return `rec[${i}] missing whyYoullLoveIt`;
-  const sentences = x.whyYoullLoveIt.split(/(?<=[.!?])\s+/).filter(Boolean);
-  if (sentences.length < 2) return `rec[${i}] whyYoullLoveIt should be 2 sentences`;
+  if (countWhySentences(x.whyYoullLoveIt) < 2) return `rec[${i}] whyYoullLoveIt should be 2 sentences`;
   if (!MOODS.has(x.mood)) return `rec[${i}] bad mood: ${x.mood}`;
   if (!Array.isArray(x.sharedVibes) || x.sharedVibes.length < 2) return `rec[${i}] sharedVibes`;
   const low = x.whyYoullLoveIt.toLowerCase();
@@ -353,19 +392,29 @@ async function regenerateOne(slug) {
     throw new Error(`Expected 10 recommendations from model, got ${recs?.length}`);
   }
 
-  for (let attempt = 0; attempt < 2; attempt++) {
-    let bad = null;
+  for (let attempt = 0; attempt < 5; attempt++) {
+    const issues = [];
     for (let i = 0; i < recs.length; i++) {
-      bad = validateRecItem(recs[i], i);
-      if (bad) break;
+      const bad = validateRecItem(recs[i], i);
+      if (bad) issues.push(bad);
     }
-    if (!bad) break;
+    if (!issues.length) break;
     const repair = await openaiJson(
       system,
-      `Fix this recommendation list. Issue: ${bad}. Return full JSON with key "recommendations" (array of 10). Titles must be real movies.\n\n${JSON.stringify(recs).slice(0, 8000)}`
+      `Fix this recommendation list. Issues:\n${issues.slice(0, 15).join("\n")}
+
+Rules for whyYoullLoveIt: exactly TWO full sentences. End the first with a period (.), then one space, then the second sentence ending with . ! or ?
+Do not use one long run-on. Do not use only a semicolon unless you also have two clear sentences (each 15+ words).
+
+Return full JSON with key "recommendations" (array of 10). Titles must be real movies.
+
+${JSON.stringify(recs).slice(0, 8000)}`
     );
     await sleep(1000);
     recs = repair.recommendations;
+    if (!Array.isArray(recs) || recs.length !== 10) {
+      throw new Error(`Repair returned invalid recommendations length: ${recs?.length}`);
+    }
   }
 
   for (let i = 0; i < recs.length; i++) {

@@ -7,141 +7,151 @@
     "genres": [
       "Comedy"
     ],
-    "whyPeopleLoveIt": "Superbad works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "whyPeopleLoveIt": "Audiences love 'Superbad' for its authentic portrayal of teenage awkwardness and friendship, particularly seen in the hilarious yet heartfelt chemistry between Seth and Evan as they navigate their last days of high school. The film's relatable moments, like the chaotic party scenes and the iconic McLovin ID scene, perfectly capture the bittersweet blend of humor and nostalgia that resonates with anyone who's ever felt out of place or yearned for acceptance.",
     "vibes": [
-      "comedy",
-      "rewatchable"
+      "nostalgic",
+      "awkward",
+      "heartfelt",
+      "hilarious",
+      "coming-of-age"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 64688,
-      "title": "21 Jump Street",
-      "year": 2012,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Superbad clicked for you, 21 Jump Street (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "action",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 301528,
-      "title": "Toy Story 4",
-      "year": 2019,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Superbad clicked for you, Toy Story 4 (2019) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "family",
-        "animation",
-        "adventure"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 454983,
-      "title": "The Kissing Booth",
-      "year": 2018,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Superbad clicked for you, The Kissing Booth (2018) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 57214,
-      "title": "Project X",
-      "year": 2012,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Superbad clicked for you, Project X (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 157386,
-      "title": "The Spectacular Now",
-      "year": 2013,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Superbad clicked for you, The Spectacular Now (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 505600,
       "title": "Booksmart",
       "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Superbad clicked for you, Booksmart (2019) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The intense friendship and the pressure to make the most of one last night before graduation mirrors the bond between Seth and Evan in Superbad. The comedic escapades and realizations about youth and friendship pack an emotional punch that resonates deeply.",
       "sharedVibes": [
-        "comedy"
+        "friendship",
+        "youth",
+        "self-discovery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 376660,
+      "title": "The Edge of Seventeen",
+      "year": 2016,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The sharp wit and awkward, heartfelt moments feel akin to the humor found in Superbad, especially in the way Nadine navigates the complexities of teenage friendships. Both films encapsulate the struggles of young adulthood with honesty and comedic flair.",
+      "sharedVibes": [
+        "teenage-warfare",
+        "identity",
+        "friendship"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9603,
+      "title": "Clueless",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Cher’s over-the-top attempts to navigate the social hierarchy draw parallels to the chaotic pursuits of Seth and Evan, making for a comedy that digs into social dynamics. Both films offer a humorous yet insightful look at teenage desire and self-discovery.",
+      "sharedVibes": [
+        "teenage-life",
+        "desire",
+        "class"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 9571,
-      "title": "Dazed and Confused",
-      "year": 1993,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Superbad clicked for you, Dazed and Confused (1993) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 391713,
+      "title": "Lady Bird",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The conflict between Lady Bird and her mother echoes the tension between Seth and Evan as they each grapple with their identities and the pressures of growing up. This film's blend of humor and heart captures the essence of teenage angst beautifully.",
       "sharedVibes": [
-        "comedy",
-        "drama"
+        "family",
+        "growth",
+        "identity"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 6957,
+      "title": "The 40 Year Old Virgin",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The awkwardness of navigating intimacy and relationships mirrors the misadventures of Seth and Evan, making for a humorously relatable experience. Both films delve into the theme of love and friendship with an endearing and comedic touch.",
+      "sharedVibes": [
+        "friendship",
+        "intimacy",
+        "growth"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 10314,
-      "title": "She's All That",
+      "tmdbId": 10189,
+      "title": "Pineapple Express",
+      "year": 2008,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The absurdity of the situations the characters find themselves in resonates with the chaotic journey of Seth and Evan. Both films showcase a strong bond between friends as they face outrageous circumstances, blending humor with a touch of danger.",
+      "sharedVibes": [
+        "friendship",
+        "adventure",
+        "absurdity"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2105,
+      "title": "American Pie",
       "year": 1999,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "If Superbad clicked for you, She's All That (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The camaraderie and the coming-of-age mishaps experienced by the characters parallel the trials of Seth and Evan as they navigate their final high school days. Both films provide a hilarious yet poignant exploration of adolescent desires.",
       "sharedVibes": [
-        "comedy",
-        "romance"
+        "coming-of-age",
+        "friendship",
+        "desire"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 10634,
-      "title": "Friday",
-      "year": 1995,
+      "tmdbId": 147773,
+      "title": "The Way Way Back",
+      "year": 2013,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Superbad clicked for you, Friday (1995) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The journey of self-discovery and the awkwardness of growing up resonates with the emotional core of Superbad, particularly through the character dynamics. This film captures the essence of summer and the bittersweet nature of youth, much like Seth and Evan's adventure.",
       "sharedVibes": [
-        "comedy",
-        "drama"
+        "self-discovery",
+        "youth",
+        "summer"
       ],
-      "mood": "funny"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 642885,
-      "title": "Hocus Pocus 2",
-      "year": 2022,
+      "tmdbId": 156700,
+      "title": "The Kings of Summer",
+      "year": 2013,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Superbad clicked for you, Hocus Pocus 2 (2022) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The wild antics and desire for freedom from parental influences echo the escapades of Seth and Evan in Superbad. Both films feature a group of friends embarking on a journey that defines their youth and friendship.",
       "sharedVibes": [
-        "comedy",
-        "fantasy",
-        "family"
+        "friendship",
+        "freedom",
+        "adventure"
       ],
-      "mood": "funny"
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16614,
+      "title": "Adventureland",
+      "year": 2009,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The bittersweet blend of youthful adventure and the search for identity mirrors the summer escapade of Superbad, capturing the essence of young adulthood. The film's exploration of love and self-discovery in an amusement park setting resonates with the same nostalgic tone.",
+      "sharedVibes": [
+        "nostalgia",
+        "identity",
+        "coming-of-age"
+      ],
+      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Superbad?",
-      "answer": "Try 21 Jump Street, Toy Story 4, The Kissing Booth—each shares DNA with Superbad while changing the setting enough to feel fresh."
+      "answer": "Try Booksmart, The Edge of Seventeen, Clueless—each shares DNA with Superbad while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Superbad?",

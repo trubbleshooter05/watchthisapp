@@ -9,144 +9,151 @@
       "Drama",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "People revisit The Wolf of Wall Street for the same reason it broke through in 2013: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Martin Scorsese keeps the ensemble pointed in one direction. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'The Wolf of Wall Street' for its wild portrayal of excess, as they revel in the outrageous antics of Jordan Belfort and his crew, from the unforgettable Quaalude-fueled chaos to the lavish parties that seem to stretch reality. Martin Scorsese’s masterful direction, coupled with Leonardo DiCaprio's magnetic performance, creates a frenzy that feels both intoxicating and cautionary, laying bare the seductive nature of greed and the darker side of the American Dream.",
     "vibes": [
-      "crime",
-      "drama",
-      "comedy",
-      "crowd-favorite"
+      "excessive-fun",
+      "darkly-comedic",
+      "cautionary-tale",
+      "wild-energy",
+      "high-stakes"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 308266,
-      "title": "War Dogs",
-      "year": 2016,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, War Dogs (2016) is a strong next stop: both trade in crime and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 37799,
+      "title": "The Social Network",
+      "year": 2010,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The cutthroat ambition and moral decay depicted in the rise of Mark Zuckerberg mirrors the frenetic energy and ethical collapse seen in Jordan Belfort's world. Both films showcase sharp dialogue and a relentless pace that captures the intoxicating highs and devastating lows of success.",
       "sharedVibes": [
-        "crime",
-        "drama",
-        "comedy"
+        "ambition",
+        "betrayal",
+        "tech-obsession"
       ],
-      "mood": "funny"
+      "mood": "tense"
     },
     {
       "tmdbId": 1359,
       "title": "American Psycho",
       "year": 2000,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films delve into the dark side of excess and materialism through their protagonists' chilling charisma and moral vacuity. Patrick Bateman's chilling monologues echo the self-indulgent revelations of Jordan Belfort, creating a sense of disquiet that lingers long after the credits roll.",
       "sharedVibes": [
-        "crime",
-        "drama",
-        "thriller"
+        "obsession",
+        "identity",
+        "capitalism"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 4995,
+      "title": "Boogie Nights",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The rise and fall of characters in the porn industry reflects the same chaotic ambition and camaraderie found in Belfort's world, where the lines between success and failure blur. Just like the frenetic parties in 'The Wolf of Wall Street', the scenes in 'Boogie Nights' pulse with energy, humor, and an underlying sense of tragedy.",
+      "sharedVibes": [
+        "ambition",
+        "partying",
+        "camaraderie"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 640,
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Frank Abagnale's charm and cunning draw parallels to Jordan Belfort's explosive character, both navigating a world of deception and allure. Their high-stakes escapades create a whirlwind of excitement that keeps you on the edge of your seat, much like the thrill of Belfort's antics.",
+      "sharedVibes": [
+        "deception",
+        "thrill",
+        "charm"
+      ],
+      "mood": "uplifting"
     },
     {
       "tmdbId": 318846,
       "title": "The Big Short",
       "year": 2015,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, The Big Short (2015) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The razor-sharp commentary on financial greed and the consequences of corporate malfeasance resonates strongly with the themes of excess and its fallout in 'The Wolf of Wall Street'. Its unique storytelling approach keeps the tension high, much like the relentless drive of Belfort's rise and demise.",
       "sharedVibes": [
-        "drama",
-        "comedy"
+        "greed",
+        "financial-crisis",
+        "intellect"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 134374,
+      "title": "Pain & Gain",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The absurdity and dark satire of the American Dream in 'Pain and Gain' parallel the extravagant excess and moral ambiguity of Belfort's life. Both films captivate with their larger-than-life characters and the outrageous lengths they go to achieve wealth and fame.",
+      "sharedVibes": [
+        "ambition",
+        "satire",
+        "crime"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 168672,
-      "title": "American Hustle",
-      "year": 2013,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, American Hustle (2013) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 644495,
+      "title": "House of Gucci",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The tangled web of ambition and betrayal within a storied fashion dynasty reflects the high-stakes game of power and greed that lies at the heart of 'The Wolf of Wall Street'. Both films feature memorable characters driven by obsession, with a flair for the dramatic that keeps audiences engaged.",
       "sharedVibes": [
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 524,
-      "title": "Casino",
-      "year": 1995,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, Casino (1995) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 311,
-      "title": "Once Upon a Time in America",
-      "year": 1984,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, Once Upon a Time in America (1984) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 4982,
-      "title": "American Gangster",
-      "year": 2007,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, American Gangster (2007) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 9366,
-      "title": "Donnie Brasco",
-      "year": 1997,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, Donnie Brasco (1997) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "drama",
-        "thriller"
+        "betrayal",
+        "fashion",
+        "wealth"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 10673,
-      "title": "Wall Street",
-      "year": 1987,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, Wall Street (1987) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 96936,
+      "title": "The Bling Ring",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This film captures the allure of celebrity culture and the lengths people will go to claim a slice of that fame, echoing the hedonistic pursuits of Jordan Belfort. The thrilling escapades of the characters reveal how the obsession with wealth and status can spiral out of control, much like in Scorsese's tale.",
       "sharedVibes": [
-        "crime",
-        "drama"
+        "celebrity",
+        "wealth",
+        "obsession"
       ],
-      "mood": "tense"
+      "mood": "funny"
     },
     {
-      "tmdbId": 47931,
-      "title": "Elite Squad: The Enemy Within",
-      "year": 2010,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Wolf of Wall Street clicked for you, Elite Squad: The Enemy Within (2010) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 337170,
+      "title": "American Made",
+      "year": 2017,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The story of a pilot turned drug smuggler shares a similar thrill ride of moral compromise and the pursuit of the American Dream that 'The Wolf of Wall Street' deftly explores. Both films utilize humor and charismatic performances to illustrate the absurdity of their protagonists' reckless lives.",
       "sharedVibes": [
         "crime",
-        "drama",
-        "action"
+        "humor",
+        "adventure"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 156700,
+      "title": "The Kings of Summer",
+      "year": 2013,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "Amidst the comedic backdrop of teenage rebellion, this film shares a longing for freedom that resonates with the wild escapades of Belfort's youth. The exploration of friendship and the quest for autonomy reflects the deeper themes of excess and personal stakes found in Scorsese's work.",
+      "sharedVibes": [
+        "freedom",
+        "friendship",
+        "youth"
+      ],
+      "mood": "uplifting"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Wolf of Wall Street?",
-      "answer": "Try War Dogs, American Psycho, The Big Short—each shares DNA with The Wolf of Wall Street while changing the setting enough to feel fresh."
+      "answer": "Try The Social Network, American Psycho, Boogie Nights—each shares DNA with The Wolf of Wall Street while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Wolf of Wall Street?",

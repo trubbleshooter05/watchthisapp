@@ -8,24 +8,25 @@
       "Drama",
       "Romance"
     ],
-    "whyPeopleLoveIt": "People revisit Pride & Prejudice for the same reason it broke through in 2005: clear stakes, memorable faces, and a romance rhythm that doesn't stall in the middle. Joe Wright keeps the ensemble pointed in one direction. The drama and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences adore 'Pride & Prejudice' for its vibrant exploration of love and class through Elizabeth Bennet's fierce independence and the brooding charm of Mr. Darcy, especially in that iconic scene where they dance at the Netherfield ball, filled with tension and unspoken feelings. The film beautifully captures the tension between societal expectations and personal desires, making you root for Elizabeth as she defies convention and follows her heart, especially in the breathtaking final proposal scene that feels both like a culmination of their journey and a personal triumph.",
     "vibes": [
-      "drama",
-      "romance",
-      "crowd-favorite"
+      "romantic-tension",
+      "class-struggle",
+      "feminist-empowerment",
+      "emotional-resilience"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 12184,
-      "title": "The Other Boleyn Girl",
-      "year": 2008,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, The Other Boleyn Girl (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The tangled web of love and misunderstanding in 'Atonement' resonates deeply with the fierce emotional stakes seen in Elizabeth Bennet's struggles. With its sweeping romance punctuated by moments of heartbreaking miscommunication, you’ll find the same pulse that kept you engaged in the dance between Elizabeth and Darcy.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "history"
+        "regret",
+        "class-anxiety",
+        "love"
       ],
       "mood": "bittersweet"
     },
@@ -33,118 +34,124 @@
       "tmdbId": 4584,
       "title": "Sense and Sensibility",
       "year": 1995,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Sense and Sensibility (1995) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The dynamic between the Dashwood sisters captures the same essence of familial loyalty and romantic tension that defines Elizabeth and Jane's relationship. With rich character development and poignant moments, it offers a satisfying exploration of love's trials in a societal framework.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "family",
+        "love",
+        "class-anxiety"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 250734,
-      "title": "Far from the Madding Crowd",
-      "year": 2015,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Far from the Madding Crowd (2015) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 18320,
-      "title": "The Young Victoria",
-      "year": 2009,
+      "tmdbId": 2977,
+      "title": "Becoming Jane",
+      "year": 2007,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, The Young Victoria (2009) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like Elizabeth's spirited defiance, 'Becoming Jane' follows a young Jane Austen as she navigates societal expectations and her own desires. The film's exploration of romantic ideals versus harsh realities will resonate with anyone who cherished Elizabeth's bold choices.",
       "sharedVibes": [
-        "drama",
         "romance",
-        "history"
+        "identity",
+        "class"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 11257,
-      "title": "A Room with a View",
-      "year": 1986,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, A Room with a View (1986) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 11971,
-      "title": "Much Ado About Nothing",
+      "tmdbId": 10436,
+      "title": "The Age of Innocence",
       "year": 1993,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Much Ado About Nothing (1993) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "In 'The Age of Innocence,' the tension between societal expectations and personal happiness mirrors Elizabeth Bennet's own struggles against class constraints. Its lush visuals and nuanced performances evoke the same kind of romantic yearning that fills the air in P&P.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "comedy"
+        "society",
+        "class-anxiety",
+        "romance"
       ],
-      "mood": "funny"
+      "mood": "dark"
     },
     {
-      "tmdbId": 3573,
-      "title": "Emma",
-      "year": 1996,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Emma (1996) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 331482,
+      "title": "Little Women",
+      "year": 2019,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The relationship dynamics among the March sisters capture the same warmth and complexity found within the Bennet family, emphasizing love, ambition, and sacrifice. The film's confident pacing and vibrant portrayals evoke a similar rhythm to the courtship dance of Elizabeth and Darcy.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "comedy"
+        "family",
+        "ambition",
+        "love"
       ],
-      "mood": "funny"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 26371,
-      "title": "Maurice",
-      "year": 1987,
+      "tmdbId": 11236,
+      "title": "The Secret Garden",
+      "year": 1993,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Maurice (1987) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The transformative power of love and friendship in 'The Secret Garden' echoes Elizabeth's own journey towards understanding and acceptance. Its lush settings and emotional depth will immerse you in a world where healing and connection thrive just as they do in P&P.",
       "sharedVibes": [
-        "drama",
+        "healing",
+        "friendship",
         "romance"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 8293,
-      "title": "Howards End",
-      "year": 1992,
+      "tmdbId": 1245,
+      "title": "The Remains of the Day",
+      "year": 1993,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Howards End (1992) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The unexpressed feelings and missed opportunities in 'The Remains of the Day' reflect the same quiet desperation seen in Elizabeth's navigation of her own romantic fate. The film's subtle performances and exploration of duty versus desire will resonate with fans of P&P's emotional undercurrents.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "regret",
+        "duty",
+        "love"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 29963,
+      "title": "Bright Star",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The delicate romance and poignant tension in 'Bright Star' resonate with the same fervor found in the love story of Elizabeth and Darcy. As it explores the depth of love and artistic passion, you'll feel a familiar thrill akin to the moments that captivate in P&P.",
+      "sharedVibes": [
+        "art",
+        "romance",
+        "passion"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 18183,
-      "title": "Like Water for Chocolate",
-      "year": 1992,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Pride & Prejudice clicked for you, Like Water for Chocolate (1992) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 451480,
+      "title": "The Guernsey Literary & Potato Peel Pie Society",
+      "year": 2018,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The exploration of relationships forged through letters and shared experiences mirrors the emotional connections seen between Elizabeth and Mr. Darcy. This film’s blend of humor and heartache will remind you of the charm and romantic rhythm that made P&P so memorable.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "friendship",
+        "community",
+        "love"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12184,
+      "title": "The Other Boleyn Girl",
+      "year": 2008,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The fierce rivalry and complex familial ties in 'The Other Boleyn Girl' reflect the intense dynamics that drive the relationships in P&P, particularly the bond between sisters. This historical tale of ambition and love offers a riveting tapestry of drama that echoes the stakes familiar to Bennet's world.",
+      "sharedVibes": [
+        "ambition",
+        "family",
+        "betrayal"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Pride & Prejudice?",
-      "answer": "Try The Other Boleyn Girl, Sense and Sensibility, Far from the Madding Crowd—each shares DNA with Pride & Prejudice while changing the setting enough to feel fresh."
+      "answer": "Try Atonement, Sense and Sensibility, Becoming Jane—each shares DNA with Pride & Prejudice while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Pride & Prejudice?",

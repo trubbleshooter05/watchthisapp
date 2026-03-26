@@ -9,137 +9,139 @@
       "Music",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "Whiplash (2014) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. Damien Chazelle's control of tone keeps the ride coherent. The drama and music blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Whiplash' because of the intense, almost obsessive relationship between Andrew and Fletcher, where you can feel every pulse of anxiety and ambition during their explosive practice scenes. The film brilliantly captures the struggle for greatness, making you question how far one should go to achieve their dreams, especially with that heart-pounding final showdown that leaves you breathless.",
     "vibes": [
-      "drama",
-      "music",
-      "thriller",
-      "crowd-favorite"
+      "intense-energy",
+      "ambition",
+      "psychological-thriller",
+      "musical-passion",
+      "mentor-mentee"
     ]
   },
   "recommendations": [
     {
+      "tmdbId": 37799,
+      "title": "The Social Network",
+      "year": 2010,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The fierce ambition and cutthroat relationships in The Social Network echo the intense student-teacher dynamic found in Whiplash, where personal sacrifice is the price of success. As Mark Zuckerberg navigates betrayal and obsession, the film captures the same relentless pursuit of greatness, culminating in thrilling and poignant moments that stick with you long after the credits roll.",
+      "sharedVibes": [
+        "obsession",
+        "identity",
+        "betrayal"
+      ],
+      "mood": "tense"
+    },
+    {
       "tmdbId": 44214,
       "title": "Black Swan",
       "year": 2010,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Black Swan (2010) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Much like Andrew's journey in Whiplash, Nina Sayers in Black Swan grapples with the blurring lines between ambition and madness, leading to a nail-biting climax. The film’s exploration of artistic perfectionism and the psychological toll it takes on its protagonist mirrors the harrowing pursuit of excellence seen in the jazz world.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "horror"
+        "obsession",
+        "psychological",
+        "artistry"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 5503,
-      "title": "The Fugitive",
-      "year": 1993,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Whiplash clicked for you, The Fugitive (1993) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 279,
+      "title": "Amadeus",
+      "year": 1984,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The fierce rivalry and explosive passion between Salieri and Mozart resonate deeply with the mentor-mentee conflict in Whiplash, where ambition can lead to both jealousy and admiration. Its operatic portrayal of talent and the burdens of genius provides a rich emotional landscape that complements the high-stakes drama of musical pursuit.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 9762,
-      "title": "Step Up",
-      "year": 2006,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Step Up (2006) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "music",
-        "romance",
-        "crime"
+        "obsession",
+        "rivalry",
+        "artistry"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 5123,
-      "title": "August Rush",
-      "year": 2007,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Whiplash clicked for you, August Rush (2007) is a strong next stop: both trade in drama and music, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 1402,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The determination and resilience displayed by Chris Gardner in The Pursuit of Happyness resonate with Andrew’s drive to succeed against all odds in Whiplash. Both stories depict the emotional and psychological toll that comes with chasing dreams, culminating in moments of both heartbreak and triumph.",
       "sharedVibes": [
-        "drama",
-        "music",
-        "family"
+        "resilience",
+        "identity",
+        "ambition"
       ],
       "mood": "uplifting"
     },
     {
-      "tmdbId": 85446,
-      "title": "Step Up Revolution",
-      "year": 2012,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Step Up Revolution (2012) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 194662,
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The relentless pursuit of artistic validation in Birdman mirrors Andrew's frantic drive to impress Fletcher in Whiplash, both leading to intense, surreal moments that challenge their identities. With a unique narrative structure that emphasizes the chaos of performance, the film offers a thrilling emotional rollercoaster that resonates with any creative spirit.",
       "sharedVibes": [
-        "drama",
-        "music",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 661539,
-      "title": "A Complete Unknown",
-      "year": 2024,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Whiplash clicked for you, A Complete Unknown (2024) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "music"
+        "identity",
+        "performance",
+        "psychological"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 630566,
-      "title": "Clouds",
+      "tmdbId": 502033,
+      "title": "Sound of Metal",
       "year": 2020,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Clouds (2020) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "In Sound of Metal, Ruben’s journey through loss and acceptance parallels Andrew’s struggle with the pressures of musical perfection in Whiplash, as both characters face transformative challenges in their artistic paths. The emotional weight of their sacrifices and the haunting beauty of sound create a profound connection that lingers long after the film ends.",
       "sharedVibes": [
-        "drama",
-        "music",
-        "romance"
+        "loss",
+        "identity",
+        "resilience"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 9684,
-      "title": "Sweet and Lowdown",
-      "year": 1999,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Sweet and Lowdown (1999) is a strong next stop: both trade in drama and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 332562,
+      "title": "A Star Is Born",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The powerful dynamic between Jackson and Ally in A Star is Born reflects the mentor-mentee relationships seen in Whiplash, where the highs of artistic success are often shadowed by personal demons. Both films highlight the fragility of talent and the sacrifices one must make to achieve fame, wrapped in a deeply emotional narrative.",
       "sharedVibes": [
-        "drama",
-        "music",
-        "comedy"
+        "ambition",
+        "mentorship",
+        "sacrifice"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 350,
+      "title": "The Devil Wears Prada",
+      "year": 2006,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The exacting standards and fierce ambition of Miranda Priestly in The Devil Wears Prada parallel Fletcher's intense mentorship in Whiplash, showcasing the high stakes in creative fields. As Andy Sachs navigates her own compromises for success, the film offers a compelling look at the cost of ambition and the balance between personal life and career.",
+      "sharedVibes": [
+        "ambition",
+        "identity",
+        "sacrifice"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 41823,
-      "title": "Mo' Better Blues",
-      "year": 1990,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Mo' Better Blues (1990) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 369972,
+      "title": "First Man",
+      "year": 2018,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The intense pressure and personal sacrifice Neil Armstrong faces in First Man resonate with Andrew's journey in Whiplash, both showcasing the relentless pursuit of the seemingly impossible. With its focus on individual ambition against vast, often indifferent challenges, this film offers a gripping exploration of what it means to reach for the stars.",
       "sharedVibes": [
-        "drama",
-        "music"
+        "ambition",
+        "sacrifice",
+        "identity"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 207,
-      "title": "Dead Poets Society",
-      "year": 1989,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Whiplash clicked for you, Dead Poets Society (1989) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 422128,
+      "title": "Blame",
+      "year": 2018,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Blame as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
       "sharedVibes": [
         "drama"
       ],
@@ -149,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after Whiplash?",
-      "answer": "Try Black Swan, The Fugitive, Step Up—each shares DNA with Whiplash while changing the setting enough to feel fresh."
+      "answer": "Try The Social Network, Black Swan, Amadeus—each shares DNA with Whiplash while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Whiplash?",

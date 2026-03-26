@@ -9,144 +9,143 @@
       "Thriller",
       "Drama"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto Gone Girl (2014) as a mystery theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The mystery and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the twisted, psychological depth of Amy Dunne’s character, especially as her elaborate plan unfolds, turning the viewer’s expectations upside down in a way that keeps you on the edge of your seat. The way David Fincher builds tension through chilling scores and meticulous pacing, especially in scenes like the harrowing discovery of Amy's diary, makes you question the very nature of love and trust in relationships, leaving a lasting sense of unease.",
     "vibes": [
-      "mystery",
-      "thriller",
-      "drama",
-      "crowd-favorite"
+      "psychological-thriller",
+      "dark-satire",
+      "intense-tension",
+      "complex-relationships",
+      "unreliable-narrator"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 169917,
-      "title": "A Walk Among the Tombstones",
-      "year": 2014,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like Amy Dunne's manipulative genius, Tom Ripley's chameleon-like ability to adapt and deceive makes for a thrilling exploration of identity. The mounting tension as Tom's web of lies begins to unravel mirrors the dread-filled atmosphere of Gone Girl, keeping you glued to the screen.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama",
-        "crime"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 9437,
-      "title": "Kiss the Girls",
-      "year": 1997,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, Kiss the Girls (1997) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 651070,
-      "title": "A Fall from Grace",
-      "year": 2020,
+      "tmdbId": 146233,
+      "title": "Prisoners",
+      "year": 2013,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, A Fall from Grace (2020) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The desperation and moral ambiguity found in the investigation of a missing child resonates with the tension of Nick Dunne's harrowing experience. With a tight focus on how paranoia can unravel relationships, this film similarly invites viewers into a dark labyrinth of emotional chaos.",
       "sharedVibes": [
-        "mystery",
+        "moral-dilemma",
         "thriller",
-        "drama"
+        "psychological"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 11560,
-      "title": "High Crimes",
-      "year": 2002,
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, High Crimes (2002) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "As moral complexity unfolds around the missing child case, the film's exploration of ethical choices echoes the twisted dynamics of trust and betrayal in Gone Girl. The haunting atmosphere and chilling revelations will leave you questioning the very fabric of familial bonds.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama",
-        "crime"
+        "moral-dilemma",
+        "trust",
+        "mystery"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 19971,
-      "title": "The Little Girl Who Lives Down the Lane",
-      "year": 1976,
+      "tmdbId": 570670,
+      "title": "The Invisible Man",
+      "year": 2020,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, The Little Girl Who Lives Down the Lane (1976) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The pervasive sense of paranoia and the psychological manipulation that Cecilia experiences parallels Amy's intricate games in Gone Girl. As she navigates her trauma, the film expertly builds tension, mirroring the unsettling atmosphere that hooks you from start to finish.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 346685,
-      "title": "The Girl on the Train",
-      "year": 2016,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, The Girl on the Train (2016) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 524251,
-      "title": "I See You",
-      "year": 2019,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, I See You (2019) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1368166,
-      "title": "The Housemaid",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, The Housemaid (2025) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "mystery",
+        "psychological",
+        "abuse",
         "thriller"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 20126,
-      "title": "Deep Red",
-      "year": 1975,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, Deep Red (1975) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 109421,
+      "title": "Side Effects",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The chilling twists and turns surrounding mental health treatments echo the way Amy crafts her narrative, revealing layers of deceit and manipulation. As the characters' motivations become murky, you'll find yourself questioning every relationship, just like in Gone Girl.",
       "sharedVibes": [
-        "mystery",
-        "thriller",
-        "horror"
+        "deception",
+        "psychological",
+        "thriller"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 11092,
-      "title": "Presumed Innocent",
-      "year": 1990,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Gone Girl clicked for you, Presumed Innocent (1990) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 1933,
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The element of mystery and the slow reveal of dark family secrets resonate deeply with the unraveling of Amy’s past. As the tension escalates, the haunting atmosphere will keep you on edge, much like the chilling suspense of Gone Girl.",
       "sharedVibes": [
         "mystery",
-        "thriller",
-        "crime"
+        "secrets",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1949,
+      "title": "Zodiac",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The obsessive pursuit of truth and the toll it takes on personal relationships draws a clear line to Nick’s own unraveling in Gone Girl. With its methodical pacing and intricate storytelling, you'll get lost in a web of intrigue that mirrors the film's emotional weight.",
+      "sharedVibes": [
+        "obsession",
+        "mystery",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11498,
+      "title": "Dead Again",
+      "year": 1991,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The dual narratives and the exploration of past lives create a haunting echo of the intricate storytelling and unreliable narrators found in Gone Girl. The surreal twist of fate and psychological depth will keep you captivated, as you piece together the mystery.",
+      "sharedVibes": [
+        "reincarnation",
+        "mystery",
+        "psychological"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 328425,
+      "title": "The Gift",
+      "year": 2015,
+      "matchPercentage": 73,
+      "whyYoullLoveIt": "The dark ramifications of past actions and the layers of manipulation within relationships will remind you of the chilling twists in Gone Girl. The film's escalating tension and emotional turmoil create a gripping experience that will keep you second-guessing every character's intentions.",
+      "sharedVibes": [
+        "manipulation",
+        "trust",
+        "psychological"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The themes of emotional manipulation and the breakdown of relationships in an unsettling environment reflect the deep psychological drama present in Gone Girl. The disturbing beauty of the setting contrasts sharply with the characters' internal struggles, creating a haunting experience.",
+      "sharedVibes": [
+        "manipulation",
+        "relationships",
+        "psychological"
       ],
       "mood": "dark"
     }
@@ -154,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after Gone Girl?",
-      "answer": "Try A Walk Among the Tombstones, Kiss the Girls, A Fall from Grace—each shares DNA with Gone Girl while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Prisoners, Gone Baby Gone—each shares DNA with Gone Girl while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Gone Girl?",

@@ -7,21 +7,26 @@
     "genres": [
       "Horror"
     ],
-    "whyPeopleLoveIt": "People revisit Talk to Me for the same reason it broke through in 2023: clear stakes, memorable faces, and a horror rhythm that doesn't stall in the middle. Michael Philippou keeps the ensemble pointed in one direction. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "whyPeopleLoveIt": "Audiences are captivated by the way 'Talk to Me' dives deep into the complexities of grief and connection, especially through Mia's intense journey as she grapples with the loss of her mother and the haunting consequences of summoning spirits. The clever blending of body horror with relatable teenage struggles, alongside the film's raw and immersive atmosphere, makes each possession scene feel like a visceral emotional experience that lingers long after the credits roll.",
     "vibes": [
-      "horror",
-      "rewatchable"
+      "haunting",
+      "emotional",
+      "intense",
+      "thrilling",
+      "existential"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 259693,
-      "title": "The Conjuring 2",
-      "year": 2016,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, The Conjuring 2 (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The psychological unraveling of Ripley mirrors the intense identity crises seen in 'Talk to Me', as both films dive into the chilling depths of obsession. Just like the film's gripping final act, where desperation takes over, 'The Talented Mr. Ripley' showcases a character's descent into moral ambiguity that leaves you breathless.",
       "sharedVibes": [
-        "horror"
+        "obsession",
+        "identity",
+        "psychological"
       ],
       "mood": "dark"
     },
@@ -30,111 +35,123 @@
       "title": "Hereditary",
       "year": 2018,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Hereditary (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Echoing the raw emotional stakes of 'Talk to Me', 'Hereditary' presents a family fractured by tragedy and secrets, creating a palpable sense of dread. The haunting interactions between family members parallel the intense dynamics among friends in 'Talk to Me', capturing the devastating impact of grief and guilt.",
       "sharedVibes": [
-        "horror",
-        "mystery",
-        "thriller"
+        "family",
+        "grief",
+        "psychological"
       ],
-      "mood": "dark"
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 567609,
+      "title": "Ready or Not",
+      "year": 2019,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "The frantic pace and escalating tension in 'Ready or Not' resonate well with the relentless horror rhythm of 'Talk to Me', both films keeping viewers on the edge of their seats. As the protagonist fights for survival against unfathomable odds, her fierce determination creates a compelling mirror to the struggle faced by characters in 'Talk to Me'.",
+      "sharedVibes": [
+        "survival",
+        "class-struggle",
+        "dark-humor"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 270303,
+      "title": "It Follows",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The sense of unavoidable dread and the constant threat in 'It Follows' parallels the horror elements of 'Talk to Me', where unseen forces wreak havoc on the characters' lives. The haunting atmosphere and relentless tension will keep you engaged, much like the gripping stakes that defined your experience with 'Talk to Me'.",
+      "sharedVibes": [
+        "fear",
+        "youth",
+        "psychological"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 242224,
       "title": "The Babadook",
       "year": 2014,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, The Babadook (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 9392,
-      "title": "The Descent",
-      "year": 2005,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, The Descent (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror",
-        "adventure"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 7340,
-      "title": "Carrie",
-      "year": 1976,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Carrie (1976) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Much like the intricate exploration of trauma in 'Talk to Me', 'The Babadook' delves into the haunting effects of grief and loss, personified in a terrifying way. The dynamic between mother and son in the face of horror echoes the friendships and fractures highlighted throughout 'Talk to Me'.",
       "sharedVibes": [
-        "horror",
-        "thriller"
+        "grief",
+        "motherhood",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 345911,
-      "title": "Lights Out",
-      "year": 2016,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Lights Out (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 526667,
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films navigate the fragility of familial bonds under supernatural duress, with 'The Witch' offering a historical backdrop that deepens the sense of isolation and fear. The tension-filled moments of distrust and paranoia in 'The Witch' resonate well with the core themes explored in 'Talk to Me', where friendships are tested against unimaginable horrors.",
       "sharedVibes": [
-        "horror"
+        "isolation",
+        "fear",
+        "family"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 609,
-      "title": "Poltergeist",
-      "year": 1982,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Poltergeist (1982) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1151031,
-      "title": "Bring Her Back",
-      "year": 2025,
+      "tmdbId": 521935,
+      "title": "Cam",
+      "year": 2018,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Bring Her Back (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The exploration of identity and the blurring of reality in 'Cam' reflects the disorienting experience of 'Talk to Me', where characters face their own demons. As the protagonist navigates a world of digital personas, the tension and stakes of her journey resonate with the emotional turmoil of 'Talk to Me'.",
       "sharedVibes": [
-        "horror"
+        "identity",
+        "digital",
+        "psychological"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 571384,
-      "title": "Come Play",
-      "year": 2020,
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, Come Play (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The breathtaking visuals paired with unsettling horror in 'Midsommar' echo the vivid emotional stakes of 'Talk to Me', where beauty is often intertwined with dread. The way relationships fracture and evolve amidst chaos in both films creates a compelling sense of urgency that keeps you engaged.",
       "sharedVibes": [
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11772,
-      "title": "The Haunting",
-      "year": 1963,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Talk to Me clicked for you, The Haunting (1963) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
+        "relationships",
+        "anxiety",
         "horror"
       ],
-      "mood": "dark"
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 252171,
+      "title": "A Girl Walks Home Alone at Night",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The unique blend of horror and social commentary in 'A Girl Walks Home Alone at Night' resonates with the thought-provoking themes of 'Talk to Me', both films exploring the struggles of underrepresented voices. The interplay between the supernatural and intimate character moments creates a haunting atmosphere that parallels the emotional depth found in 'Talk to Me'.",
+      "sharedVibes": [
+        "social-commentary",
+        "identity",
+        "gender"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The tension that builds during a seemingly innocent gathering in 'The Invitation' mirrors the horror of camaraderie turning sour, similar to the friendships challenged in 'Talk to Me'. The film's gradual unveiling of sinister motives will leave you gripping your seat, just like the relentless pace of dread in 'Talk to Me'.",
+      "sharedVibes": [
+        "trust",
+        "betrayal",
+        "psychological"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Talk to Me?",
-      "answer": "Try The Conjuring 2, Hereditary, The Babadook—each shares DNA with Talk to Me while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Hereditary, Ready or Not—each shares DNA with Talk to Me while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Talk to Me?",

@@ -9,62 +9,39 @@
       "Romance",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "Fifty Shades of Grey works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to 'Fifty Shades of Grey' because of the intoxicating chemistry between Christian Grey and Anastasia Steele, which plays out through their intense, flirtatious banter and the thrill of exploring BDSM in a way that feels both taboo and liberating. The film's seductive score and the bold visual choices, especially in the iconic red room scenes, create an atmosphere that pulses with desire and vulnerability, inviting viewers to experience a world that challenges traditional notions of love and power dynamics.",
     "vibes": [
-      "drama",
-      "romance",
-      "thriller",
-      "divisive"
+      "passionate",
+      "intense",
+      "taboo",
+      "vulnerable",
+      "seductive"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 2251,
-      "title": "Unfaithful",
-      "year": 2002,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Unfaithful (2002) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The intricate dynamics of Tom Ripley’s obsession with wealth and identity mirror Christian Grey's struggle with power and vulnerability. Both films delve into the seductive allure of desire and the lengths one will go to achieve it, culminating in thrilling tension.",
       "sharedVibes": [
-        "drama",
-        "romance",
-        "thriller"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 1359,
-      "title": "American Psycho",
-      "year": 2000,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, American Psycho (2000) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "crime"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 337167,
-      "title": "Fifty Shades Freed",
-      "year": 2018,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Fifty Shades Freed (2018) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 11013,
+      "title": "Secretary",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "The exploration of a BDSM relationship in 'Secretary' resonates with the complex power dynamics seen between Anastasia and Christian. Both films navigate the entanglement of desire and emotional healing, providing an intimate yet edgy experience.",
       "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 341174,
-      "title": "Fifty Shades Darker",
-      "year": 2017,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Fifty Shades Darker (2017) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
+        "desire",
+        "power",
+        "intimacy"
       ],
       "mood": "bittersweet"
     },
@@ -72,81 +49,110 @@
       "tmdbId": 345,
       "title": "Eyes Wide Shut",
       "year": 1999,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Eyes Wide Shut (1999) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The undercurrents of sexual exploration and the tension within relationships in 'Eyes Wide Shut' parallel the emotional maze navigated by Anastasia and Christian. Both films weave a narrative that challenges societal norms about desire and fidelity.",
       "sharedVibes": [
-        "drama",
-        "thriller",
-        "mystery"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 1360,
-      "title": "Frida",
-      "year": 2002,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Frida (2002) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 9769,
-      "title": "Lolita",
-      "year": 1997,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Lolita (1997) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 1079091,
-      "title": "It Ends with Us",
-      "year": 2024,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, It Ends with Us (2024) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 8984,
-      "title": "Disclosure",
-      "year": 1994,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Disclosure (1994) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "crime"
+        "secrets",
+        "desire",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 1440,
-      "title": "Little Children",
-      "year": 2006,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Fifty Shades of Grey clicked for you, Little Children (2006) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 402,
+      "title": "Basic Instinct",
+      "year": 1992,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The seductive game of cat-and-mouse in 'Basic Instinct' echoes the thrilling moments of control and manipulation found in the dances of power between Christian and Anastasia. Both films present characters whose very identities are intertwined with their obsessions.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "obsession",
+        "thriller",
+        "power"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 398818,
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The intense emotional connection between Elio and Oliver captures the same passionate yearning and exploration of love that defines Anastasia and Christian’s relationship. Both films highlight the bittersweet nature of desire and the profound impact of fleeting connections.",
+      "sharedVibes": [
+        "desire",
+        "youth",
+        "intimacy"
       ],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10998,
+      "title": "Fatal Attraction",
+      "year": 1987,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The destructive obsession that develops in 'Fatal Attraction' resonates with the way Christian's past influences his relationship with Anastasia. Both films showcase how passion can twist into something dangerous, igniting fear and thrill in equal measure.",
+      "sharedVibes": [
+        "obsession",
+        "fear",
+        "danger"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2251,
+      "title": "Unfaithful",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The themes of infidelity and the complexity of desire in 'Unfaithful' reflect the tumultuous relationship dynamics found in Fifty Shades of Grey. Both films confront the consequences of passionate choices and the emotional chaos that follows.",
+      "sharedVibes": [
+        "desire",
+        "betrayal",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10995,
+      "title": "The Lover",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The forbidden romance and cultural clashes depicted in 'The Lover' resonate with the passionate, yet tumultuous connection seen in Anastasia and Christian's story. Both narratives explore the intoxicating pull of desire against societal constraints.",
+      "sharedVibes": [
+        "forbidden-love",
+        "cultural-clash",
+        "desire"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 28211,
+      "title": "Chloe",
+      "year": 2010,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The themes of betrayal and the exploration of sexuality in 'Chloe' echo the emotional stakes involved in the love triangle of Fifty Shades of Grey. Both films delve into the shadows of trust and desire, leaving viewers questioning boundaries.",
+      "sharedVibes": [
+        "betrayal",
+        "sexuality",
+        "tension"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 928270,
+      "title": "Heatwave",
+      "year": 2022,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Heatwave as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
+      "sharedVibes": [
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Fifty Shades of Grey?",
-      "answer": "Try Unfaithful, American Psycho, Fifty Shades Freed—each shares DNA with Fifty Shades of Grey while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Secretary, Eyes Wide Shut—each shares DNA with Fifty Shades of Grey while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Fifty Shades of Grey?",

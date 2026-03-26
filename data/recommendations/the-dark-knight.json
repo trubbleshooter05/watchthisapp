@@ -9,151 +9,150 @@
       "Crime",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "The Dark Knight (2008) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Christopher Nolan's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are captivated by the intense moral dilemmas presented in 'The Dark Knight,' especially through the chaotic philosophy of Heath Ledger's Joker, who forces Batman to confront the fine line between heroism and vigilantism. The heartbreaking twist of Rachel Dawes' fate and the pressure it puts on Bruce Wayne adds an emotional weight that resonates deeply, making the viewer not just a spectator, but a participant in Gotham's battle for its soul.",
     "vibes": [
-      "action",
-      "crime",
-      "thriller",
-      "crowd-favorite"
+      "moral-conflict",
+      "chaotic-tension",
+      "tragic-heroism",
+      "existential-dread"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 49026,
-      "title": "The Dark Knight Rises",
-      "year": 2012,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 807,
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The relentless pursuit of a serial killer in Se7en echoes the moral complexities and psychological tension found in The Dark Knight's cat-and-mouse game between Batman and the Joker. Both films unflinchingly explore the darkness within humanity, culminating in a haunting climax that leaves viewers questioning the very nature of justice.",
       "sharedVibes": [
-        "action",
-        "crime",
-        "thriller",
-        "drama"
+        "darkness",
+        "morality",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 2112,
-      "title": "Payback",
-      "year": 1999,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Payback (1999) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 146233,
+      "title": "Prisoners",
+      "year": 2013,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Much like the harrowing moral choices faced by Batman, Prisoners delves into the depths of desperation and vengeance when a father takes justice into his own hands. The film's tense atmosphere and its exploration of obsession will resonate deeply with anyone captivated by the ethical dilemmas presented in The Dark Knight.",
       "sharedVibes": [
-        "action",
-        "crime",
-        "thriller",
-        "drama"
+        "vengeance",
+        "desperation",
+        "morality"
       ],
-      "mood": "dark"
+      "mood": "tense"
     },
     {
-      "tmdbId": 69735,
-      "title": "Batman: Year One",
+      "tmdbId": 64690,
+      "title": "Drive",
       "year": 2011,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman: Year One (2011) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Drive's protagonist embodies the duality of a quiet hero leading a violent life, akin to Batman's struggle to maintain his moral code amidst chaos. The film's stylized action sequences and haunting score create an immersive experience that mirrors the tension and atmosphere of Gotham City.",
       "sharedVibes": [
-        "action",
-        "crime",
-        "thriller",
-        "animation"
+        "violence",
+        "redemption",
+        "identity"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 339095,
-      "title": "The Last Days of American Crime",
-      "year": 2020,
+      "tmdbId": 1949,
+      "title": "Zodiac",
+      "year": 2007,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Last Days of American Crime (2020) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "Zodiac’s obsessive quest for truth reflects the darker side of vigilante justice similar to Batman’s relentless pursuit of order in The Dark Knight. Both films capture the chilling effects of fear and uncertainty, highlighting how the search for answers can unravel one’s life.",
       "sharedVibes": [
-        "action",
-        "crime",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 2153,
-      "title": "The Driver",
-      "year": 1978,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Driver (1978) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "crime",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 272,
-      "title": "Batman Begins",
-      "year": 2005,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman Begins (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 23483,
-      "title": "Kick-Ass",
-      "year": 2010,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "action",
-        "crime"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 414906,
-      "title": "The Batman",
-      "year": 2022,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, The Batman (2022) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "crime",
-        "thriller",
+        "obsession",
+        "fear",
         "mystery"
       ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 629,
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The intricate web of deception and the twisty narrative in The Usual Suspects will resonate with fans of The Dark Knight's layered storytelling and unexpected revelations. Both films masterfully build tension through their character dynamics, leading to shocking conclusions that redefine everything we thought we knew.",
+      "sharedVibes": [
+        "deception",
+        "crime",
+        "thriller"
+      ],
       "mood": "dark"
     },
     {
-      "tmdbId": 495764,
-      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "tmdbId": 242582,
+      "title": "Nightcrawler",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "In Nightcrawler, the protagonist’s moral ambiguity and relentless ambition echo the complex motivations of characters like the Joker, revealing how far one can go in the pursuit of success. The film’s darkly satirical take on media sensationalism mirrors the societal critiques present in The Dark Knight.",
+      "sharedVibes": [
+        "ambition",
+        "morality",
+        "darkness"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 322,
+      "title": "Mystic River",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Mystic River's exploration of trauma and the heavy burdens of the past resonate with the psychological toll that Batman carries as a hero. Both films showcase how crime deeply impacts personal lives, leading to devastating decisions that shape the narrative.",
+      "sharedVibes": [
+        "trauma",
+        "grief",
+        "redemption"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 570670,
+      "title": "The Invisible Man",
       "year": 2020,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The Invisible Man’s themes of control and paranoia reflect the psychological tension seen in The Dark Knight, particularly in the way fear is weaponized against victims. The film’s gripping tension and emotional depth will resonate with those who appreciate the internal struggles faced by its characters.",
       "sharedVibes": [
-        "action",
-        "crime"
+        "fear",
+        "control",
+        "thriller"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 268,
-      "title": "Batman",
-      "year": 1989,
+      "tmdbId": 23168,
+      "title": "The Town",
+      "year": 2010,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If The Dark Knight clicked for you, Batman (1989) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "The Town’s exploration of loyalty and the blurred lines between right and wrong echoes the moral complexities found in The Dark Knight, especially in Batman’s relationships with his allies and enemies. The film’s adrenaline-fueled heists and emotional stakes will captivate anyone drawn to Gotham's high-octane tension.",
       "sharedVibes": [
-        "action",
+        "loyalty",
         "crime",
-        "fantasy"
+        "tension"
       ],
       "mood": "tense"
+    },
+    {
+      "tmdbId": 187,
+      "title": "Sin City",
+      "year": 2005,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Sin City’s visually striking noir aesthetic and its intertwining stories of crime and revenge resonate with the graphic novel roots of Batman's world in The Dark Knight. Both films dive into the darkest corners of humanity, showcasing flawed heroes fighting against overwhelming odds.",
+      "sharedVibes": [
+        "crime",
+        "violence",
+        "identity"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Dark Knight?",
-      "answer": "Try The Dark Knight Rises, Payback, Batman: Year One—each shares DNA with The Dark Knight while changing the setting enough to feel fresh."
+      "answer": "Try Se7en, Prisoners, Drive—each shares DNA with The Dark Knight while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Dark Knight?",
