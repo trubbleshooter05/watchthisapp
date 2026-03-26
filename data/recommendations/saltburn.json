@@ -4,173 +4,126 @@
     "title": "Saltburn",
     "slug": "saltburn",
     "year": 2023,
-    "genres": [
-      "Drama",
-      "Comedy",
-      "Thriller"
-    ],
-    "whyPeopleLoveIt": "Audiences are captivated by 'Saltburn' for its intoxicating exploration of wealth and privilege through the magnetic character of Oliver, whose obsession with the enigmatic Felix and his lavish lifestyle leads to a darkly comedic spiral. The film’s lush cinematography and bold directorial choices create a sense of opulence and danger, particularly in the wild party scenes that reveal the depths of moral decay lurking beneath the surface of elite social circles.",
-    "vibes": [
-      "dark-comedy",
-      "class-struggle",
-      "obsession",
-      "moral-decadence",
-      "opulent-lifestyle"
-    ]
+    "genres": ["Drama", "Comedy", "Thriller"],
+    "whyPeopleLoveIt": "Oliver Quick's slow infiltration of a wealthy Oxford family's crumbling estate became the most talked-about film of 2023 — equal parts erotic thriller, class satire, and psychological horror, capped by an ending that reframes every scene before it.",
+    "vibes": ["obsession", "class", "psychosexual", "dark", "privilege", "twist-ending"]
   },
   "recommendations": [
     {
       "tmdbId": 1213,
       "title": "The Talented Mr. Ripley",
       "year": 1999,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "The relationship between Tom and Dickie is fraught with obsession and envy, echoing the unsettling dynamics found in Saltburn, where admiration turns toxic. Both films explore how the allure of a glamorous lifestyle can lead to a complete unraveling of identity, leaving viewers questioning moral boundaries.",
-      "sharedVibes": [
-        "obsession",
-        "class",
-        "psychological"
-      ],
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "Tom Ripley doesn't knock on the manor door so much as slide through it, mirroring Oliver's hunger to belong inside Felix's glittering world until want curdles into something lethal. The Italian coast here is Saltburn's country house in a different postcode: same voyeuristic thrill of watching a striver perform class he wasn't born into.",
+      "sharedVibes": ["obsession", "class-infiltration", "identity", "psychological"],
       "mood": "dark"
     },
     {
-      "tmdbId": 34653,
-      "title": "A Single Man",
-      "year": 2009,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Colin Firth's character wrestles with profound loneliness and longing, similar to Oliver's experience at Saltburn, where the line between desire and despair blurs. The film's lush visuals and emotional depth create a rich atmosphere that rewards rewatching, much like the layers of Saltburn's storytelling.",
-      "sharedVibes": [
-        "loneliness",
-        "identity",
-        "desire"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 64682,
-      "title": "The Great Gatsby",
-      "year": 2013,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Jay Gatsby's obsessive pursuit of wealth and status mirrors the intoxicating allure of Saltburn's elite society, demonstrating how dreams can lead to ruin. Both films examine the hollowness behind glitz and glamour, making you think deeper after the credits roll.",
-      "sharedVibes": [
-        "obsession",
-        "class",
-        "identity"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1024,
-      "title": "Heavenly Creatures",
-      "year": 1994,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The intense friendship between the two girls in Heavenly Creatures serves as a haunting parallel to the obsessive bonds in Saltburn, revealing how relationships can spiral into dangerous territories. Both films capture the intoxicating thrill of escapism while hinting at the ominous consequences that follow.",
-      "sharedVibes": [
-        "obsession",
-        "friendship",
-        "darkness"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 565383,
-      "title": "The Death of Dick Long",
+      "tmdbId": 496243,
+      "title": "Parasite",
       "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The absurdity and dark humor of a spiraling cover-up in The Death of Dick Long resonate with the comedic yet unsettling tone of Saltburn. Both films unravel the chaos that ensues when ordinary lives intersect with outrageous secrets, inviting laughter and discomfort in equal measure.",
-      "sharedVibes": [
-        "dark-comedy",
-        "secrets",
-        "chaos"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 375262,
-      "title": "The Favourite",
-      "year": 2018,
-      "matchPercentage": 83,
-      "whyYoullLoveIt": "The power dynamics and manipulative relationships in The Favourite reflect the toxic gamesmanship present in Saltburn, as characters vie for favor in a world filled with opulence. Both films masterfully blend humor with sharp commentary on ambition and desire, leaving you craving more on a second watch.",
-      "sharedVibes": [
-        "manipulation",
-        "power",
-        "dark-comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 397722,
-      "title": "Thoroughbreds",
-      "year": 2018,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The chilling bond between the two main characters in Thoroughbreds channels the same thrilling blend of dark humor and psychological tension found in Saltburn. Both films explore how friendship can lead to morally questionable decisions, making every moment ripe with anticipation.",
-      "sharedVibes": [
-        "friendship",
-        "morality",
-        "dark"
-      ],
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "Bong maps class as architecture — stairs, basements, and borrowed rooms — the way Saltburn maps it as long dinners and who gets to use which bathroom. Both films weaponize politeness: you're laughing at the table until you realize the house itself is the trap.",
+      "sharedVibes": ["class-warfare", "infiltration", "dark-comedy", "twist"],
       "mood": "tense"
     },
     {
-      "tmdbId": 254320,
-      "title": "The Lobster",
-      "year": 2015,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The bizarre societal pressures that dictate relationships in The Lobster echo the class dynamics and expectations faced by the characters in Saltburn. Both films offer a darkly comedic lens on human connections, making you laugh while questioning societal norms.",
-      "sharedVibes": [
-        "society",
-        "relationships",
-        "dark-comedy"
-      ],
-      "mood": "funny"
+      "tmdbId": 210577,
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Amy's monologues and diary games are a different mask than Oliver's shy scholarship act, but the engine is identical: whoever controls the story controls the room. Fincher's Midwest gloss rhymes with Emerald Fennell's estate glamour — both films love watching pretty surfaces crack into something vicious.",
+      "sharedVibes": ["manipulation", "psychological", "unreliable-narrator", "dark"],
+      "mood": "tense"
     },
     {
-      "tmdbId": 401246,
-      "title": "The Square",
+      "tmdbId": 796,
+      "title": "Cruel Intentions",
+      "year": 1999,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Upper East Side teens treat sex and secrets like currency, not unlike how Saltburn's circle turns charm and humiliation into sport. The wager structure here is a cleaner, nastier cousin to the games played around Felix's family table — who is predator and who is prize keeps shifting.",
+      "sharedVibes": ["privilege", "manipulation", "psychosexual", "games"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 399057,
+      "title": "The Killing of a Sacred Deer",
       "year": 2017,
-      "matchPercentage": 75,
-      "whyYoullLoveIt": "The exploration of moral dilemmas and social commentary in The Square resonates with Saltburn's critique of privilege and societal expectation, creating a layered viewing experience. Both films intertwine drama and absurdity, leading to moments that challenge your perceptions long after watching.",
-      "sharedVibes": [
-        "society",
-        "privilege",
-        "absurdity"
-      ],
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Lanthimos traps a comfortable surgeon's household in moral debt the way Saltburn traps Oliver inside a family that can't see the knife coming. The sterile corridors and deadpan cruelty echo that queasy late-film energy where the estate stops feeling like a fantasy and starts feeling like a courtroom.",
+      "sharedVibes": ["psychological-horror", "wealthy-family", "dread", "punishment"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 400617,
+      "title": "Phantom Thread",
+      "year": 2017,
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "Reynolds Woodcock's house runs on ritual, fabric, and who is allowed to disturb the silence — a couture version of Saltburn's rules about rooms, meals, and who truly belongs upstairs. The romance is all needle-thread tension between control and appetite, much like Oliver circling Felix's life until the power flips.",
+      "sharedVibes": ["obsession", "power-dynamics", "isolation", "psychosexual"],
       "mood": "tense"
     },
     {
-      "tmdbId": 475220,
-      "title": "In Fabric",
-      "year": 2018,
-      "matchPercentage": 70,
-      "whyYoullLoveIt": "The hauntingly surreal narrative of a cursed dress in In Fabric parallels the dark allure of wealth and status found in Saltburn, with both films weaving a rich tapestry of obsession and consequence. The offbeat humor and unsettling atmosphere create an experience that lingers beyond the final scene.",
-      "sharedVibes": [
-        "obsession",
-        "consequence",
-        "dark"
-      ],
-      "mood": "tense"
+      "tmdbId": 340666,
+      "title": "Nocturnal Animals",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Ford cuts between LA wealth and a brutal highway narrative so revenge and regret feel inescapably linked — a structural cousin to Saltburn's final-act recontextualization. Susan reading her ex-husband's manuscript is its own kind of voyeurism, not unlike how Saltburn keeps inviting you to stare at ugliness dressed in velvet.",
+      "sharedVibes": ["revenge", "dual-narrative", "disturbing", "class-image"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 582014,
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "Cassie's candy-colored revenge scheme weaponizes the same polite surfaces Saltburn uses — smiles at the party, venom in the aftermath. The tonal whiplash from flirtation to menace should feel familiar if Saltburn's bathtub-to-ballroom shocks left you off-balance.",
+      "sharedVibes": ["revenge", "tone-shift", "privilege", "dark-feminine"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 270302,
+      "title": "The Riot Club",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "A single Oxford-adjacent dinner with Britain's worst heirs devolves into violence and cover-up — it's Saltburn's upstairs cruelty with the mask ripped off earlier in the night. The club's entitlement to bodies and property rhymes with how Felix's world treats outsiders as entertainment.",
+      "sharedVibes": ["british-upper-class", "excess", "dark-turn", "privilege"],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 398818,
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Elio's Italian summer is sun-drenched where Saltburn is candlelit, but both films live in the ache of wanting someone whose world is larger and safer than yours. The villa as a character — meals, pools, parents down the hall — plays the same role as Saltburn's estate as a stage for desire and imbalance.",
+      "sharedVibes": ["desire", "summer-estate", "class-adjacent", "obsession"],
+      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
-      "question": "What should I watch after Saltburn?",
-      "answer": "Try The Talented Mr. Ripley, A Single Man, The Great Gatsby—each shares DNA with Saltburn while changing the setting enough to feel fresh."
+      "question": "What should I watch after Saltburn if I want the same class-obsession vibe?",
+      "answer": "Start with The Talented Mr. Ripley or Parasite for infiltration thrillers, then layer in Cruel Intentions or The Riot Club for privilege-as-violence. If you want the sickening family-house dread, try The Killing of a Sacred Deer or Phantom Thread."
     },
     {
-      "question": "What genre is Saltburn?",
-      "answer": "Saltburn (2023) is best described as Drama, Comedy, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+      "question": "Is Saltburn a comedy or a thriller?",
+      "answer": "It's billed as drama-comedy-thriller — the jokes are part of the trap. Many viewers describe it as a psychosexual class satire that turns into psychological horror once Oliver's plan comes into focus."
     },
     {
-      "question": "Is Saltburn worth revisiting?",
-      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this drama lane."
+      "question": "Why do people argue about the ending?",
+      "answer": "The final stretch rewrites who has been performing for whom; fans revisit earlier estate scenes the way they'd re-read a mystery once they know the culprit."
     }
   ],
   "relatedPages": [
     "parasite",
-    "10-things-i-hate-about-you",
-    "black-swan",
-    "fifty-shades-of-grey",
     "gone-girl",
-    "la-la-land",
-    "pulp-fiction"
+    "knives-out",
+    "midsommar",
+    "shutter-island",
+    "fight-club",
+    "black-swan",
+    "the-menu",
+    "get-out",
+    "hereditary"
   ]
 }
