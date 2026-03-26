@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Shelter?",
+      "answer": "Room and The Road share similar themes of survival and emotional bonds in dire circumstances."
+    },
+    {
+      "question": "Is Shelter based on a true story?",
+      "answer": "While Shelter is a fictional narrative, it draws inspiration from real-life struggles faced by those in extreme situations."
+    },
+    {
+      "question": "Who directed Shelter?",
+      "answer": "Shelter was directed by an acclaimed filmmaker known for their work in character-driven narratives."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Road",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films explore survival in a desolate world, featuring a strong bond between characters. The haunting atmosphere and emotional depth will resonate with fans of Shelter.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 20766
+    },
+    {
+      "title": "Room",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Room\u2019s focus on the relationship between a mother and son mirrors the emotional core of Shelter. Both films showcase the struggle for freedom and connection amid confinement.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 264644
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Similar themes of survival and perseverance drive both narratives, with visually stunning cinematography accentuating their epic journeys. The intense character struggles will keep you on the edge of your seat.",
+      "sharedVibes": [
+        "epic",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 281957
+    },
+    {
+      "title": "A Quiet Place",
+      "year": 2018,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films create a tense atmosphere where survival instincts are paramount, highlighting the lengths people go to protect their loved ones. The emotional stakes are incredibly high in both narratives.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 447332
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "While The Martian leans more into humor, its underlying themes of human ingenuity and resilience in isolation parallel the struggles depicted in Shelter. Both films are uplifting in their portrayal of survival against the odds.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 286217
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The dystopian settings and themes of hope amidst despair connect the narratives of Shelter and Children of Men. Both films feature intense character-driven stories that explore the fragility of society.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 9693
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Her\u2019s exploration of loneliness and connection resonates with Shelter\u2019s themes of human relationships in challenging environments. Both films offer a unique take on emotional struggles in a modern context.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Never Let Me Go",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Never Let Me Go\u2019s poignant exploration of life, love, and loss mirrors the emotional depth found in Shelter. Both films delve into the human experience under extraordinary circumstances.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 42188
+    },
+    {
+      "title": "Life of Pi",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Both films feature stunning visuals and profound themes of survival and companionship in the face of adversity. Life of Pi\u2019s philosophical undertones will appeal to fans of Shelter\u2019s emotional journey.",
+      "sharedVibes": [
+        "visually-stunning",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 87827
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The Pursuit of Happyness shares Shelter\u2019s themes of perseverance and hope through hardship, focusing on the bond between a father and son. Both films inspire with their uplifting messages of resilience.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 1402
+    }
+  ],
+  "relatedPages": [
+    "white-chicks",
+    "bridesmaids",
+    "twilight",
+    "divergent",
+    "top-gun-maverick"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1290821,
+    "title": "Shelter",
+    "slug": "shelter",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Shelter captivates viewers with its raw portrayal of resilience and the human spirit against overwhelming odds.",
+    "vibes": [
+      "emotional",
+      "dark",
+      "heartwarming"
+    ]
+  }
+}
