@@ -16,6 +16,12 @@
 # production
 /build
 
+# script caches (TMDB, etc.)
+.cache/
+
+# generated quality reports
+scripts/audit-quality-report.json
+
 # misc
 .DS_Store
 *.pem

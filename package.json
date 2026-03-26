@@ -13,6 +13,8 @@
     "data:bulk-scaffold": "node scripts/bulk-scaffold-backlog.mjs",
     "data:fill-all": "node scripts/fill-all-bundles.mjs",
     "data:refine-auto": "node scripts/fill-all-bundles.mjs --refine-auto",
+    "data:audit-quality": "node scripts/audit-quality.mjs",
+    "data:regen-recs": "node scripts/regenerate-recs.mjs",
     "deploy:vercel": "npx vercel@latest deploy --prod"
   },
   "dependencies": {
