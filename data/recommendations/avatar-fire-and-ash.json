@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Avatar: Fire and Ash?",
+      "answer": "Dune and Avatar share a similar epic narrative style and rich world-building that captivates audiences."
+    },
+    {
+      "question": "Is Avatar: Fire and Ash a standalone film?",
+      "answer": "While it can be enjoyed on its own, it is part of the larger Avatar saga, enhancing the experience through its connections to previous films."
+    },
+    {
+      "question": "What themes are explored in Avatar: Fire and Ash?",
+      "answer": "The film delves into themes of sacrifice, redemption, environmentalism, and the bonds of community, all set within a visually stunning universe."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Dune",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Both films immerse viewers in a vast, intricately built universe where the fight for survival is deeply intertwined with themes of destiny and sacrifice. The stunning cinematography and grand scale enhance the emotional weight of the characters' journeys.",
+      "sharedVibes": [
+        "epic",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 438631
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Like Avatar: Fire and Ash, this film delves into the nature of humanity and existence within a visually arresting sci-fi landscape, prompting deep philosophical questions. Its slow-burn narrative and stunning visuals resonate with fans of immersive storytelling.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 335984
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films explore the vastness of space and the emotional connections that define humanity, using stunning visual effects to enhance the narrative. Their epic scope and emotional depth create a powerful viewing experience.",
+      "sharedVibes": [
+        "epic",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 157336
+    },
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "The original film shares the same universe and themes of environmentalism, tribal connection, and the battle against oppression, making it a perfect companion piece. Its groundbreaking visuals and heartfelt story deeply resonate with fans of the sequel.",
+      "sharedVibes": [
+        "epic",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 19995
+    },
+    {
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Both films challenge perceptions of reality and the human experience, blending high-octane action with philosophical undertones. The vibrant visuals and compelling characters create a shared sense of wonder and introspection.",
+      "sharedVibes": [
+        "sci-fi",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 624860
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "This film's focus on communication and understanding with alien life parallels the themes of connection in Avatar: Fire and Ash, all while delivering a thought-provoking narrative. Its emotional resonance and stunning visuals create a captivating experience.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 329865
+    },
+    {
+      "title": "The Shape of Water",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "With its themes of love across boundaries and stunning visuals, this film complements the emotional core of Avatar: Fire and Ash. Both movies showcase the beauty of connection in unconventional forms.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 399055
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film shares a blend of action, humor, and emotional depth, focusing on familial bonds that echo the relationships in Avatar: Fire and Ash. Its vibrant visuals and character-driven narrative make it a fun, uplifting experience.",
+      "sharedVibes": [
+        "action-packed",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 283995
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Both films feature dystopian settings with a focus on hope and survival, using powerful visuals to tell a gripping story. Their exploration of humanity in crisis connects them on a profound level.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 9693
+    },
+    {
+      "title": "Tenet",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Like Avatar: Fire and Ash, this film pushes the boundaries of storytelling and visual effects, creating a complex narrative that rewards attentive viewers. Its action-packed sequences and mind-bending concepts create a thrilling experience.",
+      "sharedVibes": [
+        "sci-fi",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 577922
+    }
+  ],
+  "relatedPages": [
+    "peaky-blinders-the-immortal-man",
+    "john-wick",
+    "step-brothers",
+    "a-quiet-place",
+    "top-gun-maverick"
+  ],
+  "sourceMovie": {
+    "tmdbId": 83533,
+    "title": "Avatar: Fire and Ash",
+    "slug": "avatar-fire-and-ash",
+    "year": 2025,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Avatar: Fire and Ash captivates audiences with its breathtaking visuals and a profound exploration of sacrifice and redemption in a richly crafted world.",
+    "vibes": [
+      "epic",
+      "visually-stunning",
+      "emotional"
+    ]
+  }
+}
