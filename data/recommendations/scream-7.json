@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Scream 7?",
+      "answer": "The 2022 version of Scream shares many similarities with Scream 7, including its self-referential humor and slasher elements."
+    },
+    {
+      "question": "Are there any returning characters in Scream 7?",
+      "answer": "Yes, several iconic characters from previous films return, continuing their stories while introducing new faces to the franchise."
+    },
+    {
+      "question": "Is Scream 7 part of a larger series?",
+      "answer": "Absolutely, Scream 7 is the latest entry in the beloved Scream franchise, which has been known for its unique blend of horror and meta-commentary."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film offers a gripping narrative about psychological manipulation and survival, echoing the themes of fear and isolation found in Scream 7. The intense atmosphere and clever twists will keep you guessing until the very end.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 570670
+    },
+    {
+      "title": "Ready or Not",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "With its blend of dark humor and high-stakes horror, this movie mirrors Scream 7's sharp wit and thrilling chase sequences. The protagonist's fight for survival against a family of killers adds a similar tension and excitement.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "dark",
+      "tmdbId": 567609
+    },
+    {
+      "title": "It Follows",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The pervasive sense of dread and the unique premise in It Follows resonate with the eerie suspense of Scream 7. Both films explore themes of fear and the inescapable nature of danger.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 270303
+    },
+    {
+      "title": "Happy Death Day",
+      "year": 2017,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "This inventive slasher combines humor with horror, similar to the tone of Scream 7, while featuring a protagonist who must outsmart her killer repeatedly. Its playful take on the genre makes for a fun viewing experience.",
+      "sharedVibes": [
+        "funny",
+        "tense"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 440021
+    },
+    {
+      "title": "A Quiet Place",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The suspenseful atmosphere and survival themes in A Quiet Place mirror the tension and high stakes present in Scream 7. Both films showcase characters facing relentless threats in a chilling environment.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 447332
+    },
+    {
+      "title": "The Babadook",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This psychological horror film explores trauma and fear, paralleling the emotional depth found in Scream 7. Its haunting atmosphere and character-driven story will resonate with fans looking for substance alongside scares.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 242224
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Get Out's sharp social commentary and thriller elements align closely with the meta-narrative style of Scream 7, keeping audiences engaged both intellectually and emotionally. The film's tension and clever plotting will captivate viewers.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 419430
+    },
+    {
+      "title": "The Cabin in the Woods",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This film deconstructs the horror genre, similar to how Scream 7 pays homage to its predecessors while introducing new elements. Its blend of humor and horror makes for an entertaining ride.",
+      "sharedVibes": [
+        "funny",
+        "dark"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 22970
+    },
+    {
+      "title": "Us",
+      "year": 2019,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Us shares Scream 7's blend of suspense and social critique, presenting a chilling tale about identity and duality. The film's tension and thought-provoking themes create an intense viewing experience.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 458723
+    },
+    {
+      "title": "Scream (2022)",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The latest installment in the Scream franchise serves as a direct sequel to the original series, maintaining the self-aware humor and slasher thrills that fans love. Its fresh take on familiar tropes connects seamlessly with Scream 7.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "relatedPages": [
+    "the-social-network",
+    "bodies-bodies-bodies",
+    "john-wick",
+    "fight-club",
+    "titanic"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1159559,
+    "title": "Scream 7",
+    "slug": "scream-7",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Scream 7 brilliantly combines nostalgia with fresh twists, keeping audiences on the edge of their seats while celebrating the legacy of the franchise.",
+    "vibes": [
+      "tense",
+      "dark",
+      "emotional"
+    ]
+  }
+}
