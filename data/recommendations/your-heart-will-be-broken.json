@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Your Heart Will Be Broken?",
+      "answer": "The Fault in Our Stars is most similar due to its exploration of young love and the impact of loss."
+    },
+    {
+      "question": "Is Your Heart Will Be Broken based on a book?",
+      "answer": "Yes, it is adapted from a bestselling novel that intricately weaves together themes of love and heartbreak."
+    },
+    {
+      "question": "Who directed Your Heart Will Be Broken?",
+      "answer": "The film was directed by an acclaimed filmmaker known for their emotional storytelling and character-driven narratives."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Fault in Our Stars",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films delve into the challenges of young love in the face of adversity, highlighting the fragile nature of life. The heartfelt performances and poignant storytelling will leave you in tears.",
+      "sharedVibes": [
+        "emotional",
+        "bittersweet"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 222935
+    },
+    {
+      "title": "A Star is Born",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film shares a similar struggle with love and self-sacrifice, showcasing the highs and lows of a passionate relationship. Its musical backdrop and emotional depth will resonate with fans of 'Your Heart Will Be Broken.'",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 332562
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Exploring the intersection of technology and love, 'Her' presents a poignant narrative about connection and loneliness that parallels the emotional depth of 'Your Heart Will Be Broken.' Its unique storytelling style invites deep introspection.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films tackle themes of memory and heartbreak, using inventive narratives to explore love\u2019s complexities. The surreal style and emotional weight of the story will resonate with viewers.",
+      "sharedVibes": [
+        "cerebral",
+        "bittersweet"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 38
+    },
+    {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This film's exploration of first love and heartache echoes the sentiments found in 'Your Heart Will Be Broken,' with stunning cinematography and emotional resonance. The slow-burn narrative beautifully captures fleeting moments of passion.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 398818
+    },
+    {
+      "title": "Blue Valentine",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "A raw portrayal of a relationship\u2019s rise and fall, this film mirrors the emotional turmoil found in 'Your Heart Will Be Broken,' creating an intense viewing experience. Its authentic performances add depth to the heartbreak.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "dark",
+      "tmdbId": 46705
+    },
+    {
+      "title": "The Spectacular Now",
+      "year": 2013,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Both films showcase the complexities of young love and personal growth, blending humor with poignant moments. The relatability of the characters will resonate with fans seeking authenticity.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 157386
+    },
+    {
+      "title": "Before Sunrise",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This film\u2019s exploration of fleeting connections and deep conversations parallels the emotional journey in 'Your Heart Will Be Broken.' Its dialogue-driven format invites viewers to reflect on love\u2019s transient nature.",
+      "sharedVibes": [
+        "cerebral",
+        "bittersweet"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 76
+    },
+    {
+      "title": "The Notebook",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "A classic romantic tale that explores enduring love and loss, much like the themes in 'Your Heart Will Be Broken.' Its iconic moments and emotional depth make it a must-watch for romance lovers.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 11036
+    },
+    {
+      "title": "Five Feet Apart",
+      "year": 2019,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "With its focus on the challenges of love in difficult circumstances, this film resonates with the emotional narrative of 'Your Heart Will Be Broken.' The tender moments amidst hardship create a powerful viewing experience.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 527641
+    }
+  ],
+  "relatedPages": [
+    "the-shawshank-redemption",
+    "la-la-land",
+    "the-social-network",
+    "john-wick",
+    "get-out"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1523145,
+    "title": "Your Heart Will Be Broken",
+    "slug": "your-heart-will-be-broken",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "This movie resonates deeply with audiences due to its raw exploration of love and loss, capturing the complexity of human emotions in a beautifully poignant way.",
+    "vibes": [
+      "emotional",
+      "bittersweet",
+      "heartwarming"
+    ]
+  }
+}
