@@ -1,27 +1,24 @@
 {
-  "sourceMovie": {
-    "tmdbId": 1124,
-    "title": "The Prestige",
-    "slug": "the-prestige",
-    "year": 2006,
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Science Fiction"
-    ],
-    "whyPeopleLoveIt": "The Prestige captivates audiences with its intricate narrative and the exploration of obsession and sacrifice in the world of magic.",
-    "vibes": [
-      "cerebral",
-      "tense",
-      "dark"
-    ]
-  },
+  "faq": [
+    {
+      "question": "What movie is most similar to The Prestige?",
+      "answer": "The Illusionist and Memento share thematic and stylistic similarities, focusing on magic and psychological depth."
+    },
+    {
+      "question": "Who directed The Prestige?",
+      "answer": "The Prestige was directed by Christopher Nolan, known for his complex storytelling and innovative filmmaking style."
+    },
+    {
+      "question": "What are the main themes of The Prestige?",
+      "answer": "The main themes include obsession, sacrifice, and the blurred lines between illusion and reality."
+    }
+  ],
   "recommendations": [
     {
       "title": "The Illusionist",
       "year": 2006,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "This film presents a captivating story about a magician whose love for a woman drives him to use his skills in innovative ways. It shares a similar aesthetic and thematic depth with 'The Prestige', focusing on love, mystery, and the blurred lines between illusion and reality.",
+      "whyYoullLoveIt": "Both films delve into the world of magic and rivalry, showcasing the lengths to which magicians will go to protect their secrets. The Illusionist presents a romantic narrative intertwined with illusions that resonate with the themes in The Prestige.",
       "sharedVibes": [
         "cerebral",
         "dark"
@@ -33,67 +30,55 @@
       "title": "Memento",
       "year": 2000,
       "matchPercentage": 95,
-      "whyYoullLoveIt": "Like 'The Prestige', this film challenges viewers with its non-linear storytelling and a central character's obsession. Its exploration of memory and identity resonates as deeply as the themes of rivalry and deception.",
+      "whyYoullLoveIt": "Similar to The Prestige, Memento features a non-linear storyline that keeps viewers guessing until the end. Both films explore the complexities of memory, identity, and revenge, delivered with a gripping style.",
       "sharedVibes": [
         "cerebral",
-        "dark"
+        "tense"
       ],
-      "mood": "tense",
+      "mood": "dark",
       "tmdbId": 77
     },
     {
       "title": "Fight Club",
       "year": 1999,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "This movie delves into the themes of identity and societal norms, paralleling the intense rivalries in 'The Prestige'. Both films feature plot twists that force the viewer to reconsider what they thought they knew.",
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Fight Club's exploration of duality and obsession mirrors the intense rivalry between the magicians in The Prestige. Its dark humor and shocking twists create a similarly engaging experience.",
       "sharedVibes": [
-        "cerebral",
-        "dark"
+        "dark",
+        "cerebral"
       ],
       "mood": "tense",
       "tmdbId": 550
     },
     {
-      "title": "The Others",
-      "year": 2001,
+      "title": "The Game",
+      "year": 1997,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "This film emphasizes a suspenseful atmosphere and a twist ending that keeps you guessing until the very end, much like 'The Prestige'. Its dark ambiance and character-driven plot create a similar emotional experience.",
-      "sharedVibes": [
-        "tense",
-        "dark"
-      ],
-      "mood": "tense",
-      "tmdbId": 1933
-    },
-    {
-      "title": "The Sixth Sense",
-      "year": 1999,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Focusing on the themes of revelation and hidden truths, this film winds its way to a shocking conclusion reminiscent of the dramatic turns found in 'The Prestige'. It shares an eerie atmosphere and thoughtful storytelling.",
-      "sharedVibes": [
-        "cerebral",
-        "dark"
-      ],
-      "mood": "tense",
-      "tmdbId": 745
-    },
-    {
-      "title": "Shutter Island",
-      "year": 2010,
-      "matchPercentage": 87,
-      "whyYoullLoveIt": "With its psychological thriller elements and shocking twists, 'Shutter Island' offers a tension-filled journey akin to 'The Prestige'. Both films explore themes of obsession, guilt, and the nature of reality.",
+      "whyYoullLoveIt": "The Game shares a psychological thriller aspect, featuring a protagonist caught in a web of deception and mind games. Like The Prestige, it plays with reality and perception, keeping viewers on edge.",
       "sharedVibes": [
         "cerebral",
         "tense"
       ],
-      "mood": "tense",
+      "mood": "dark",
+      "tmdbId": 2649
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Shutter Island offers a suspenseful narrative filled with twists and psychological depth, akin to The Prestige's gripping plot. Both films explore themes of obsession and the human psyche.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "dark",
       "tmdbId": 11324
     },
     {
       "title": "Gone Girl",
       "year": 2014,
-      "matchPercentage": 89,
-      "whyYoullLoveIt": "This film intricately weaves a narrative full of deception and character complexity, similar to the rivalries in 'The Prestige'. Its exploration of marriage and media manipulation provides compelling parallels.",
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Gone Girl's intricate plot and themes of deception resonate with the twists found in The Prestige. The psychological tension and dark undertones make it a compelling watch.",
       "sharedVibes": [
         "cerebral",
         "dark"
@@ -102,40 +87,76 @@
       "tmdbId": 210577
     },
     {
-      "title": "The Game",
-      "year": 1997,
-      "matchPercentage": 85,
-      "whyYoullLoveIt": "This psychological thriller\u2019s twists and layered narrative reflect the intricate storytelling found in 'The Prestige'. Both films keep viewers on the edge with their unexpected turns and expanding plot complexities.",
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The Sixth Sense features a masterful twist that alters the viewer's understanding, similar to The Prestige's shocking revelations. Both films effectively build suspense and emotional depth.",
       "sharedVibes": [
         "cerebral",
         "tense"
       ],
-      "mood": "tense",
-      "tmdbId": 2649
+      "mood": "dark",
+      "tmdbId": 745
     },
     {
-      "title": "Se7en",
-      "year": 1995,
-      "matchPercentage": 91,
-      "whyYoullLoveIt": "With its dark themes and a plot driven by obsession and morality, 'Se7en' resonates deeply with 'The Prestige'. Both films excel in creating suspense and an unsettling experience that lingers.",
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Interstellar combines a visually stunning narrative with complex themes of love and sacrifice, akin to the emotional depth in The Prestige. Both films challenge viewers' perceptions and leave lasting impressions.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "epic",
+      "tmdbId": 157336
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Oldboy's intense revenge storyline and shocking twists parallel the dark themes present in The Prestige. Its gripping narrative keeps viewers on the edge of their seats.",
       "sharedVibes": [
         "dark",
         "tense"
       ],
       "mood": "tense",
-      "tmdbId": 807
+      "tmdbId": 670
     },
     {
-      "title": "Prisoners",
-      "year": 2013,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "This film presents a harrowing tale of desperation and moral ambiguity, mirroring the lengths characters go to in 'The Prestige'. The tension and emotional weight resonate powerfully with fans of intricate thrillers.",
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The Others shares a suspenseful atmosphere and a significant twist that changes the entire narrative, reminiscent of The Prestige's shocking revelations. Both films excel in creating tension and mystery.",
       "sharedVibes": [
         "cerebral",
         "dark"
       ],
       "mood": "tense",
-      "tmdbId": 146233
+      "tmdbId": 1933
     }
-  ]
+  ],
+  "relatedPages": [
+    "titanic",
+    "the-social-network",
+    "superbad",
+    "the-wolf-of-wall-street",
+    "divergent"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1124,
+    "title": "The Prestige",
+    "slug": "the-prestige",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Prestige captivates audiences with its intricate storytelling, exploring themes of obsession and sacrifice in the world of magic.",
+    "vibes": [
+      "cerebral",
+      "tense",
+      "dark"
+    ]
+  }
 }
