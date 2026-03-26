@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to War Machine?",
+      "answer": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb stands out as a similar film due to its satirical take on military absurdities."
+    },
+    {
+      "question": "Is War Machine based on a true story?",
+      "answer": "Yes, it is loosely based on the book 'The Operators' by Michael Hastings, which chronicles the real-life events surrounding General Stanley McChrystal."
+    },
+    {
+      "question": "What themes are explored in War Machine?",
+      "answer": "The film explores themes such as the absurdity of war, the impact of media on public perception, and the complexities of military leadership."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Big Short",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This film tackles the complexities of the financial crisis with a sharp, satirical lens. Both films use humor to address serious topics, making the viewer question the systems at play.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 318846
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "A classic satirical take on the Cold War, this film shares a similar absurdist tone. Both movies highlight the ridiculousness of military strategies and their dire consequences.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "funny",
+      "tmdbId": 935
+    },
+    {
+      "title": "American Sniper",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film offers a more serious look at the life of a soldier, providing a stark contrast to War Machine's humor. Both films delve into the complexities of military life and the impact on personal relationships.",
+      "sharedVibes": [
+        "dark",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 190859
+    },
+    {
+      "title": "Catch-22",
+      "year": 1970,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Based on the novel by Joseph Heller, this film explores the absurdity of war through a darkly comedic lens, similar to War Machine. Both narratives focus on the futility and bureaucracy of military operations.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 10364
+    },
+    {
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This film provides a gritty and realistic look at the Vietnam War, contrasting humor with horror. Both films challenge the glorification of military life and explore its darker aspects.",
+      "sharedVibes": [
+        "dark",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 600
+    },
+    {
+      "title": "Wag the Dog",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This political satire about fabricating a war shares a similar thematic exploration of media and manipulation. Both films blend humor with commentary on how war is presented to the public.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "funny",
+      "tmdbId": 586
+    },
+    {
+      "title": "Thank You for Your Service",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This film focuses on the struggles of veterans returning home from war, adding depth to military narratives. Both movies examine the personal costs of war, albeit with different tones.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 347629
+    },
+    {
+      "title": "Zero Dark Thirty",
+      "year": 2012,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This film provides a gripping account of the hunt for Osama bin Laden, highlighting the intricacies of military operations. Both films depict the relentless pursuit of objectives within the military framework.",
+      "sharedVibes": [
+        "action-packed",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 97630
+    },
+    {
+      "title": "Good Morning, Vietnam",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This film offers a comedic yet heartfelt glimpse into the Vietnam War through the eyes of a DJ. Both films balance humor with the harsh realities of war, making poignant statements about its impact.",
+      "sharedVibes": [
+        "funny",
+        "dark"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 801
+    },
+    {
+      "title": "War Horse",
+      "year": 2011,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "This epic tale of friendship amidst the brutality of World War I shares themes of sacrifice and resilience. Both films showcase the emotional toll of war, albeit through different narratives.",
+      "sharedVibes": [
+        "epic",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 57212
+    }
+  ],
+  "relatedPages": [
+    "glass-onion",
+    "white-chicks",
+    "the-hangover",
+    "the-perks-of-being-a-wallflower",
+    "john-wick"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1265609,
+    "title": "War Machine",
+    "slug": "war-machine",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "War Machine resonates with audiences due to its unflinching portrayal of the absurdities of modern warfare, blending dark humor with poignant social commentary.",
+    "vibes": [
+      "cerebral",
+      "dark",
+      "action-packed"
+    ]
+  }
+}
