@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Greenland 2: Migration?",
+      "answer": "Children of Men is often cited due to its similar themes of survival and hope in a dystopian setting."
+    },
+    {
+      "question": "Is there a continuation of Greenland's story?",
+      "answer": "Yes, Greenland 2: Migration continues the story of the surviving family as they navigate new challenges in a changed world."
+    },
+    {
+      "question": "What genre does Greenland 2: Migration belong to?",
+      "answer": "The film primarily falls within the action sci-fi genre, blending elements of thriller and drama."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Road",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This film also explores a father's desperate journey to protect his son in a post-apocalyptic world, capturing the essence of survival and sacrifice. Its bleak atmosphere and emotional depth resonate with the themes of familial love found in Greenland 2.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 20766
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films delve into dystopian futures where humanity struggles against overwhelming odds, highlighting hope amidst despair. The gripping narrative and intense action sequences mirror the urgency of Greenland 2.",
+      "sharedVibes": [
+        "tense",
+        "epic"
+      ],
+      "mood": "dark",
+      "tmdbId": 9693
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Arrival's cerebral exploration of communication and humanity's survival parallels the emotional stakes faced by characters in Greenland 2. Both films use sci-fi elements to examine deeper human connections.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 329865
+    },
+    {
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "This film combines action and a journey of hope, much like Greenland 2, as a lone man fights to protect a sacred book in a devastated world. The post-apocalyptic setting and themes of survival will resonate with fans.",
+      "sharedVibes": [
+        "action-packed",
+        "epic"
+      ],
+      "mood": "tense",
+      "tmdbId": 20504
+    },
+    {
+      "title": "A Quiet Place",
+      "year": 2018,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "A Quiet Place captures the essence of survival against overwhelming threats, paralleling the tension and emotional stakes in Greenland 2. The family's fight to protect one another resonates strongly throughout both films.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 447332
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Both films showcase a protagonist's struggle to survive against all odds, emphasizing ingenuity and determination. The blend of humor and drama in The Martian offers a lighter touch while still delivering intense moments.",
+      "sharedVibes": [
+        "emotional",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 286217
+    },
+    {
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Oblivion's sci-fi elements and themes of humanity's survival resonate with Greenland 2's narrative. The stunning visuals and intricate storytelling create an immersive experience that fans will appreciate.",
+      "sharedVibes": [
+        "visually-stunning",
+        "epic"
+      ],
+      "mood": "dark",
+      "tmdbId": 75612
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This action-packed film shares a similar high-stakes environment where survival is paramount, paralleling the intense moments found in Greenland 2. The relentless pace and strong character arcs will keep you on the edge of your seat.",
+      "sharedVibes": [
+        "action-packed",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 76341
+    },
+    {
+      "title": "The Road Within",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "While more character-focused, The Road Within's themes of personal growth and emotional journeys connect with the heartfelt undertones of Greenland 2. Both films highlight the importance of relationships during challenging times.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 228108
+    },
+    {
+      "title": "Snowpiercer",
+      "year": 2013,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Snowpiercer's unique take on survival in a frozen world mirrors the apocalyptic themes of Greenland 2. Both films explore class struggles and human resilience in dire circumstances.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 110415
+    }
+  ],
+  "relatedPages": [
+    "the-hunger-games",
+    "white-chicks",
+    "the-shawshank-redemption",
+    "peaky-blinders-the-immortal-man",
+    "the-wolf-of-wall-street"
+  ],
+  "sourceMovie": {
+    "tmdbId": 840464,
+    "title": "Greenland 2: Migration",
+    "slug": "greenland-2-migration",
+    "year": 2026,
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Greenland 2: Migration captivates audiences with its intense portrayal of human resilience in the face of catastrophic events.",
+    "vibes": [
+      "tense",
+      "epic",
+      "emotional"
+    ]
+  }
+}
