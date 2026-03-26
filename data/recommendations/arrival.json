@@ -1,4 +1,146 @@
 {
+  "faq": [
+    {
+      "question": "What movie is most similar to Arrival?",
+      "answer": "Interstellar and Contact are often cited as the most similar films, sharing thematic elements of communication and existential exploration."
+    },
+    {
+      "question": "Is Arrival based on a book?",
+      "answer": "Yes, Arrival is based on the short story 'Story of Your Life' by Ted Chiang."
+    },
+    {
+      "question": "What is the main theme of Arrival?",
+      "answer": "The main theme of Arrival revolves around communication, the perception of time, and the emotional connections that define humanity."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films delve into complex themes of time and human connection, using stunning visuals to elevate the storytelling. The emotional stakes in Interstellar's journey resonate similarly with Arrival's exploration of love and sacrifice.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "epic",
+      "tmdbId": 157336
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film shares a similar focus on human resilience and the power of communication, albeit in a more action-oriented context. The blend of humor and tension mirrors Arrival's emotional depth.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 286217
+    },
+    {
+      "title": "Contact",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Contact explores themes of extraterrestrial communication and the human experience, paralleling the narrative style and emotional weight found in Arrival. Both films challenge the viewer's understanding of time and existence.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 686
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This sequel intricately examines identity and humanity through a visually stunning lens, akin to Arrival's deep philosophical inquiries. The atmospheric tension and emotional undertones create a similar impact.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 335984
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Her uniquely tackles the themes of communication and emotional connection in a futuristic setting, much like Arrival. The introspective nature and emotional depth will resonate with fans of both films.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Annihilation offers a visually stunning and cerebral experience, with themes of transformation and the unknown that parallel Arrival's exploration of language and perception. Both films provoke deep thought and introspection.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 300668
+    },
+    {
+      "title": "The Tree of Life",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film's poetic exploration of existence and the human experience resonates with Arrival's themes of time and connection. Both films utilize stunning visuals and a slow-burn narrative to evoke deep emotional responses.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 8967
+    },
+    {
+      "title": "Arrival of Wang",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Similar in its contemplative pace and themes of communication, this film explores the intricacies of relationships in a unique context, echoing the narrative style of Arrival. Its emotional depth will appeal to fans seeking more thoughtful cinema.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "slow-burn"
+    },
+    {
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "A Ghost Story's exploration of time, loss, and human connection resonates with Arrival's emotional core and thematic depth. The film's unique storytelling approach and visual style create a haunting experience.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 428449
+    },
+    {
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Moon explores isolation and identity in a sci-fi setting, paralleling Arrival's deep philosophical inquiries into communication and connection. The film's minimalist approach and emotional weight will captivate similar audiences.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 17431
+    }
+  ],
+  "relatedPages": [
+    "gone-girl",
+    "goodfellas",
+    "barbie",
+    "pulp-fiction",
+    "knives-out"
+  ],
   "sourceMovie": {
     "tmdbId": 329865,
     "title": "Arrival",
@@ -9,132 +151,11 @@
       "Science Fiction",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "Arrival resonates for its profound exploration of communication, time, and human connection amidst a stunningly crafted sci-fi narrative.",
+    "whyPeopleLoveIt": "Arrival resonates deeply due to its profound exploration of language, time, and human connection, challenging viewers to rethink how they perceive communication and relationships.",
     "vibes": [
       "cerebral",
       "emotional",
       "visually-stunning"
     ]
-  },
-  "recommendations": [
-    {
-      "title": "Annihilation",
-      "year": 2018,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Annihilation delves into themes of transformation and the unknown, much like Arrival's exploration of language and perception. Its visually stunning visuals and emotional depth create a haunting atmosphere.",
-      "sharedVibes": [
-        "cerebral",
-        "visually-stunning"
-      ],
-      "mood": "tense",
-      "tmdbId": 300668
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Interstellar combines time manipulation and profound emotional stakes, echoing the narrative complexity of Arrival. Its epic visuals and philosophical questions about love and sacrifice are strikingly similar.",
-      "sharedVibes": [
-        "cerebral",
-        "epic"
-      ],
-      "mood": "heartwarming",
-      "tmdbId": 157336
-    },
-    {
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "matchPercentage": 89,
-      "whyYoullLoveIt": "Blade Runner 2049 challenges our understanding of humanity and identity, paralleling Arrival's exploration of connection and communication. The visually-stunning cinematography and slow-burn storytelling enhance its contemplative atmosphere.",
-      "sharedVibes": [
-        "cerebral",
-        "visually-stunning"
-      ],
-      "mood": "dark",
-      "tmdbId": 335984
-    },
-    {
-      "title": "The Martian",
-      "year": 2015,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The Martian combines humor with human resilience and ingenuity, offering a different yet compelling take on survival and connection. Its mix of light-hearted moments and intense challenges creates a fantastic balance.",
-      "sharedVibes": [
-        "emotional",
-        "funny"
-      ],
-      "mood": "uplifting",
-      "tmdbId": 286217
-    },
-    {
-      "title": "Ex Machina",
-      "year": 2014,
-      "matchPercentage": 87,
-      "whyYoullLoveIt": "Ex Machina grapples with artificial intelligence and the essence of humanity, sharing Arrival's intellectual engagement with thought-provoking concepts. Its intense character dynamics and cerebral tension create a gripping experience.",
-      "sharedVibes": [
-        "cerebral",
-        "tense"
-      ],
-      "mood": "dark",
-      "tmdbId": 264660
-    },
-    {
-      "title": "Contact",
-      "year": 1997,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Contact explores themes of faith, communication, and the search for meaning, resonating with Arrival's narrative depth. Both films share a slow-burn pace that punctuates emotional revelations.",
-      "sharedVibes": [
-        "cerebral",
-        "emotional"
-      ],
-      "mood": "bittersweet",
-      "tmdbId": 686
-    },
-    {
-      "title": "Arrival of Wang",
-      "year": 2018,
-      "matchPercentage": 85,
-      "whyYoullLoveIt": "This indie gem also delves into themes of language and connection through a personal lens, mirroring Arrival's emotional narrative. Its heartfelt exploration of relationships provides a similar depth.",
-      "sharedVibes": [
-        "emotional",
-        "slow-burn"
-      ],
-      "mood": "heartwarming"
-    },
-    {
-      "title": "Solaris",
-      "year": 1972,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Solaris presents a deeply philosophical meditation on memory and love, drawing parallels to Arrival's exploration of time and emotion. It features an atmospheric style and emotionally rich storytelling.",
-      "sharedVibes": [
-        "cerebral",
-        "visually-stunning"
-      ],
-      "mood": "bittersweet",
-      "tmdbId": 593
-    },
-    {
-      "title": "Moon",
-      "year": 2009,
-      "matchPercentage": 83,
-      "whyYoullLoveIt": "Moon's introspective narrative about isolation and identity resonates with Arrival's themes of communication and understanding. Its emotional weight and thought-provoking premise create a memorable experience.",
-      "sharedVibes": [
-        "cerebral",
-        "emotional"
-      ],
-      "mood": "dark",
-      "tmdbId": 17431
-    },
-    {
-      "title": "The Tree of Life",
-      "year": 2011,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The Tree of Life is a visually-stunning film that explores existential questions, much like Arrival's meditative journey through language and time. Its emotional depth and non-linear storytelling enhance its poetic nature.",
-      "sharedVibes": [
-        "cerebral",
-        "visually-stunning"
-      ],
-      "mood": "bittersweet",
-      "tmdbId": 8967
-    }
-  ]
+  }
 }
