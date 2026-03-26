@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Send Help?",
+      "answer": "Ex Machina is often cited as the most similar film due to its exploration of technology's impact on human relationships."
+    },
+    {
+      "question": "Is Send Help a sci-fi film?",
+      "answer": "While not strictly sci-fi, Send Help incorporates technological themes that challenge perceptions of reality and connection."
+    },
+    {
+      "question": "What age rating is Send Help?",
+      "answer": "Send Help is rated R for strong language and thematic elements that may not be suitable for younger audiences."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Platform",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This dystopian thriller challenges moral boundaries and survival instincts, much like Send Help. Both films delve into the psychological impacts of isolation and desperation.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 619264
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Ex Machina offers a cerebral exploration of AI and human interaction, paralleling the technological themes in Send Help. The tension builds as characters navigate their complex relationships.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 264660
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Her examines the emotional aspects of technology and connection, similar to the themes in Send Help. Both films evoke a bittersweet longing for genuine relationships.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Annihilation's visually-stunning sci-fi elements resonate with the immersive experience of Send Help. Both films provoke deep contemplation about identity and transformation.",
+      "sharedVibes": [
+        "sci-fi",
+        "visually-stunning"
+      ],
+      "mood": "cerebral",
+      "tmdbId": 300668
+    },
+    {
+      "title": "The Social Dilemma",
+      "year": 2020,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This documentary explores the impacts of social media, echoing the themes of connection in Send Help. The urgency and real-life implications amplify the emotional stakes.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "tense",
+      "tmdbId": 656690
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Sound of Metal's intense character study and emotional depth align closely with the journey in Send Help. Both films explore personal struggles and resilience in the face of adversity.",
+      "sharedVibes": [
+        "emotional",
+        "tense"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 502033
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Fight Club's exploration of identity and societal norms parallels the existential themes in Send Help. Both narratives challenge perceptions of reality and self-worth.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "dark",
+      "tmdbId": 550
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Gone Girl\u2019s tense atmosphere and intricate character dynamics share a kinship with the psychological tension found in Send Help. The unraveling of relationships adds to the gripping narrative.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 210577
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The Matrix\u2019s blend of action and philosophical inquiry mirrors the intensity and depth of Send Help. Both films question reality and the nature of human experience.",
+      "sharedVibes": [
+        "sci-fi",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 603
+    },
+    {
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "A Ghost Story's meditative approach to time and loss resonates with the emotional core of Send Help. Both films explore the lingering effects of relationships across time.",
+      "sharedVibes": [
+        "emotional",
+        "slow-burn"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 428449
+    }
+  ],
+  "relatedPages": [
+    "the-hunger-games",
+    "the-hangover",
+    "inception",
+    "oppenheimer",
+    "hereditary"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1198994,
+    "title": "Send Help",
+    "slug": "send-help",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Send Help captivates audiences with its gripping narrative that explores the fragility of human connections in a digital age.",
+    "vibes": [
+      "cerebral",
+      "emotional",
+      "tense"
+    ]
+  }
+}
