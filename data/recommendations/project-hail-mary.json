@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Project Hail Mary?",
+      "answer": "The Martian and Interstellar are both highly similar, sharing themes of survival and human ingenuity in space."
+    },
+    {
+      "question": "Is Project Hail Mary a sequel or part of a series?",
+      "answer": "No, Project Hail Mary is an original standalone story based on the novel by Andy Weir."
+    },
+    {
+      "question": "What age group is Project Hail Mary suitable for?",
+      "answer": "The film is suitable for a mature audience due to its complex themes and occasional intense scenes."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films feature a lone protagonist using ingenuity to survive in space, blending science with humor. The strong character development and clever problem-solving make it a must-watch for fans of 'Project Hail Mary.'",
+      "sharedVibes": [
+        "cerebral",
+        "epic"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 286217
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "With its deep exploration of space and time, this film shares a similar epic scale and emotional depth. It delves into themes of sacrifice and the survival of humanity, resonating with 'Project Hail Mary' viewers.",
+      "sharedVibes": [
+        "cerebral",
+        "epic"
+      ],
+      "mood": "tense",
+      "tmdbId": 157336
+    },
+    {
+      "title": "Gravity",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This visually-stunning film showcases the struggles of survival in space, paralleling the intense scenarios found in 'Project Hail Mary.' The emotional journey of the protagonist offers heart-pounding tension that keeps you on edge.",
+      "sharedVibes": [
+        "sci-fi",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 49047
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films explore complex themes of communication and understanding in the face of alien encounters. The cerebral storytelling and emotional depth make 'Arrival' a fitting recommendation for fans.",
+      "sharedVibes": [
+        "cerebral",
+        "sci-fi"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 329865
+    },
+    {
+      "title": "Contact",
+      "year": 1997,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "With a plot centered around first contact with aliens, this film resonates through its philosophical questions and emotional arcs. The blend of science and humanity creates a similar atmosphere to 'Project Hail Mary.'",
+      "sharedVibes": [
+        "cerebral",
+        "epic"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 686
+    },
+    {
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "This slow-burn thriller explores isolation and identity, sharing thematic elements with 'Project Hail Mary.' Its profound emotional undertones and thought-provoking narrative will resonate deeply with viewers.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 17431
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Focusing on artificial intelligence and the ethical dilemmas it presents, this film's cerebral nature aligns well with the scientific and philosophical themes of 'Project Hail Mary.' The tension and character dynamics create a gripping experience.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 264660
+    },
+    {
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This action-packed classic explores humanity's struggle against a formidable foe, reflecting the challenging battles found in 'Project Hail Mary.' The blend of sci-fi and intense action offers a thrilling experience.",
+      "sharedVibes": [
+        "sci-fi",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 218
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "With its stunning visuals and exploration of existential themes, this sequel resonates with audiences looking for depth and beauty. Its sci-fi elements and emotional storytelling mirror aspects of 'Project Hail Mary.'",
+      "sharedVibes": [
+        "visually-stunning",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 335984
+    },
+    {
+      "title": "Ad Astra",
+      "year": 2019,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "This film's introspective journey through space and emotional exploration of father-son relationships parallels the personal stakes found in 'Project Hail Mary.' Its stunning visuals and narrative depth create a compelling experience.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 419704
+    }
+  ],
+  "relatedPages": [
+    "talk-to-me",
+    "black-swan",
+    "avatar",
+    "la-la-land",
+    "the-shawshank-redemption"
+  ],
+  "sourceMovie": {
+    "tmdbId": 687163,
+    "title": "Project Hail Mary",
+    "slug": "project-hail-mary",
+    "year": 2026,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "The film captivates audiences with its blend of science, humor, and human resilience in the face of overwhelming odds.",
+    "vibes": [
+      "cerebral",
+      "epic",
+      "sci-fi"
+    ]
+  }
+}
