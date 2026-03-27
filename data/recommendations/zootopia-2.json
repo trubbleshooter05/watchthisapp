@@ -1,0 +1,163 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Zootopia 2?",
+      "answer": "Raya and the Last Dragon, as both feature strong characters on a journey to unite their worlds with humor and heart."
+    },
+    {
+      "question": "Is Zootopia 2 a sequel or a standalone film?",
+      "answer": "Zootopia 2 is a direct sequel that continues the story of Judy Hopps and Nick Wilde in their evolving world of diverse animals."
+    },
+    {
+      "question": "Will the original cast return for Zootopia 2?",
+      "answer": "Yes, the original voice cast, including Ginnifer Goodwin and Jason Bateman, is set to return, bringing back fan-favorite characters."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films feature strong female leads on epic quests to unite their worlds, infused with humor and cultural depth. The stunning animation and heartfelt messages about trust and unity echo the charm of Zootopia.",
+      "sharedVibes": [
+        "heartwarming",
+        "visually-stunning"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 527774
+    },
+    {
+      "title": "Inside Out",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Like Zootopia 2, this film explores complex emotions through a unique lens, making it both relatable and insightful. The clever personification of feelings offers a similar blend of humor and emotional depth.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 150540
+    },
+    {
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films feature unlikely friendships and heroic adventures, with a strong emphasis on teamwork and overcoming adversity. The inventive tech and vibrant world-building parallel Zootopia's imaginative setting.",
+      "sharedVibes": [
+        "action-packed",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 177572
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "With its stunning visuals and innovative storytelling, this movie mirrors Zootopia's creativity while exploring themes of identity and belonging. The humor and action-packed sequences will appeal to fans of Zootopia.",
+      "sharedVibes": [
+        "visually-stunning",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 324857
+    },
+    {
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "This sequel continues the heartwarming journey of self-discovery and community, much like Zootopia's themes of acceptance and friendship. The blend of humor and martial arts action will keep audiences entertained.",
+      "sharedVibes": [
+        "heartwarming",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 140300
+    },
+    {
+      "title": "Coco",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Exploring themes of family and remembrance, Coco resonates emotionally in a way similar to Zootopia's exploration of identity and belonging. The vibrant animation and cultural richness enhance the storytelling.",
+      "sharedVibes": [
+        "heartwarming",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 354912
+    },
+    {
+      "title": "The Lego Movie",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "With its humor and cleverness, this film captures the same spirit of creativity and adventure found in Zootopia. The light-heartedness and witty dialogue make it a fun watch for all ages.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 137106
+    },
+    {
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This film shares Zootopia's theme of self-acceptance and friendship, all while delivering a humorous and action-packed narrative. The video game setting provides a unique twist similar to Zootopia's diverse animal kingdom.",
+      "sharedVibes": [
+        "funny",
+        "action-packed"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 82690
+    },
+    {
+      "title": "Zootopia+",
+      "year": 2022,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "As an anthology series set in the same universe, Zootopia+ expands on beloved characters and themes, offering more of the humor and heart fans loved in Zootopia. It provides a deeper look at life in Zootopia with the same vibrant animation.",
+      "sharedVibes": [
+        "heartwarming",
+        "funny"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "year": 2016,
+      "matchPercentage": 73,
+      "whyYoullLoveIt": "Focusing on the lives of pets when their owners are away, this film shares a whimsical exploration of animal personalities, similar to Zootopia's character diversity. The humor and light-heartedness will resonate with Zootopia fans.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 328111
+    }
+  ],
+  "relatedPages": [
+    "fifty-shades-of-grey",
+    "bodies-bodies-bodies",
+    "the-menu",
+    "interstellar",
+    "a-quiet-place"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1084242,
+    "title": "Zootopia 2",
+    "slug": "zootopia-2",
+    "year": 2025,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Adventure",
+      "Family",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Zootopia 2 resonates with audiences for its clever blend of humor, heart, and social commentary wrapped in an engaging narrative.",
+    "vibes": [
+      "heartwarming",
+      "funny",
+      "visually-stunning"
+    ]
+  }
+}
