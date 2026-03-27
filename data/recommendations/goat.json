@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to GOAT?",
+      "answer": "Whiplash and The Pursuit of Happyness share similar themes of ambition and personal sacrifice."
+    },
+    {
+      "question": "Is GOAT a true story?",
+      "answer": "While GOAT is inspired by real-life events, it is a fictional narrative that captures the essence of ambition and the human experience."
+    },
+    {
+      "question": "What genre does GOAT belong to?",
+      "answer": "GOAT is primarily a drama, with elements of sports and inspiration woven throughout the narrative."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "This film shares a similar theme of relentless determination against all odds, showcasing a father's struggle to provide for his son. The emotional depth and inspiring journey resonate closely with the core of GOAT.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 1402
+    },
+    {
+      "title": "Whiplash",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Whiplash's intense portrayal of a young musician's relentless pursuit of greatness mirrors GOAT's exploration of ambition and sacrifice. The film's high-stakes atmosphere and character dynamics create a gripping experience.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 244786
+    },
+    {
+      "title": "Rocky",
+      "year": 1976,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Rocky's underdog story of perseverance and grit aligns perfectly with GOAT's themes of striving for excellence in the face of adversity. Both films inspire audiences to chase their dreams relentlessly.",
+      "sharedVibes": [
+        "epic",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 1366
+    },
+    {
+      "title": "A Star is Born",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film's exploration of fame and the personal sacrifices that come with it parallels the emotional journey in GOAT. The poignant performances and musical elements enhance the heartfelt narrative.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 332562
+    },
+    {
+      "title": "Moneyball",
+      "year": 2011,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Moneyball's analytical approach to sports and its focus on challenging the status quo echo GOAT's innovative spirit and determination. The film's blend of strategy and character development makes it a compelling companion.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "inspiring",
+      "tmdbId": 60308
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film's exploration of ambition, innovation, and the personal costs of success reflects the themes found in GOAT. The fast-paced storytelling and sharp dialogue create a captivating experience.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "dark",
+      "tmdbId": 37799
+    },
+    {
+      "title": "Creed",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Creed brings a fresh perspective to the boxing genre while maintaining the spirit of perseverance, much like GOAT's narrative. The character development and emotional stakes create a powerful connection.",
+      "sharedVibes": [
+        "epic",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 312221
+    },
+    {
+      "title": "The King's Speech",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This film's portrayal of overcoming personal challenges and striving for greatness resonates deeply with GOAT's themes of ambition and resilience. The inspiring journey and emotional moments create a rewarding experience.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 45269
+    },
+    {
+      "title": "The Greatest Showman",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "With its celebration of ambition and the pursuit of dreams, The Greatest Showman complements GOAT's narrative of striving for greatness. The musical elements and vibrant visuals enhance the inspirational message.",
+      "sharedVibes": [
+        "epic",
+        "visually-stunning"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 316029
+    },
+    {
+      "title": "Chef",
+      "year": 2014,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Chef's journey of rediscovering passion and creativity parallels GOAT's exploration of personal growth and ambition. The film's heartwarming moments and culinary adventure create a joyful viewing experience.",
+      "sharedVibes": [
+        "heartwarming",
+        "funny"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 212778
+    }
+  ],
+  "relatedPages": [
+    "avatar-fire-and-ash",
+    "a-quiet-place",
+    "pretty-lethal",
+    "send-help",
+    "la-la-land"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1297842,
+    "title": "GOAT",
+    "slug": "goat",
+    "year": 2026,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "GOAT captivates audiences with its profound exploration of ambition and the human spirit through an emotionally charged narrative.",
+    "vibes": [
+      "emotional",
+      "epic",
+      "visually-stunning"
+    ]
+  }
+}
