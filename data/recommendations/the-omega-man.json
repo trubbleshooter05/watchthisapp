@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11234,
+    "title": "The Omega Man",
+    "slug": "the-omega-man",
+    "year": 1971,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Omega Man works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "drama",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, I Am Legend (2007) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Maze Runner: The Death Cure (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, The Book of Eli (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39538,
+      "title": "Contagion",
+      "year": 2011,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Contagion (2011) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8338,
+      "title": "Blindness",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Blindness (2008) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10176,
+      "title": "The Quiet Earth",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, The Quiet Earth (1985) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Divergent (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Omega Man clicked for you, Resident Evil (2002) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Omega Man?",
+      "answer": "Try I Am Legend, World War Z, Maze Runner: The Scorch Trials—each shares DNA with The Omega Man while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Omega Man?",
+      "answer": "The Omega Man (1971) is best described as Science Fiction, Action, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Omega Man worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "outbreak",
+    "rise-of-the-planet-of-the-apes",
+    "10-cloverfield-lane",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71"
+  ]
+}

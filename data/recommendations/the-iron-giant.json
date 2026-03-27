@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10386,
+    "title": "The Iron Giant",
+    "slug": "the-iron-giant",
+    "year": 1999,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Family",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "The Iron Giant (1999) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Brad Bird's control of tone keeps the ride coherent. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "science-fiction",
+      "family",
+      "drama",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10681,
+      "title": "WALL·E",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, WALL·E (2008) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9928,
+      "title": "Robots",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Robots (2005) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9016,
+      "title": "Treasure Planet",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Treasure Planet (2002) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 482321,
+      "title": "Ron's Gone Wrong",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Ron's Gone Wrong (2021) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Strange World (2022) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Elio (2025) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20410,
+      "title": "Scooby-Doo and the Alien Invaders",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Iron Giant clicked for you, Scooby-Doo and the Alien Invaders (2000) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Iron Giant?",
+      "answer": "Try WALL·E, Robots, Treasure Planet—each shares DNA with The Iron Giant while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Iron Giant?",
+      "answer": "The Iron Giant (1999) is best described as Animation, Science Fiction, Family, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Iron Giant worth revisiting?",
+      "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "the-wild-robot",
+    "atlantis-the-lost-empire",
+    "cars-3",
+    "despicable-me",
+    "despicable-me-4",
+    "dinosaur",
+    "elio"
+  ]
+}

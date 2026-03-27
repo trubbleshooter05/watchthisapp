@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 109445,
+    "title": "Frozen",
+    "slug": "frozen",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Frozen (2013) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Chris Buck's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 330457,
+      "title": "Frozen II",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Frozen clicked for you, Frozen II (2019) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022796,
+      "title": "Wish",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Frozen clicked for you, Wish (2023) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 75258,
+      "title": "Secret of the Wings",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Frozen clicked for you, Secret of the Wings (2012) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 22586,
+      "title": "The Swan Princess",
+      "year": 1994,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Frozen clicked for you, The Swan Princess (1994) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Frozen clicked for you, The House of Magic (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Frozen clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Frozen clicked for you, Charming (2018) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Frozen clicked for you, Spirited Away (2001) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 38757,
+      "title": "Tangled",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Frozen clicked for you, Tangled (2010) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Frozen clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Frozen?",
+      "answer": "Try Frozen II, Wish, Secret of the Wings—each shares DNA with Frozen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Frozen?",
+      "answer": "Frozen (2013) is best described as Animation, Family, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Frozen part of a franchise?",
+      "answer": "Yes—it's part of the \"Frozen Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "brave",
+    "castle-in-the-sky",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania"
+  ]
+}

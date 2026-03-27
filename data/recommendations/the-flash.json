@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 298618,
+    "title": "The Flash",
+    "slug": "the-flash",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Flash (2023) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Flash clicked for you, Avengers: Infinity War (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Flash clicked for you, Black Panther (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 315635,
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Flash clicked for you, Spider-Man: Homecoming (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Flash clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 634649,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Flash clicked for you, Spider-Man: No Way Home (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Flash clicked for you, X-Men: Days of Future Past (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Flash clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436270,
+      "title": "Black Adam",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Flash clicked for you, Black Adam (2022) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Flash clicked for you, Ant-Man and the Wasp: Quantumania (2023) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1061474,
+      "title": "Superman",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Flash clicked for you, Superman (2025) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Flash?",
+      "answer": "Try Avengers: Infinity War, Black Panther, Spider-Man: Homecoming—each shares DNA with The Flash while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Flash?",
+      "answer": "The Flash (2023) is best described as Action, Science Fiction, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Flash worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

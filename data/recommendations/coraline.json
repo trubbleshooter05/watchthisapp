@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 14836,
+    "title": "Coraline",
+    "slug": "coraline",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Coraline for the same reason it broke through in 2009: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Henry Selick keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "fantasy",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Coraline clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Coraline clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 81188,
+      "title": "Rise of the Guardians",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Coraline clicked for you, Rise of the Guardians (2012) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Coraline clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022796,
+      "title": "Wish",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Coraline clicked for you, Wish (2023) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Coraline clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1139829,
+      "title": "Orion and the Dark",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Coraline clicked for you, Orion and the Dark (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Coraline clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Coraline clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Coraline clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Coraline?",
+      "answer": "Try The Super Mario Bros. Movie, Puss in Boots: The Last Wish, Rise of the Guardians—each shares DNA with Coraline while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Coraline?",
+      "answer": "Coraline (2009) is best described as Animation, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Coraline worth revisiting?",
+      "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "brave",
+    "castle-in-the-sky",
+    "cinderella-ii-dreams-come-true",
+    "elemental",
+    "encanto"
+  ]
+}

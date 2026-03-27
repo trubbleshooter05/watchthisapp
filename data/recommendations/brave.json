@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 62177,
+    "title": "Brave",
+    "slug": "brave",
+    "year": 2012,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Brave (2012) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Brenda Chapman's control of tone keeps the ride coherent. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 109445,
+      "title": "Frozen",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Brave clicked for you, Frozen (2013) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 330457,
+      "title": "Frozen II",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Brave clicked for you, Frozen II (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Brave clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Brave clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 417859,
+      "title": "Puss in Boots",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Brave clicked for you, Puss in Boots (2011) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Brave clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Brave clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Brave clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41216,
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Brave clicked for you, Legend of the Guardians: The Owls of Ga'Hoole (2010) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022796,
+      "title": "Wish",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Brave clicked for you, Wish (2023) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Brave?",
+      "answer": "Try Frozen, Frozen II, Puss in Boots: The Last Wish—each shares DNA with Brave while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Brave?",
+      "answer": "Brave (2012) is best described as Animation, Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Brave worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "castle-in-the-sky",
+    "frozen",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania"
+  ]
+}

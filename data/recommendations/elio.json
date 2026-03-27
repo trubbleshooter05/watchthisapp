@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1022787,
+    "title": "Elio",
+    "slug": "elio",
+    "year": 2025,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Elio for the same reason it broke through in 2025: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Madeline Sharafian keeps the ensemble pointed in one direction. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Elio clicked for you, Hoppers (2026) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20352,
+      "title": "Despicable Me",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Elio clicked for you, Despicable Me (2010) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137106,
+      "title": "The Lego Movie",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Elio clicked for you, The Lego Movie (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Elio clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Elio clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Elio clicked for you, Home (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Elio clicked for you, Lightyear (2022) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Elio clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Elio clicked for you, Transformers One (2024) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Elio clicked for you, Strange World (2022) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Elio?",
+      "answer": "Try Hoppers, Despicable Me, The Lego Movie—each shares DNA with Elio while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Elio?",
+      "answer": "Elio (2025) is best described as Family, Comedy, Adventure, Animation, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Elio worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "hoppers",
+    "ice-age-collision-course",
+    "meet-the-robinsons",
+    "minions-the-rise-of-gru",
+    "space-jam-a-new-legacy",
+    "a-bugs-life",
+    "atlantis-the-lost-empire"
+  ]
+}

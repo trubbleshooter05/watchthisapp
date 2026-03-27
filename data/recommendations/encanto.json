@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 568124,
+    "title": "Encanto",
+    "slug": "encanto",
+    "year": 2021,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Encanto (2021) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Byron Howard's control of tone keeps the ride coherent. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 508947,
+      "title": "Turning Red",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Encanto clicked for you, Turning Red (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Encanto clicked for you, The Willoughbys (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14787,
+      "title": "Tom and Jerry: The Magic Ring",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Encanto clicked for you, Tom and Jerry: The Magic Ring (2002) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Encanto clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Encanto clicked for you, Epic (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Encanto clicked for you, Christopher Robin (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 441130,
+      "title": "Wolfwalkers",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Encanto clicked for you, Wolfwalkers (2020) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 668461,
+      "title": "Slumberland",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Encanto clicked for you, Slumberland (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 662546,
+      "title": "Godmothered",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Encanto clicked for you, Godmothered (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21481,
+      "title": "Twitches",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Encanto clicked for you, Twitches (2005) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "drama",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Encanto?",
+      "answer": "Try Turning Red, The Willoughbys, Tom and Jerry: The Magic Ring—each shares DNA with Encanto while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Encanto?",
+      "answer": "Encanto (2021) is best described as Animation, Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Encanto part of a franchise?",
+      "answer": "Yes—it's part of the \"Encanto Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "elemental",
+    "frozen-ii",
+    "hercules",
+    "home",
+    "horton-hears-a-who",
+    "hotel-transylvania",
+    "hotel-transylvania-2"
+  ]
+}

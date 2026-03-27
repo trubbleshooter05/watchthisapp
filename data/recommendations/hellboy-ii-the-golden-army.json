@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11253,
+    "title": "Hellboy II: The Golden Army",
+    "slug": "hellboy-ii-the-golden-army",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Hellboy II: The Golden Army works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10195,
+      "title": "Thor",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Thor (2011) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76338,
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Thor: The Dark World (2013) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 566525,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Shang-Chi and the Legend of the Ten Rings (2021) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Doctor Strange in the Multiverse of Madness (2022) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "animation",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Black Panther (2018) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Miss Peregrine's Home for Peculiar Children (2016) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hellboy II: The Golden Army clicked for you, Ant-Man and the Wasp: Quantumania (2023) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hellboy II: The Golden Army?",
+      "answer": "Try Thor, Thor: The Dark World, Shang-Chi and the Legend of the Ten Rings—each shares DNA with Hellboy II: The Golden Army while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hellboy II: The Golden Army?",
+      "answer": "Hellboy II: The Golden Army (2008) is best described as Fantasy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hellboy II: The Golden Army part of a franchise?",
+      "answer": "Yes—it's part of the \"Hellboy Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "baki-hanma-vs-kengan-ashura",
+    "batman"
+  ]
+}

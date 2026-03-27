@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 205596,
+    "title": "The Imitation Game",
+    "slug": "the-imitation-game",
+    "year": 2014,
+    "genres": [
+      "History",
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit The Imitation Game for the same reason it broke through in 2014: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Morten Tyldum keeps the ensemble pointed in one direction. The history and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "history",
+      "drama",
+      "thriller",
+      "war",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 467952,
+      "title": "The Catcher Was a Spy",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, The Catcher Was a Spy (2018) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10491,
+      "title": "Enigma",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Enigma (2001) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "war",
+        "mystery",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 67,
+      "title": "Paradise Now",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Paradise Now (2005) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "war",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1620,
+      "title": "Hitman",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Hitman (2007) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 353326,
+      "title": "The Man Who Knew Infinity",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, The Man Who Knew Infinity (2016) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 468224,
+      "title": "Tolkien",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Tolkien (2019) is a strong next stop: both trade in drama and war, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10911,
+      "title": "The Guns of Navarone",
+      "year": 1961,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, The Guns of Navarone (1961) is a strong next stop: both trade in thriller and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "war",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339987,
+      "title": "The Exception",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, The Exception (2017) is a strong next stop: both trade in drama and war, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Gladiator (2000) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Imitation Game clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Imitation Game?",
+      "answer": "Try The Catcher Was a Spy, Enigma, Paradise Now—each shares DNA with The Imitation Game while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Imitation Game?",
+      "answer": "The Imitation Game (2014) is best described as History, Drama, Thriller, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Imitation Game worth revisiting?",
+      "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this history lane."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "barry-lyndon",
+    "braveheart",
+    "brothers",
+    "das-boot",
+    "dirty-angels"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 38234,
+    "title": "Undisputed III: Redemption",
+    "slug": "undisputed-iii-redemption",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit Undisputed III: Redemption for the same reason it broke through in 2010: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Isaac Florentine keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "crime",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13012,
+      "title": "Felon",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Felon (2008) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15255,
+      "title": "Undisputed II: Last Man Standing",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Undisputed II: Last Man Standing (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22164,
+      "title": "Blood and Bone",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Blood and Bone (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 71677,
+      "title": "Assassination Games",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Assassination Games (2011) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 398175,
+      "title": "Brawl in Cell Block 99",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Brawl in Cell Block 99 (2017) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15070,
+      "title": "Undisputed",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Undisputed (2002) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 17466,
+      "title": "Death Warrant",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Death Warrant (1990) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19277,
+      "title": "In Hell",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, In Hell (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 534490,
+      "title": "Avengement",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, Avengement (2019) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10447,
+      "title": "No Escape",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Undisputed III: Redemption clicked for you, No Escape (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Undisputed III: Redemption?",
+      "answer": "Try Felon, Undisputed II: Last Man Standing, Blood and Bone—each shares DNA with Undisputed III: Redemption while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Undisputed III: Redemption?",
+      "answer": "Undisputed III: Redemption (2010) is best described as Action, Thriller, Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Undisputed III: Redemption part of a franchise?",
+      "answer": "Yes—it's part of the \"Undisputed Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "colombiana",
+    "death-wish",
+    "double-impact",
+    "faster",
+    "felon"
+  ]
+}

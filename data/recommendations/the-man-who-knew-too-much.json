@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 574,
+    "title": "The Man Who Knew Too Much",
+    "slug": "the-man-who-knew-too-much",
+    "year": 1956,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Man Who Knew Too Much (1956) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2503,
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, The Bourne Ultimatum (2007) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12201,
+      "title": "Edge of Darkness",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Edge of Darkness (2010) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10633,
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, In the Heat of the Night (1967) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 940,
+      "title": "The Lady Vanishes",
+      "year": 1938,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, The Lady Vanishes (1938) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Psycho II (1983) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 32042,
+      "title": "Night Moves",
+      "year": 1975,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Night Moves (1975) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 37724,
+      "title": "Skyfall",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Skyfall (2012) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10528,
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Sherlock Holmes (2009) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58574,
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, Sherlock Holmes: A Game of Shadows (2011) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49040,
+      "title": "The Bourne Legacy",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Man Who Knew Too Much clicked for you, The Bourne Legacy (2012) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Man Who Knew Too Much?",
+      "answer": "Try The Bourne Ultimatum, Edge of Darkness, In the Heat of the Night—each shares DNA with The Man Who Knew Too Much while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Man Who Knew Too Much?",
+      "answer": "The Man Who Knew Too Much (1956) is best described as Thriller, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Man Who Knew Too Much worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "8mm",
+    "a-perfect-getaway",
+    "a-walk-among-the-tombstones",
+    "along-came-a-spider",
+    "anatomy-of-a-fall",
+    "angels-demons",
+    "awake"
+  ]
+}

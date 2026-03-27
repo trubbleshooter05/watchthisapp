@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 75780,
+    "title": "Jack Reacher",
+    "slug": "jack-reacher",
+    "year": 2012,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Jack Reacher (2012) as a crime theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "drama",
+      "thriller",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11835,
+      "title": "Death Sentence",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Death Sentence (2007) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 320,
+      "title": "Insomnia",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Insomnia (2002) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9481,
+      "title": "The Bone Collector",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, The Bone Collector (1999) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 984,
+      "title": "Dirty Harry",
+      "year": 1971,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Dirty Harry (1971) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9437,
+      "title": "Kiss the Girls",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Kiss the Girls (1997) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9573,
+      "title": "Blood Work",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Blood Work (2002) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11560,
+      "title": "High Crimes",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, High Crimes (2002) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 31662,
+      "title": "Affliction",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Affliction (1998) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jack Reacher clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jack Reacher?",
+      "answer": "Try Death Sentence, Insomnia, The Bone Collector—each shares DNA with Jack Reacher while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jack Reacher?",
+      "answer": "Jack Reacher (2012) is best described as Crime, Drama, Thriller, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jack Reacher part of a franchise?",
+      "answer": "Yes—it's part of the \"Jack Reacher Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "colombiana",
+    "death-wish",
+    "double-impact",
+    "faster",
+    "felon"
+  ]
+}

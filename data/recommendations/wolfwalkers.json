@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 441130,
+    "title": "Wolfwalkers",
+    "slug": "wolfwalkers",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Wolfwalkers for the same reason it broke through in 2020: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Tomm Moore keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "fantasy",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, Onward (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, Epic (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, Tinker Bell and the Lost Treasure (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 76492,
+      "title": "Hotel Transylvania",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, Hotel Transylvania (2012) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10144,
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, The Little Mermaid (1989) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, The Croods (2013) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37135,
+      "title": "Tarzan",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, Tarzan (1999) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, The Jungle Book (1967) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wolfwalkers clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in animation and family, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wolfwalkers?",
+      "answer": "Try Onward, Epic, Tinker Bell and the Lost Treasure—each shares DNA with Wolfwalkers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wolfwalkers?",
+      "answer": "Wolfwalkers (2020) is best described as Animation, Family, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wolfwalkers worth revisiting?",
+      "answer": "Viewer scores sit around 8.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "brave",
+    "castle-in-the-sky",
+    "frozen",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}

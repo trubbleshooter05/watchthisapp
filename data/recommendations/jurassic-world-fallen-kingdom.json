@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 351286,
+    "title": "Jurassic World: Fallen Kingdom",
+    "slug": "jurassic-world-fallen-kingdom",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Jurassic World: Fallen Kingdom for the same reason it broke through in 2018: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. J. A. Bayona keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 135397,
+      "title": "Jurassic World",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Jurassic World (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, The Avengers (2012) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, X-Men: Days of Future Past (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Pacific Rim (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 507086,
+      "title": "Jurassic World Dominion",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Jurassic World Dominion (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 424783,
+      "title": "Bumblebee",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Bumblebee (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Jurassic World Rebirth (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, Repo Men (2010) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 603692,
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jurassic World: Fallen Kingdom clicked for you, John Wick: Chapter 4 (2023) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jurassic World: Fallen Kingdom?",
+      "answer": "Try Jurassic World, The Avengers, Guardians of the Galaxy—each shares DNA with Jurassic World: Fallen Kingdom while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jurassic World: Fallen Kingdom?",
+      "answer": "Jurassic World: Fallen Kingdom (2018) is best described as Action, Adventure, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jurassic World: Fallen Kingdom part of a franchise?",
+      "answer": "Yes—it's part of the \"Jurassic Park Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "maze-runner-the-scorch-trials",
+    "moonraker"
+  ]
+}

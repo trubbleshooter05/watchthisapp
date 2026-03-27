@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 879,
+    "title": "Hook",
+    "slug": "hook",
+    "year": 1991,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Hook for the same reason it broke through in 1991: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Steven Spielberg keeps the ensemble pointed in one direction. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hook clicked for you, The Princess Bride (1987) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hook clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hook clicked for you, Peter Pan (1953) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10515,
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hook clicked for you, Castle in the Sky (1986) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 493529,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hook clicked for you, Dungeons & Dragons: Honor Among Thieves (2023) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hook clicked for you, Epic (2013) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hook clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hook clicked for you, Return to Never Land (2002) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hook clicked for you, The House of Magic (2013) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hook clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hook?",
+      "answer": "Try The Princess Bride, My Little Pony: A New Generation, Peter Pan—each shares DNA with Hook while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hook?",
+      "answer": "Hook (1991) is best described as Adventure, Fantasy, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hook worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}

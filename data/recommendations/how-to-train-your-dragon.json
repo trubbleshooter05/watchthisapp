@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1087192,
+    "title": "How to Train Your Dragon",
+    "slug": "how-to-train-your-dragon",
+    "year": 2025,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit How to Train Your Dragon for the same reason it broke through in 2025: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Dean DeBlois keeps the ensemble pointed in one direction. The fantasy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "family",
+      "action",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, Maleficent (2014) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "action",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 82702,
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, How to Train Your Dragon 2 (2014) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "action",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "action",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, The Hobbit: The Battle of the Five Armies (2014) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10191,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, How to Train Your Dragon (2010) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, Warcraft (2016) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If How to Train Your Dragon clicked for you, Maleficent: Mistress of Evil (2019) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after How to Train Your Dragon?",
+      "answer": "Try Maleficent, How to Train Your Dragon 2, Pokémon: The Rise of Darkrai—each shares DNA with How to Train Your Dragon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is How to Train Your Dragon?",
+      "answer": "How to Train Your Dragon (2025) is best described as Fantasy, Family, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is How to Train Your Dragon part of a franchise?",
+      "answer": "Yes—it's part of the \"How to Train Your Dragon (Live-Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "castle-in-the-sky",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "maleficent",
+    "night-at-the-museum-battle-of-the-smithsonian",
+    "pok-mon-the-first-movie",
+    "pok-mon-the-movie-hoopa-and-the-clash-of-ages"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 269149,
+    "title": "Zootopia",
+    "slug": "zootopia",
+    "year": 2016,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Zootopia for the same reason it broke through in 2016: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Byron Howard keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 417859,
+      "title": "Puss in Boots",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Puss in Boots (2011) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7484,
+      "title": "Open Season",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Open Season (2006) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21385,
+      "title": "Mickey, Donald, Goofy: The Three Musketeers",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Mickey, Donald, Goofy: The Three Musketeers (2004) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774370,
+      "title": "Dog Man",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Dog Man (2025) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Zootopia clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Zootopia clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11886,
+      "title": "Robin Hood",
+      "year": 1973,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Robin Hood (1973) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 385103,
+      "title": "Scoob!",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Zootopia clicked for you, Scoob! (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Zootopia?",
+      "answer": "Try Puss in Boots, Open Season, Zootopia 2—each shares DNA with Zootopia while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Zootopia?",
+      "answer": "Zootopia (2016) is best described as Animation, Adventure, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Zootopia part of a franchise?",
+      "answer": "Yes—it's part of the \"Zootopia Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

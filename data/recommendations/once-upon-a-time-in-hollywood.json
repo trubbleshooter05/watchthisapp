@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 466272,
+    "title": "Once Upon a Time... in Hollywood",
+    "slug": "once-upon-a-time-in-hollywood",
+    "year": 2019,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Once Upon a Time... in Hollywood for the same reason it broke through in 2019: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Quentin Tarantino keeps the ensemble pointed in one direction. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 290,
+      "title": "Barton Fink",
+      "year": 1991,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Barton Fink (1991) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 680,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Pulp Fiction (1994) is a strong next stop: both trade in comedy and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "thriller",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 184,
+      "title": "Jackie Brown",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Jackie Brown (1997) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 371638,
+      "title": "The Disaster Artist",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, The Disaster Artist (2017) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 339397,
+      "title": "Café Society",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Café Society (2016) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 528888,
+      "title": "Dolemite Is My Name",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Dolemite Is My Name (2019) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "history"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 188222,
+      "title": "Entourage",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Entourage (2015) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 204,
+      "title": "The Wages of Fear",
+      "year": 1953,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, The Wages of Fear (1953) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 957608,
+      "title": "Junkyard Dog",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, Junkyard Dog (2023) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Once Upon a Time... in Hollywood clicked for you, The Terminator (1984) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Once Upon a Time... in Hollywood?",
+      "answer": "Try Barton Fink, Pulp Fiction, Jackie Brown—each shares DNA with Once Upon a Time... in Hollywood while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Once Upon a Time... in Hollywood?",
+      "answer": "Once Upon a Time... in Hollywood (2019) is best described as Comedy, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Once Upon a Time... in Hollywood part of a franchise?",
+      "answer": "Yes—it's part of the \"Once Upon a Time... in Hollywood Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "in-the-house",
+    "mr-mrs-smith",
+    "parasite",
+    "saltburn",
+    "tango-cash",
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you"
+  ]
+}

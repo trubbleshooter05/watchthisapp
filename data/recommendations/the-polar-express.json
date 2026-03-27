@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 5255,
+    "title": "The Polar Express",
+    "slug": "the-polar-express",
+    "year": 2004,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Polar Express for the same reason it broke through in 2004: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Robert Zemeckis keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 81188,
+      "title": "Rise of the Guardians",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Rise of the Guardians (2012) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13382,
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "year": 1964,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Rudolph the Red-Nosed Reindeer (1964) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 645757,
+      "title": "That Christmas",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, That Christmas (2024) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527435,
+      "title": "The Christmas Chronicles",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, The Christmas Chronicles (2018) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13313,
+      "title": "Beauty and the Beast: The Enchanted Christmas",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Beauty and the Beast: The Enchanted Christmas (1997) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 615666,
+      "title": "A Boy Called Christmas",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, A Boy Called Christmas (2021) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1045944,
+      "title": "The Boss Baby: Christmas Bonus",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, The Boss Baby: Christmas Bonus (2022) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13764,
+      "title": "Santa Claus: The Movie",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Santa Claus: The Movie (1985) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 51052,
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Arthur Christmas (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15400,
+      "title": "Mickey's Once Upon a Christmas",
+      "year": 1999,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Polar Express clicked for you, Mickey's Once Upon a Christmas (1999) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Polar Express?",
+      "answer": "Try Rise of the Guardians, Rudolph the Red-Nosed Reindeer, That Christmas—each shares DNA with The Polar Express while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Polar Express?",
+      "answer": "The Polar Express (2004) is best described as Animation, Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Polar Express part of a franchise?",
+      "answer": "Yes—it's part of the \"The Polar Express Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "brave",
+    "castle-in-the-sky",
+    "frozen",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}

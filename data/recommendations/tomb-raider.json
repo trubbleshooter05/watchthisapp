@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 338970,
+    "title": "Tomb Raider",
+    "slug": "tomb-raider",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Tomb Raider for the same reason it broke through in 2018: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Roar Uthaug keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 166426,
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Pirates of the Caribbean: Dead Men Tell No Tales (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14207,
+      "title": "The Librarian: Quest for the Spear",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, The Librarian: Quest for the Spear (2004) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14208,
+      "title": "The Librarian: Return to King Solomon's Mines",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, The Librarian: Return to King Solomon's Mines (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 335787,
+      "title": "Uncharted",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Uncharted (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 447277,
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, The Little Mermaid (2023) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 294272,
+      "title": "Pete's Dragon",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Pete's Dragon (2016) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10730,
+      "title": "King Kong",
+      "year": 1976,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, King Kong (1976) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31967,
+      "title": "Dante's Inferno: An Animated Epic",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tomb Raider clicked for you, Dante's Inferno: An Animated Epic (2010) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tomb Raider?",
+      "answer": "Try Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: Dead Men Tell No Tales, The Librarian: Quest for the Spear—each shares DNA with Tomb Raider while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tomb Raider?",
+      "answer": "Tomb Raider (2018) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tomb Raider worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

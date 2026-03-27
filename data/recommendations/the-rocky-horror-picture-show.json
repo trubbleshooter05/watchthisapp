@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 36685,
+    "title": "The Rocky Horror Picture Show",
+    "slug": "the-rocky-horror-picture-show",
+    "year": 1975,
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Fantasy",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "The Rocky Horror Picture Show works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "science-fiction",
+      "fantasy",
+      "horror",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 974931,
+      "title": "Totally Killer",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Totally Killer (2023) is a strong next stop: both trade in comedy and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4011,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Beetlejuice (1988) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 492,
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Being John Malkovich (1999) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2179,
+      "title": "Tenacious D in The Pick of Destiny",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Tenacious D in The Pick of Destiny (2006) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "music",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 241855,
+      "title": "Spring",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Spring (2014) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22244,
+      "title": "Society",
+      "year": 1989,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Society (1989) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "adventure",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14353,
+      "title": "Repo! The Genetic Opera",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Repo! The Genetic Opera (2008) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "music"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3933,
+      "title": "Corpse Bride",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Corpse Bride (2005) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7131,
+      "title": "Van Helsing",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Rocky Horror Picture Show clicked for you, Van Helsing (2004) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "adventure",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Rocky Horror Picture Show?",
+      "answer": "Try Totally Killer, Beetlejuice, Being John Malkovich—each shares DNA with The Rocky Horror Picture Show while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Rocky Horror Picture Show?",
+      "answer": "The Rocky Horror Picture Show (1975) is best described as Comedy, Science Fiction, Fantasy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Rocky Horror Picture Show part of a franchise?",
+      "answer": "Yes—it's part of the \"The Rocky Horror Picture Show Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "army-of-darkness",
+    "beetlejuice-beetlejuice",
+    "death-becomes-her",
+    "death-of-a-unicorn",
+    "el-conde",
+    "gremlins",
+    "home"
+  ]
+}

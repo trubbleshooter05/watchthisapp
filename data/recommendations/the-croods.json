@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 49519,
+    "title": "The Croods",
+    "slug": "the-croods",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Croods (2013) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 425,
+      "title": "Ice Age",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Croods clicked for you, Ice Age (2002) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Croods clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Croods clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82703,
+      "title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Croods clicked for you, Mr. Peabody & Sherman (2014) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Croods clicked for you, Elio (2025) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 295693,
+      "title": "The Boss Baby",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Croods clicked for you, The Boss Baby (2017) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11544,
+      "title": "Lilo & Stitch",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Croods clicked for you, Lilo & Stitch (2002) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Croods clicked for you, Epic (2013) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 381719,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Croods clicked for you, Peter Rabbit (2018) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Croods clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Croods?",
+      "answer": "Try Ice Age, Ice Age: Dawn of the Dinosaurs, The Croods: A New Age—each shares DNA with The Croods while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Croods?",
+      "answer": "The Croods (2013) is best described as Animation, Adventure, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Croods part of a franchise?",
+      "answer": "Yes—it's part of the \"The Croods Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

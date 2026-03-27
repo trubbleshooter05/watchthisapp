@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 75612,
+    "title": "Oblivion",
+    "slug": "oblivion",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Oblivion works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "adventure",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 54138,
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Star Trek Into Darkness (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348350,
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Solo: A Star Wars Story (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19898,
+      "title": "Pandorum",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Pandorum (2009) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "mystery",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 123025,
+      "title": "Batman: The Dark Knight Returns, Part 1",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Batman: The Dark Knight Returns, Part 1 (2012) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "mystery",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 142061,
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Batman: The Dark Knight Returns, Part 2 (2013) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "mystery",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 200,
+      "title": "Star Trek: Insurrection",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Star Trek: Insurrection (1998) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Oblivion clicked for you, Titan A.E. (2000) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Oblivion?",
+      "answer": "Try Guardians of the Galaxy, Divergent, Star Trek Into Darkness—each shares DNA with Oblivion while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Oblivion?",
+      "answer": "Oblivion (2013) is best described as Action, Science Fiction, Adventure, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Oblivion worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "allegiant",
+    "2001-a-space-odyssey",
+    "alienoid",
+    "alita-battle-angel",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania"
+  ]
+}

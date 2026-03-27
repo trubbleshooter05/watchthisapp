@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 260513,
+    "title": "Incredibles 2",
+    "slug": "incredibles-2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Incredibles 2 works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9806,
+      "title": "The Incredibles",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, The Incredibles (2004) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774370,
+      "title": "Dog Man",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Dog Man (2025) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137106,
+      "title": "The Lego Movie",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, The Lego Movie (2014) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Return to Never Land (2002) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 893723,
+      "title": "PAW Patrol: The Mighty Movie",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, PAW Patrol: The Mighty Movie (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36728,
+      "title": "Naruto Shippuden the Movie: The Will of Fire",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Naruto Shippuden the Movie: The Will of Fire (2009) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16340,
+      "title": "Rugrats in Paris: The Movie",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Incredibles 2 clicked for you, Rugrats in Paris: The Movie (2000) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Incredibles 2?",
+      "answer": "Try The Incredibles, Big Hero 6, Despicable Me 3—each shares DNA with Incredibles 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Incredibles 2?",
+      "answer": "Incredibles 2 (2018) is best described as Action, Adventure, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Incredibles 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Incredibles Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "castle-in-the-sky",
+    "despicable-me-3",
+    "dog-man",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4"
+  ]
+}

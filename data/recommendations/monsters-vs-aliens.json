@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15512,
+    "title": "Monsters vs Aliens",
+    "slug": "monsters-vs-aliens",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Monsters vs Aliens (2009) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Rob Letterman's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1184918,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, The Wild Robot (2024) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Lightyear (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Elio (2025) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Hoppers (2026) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Monsters vs Aliens clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Monsters vs Aliens?",
+      "answer": "Try The Wild Robot, Minions: The Rise of Gru, Lightyear—each shares DNA with Monsters vs Aliens while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Monsters vs Aliens?",
+      "answer": "Monsters vs Aliens (2009) is best described as Animation, Family, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Monsters vs Aliens worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "atlantis-the-lost-empire",
+    "elio",
+    "hoppers",
+    "ice-age-collision-course",
+    "lightyear",
+    "meet-the-robinsons",
+    "minions-the-rise-of-gru"
+  ]
+}

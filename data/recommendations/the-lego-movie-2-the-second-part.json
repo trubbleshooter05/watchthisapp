@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 280217,
+    "title": "The Lego Movie 2: The Second Part",
+    "slug": "the-lego-movie-2-the-second-part",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Lego Movie 2: The Second Part (2019) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Mike Mitchell's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "animation",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 274862,
+      "title": "The Lego Ninjago Movie",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, The Lego Ninjago Movie (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324849,
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, The Lego Batman Movie (2017) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400160,
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, The SpongeBob Movie: Sponge on the Run (2020) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 732670,
+      "title": "LEGO Star Wars Holiday Special",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, LEGO Star Wars Holiday Special (2020) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, Pocahontas (1995) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lego Movie 2: The Second Part clicked for you, Dinosaur (2000) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lego Movie 2: The Second Part?",
+      "answer": "Try Despicable Me 3, The Lego Ninjago Movie, Moana—each shares DNA with The Lego Movie 2: The Second Part while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lego Movie 2: The Second Part?",
+      "answer": "The Lego Movie 2: The Second Part (2019) is best described as Action, Adventure, Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lego Movie 2: The Second Part part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lego Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me-3",
+    "dog-man",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4",
+    "spies-in-disguise",
+    "a-bugs-life"
+  ]
+}

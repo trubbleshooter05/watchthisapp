@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 218,
+    "title": "The Terminator",
+    "slug": "the-terminator",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Terminator works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Terminator clicked for you, The Book of Eli (2010) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290859,
+      "title": "Terminator: Dark Fate",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Terminator: Dark Fate (2019) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 500664,
+      "title": "Upgrade",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Upgrade (2018) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10483,
+      "title": "Death Race",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Death Race (2008) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Repo Men (2010) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10447,
+      "title": "No Escape",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Terminator clicked for you, No Escape (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Terminator clicked for you, I Am Legend (2007) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 78,
+      "title": "Blade Runner",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Blade Runner (1982) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 198184,
+      "title": "Chappie",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Terminator clicked for you, Chappie (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Terminator?",
+      "answer": "Try Terminator 2: Judgment Day, The Book of Eli, Terminator: Dark Fate—each shares DNA with The Terminator while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Terminator?",
+      "answer": "The Terminator (1984) is best described as Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Terminator part of a franchise?",
+      "answer": "Yes—it's part of the \"The Terminator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

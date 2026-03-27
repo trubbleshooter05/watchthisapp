@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8871,
+    "title": "How the Grinch Stole Christmas",
+    "slug": "how-the-grinch-stole-christmas",
+    "year": 2000,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto How the Grinch Stole Christmas (2000) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Mary Poppins (1964) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10719,
+      "title": "Elf",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Elf (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 654028,
+      "title": "The Christmas Chronicles: Part Two",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, The Christmas Chronicles: Part Two (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 798021,
+      "title": "Family Switch",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Family Switch (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454467,
+      "title": "Noelle",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Noelle (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 645757,
+      "title": "That Christmas",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, That Christmas (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 310,
+      "title": "Bruce Almighty",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Bruce Almighty (2003) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13673,
+      "title": "Christmas with the Kranks",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Christmas with the Kranks (2004) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10510,
+      "title": "Miracle on 34th Street",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If How the Grinch Stole Christmas clicked for you, Miracle on 34th Street (1994) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after How the Grinch Stole Christmas?",
+      "answer": "Try Mary Poppins, Elf, The Christmas Chronicles: Part Two—each shares DNA with How the Grinch Stole Christmas while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is How the Grinch Stole Christmas?",
+      "answer": "How the Grinch Stole Christmas (2000) is best described as Family, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is How the Grinch Stole Christmas worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "casper",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle"
+  ]
+}

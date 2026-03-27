@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 3049,
+    "title": "Ace Ventura: Pet Detective",
+    "slug": "ace-ventura-pet-detective",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Ace Ventura: Pet Detective works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "mystery",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10528,
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Sherlock Holmes (2009) is a strong next stop: both trade in mystery and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9737,
+      "title": "Bad Boys",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Bad Boys (1995) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9273,
+      "title": "Ace Ventura: When Nature Calls",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Ace Ventura: When Nature Calls (1995) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37136,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, The Naked Gun: From the Files of Police Squad! (1988) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Bad Boys: Ride or Die (2024) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6951,
+      "title": "Turner & Hooch",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Turner & Hooch (1989) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425591,
+      "title": "I Don't Feel at Home in This World Anymore",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, I Don't Feel at Home in This World Anymore (2017) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280180,
+      "title": "Beverly Hills Cop: Axel F",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Beverly Hills Cop: Axel F (2024) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 975773,
+      "title": "Wicked Little Letters",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ace Ventura: Pet Detective clicked for you, Wicked Little Letters (2024) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ace Ventura: Pet Detective?",
+      "answer": "Try Sherlock Holmes, Bad Boys, Ace Ventura: When Nature Calls—each shares DNA with Ace Ventura: Pet Detective while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ace Ventura: Pet Detective?",
+      "answer": "Ace Ventura: Pet Detective (1994) is best described as Comedy, Mystery, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ace Ventura: Pet Detective part of a franchise?",
+      "answer": "Yes—it's part of the \"Ace Ventura Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "clue",
+    "glass-onion",
+    "glass-onion-a-knives-out-mystery",
+    "hoodwinked",
+    "knives-out",
+    "the-wrecking-crew",
+    "21-jump-street"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 146,
+    "title": "Crouching Tiger, Hidden Dragon",
+    "slug": "crouching-tiger-hidden-dragon",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Crouching Tiger, Hidden Dragon (2000) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Ang Lee's control of tone keeps the ride coherent. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "action",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 79,
+      "title": "Hero",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Hero (2002) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9550,
+      "title": "House of Flying Daggers",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, House of Flying Daggers (2004) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9502,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Kung Fu Panda (2008) is a strong next stop: both trade in drama and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527774,
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Raya and the Last Dragon (2021) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Live and Let Die (1973) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Crouching Tiger, Hidden Dragon clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Crouching Tiger, Hidden Dragon?",
+      "answer": "Try Hero, House of Flying Daggers, The Lord of the Rings: The Fellowship of the Ring—each shares DNA with Crouching Tiger, Hidden Dragon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Crouching Tiger, Hidden Dragon?",
+      "answer": "Crouching Tiger, Hidden Dragon (2000) is best described as Adventure, Drama, Action, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Crouching Tiger, Hidden Dragon part of a franchise?",
+      "answer": "Yes—it's part of the \"Crouching Tiger, Hidden Dragon Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "the-karate-kid-part-ii",
+    "along-with-the-gods-the-two-worlds",
+    "city-hunter",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii"
+  ]
+}

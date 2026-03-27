@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 333339,
+    "title": "Ready Player One",
+    "slug": "ready-player-one",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Ready Player One (2018) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Steven Spielberg's control of tone keeps the ride coherent. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 70160,
+      "title": "The Hunger Games",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Hunger Games (2012) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Hunger Games: Catching Fire (2013) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 131634,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Hunger Games: Mockingjay - Part 2 (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20526,
+      "title": "TRON: Legacy",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, TRON: Legacy (2010) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 97,
+      "title": "Tron",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, Tron (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2135,
+      "title": "The Time Machine",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Time Machine (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, The Matrix (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 353486,
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ready Player One clicked for you, Jumanji: Welcome to the Jungle (2017) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ready Player One?",
+      "answer": "Try The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay - Part 2—each shares DNA with Ready Player One while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ready Player One?",
+      "answer": "Ready Player One (2018) is best described as Adventure, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ready Player One worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

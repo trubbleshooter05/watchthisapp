@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 433,
+    "title": "Mary Poppins",
+    "slug": "mary-poppins",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Mary Poppins works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 400650,
+      "title": "Mary Poppins Returns",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Mary Poppins Returns (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2758,
+      "title": "Addams Family Values",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Addams Family Values (1993) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11283,
+      "title": "Nanny McPhee",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Nanny McPhee (2005) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 668482,
+      "title": "Roald Dahl's Matilda the Musical",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Roald Dahl's Matilda the Musical (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Spellbound (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Spirited Away (2001) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 137,
+      "title": "Groundhog Day",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Groundhog Day (1993) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10144,
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, The Little Mermaid (1989) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mary Poppins clicked for you, Cinderella (1950) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mary Poppins?",
+      "answer": "Try Mary Poppins Returns, Addams Family Values, Nanny McPhee—each shares DNA with Mary Poppins while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mary Poppins?",
+      "answer": "Mary Poppins (1964) is best described as Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mary Poppins part of a franchise?",
+      "answer": "Yes—it's part of the \"Mary Poppins Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "casper",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle"
+  ]
+}

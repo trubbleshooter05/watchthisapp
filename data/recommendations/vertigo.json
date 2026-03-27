@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 426,
+    "title": "Vertigo",
+    "slug": "vertigo",
+    "year": 1958,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Vertigo (1958) stuck because it commits to its mystery premise without apologizing—viewers remember set pieces and momentum as much as plot. Alfred Hitchcock's control of tone keeps the ride coherent. The mystery and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "mystery",
+      "romance",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 223,
+      "title": "Rebecca",
+      "year": 1940,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Rebecca (1940) is a strong next stop: both trade in mystery and romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "romance",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 160139,
+      "title": "Night Train to Lisbon",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Night Train to Lisbon (2013) is a strong next stop: both trade in mystery and romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "romance",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11498,
+      "title": "Dead Again",
+      "year": 1991,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Dead Again (1991) is a strong next stop: both trade in mystery and romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "romance",
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2649,
+      "title": "The Game",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Vertigo clicked for you, The Game (1997) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68727,
+      "title": "Trance",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Trance (2013) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 500840,
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Vertigo clicked for you, I'm Thinking of Ending Things (2020) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 963,
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Vertigo clicked for you, The Maltese Falcon (1941) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 471506,
+      "title": "Greta",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Greta (2019) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11033,
+      "title": "Dressed to Kill",
+      "year": 1980,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Vertigo clicked for you, Dressed to Kill (1980) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Vertigo?",
+      "answer": "Try Rebecca, Night Train to Lisbon, Dead Again—each shares DNA with Vertigo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Vertigo?",
+      "answer": "Vertigo (1958) is best described as Mystery, Romance, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Vertigo worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this mystery lane."
+    }
+  ],
+  "relatedPages": [
+    "decision-to-leave",
+    "gattaca",
+    "8mm",
+    "a-perfect-getaway",
+    "a-walk-among-the-tombstones",
+    "along-came-a-spider",
+    "anatomy-of-a-fall"
+  ]
+}

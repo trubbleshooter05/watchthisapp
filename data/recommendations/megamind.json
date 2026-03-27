@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 38055,
+    "title": "Megamind",
+    "slug": "megamind",
+    "year": 2010,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Megamind works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Megamind clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Megamind clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Megamind clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Megamind clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13253,
+      "title": "Futurama: Bender's Game",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Megamind clicked for you, Futurama: Bender's Game (2008) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Megamind clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Megamind clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Megamind clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 608,
+      "title": "Men in Black II",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Megamind clicked for you, Men in Black II (2002) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76589,
+      "title": "Justice League: Doom",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Megamind clicked for you, Justice League: Doom (2012) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Megamind?",
+      "answer": "Try Despicable Me 4, Meet the Robinsons, Spies in Disguise—each shares DNA with Megamind while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Megamind?",
+      "answer": "Megamind (2010) is best described as Animation, Action, Comedy, Family, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Megamind part of a franchise?",
+      "answer": "Yes—it's part of the \"Megamind Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "despicable-me-4",
+    "big-hero-6",
+    "despicable-me",
+    "despicable-me-3",
+    "dog-man",
+    "elio",
+    "home"
+  ]
+}

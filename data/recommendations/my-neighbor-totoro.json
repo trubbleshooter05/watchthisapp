@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8392,
+    "title": "My Neighbor Totoro",
+    "slug": "my-neighbor-totoro",
+    "year": 1988,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto My Neighbor Totoro (1988) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "animation",
+      "family",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Spirited Away (2001) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Onward (2020) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16859,
+      "title": "Kiki's Delivery Service",
+      "year": 1989,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Kiki's Delivery Service (1989) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 51739,
+      "title": "The Secret World of Arrietty",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, The Secret World of Arrietty (2010) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508883,
+      "title": "The Boy and the Heron",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, The Boy and the Heron (2023) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 315465,
+      "title": "The Boy and the Beast",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, The Boy and the Beast (2015) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 475215,
+      "title": "Mirai",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Mirai (2018) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 100271,
+      "title": "A Letter to Momo",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, A Letter to Momo (2012) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If My Neighbor Totoro clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after My Neighbor Totoro?",
+      "answer": "Try Spirited Away, Onward, Kiki's Delivery Service—each shares DNA with My Neighbor Totoro while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is My Neighbor Totoro?",
+      "answer": "My Neighbor Totoro (1988) is best described as Fantasy, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is My Neighbor Totoro worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "brave",
+    "castle-in-the-sky",
+    "cinderella-ii-dreams-come-true",
+    "coraline",
+    "elemental"
+  ]
+}

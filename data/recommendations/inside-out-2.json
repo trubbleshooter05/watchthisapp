@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1022789,
+    "title": "Inside Out 2",
+    "slug": "inside-out-2",
+    "year": 2024,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Inside Out 2 works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 150540,
+      "title": "Inside Out",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Inside Out (2015) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Moana (2016) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82690,
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Wreck-It Ralph (2012) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 211672,
+      "title": "Minions",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Minions (2015) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 301528,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Toy Story 4 (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431580,
+      "title": "Abominable",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Inside Out 2 clicked for you, Abominable (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Inside Out 2?",
+      "answer": "Try Inside Out, Moana, Wreck-It Ralph—each shares DNA with Inside Out 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Inside Out 2?",
+      "answer": "Inside Out 2 (2024) is best described as Animation, Adventure, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Inside Out 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Inside Out Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

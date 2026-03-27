@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 127380,
+    "title": "Finding Dory",
+    "slug": "finding-dory",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Finding Dory for the same reason it broke through in 2016: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Andrew Stanton keeps the ensemble pointed in one direction. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 270946,
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Penguins of Madagascar (2014) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, The Lion King 1½ (2004) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1241982,
+      "title": "Moana 2",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Moana 2 (2024) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Finding Dory clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Finding Dory?",
+      "answer": "Try Moana, The Super Mario Bros. Movie, Ice Age: Dawn of the Dinosaurs—each shares DNA with Finding Dory while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Finding Dory?",
+      "answer": "Finding Dory (2016) is best described as Adventure, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Finding Dory part of a franchise?",
+      "answer": "Yes—it's part of the \"Finding Nemo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

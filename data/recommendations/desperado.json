@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8068,
+    "title": "Desperado",
+    "slug": "desperado",
+    "year": 1995,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Desperado (1995) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Desperado clicked for you, The Transporter (2002) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 400535,
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Desperado clicked for you, Sicario: Day of the Soldado (2018) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Desperado clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Desperado clicked for you, The Jackal (1997) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4141,
+      "title": "Shoot 'Em Up",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Desperado clicked for you, Shoot 'Em Up (2007) is a strong next stop: both trade in thriller and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9691,
+      "title": "Assassins",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Desperado clicked for you, Assassins (1995) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8978,
+      "title": "Assault on Precinct 13",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Desperado clicked for you, Assault on Precinct 13 (2005) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5916,
+      "title": "The Getaway",
+      "year": 1972,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Desperado clicked for you, The Getaway (1972) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1619,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Desperado clicked for you, The Way of the Gun (2000) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 180894,
+      "title": "Ninja: Shadow of a Tear",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Desperado clicked for you, Ninja: Shadow of a Tear (2013) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Desperado?",
+      "answer": "Try The Transporter, Sicario: Day of the Soldado, Once Upon a Time in Mexico—each shares DNA with Desperado while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Desperado?",
+      "answer": "Desperado (1995) is best described as Thriller, Action, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Desperado part of a franchise?",
+      "answer": "Yes—it's part of the \"Mexico Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-working-man",
+    "along-came-a-spider",
+    "assassins",
+    "avengement",
+    "bad-boys",
+    "bad-boys-for-life",
+    "ballerina"
+  ]
+}

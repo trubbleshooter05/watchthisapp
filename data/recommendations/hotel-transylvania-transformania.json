@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 585083,
+    "title": "Hotel Transylvania: Transformania",
+    "slug": "hotel-transylvania-transformania",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Hotel Transylvania: Transformania (2022) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76492,
+      "title": "Hotel Transylvania",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Hotel Transylvania (2012) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 533,
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Wallace & Gromit: The Curse of the Were-Rabbit (2005) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Elio (2025) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 30074,
+      "title": "Scooby-Doo! and the Legend of the Vampire",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Scooby-Doo! and the Legend of the Vampire (2003) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hotel Transylvania: Transformania clicked for you, Hoppers (2026) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hotel Transylvania: Transformania?",
+      "answer": "Try The Croods: A New Age, Minions: The Rise of Gru, Hotel Transylvania—each shares DNA with Hotel Transylvania: Transformania while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hotel Transylvania: Transformania?",
+      "answer": "Hotel Transylvania: Transformania (2022) is best described as Animation, Comedy, Family, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hotel Transylvania: Transformania part of a franchise?",
+      "answer": "Yes—it's part of the \"Hotel Transylvania Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru",
+    "moana-2"
+  ]
+}

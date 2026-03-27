@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1654,
+    "title": "The Dirty Dozen",
+    "slug": "the-dirty-dozen",
+    "year": 1967,
+    "genres": [
+      "Action",
+      "Adventure",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit The Dirty Dozen for the same reason it broke through in 1967: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Robert Aldrich keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "war",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11046,
+      "title": "Where Eagles Dare",
+      "year": 1968,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, Where Eagles Dare (1968) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10911,
+      "title": "The Guns of Navarone",
+      "year": 1961,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Guns of Navarone (1961) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 228150,
+      "title": "Fury",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, Fury (2014) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 799583,
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Ministry of Ungentlemanly Warfare (2024) is a strong next stop: both trade in action and war, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9289,
+      "title": "The Longest Day",
+      "year": 1962,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Longest Day (1962) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339259,
+      "title": "The Man with the Iron Heart",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Man with the Iron Heart (2017) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13922,
+      "title": "The Great Raid",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Great Raid (2005) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 17339,
+      "title": "Force 10 from Navarone",
+      "year": 1978,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, Force 10 from Navarone (1978) is a strong next stop: both trade in adventure and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8909,
+      "title": "Wanted",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, Wanted (2008) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Dirty Dozen clicked for you, The Transporter (2002) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Dirty Dozen?",
+      "answer": "Try Where Eagles Dare, The Guns of Navarone, Fury—each shares DNA with The Dirty Dozen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Dirty Dozen?",
+      "answer": "The Dirty Dozen (1967) is best described as Action, Adventure, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Dirty Dozen part of a franchise?",
+      "answer": "Yes—it's part of the \"The Dirty Dozen Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "300",
+    "first-blood",
+    "kingdom-of-heaven",
+    "rambo-first-blood-part-ii",
+    "rambo-iii",
+    "red-cliff-ii",
+    "tae-guk-gi-the-brotherhood-of-war"
+  ]
+}

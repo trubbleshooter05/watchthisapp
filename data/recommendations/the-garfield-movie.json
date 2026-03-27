@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 748783,
+    "title": "The Garfield Movie",
+    "slug": "the-garfield-movie",
+    "year": 2024,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Garfield Movie (2024) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 301528,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Toy Story 4 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10340,
+      "title": "Lady and the Tramp",
+      "year": 1955,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Lady and the Tramp (1955) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 893723,
+      "title": "PAW Patrol: The Mighty Movie",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, PAW Patrol: The Mighty Movie (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774370,
+      "title": "Dog Man",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Dog Man (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 381719,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, Peter Rabbit (2018) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 227973,
+      "title": "The Peanuts Movie",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Garfield Movie clicked for you, The Peanuts Movie (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Garfield Movie?",
+      "answer": "Try Toy Story 4, Lady and the Tramp, The Secret Life of Pets 2—each shares DNA with The Garfield Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Garfield Movie?",
+      "answer": "The Garfield Movie (2024) is best described as Family, Comedy, Adventure, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Garfield Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"The Garfield Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

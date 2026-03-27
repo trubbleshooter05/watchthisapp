@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1734,
+    "title": "The Mummy Returns",
+    "slug": "the-mummy-returns",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Mummy Returns for the same reason it broke through in 2001: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Stephen Sommers keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 564,
+      "title": "The Mummy",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, The Mummy (1999) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9543,
+      "title": "Prince of Persia: The Sands of Time",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Prince of Persia: The Sands of Time (2010) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 85,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Raiders of the Lost Ark (1981) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Indiana Jones and the Temple of Doom (1984) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 558449,
+      "title": "Gladiator II",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Gladiator II (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 335977,
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Indiana Jones and the Dial of Destiny (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2164,
+      "title": "Stargate",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Stargate (1994) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10303,
+      "title": "The Jewel of the Nile",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, The Jewel of the Nile (1985) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11639,
+      "title": "The Dark Crystal",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Mummy Returns clicked for you, The Dark Crystal (1982) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Mummy Returns?",
+      "answer": "Try The Mummy, Prince of Persia: The Sands of Time, Raiders of the Lost Ark—each shares DNA with The Mummy Returns while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Mummy Returns?",
+      "answer": "The Mummy Returns (2001) is best described as Adventure, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Mummy Returns part of a franchise?",
+      "answer": "Yes—it's part of the \"The Mummy Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

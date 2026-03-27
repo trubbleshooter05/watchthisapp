@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 345887,
+    "title": "The Equalizer 2",
+    "slug": "the-equalizer-2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "People revisit The Equalizer 2 for the same reason it broke through in 2018: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Antoine Fuqua keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10431,
+      "title": "War",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, War (2007) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10650,
+      "title": "Sudden Impact",
+      "year": 1983,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Sudden Impact (1983) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14373,
+      "title": "Death Wish II",
+      "year": 1982,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Death Wish II (1982) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976734,
+      "title": "Canary Black",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Canary Black (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22171,
+      "title": "Ms .45",
+      "year": 1981,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Ms .45 (1981) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, Salt (2010) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 138103,
+      "title": "The Expendables 3",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Equalizer 2 clicked for you, The Expendables 3 (2014) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Equalizer 2?",
+      "answer": "Try Once Upon a Time in Mexico, War, Sudden Impact—each shares DNA with The Equalizer 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Equalizer 2?",
+      "answer": "The Equalizer 2 (2018) is best described as Action, Thriller, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Equalizer 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Equalizer Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-working-man",
+    "along-came-a-spider",
+    "assassins",
+    "avengement",
+    "bad-boys",
+    "bad-boys-for-life",
+    "ballerina"
+  ]
+}

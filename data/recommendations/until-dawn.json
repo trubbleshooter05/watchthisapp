@@ -1,0 +1,167 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1232546,
+    "title": "Until Dawn",
+    "slug": "until-dawn",
+    "year": 2025,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Until Dawn works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 176,
+      "title": "Saw",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Saw (2004) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Scream (1996) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 201085,
+      "title": "Crimson Peak",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Crimson Peak (2015) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 298250,
+      "title": "Jigsaw",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Jigsaw (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 571384,
+      "title": "Come Play",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Come Play (2020) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 758724,
+      "title": "The Cellar",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, The Cellar (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16180,
+      "title": "The Legend of Hell House",
+      "year": 1973,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, The Legend of Hell House (1973) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, The Hunt (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14001,
+      "title": "Dead Silence",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Dead Silence (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4176,
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Until Dawn clicked for you, Murder on the Orient Express (1974) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Until Dawn?",
+      "answer": "Try Saw, Scream, Crimson Peak—each shares DNA with Until Dawn while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Until Dawn?",
+      "answer": "Until Dawn (2025) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Until Dawn worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "a-cure-for-wellness",
+    "barbarian",
+    "bodies-bodies-bodies",
+    "crimson-peak",
+    "escape-room",
+    "exhuma",
+    "final-destination-2"
+  ]
+}

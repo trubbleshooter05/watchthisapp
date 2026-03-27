@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 558449,
+    "title": "Gladiator II",
+    "slug": "gladiator-ii",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit Gladiator II for the same reason it broke through in 2024: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Ridley Scott keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Gladiator (2000) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290595,
+      "title": "The Huntsman: Winter's War",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, The Huntsman: Winter's War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Star Wars: Episode III - Revenge of the Sith (2005) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Mission: Impossible - Dead Reckoning Part One (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 335977,
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Indiana Jones and the Dial of Destiny (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 967,
+      "title": "Spartacus",
+      "year": 1960,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Spartacus (1960) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 26428,
+      "title": "Agora",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Agora (2009) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 308504,
+      "title": "Last Knights",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gladiator II clicked for you, Last Knights (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gladiator II?",
+      "answer": "Try Gladiator, The Huntsman: Winter's War, Kingdom of Heaven—each shares DNA with Gladiator II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gladiator II?",
+      "answer": "Gladiator II (2024) is best described as Action, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gladiator II part of a franchise?",
+      "answer": "Yes—it's part of the \"Gladiator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "crouching-tiger-hidden-dragon",
+    "days-of-thunder",
+    "gladiator",
+    "hero",
+    "karate-kid-legends"
+  ]
+}

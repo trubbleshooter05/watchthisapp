@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 81188,
+    "title": "Rise of the Guardians",
+    "slug": "rise-of-the-guardians",
+    "year": 2012,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Rise of the Guardians (2012) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "fantasy",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Lightyear (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 381719,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Peter Rabbit (2018) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rise of the Guardians clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rise of the Guardians?",
+      "answer": "Try The Super Mario Bros. Movie, The Croods: A New Age, Princess Mononoke—each shares DNA with Rise of the Guardians while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rise of the Guardians?",
+      "answer": "Rise of the Guardians (2012) is best described as Animation, Family, Fantasy, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rise of the Guardians worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "castle-in-the-sky",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "pok-mon-the-first-movie",
+    "pok-mon-the-movie-hoopa-and-the-clash-of-ages",
+    "raya-and-the-last-dragon",
+    "anastasia"
+  ]
+}

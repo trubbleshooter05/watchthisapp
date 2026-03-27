@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 605,
+    "title": "The Matrix Revolutions",
+    "slug": "the-matrix-revolutions",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Matrix Revolutions (2003) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Lana Wachowski's control of tone keeps the ride coherent. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49521,
+      "title": "Man of Steel",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Man of Steel (2013) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Eternals (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1924,
+      "title": "Superman",
+      "year": 1978,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Superman (1978) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 670292,
+      "title": "The Creator",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, The Creator (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Repo Men (2010) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 30061,
+      "title": "Justice League: Crisis on Two Earths",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Matrix Revolutions clicked for you, Justice League: Crisis on Two Earths (2010) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Matrix Revolutions?",
+      "answer": "Try The Matrix Reloaded, Avengers: Age of Ultron, Man of Steel—each shares DNA with The Matrix Revolutions while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Matrix Revolutions?",
+      "answer": "The Matrix Revolutions (2003) is best described as Adventure, Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Matrix Revolutions part of a franchise?",
+      "answer": "Yes—it's part of the \"The Matrix Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "maze-runner-the-scorch-trials"
+  ]
+}

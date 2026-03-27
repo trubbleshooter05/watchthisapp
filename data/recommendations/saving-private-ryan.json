@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 857,
+    "title": "Saving Private Ryan",
+    "slug": "saving-private-ryan",
+    "year": 1998,
+    "genres": [
+      "War",
+      "Drama",
+      "History"
+    ],
+    "whyPeopleLoveIt": "People revisit Saving Private Ryan for the same reason it broke through in 1998: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Steven Spielberg keeps the ensemble pointed in one direction. The war and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "war",
+      "drama",
+      "history",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 3683,
+      "title": "Flags of Our Fathers",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Flags of Our Fathers (2006) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11202,
+      "title": "Patton",
+      "year": 1970,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Patton (1970) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1061699,
+      "title": "The Six Triple Eight",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, The Six Triple Eight (2024) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11422,
+      "title": "Midway",
+      "year": 1976,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Midway (1976) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10105,
+      "title": "Saints and Soldiers",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Saints and Soldiers (2003) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 228150,
+      "title": "Fury",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Fury (2014) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193756,
+      "title": "Lone Survivor",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Lone Survivor (2013) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10015,
+      "title": "Heartbreak Ridge",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, Heartbreak Ridge (1986) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9289,
+      "title": "The Longest Day",
+      "year": 1962,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, The Longest Day (1962) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3870,
+      "title": "1900",
+      "year": 1976,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Saving Private Ryan clicked for you, 1900 (1976) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Saving Private Ryan?",
+      "answer": "Try Flags of Our Fathers, Patton, The Six Triple Eight—each shares DNA with Saving Private Ryan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Saving Private Ryan?",
+      "answer": "Saving Private Ryan (1998) is best described as War, Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Saving Private Ryan worth revisiting?",
+      "answer": "Viewer scores sit around 8.2/10 on TMDB—high enough that replays are common for people who like this war lane."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "barry-lyndon",
+    "braveheart",
+    "das-boot",
+    "downfall",
+    "emancipation",
+    "empire-of-the-sun"
+  ]
+}

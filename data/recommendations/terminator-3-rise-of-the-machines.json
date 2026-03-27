@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 296,
+    "title": "Terminator 3: Rise of the Machines",
+    "slug": "terminator-3-rise-of-the-machines",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Terminator 3: Rise of the Machines (2003) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Armageddon (1998) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 199,
+      "title": "Star Trek: First Contact",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Star Trek: First Contact (1996) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, The Matrix (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Terminator 3: Rise of the Machines clicked for you, Eternals (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Terminator 3: Rise of the Machines?",
+      "answer": "Try The Terminator, Terminator 2: Judgment Day, The Matrix Reloaded—each shares DNA with Terminator 3: Rise of the Machines while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Terminator 3: Rise of the Machines?",
+      "answer": "Terminator 3: Rise of the Machines (2003) is best described as Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Terminator 3: Rise of the Machines part of a franchise?",
+      "answer": "Yes—it's part of the \"The Terminator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 901362,
+    "title": "Trolls Band Together",
+    "slug": "trolls-band-together",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Family",
+      "Music",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Trolls Band Together (2023) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "music",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 136799,
+      "title": "Trolls",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Trolls (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "music",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 446893,
+      "title": "Trolls World Tour",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Trolls World Tour (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "music",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438695,
+      "title": "Sing 2",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Sing 2 (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 417320,
+      "title": "Descendants 2",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Descendants 2 (2017) is a strong next stop: both trade in family and music, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "music",
+        "fantasy",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 506574,
+      "title": "Descendants 3",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Descendants 3 (2019) is a strong next stop: both trade in family and music, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "music",
+        "fantasy",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14444,
+      "title": "The Rugrats Movie",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, The Rugrats Movie (1998) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454458,
+      "title": "UglyDolls",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, UglyDolls (2019) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Trolls Band Together clicked for you, Enchanted (2007) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Trolls Band Together?",
+      "answer": "Try Trolls, Trolls World Tour, Spellbound—each shares DNA with Trolls Band Together while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Trolls Band Together?",
+      "answer": "Trolls Band Together (2023) is best described as Animation, Family, Music, Fantasy, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Trolls Band Together part of a franchise?",
+      "answer": "Yes—it's part of the \"The Trolls Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "trolls",
+    "trolls-world-tour",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus"
+  ]
+}

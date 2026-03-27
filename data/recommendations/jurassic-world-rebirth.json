@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1234821,
+    "title": "Jurassic World Rebirth",
+    "slug": "jurassic-world-rebirth",
+    "year": 2025,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Jurassic World Rebirth (2025) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Gareth Edwards's control of tone keeps the ride coherent. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "adventure",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 135397,
+      "title": "Jurassic World",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Jurassic World (2015) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348350,
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Solo: A Star Wars Story (2018) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Guardians of the Galaxy Vol. 3 (2023) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 507086,
+      "title": "Jurassic World Dominion",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Jurassic World Dominion (2022) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 581726,
+      "title": "Infinite",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Infinite (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Titan A.E. (2000) is a strong next stop: both trade in science fiction and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 329,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Jurassic Park (1993) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 83533,
+      "title": "Avatar: Fire and Ash",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jurassic World Rebirth clicked for you, Avatar: Fire and Ash (2025) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jurassic World Rebirth?",
+      "answer": "Try Guardians of the Galaxy, Jurassic World, Jurassic World: Fallen Kingdom—each shares DNA with Jurassic World Rebirth while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jurassic World Rebirth?",
+      "answer": "Jurassic World Rebirth (2025) is best described as Science Fiction, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jurassic World Rebirth part of a franchise?",
+      "answer": "Yes—it's part of the \"Jurassic Park Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

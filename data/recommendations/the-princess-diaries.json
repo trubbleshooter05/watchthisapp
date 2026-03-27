@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9880,
+    "title": "The Princess Diaries",
+    "slug": "the-princess-diaries",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "People revisit The Princess Diaries for the same reason it broke through in 2001: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Garry Marshall keeps the ensemble pointed in one direction. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Shrek 2 (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11130,
+      "title": "The Princess Diaries 2: Royal Engagement",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, The Princess Diaries 2: Royal Engagement (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11247,
+      "title": "A Cinderella Story",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, A Cinderella Story (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 74018,
+      "title": "A Cinderella Story: Once Upon a Song",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, A Cinderella Story: Once Upon a Song (2011) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12689,
+      "title": "Angus, Thongs and Perfect Snogging",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Angus, Thongs and Perfect Snogging (2008) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Charming (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Maleficent (2014) is a strong next stop: both trade in family and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "romance",
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Cinderella (2015) is a strong next stop: both trade in family and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "romance",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10591,
+      "title": "The Girl Next Door",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, The Girl Next Door (2004) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19458,
+      "title": "Princess Protection Program",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Princess Diaries clicked for you, Princess Protection Program (2009) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "tv-movie",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Princess Diaries?",
+      "answer": "Try Shrek 2, The Princess Diaries 2: Royal Engagement, A Cinderella Story—each shares DNA with The Princess Diaries while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Princess Diaries?",
+      "answer": "The Princess Diaries (2001) is best described as Comedy, Family, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Princess Diaries part of a franchise?",
+      "answer": "Yes—it's part of the \"The Princess Diaries Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-cinderella-story",
+    "elemental",
+    "enchanted",
+    "hannah-montana-the-movie",
+    "hercules",
+    "lady-and-the-tramp",
+    "love-dont-co-t-a-thing"
+  ]
+}

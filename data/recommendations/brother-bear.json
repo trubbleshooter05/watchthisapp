@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10009,
+    "title": "Brother Bear",
+    "slug": "brother-bear",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Brother Bear (2003) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Aaron Blaise's control of tone keeps the ride coherent. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10674,
+      "title": "Mulan",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Mulan (1998) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, The Croods (2013) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Pocahontas (1995) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Peter Pan (1953) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10515,
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Castle in the Sky (1986) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7484,
+      "title": "Open Season",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Brother Bear clicked for you, Open Season (2006) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Brother Bear?",
+      "answer": "Try Big Hero 6, Moana, Mulan—each shares DNA with Brother Bear while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Brother Bear?",
+      "answer": "Brother Bear (2003) is best described as Adventure, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Brother Bear part of a franchise?",
+      "answer": "Yes—it's part of the \"Brother Bear Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

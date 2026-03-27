@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 324849,
+    "title": "The Lego Batman Movie",
+    "slug": "the-lego-batman-movie",
+    "year": 2017,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Lego Batman Movie (2017) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425,
+      "title": "Ice Age",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Ice Age (2002) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 533,
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Wallace & Gromit: The Curse of the Were-Rabbit (2005) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 408,
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1938,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Snow White and the Seven Dwarfs (1938) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Mary Poppins (1964) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 242643,
+      "title": "Batman: Assault on Arkham",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Batman: Assault on Arkham (2014) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 250480,
+      "title": "The Many Adventures of Winnie the Pooh",
+      "year": 1977,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, The Many Adventures of Winnie the Pooh (1977) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 379291,
+      "title": "Justice League vs. Teen Titans",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Justice League vs. Teen Titans (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 297556,
+      "title": "Justice League: Throne of Atlantis",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Justice League: Throne of Atlantis (2015) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 366924,
+      "title": "Batman: Bad Blood",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lego Batman Movie clicked for you, Batman: Bad Blood (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure",
+        "crime"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lego Batman Movie?",
+      "answer": "Try The Lego Movie 2: The Second Part, Ice Age, Wallace & Gromit: The Curse of the Were-Rabbit—each shares DNA with The Lego Batman Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lego Batman Movie?",
+      "answer": "The Lego Batman Movie (2017) is best described as Animation, Action, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lego Batman Movie worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "kung-fu-panda",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4"
+  ]
+}

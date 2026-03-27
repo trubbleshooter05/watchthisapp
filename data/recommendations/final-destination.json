@@ -1,0 +1,164 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9532,
+    "title": "Final Destination",
+    "slug": "final-destination",
+    "year": 2000,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Final Destination (2000) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. James Wong's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Final Destination clicked for you, Bird Box (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Final Destination clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 565,
+      "title": "The Ring",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Final Destination clicked for you, The Ring (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9358,
+      "title": "Final Destination 2",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Final Destination clicked for you, Final Destination 2 (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 574475,
+      "title": "Final Destination Bloodlines",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Final Destination clicked for you, Final Destination Bloodlines (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 790,
+      "title": "The Fog",
+      "year": 1980,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Final Destination clicked for you, The Fog (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1551,
+      "title": "Flatliners",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Final Destination clicked for you, Flatliners (1990) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2637,
+      "title": "The Mothman Prophecies",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Final Destination clicked for you, The Mothman Prophecies (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18781,
+      "title": "The Haunting in Connecticut",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Final Destination clicked for you, The Haunting in Connecticut (2009) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11503,
+      "title": "The Serpent and the Rainbow",
+      "year": 1988,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Final Destination clicked for you, The Serpent and the Rainbow (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Final Destination?",
+      "answer": "Try Bird Box, Scream, The Ring—each shares DNA with Final Destination while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Final Destination?",
+      "answer": "Final Destination (2000) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Final Destination part of a franchise?",
+      "answer": "Yes—it's part of the \"Final Destination Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-haunted-house-2"
+  ]
+}

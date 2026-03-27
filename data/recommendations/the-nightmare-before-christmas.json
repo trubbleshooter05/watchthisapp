@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9479,
+    "title": "The Nightmare Before Christmas",
+    "slug": "the-nightmare-before-christmas",
+    "year": 1993,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit The Nightmare Before Christmas for the same reason it broke through in 1993: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Henry Selick keeps the ensemble pointed in one direction. The fantasy and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "animation",
+      "family",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13394,
+      "title": "Shrek the Halls",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, Shrek the Halls (2007) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13465,
+      "title": "The Adventures of Ichabod and Mr. Toad",
+      "year": 1949,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, The Adventures of Ichabod and Mr. Toad (1949) is a strong next stop: both trade in fantasy and animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13382,
+      "title": "Rudolph the Red-Nosed Reindeer",
+      "year": 1964,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, Rudolph the Red-Nosed Reindeer (1964) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "tv-movie",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 484510,
+      "title": "Trolls Holiday",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, Trolls Holiday (2017) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 645757,
+      "title": "That Christmas",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, That Christmas (2024) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, The Iron Giant (1999) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10545,
+      "title": "The Hunchback of Notre Dame",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Nightmare Before Christmas clicked for you, The Hunchback of Notre Dame (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Nightmare Before Christmas?",
+      "answer": "Try James and the Giant Peach, Shrek the Halls, The Adventures of Ichabod and Mr. Toad—each shares DNA with The Nightmare Before Christmas while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Nightmare Before Christmas?",
+      "answer": "The Nightmare Before Christmas (1993) is best described as Fantasy, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Nightmare Before Christmas worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "brave",
+    "castle-in-the-sky",
+    "cinderella-ii-dreams-come-true",
+    "coraline",
+    "elemental"
+  ]
+}

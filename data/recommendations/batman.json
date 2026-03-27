@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 268,
+    "title": "Batman",
+    "slug": "batman",
+    "year": 1989,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Batman (1989) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Batman clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Batman clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Batman clicked for you, Batman Begins (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Batman clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 495764,
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Batman clicked for you, Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 364,
+      "title": "Batman Returns",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Batman clicked for you, Batman Returns (1992) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59859,
+      "title": "Kick-Ass 2",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Batman clicked for you, Kick-Ass 2 (2013) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Batman clicked for you, The Transporter (2002) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 461130,
+      "title": "Code 8",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Batman clicked for you, Code 8 (2019) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 69735,
+      "title": "Batman: Year One",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Batman clicked for you, Batman: Year One (2011) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "animation",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Batman?",
+      "answer": "Try The Dark Knight, The Dark Knight Rises, Batman Begins—each shares DNA with Batman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Batman?",
+      "answer": "Batman (1989) is best described as Fantasy, Action, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Batman part of a franchise?",
+      "answer": "Yes—it's part of the \"Batman Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "demon-city",
+    "kung-fu-hustle",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "a-working-man",
+    "alienoid"
+  ]
+}

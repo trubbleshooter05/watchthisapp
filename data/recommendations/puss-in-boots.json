@@ -1,0 +1,196 @@
+{
+  "sourceMovie": {
+    "tmdbId": 417859,
+    "title": "Puss in Boots",
+    "slug": "puss-in-boots",
+    "year": 2011,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Puss in Boots for the same reason it broke through in 2011: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Chris Miller keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Shrek (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Shrek 2 (2004) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 44896,
+      "title": "Rango",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Puss in Boots clicked for you, Rango (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "western"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Puss in Boots?",
+      "answer": "Try Shrek, Puss in Boots: The Last Wish, The Road to El Dorado—each shares DNA with Puss in Boots while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Puss in Boots?",
+      "answer": "Puss in Boots (2011) is best described as Animation, Family, Fantasy, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Puss in Boots part of a franchise?",
+      "answer": "Yes—it's part of the \"Puss in Boots Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

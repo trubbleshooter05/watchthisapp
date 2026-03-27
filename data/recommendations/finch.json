@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 522402,
+    "title": "Finch",
+    "slug": "finch",
+    "year": 2021,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Finch (2021) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Miguel Sapochnik's control of tone keeps the ride coherent. The science fiction and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "drama",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 152601,
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Finch clicked for you, Her (2013) is a strong next stop: both trade in science fiction and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 78,
+      "title": "Blade Runner",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Finch clicked for you, Blade Runner (1982) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Finch clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Finch clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 670292,
+      "title": "The Creator",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Finch clicked for you, The Creator (2023) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Finch clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in drama and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 412656,
+      "title": "Chaos Walking",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Finch clicked for you, Chaos Walking (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Finch clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 152,
+      "title": "Star Trek: The Motion Picture",
+      "year": 1979,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Finch clicked for you, Star Trek: The Motion Picture (1979) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 168,
+      "title": "Star Trek IV: The Voyage Home",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Finch clicked for you, Star Trek IV: The Voyage Home (1986) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Finch?",
+      "answer": "Try Her, Blade Runner, The Matrix Revolutions—each shares DNA with Finch while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Finch?",
+      "answer": "Finch (2021) is best described as Science Fiction, Drama, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Finch worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "a-i-artificial-intelligence",
+    "planet-of-the-apes",
+    "the-animal-kingdom",
+    "the-martian",
+    "the-wild-robot",
+    "10-cloverfield-lane",
+    "127-hours"
+  ]
+}

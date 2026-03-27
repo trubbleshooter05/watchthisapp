@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 297222,
+    "title": "PK",
+    "slug": "pk",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto PK (2014) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 84329,
+      "title": "Robot & Frank",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If PK clicked for you, Robot & Frank (2012) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If PK clicked for you, Men in Black (1997) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 686,
+      "title": "Contact",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If PK clicked for you, Contact (1997) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 416477,
+      "title": "The Big Sick",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If PK clicked for you, The Big Sick (2017) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 901,
+      "title": "City Lights",
+      "year": 1931,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If PK clicked for you, City Lights (1931) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1034716,
+      "title": "People We Meet on Vacation",
+      "year": 2026,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If PK clicked for you, People We Meet on Vacation (2026) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If PK clicked for you, Toy Story (1995) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 863,
+      "title": "Toy Story 2",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If PK clicked for you, Toy Story 2 (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If PK clicked for you, E.T. the Extra-Terrestrial (1982) is a strong next stop: both trade in science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 679,
+      "title": "Aliens",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If PK clicked for you, Aliens (1986) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after PK?",
+      "answer": "Try Robot & Frank, Men in Black, Contact—each shares DNA with PK while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is PK?",
+      "answer": "PK (2014) is best described as Comedy, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is PK worth revisiting?",
+      "answer": "Viewer scores sit around 7.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "dont-look-up",
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "3-idiots",
+    "500-days-of-summer",
+    "a-i-artificial-intelligence",
+    "a-league-of-their-own"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 158015,
+    "title": "The Purge",
+    "slug": "the-purge",
+    "year": 2013,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Purge (2013) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. James DeMonaco's control of tone keeps the ride coherent. The science fiction and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "horror",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 145135,
+      "title": "Dark Skies",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Purge clicked for you, Dark Skies (2013) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Purge clicked for you, Land of the Dead (2005) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 528985,
+      "title": "Assimilate",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Purge clicked for you, Assimilate (2019) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 78,
+      "title": "Blade Runner",
+      "year": 1982,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Purge clicked for you, Blade Runner (1982) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Purge clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Purge clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Purge clicked for you, War of the Worlds (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Purge clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 316727,
+      "title": "The Purge: Election Year",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Purge clicked for you, The Purge: Election Year (2016) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 431,
+      "title": "Cube",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Purge clicked for you, Cube (1998) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Purge?",
+      "answer": "Try Dark Skies, Land of the Dead, Assimilate—each shares DNA with The Purge while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Purge?",
+      "answer": "The Purge (2013) is best described as Science Fiction, Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Purge part of a franchise?",
+      "answer": "Yes—it's part of the \"The Purge Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one",
+    "a-quiet-place-part-ii"
+  ]
+}

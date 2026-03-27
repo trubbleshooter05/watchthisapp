@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 329,
+    "title": "Jurassic Park",
+    "slug": "jurassic-park",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Jurassic Park works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 135397,
+      "title": "Jurassic World",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Jurassic World (2015) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 507086,
+      "title": "Jurassic World Dominion",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Jurassic World Dominion (2022) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Jurassic World Rebirth (2025) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2135,
+      "title": "The Time Machine",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, The Time Machine (2002) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10973,
+      "title": "Creature from the Black Lagoon",
+      "year": 1954,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Creature from the Black Lagoon (1954) is a strong next stop: both trade in adventure and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jurassic Park clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jurassic Park?",
+      "answer": "Try Jurassic World, Jurassic World: Fallen Kingdom, The Lost World: Jurassic Park—each shares DNA with Jurassic Park while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jurassic Park?",
+      "answer": "Jurassic Park (1993) is best described as Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jurassic Park part of a franchise?",
+      "answer": "Yes—it's part of the \"Jurassic Park Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "2001-a-space-odyssey",
+    "a-i-artificial-intelligence",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp"
+  ]
+}

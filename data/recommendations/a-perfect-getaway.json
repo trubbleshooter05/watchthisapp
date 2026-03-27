@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12403,
+    "title": "A Perfect Getaway",
+    "slug": "a-perfect-getaway",
+    "year": 2009,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "A Perfect Getaway (2009) stuck because it commits to its thriller premise without apologizing—viewers remember set pieces and momentum as much as plot. David Twohy's control of tone keeps the ride coherent. The thriller and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "mystery",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Predator (1987) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Armageddon (1998) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 631843,
+      "title": "Old",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Old (2021) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 186,
+      "title": "Lucky Number Slevin",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Lucky Number Slevin (2006) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 505026,
+      "title": "Death on the Nile",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Death on the Nile (2022) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in thriller and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524251,
+      "title": "I See You",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, I See You (2019) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, The International (2009) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 260,
+      "title": "The 39 Steps",
+      "year": 1935,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Perfect Getaway clicked for you, The 39 Steps (1935) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Perfect Getaway?",
+      "answer": "Try Predator, Armageddon, Old—each shares DNA with A Perfect Getaway while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Perfect Getaway?",
+      "answer": "A Perfect Getaway (2009) is best described as Thriller, Mystery, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Perfect Getaway worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "national-treasure",
+    "national-treasure-book-of-secrets",
+    "127-hours",
+    "2001-a-space-odyssey",
+    "8mm",
+    "a-view-to-a-kill",
+    "a-walk-among-the-tombstones"
+  ]
+}

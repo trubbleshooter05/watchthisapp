@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8839,
+    "title": "Casper",
+    "slug": "casper",
+    "year": 1995,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Casper works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10439,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Casper clicked for you, Hocus Pocus (1993) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 642885,
+      "title": "Hocus Pocus 2",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Casper clicked for you, Hocus Pocus 2 (2022) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 639720,
+      "title": "IF",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Casper clicked for you, IF (2024) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1139829,
+      "title": "Orion and the Dark",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Casper clicked for you, Orion and the Dark (2024) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Casper clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22620,
+      "title": "Scooby-Doo! The Mystery Begins",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Casper clicked for you, Scooby-Doo! The Mystery Begins (2009) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Casper clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in comedy and family, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 671583,
+      "title": "Upside-Down Magic",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Casper clicked for you, Upside-Down Magic (2020) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560066,
+      "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Casper clicked for you, Scooby-Doo! and the Curse of the 13th Ghost (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 721656,
+      "title": "Happy Halloween, Scooby-Doo!",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Casper clicked for you, Happy Halloween, Scooby-Doo! (2020) is a strong next stop: both trade in comedy and family, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Casper?",
+      "answer": "Try Hocus Pocus, Hocus Pocus 2, IF—each shares DNA with Casper while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Casper?",
+      "answer": "Casper (1995) is best described as Fantasy, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Casper part of a franchise?",
+      "answer": "Yes—it's part of the \"Casper Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle",
+    "elemental"
+  ]
+}

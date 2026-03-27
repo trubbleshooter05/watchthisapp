@@ -1,0 +1,168 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4233,
+    "title": "Scream 2",
+    "slug": "scream-2",
+    "year": 1997,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit Scream 2 for the same reason it broke through in 1997: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. Wes Craven keeps the ensemble pointed in one direction. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Scream (1996) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 440021,
+      "title": "Happy Death Day",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Happy Death Day (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 646385,
+      "title": "Scream",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Scream (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Psycho II (1983) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10528,
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Sherlock Holmes (2009) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 424139,
+      "title": "Halloween",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Halloween (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 512196,
+      "title": "Happy Death Day 2U",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Happy Death Day 2U (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10585,
+      "title": "Child's Play",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Child's Play (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 934433,
+      "title": "Scream VI",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Scream 2 clicked for you, Scream VI (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Scream 2?",
+      "answer": "Try Scream, Happy Death Day, Scream 4—each shares DNA with Scream 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Scream 2?",
+      "answer": "Scream 2 (1997) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Scream 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Scream Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-cure-for-wellness",
+    "barbarian",
+    "bodies-bodies-bodies",
+    "crimson-peak",
+    "escape-room",
+    "exhuma",
+    "final-destination-2"
+  ]
+}

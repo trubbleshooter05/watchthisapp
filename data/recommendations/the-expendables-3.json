@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 138103,
+    "title": "The Expendables 3",
+    "slug": "the-expendables-3",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Expendables 3 (2014) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324668,
+      "title": "Jason Bourne",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, Jason Bourne (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, The Jackal (1997) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9691,
+      "title": "Assassins",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, Assassins (1995) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 558,
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, Spider-Man 2 (2004) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559,
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, Spider-Man 3 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602,
+      "title": "Independence Day",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, Independence Day (1996) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 435,
+      "title": "The Day After Tomorrow",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, The Day After Tomorrow (2004) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2502,
+      "title": "The Bourne Supremacy",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Expendables 3 clicked for you, The Bourne Supremacy (2004) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Expendables 3?",
+      "answer": "Try The Matrix Reloaded, Jason Bourne, The Jackal—each shares DNA with The Expendables 3 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Expendables 3?",
+      "answer": "The Expendables 3 (2014) is best described as Action, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Expendables 3 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Expendables Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

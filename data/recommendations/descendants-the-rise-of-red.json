@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 974262,
+    "title": "Descendants: The Rise of Red",
+    "slug": "descendants-the-rise-of-red",
+    "year": 2024,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Descendants: The Rise of Red works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "adventure",
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Hook (1991) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 335795,
+      "title": "Monster High: The Movie",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Monster High: The Movie (2022) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Maleficent: Mistress of Evil (2019) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Mary Poppins (1964) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Stardust (2007) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Willy Wonka & the Chocolate Factory (1971) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 447277,
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, The Little Mermaid (2023) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 417320,
+      "title": "Descendants 2",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Descendants 2 (2017) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "tv-movie",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 506574,
+      "title": "Descendants 3",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Descendants 3 (2019) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "tv-movie",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 338958,
+      "title": "Disenchanted",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Descendants: The Rise of Red clicked for you, Disenchanted (2022) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Descendants: The Rise of Red?",
+      "answer": "Try Hook, Monster High: The Movie, Maleficent: Mistress of Evil—each shares DNA with Descendants: The Rise of Red while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Descendants: The Rise of Red?",
+      "answer": "Descendants: The Rise of Red (2024) is best described as Fantasy, Adventure, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Descendants: The Rise of Red part of a franchise?",
+      "answer": "Yes—it's part of the \"Descendants Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "charlie-and-the-chocolate-factory",
+    "dolittle",
+    "frozen-ii",
+    "hercules",
+    "hook",
+    "horton-hears-a-who"
+  ]
+}

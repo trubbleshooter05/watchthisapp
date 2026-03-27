@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1184918,
+    "title": "The Wild Robot",
+    "slug": "the-wild-robot",
+    "year": 2024,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Family",
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Wild Robot (2024) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "science-fiction",
+      "family",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, The Iron Giant (1999) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Lightyear (2022) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Dinosaur (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Elio (2025) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Hoppers (2026) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10681,
+      "title": "WALL·E",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, WALL·E (2008) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 20352,
+      "title": "Despicable Me",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Wild Robot clicked for you, Despicable Me (2010) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Wild Robot?",
+      "answer": "Try The Iron Giant, Monsters vs Aliens, Lightyear—each shares DNA with The Wild Robot while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Wild Robot?",
+      "answer": "The Wild Robot (2024) is best described as Animation, Science Fiction, Family, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Wild Robot part of a franchise?",
+      "answer": "Yes—it's part of the \"The Wild Robot Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "atlantis-the-lost-empire",
+    "cars-3",
+    "dinosaur",
+    "elio",
+    "hoppers",
+    "ice-age-collision-course",
+    "inside-out"
+  ]
+}

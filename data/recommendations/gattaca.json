@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 782,
+    "title": "Gattaca",
+    "slug": "gattaca",
+    "year": 1997,
+    "genres": [
+      "Thriller",
+      "Science Fiction",
+      "Mystery",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "People revisit Gattaca for the same reason it broke through in 1997: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Andrew Niccol keeps the ensemble pointed in one direction. The thriller and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "science-fiction",
+      "mystery",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 406990,
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gattaca clicked for you, What Happened to Monday (2017) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19898,
+      "title": "Pandorum",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Pandorum (2009) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 846,
+      "title": "The X-Files",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gattaca clicked for you, The X-Files (1998) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gattaca clicked for you, The Island (2005) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 238615,
+      "title": "Self/less",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Self/less (2015) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 152,
+      "title": "Star Trek: The Motion Picture",
+      "year": 1979,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Star Trek: The Motion Picture (1979) is a strong next stop: both trade in science fiction and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "mystery",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4176,
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Murder on the Orient Express (1974) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193,
+      "title": "Star Trek: Generations",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Star Trek: Generations (1994) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 200,
+      "title": "Star Trek: Insurrection",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gattaca clicked for you, Star Trek: Insurrection (1998) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4437,
+      "title": "2010",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gattaca clicked for you, 2010 (1984) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gattaca?",
+      "answer": "Try What Happened to Monday, Pandorum, The X-Files—each shares DNA with Gattaca while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gattaca?",
+      "answer": "Gattaca (1997) is best described as Thriller, Science Fiction, Mystery, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gattaca worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "blindness",
+    "decision-to-leave",
+    "knowing",
+    "limitless",
+    "source-code",
+    "the-adjustment-bureau",
+    "the-gorge"
+  ]
+}

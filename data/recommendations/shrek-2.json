@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 809,
+    "title": "Shrek 2",
+    "slug": "shrek-2",
+    "year": 2004,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Shrek 2 (2004) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "comedy",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Wish Dragon (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Charming (2018) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Shrek (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 810,
+      "title": "Shrek the Third",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Shrek the Third (2007) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Enchanted (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10882,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Sleeping Beauty (1959) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16119,
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, Cinderella III: A Twist in Time (2007) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 22586,
+      "title": "The Swan Princess",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shrek 2 clicked for you, The Swan Princess (1994) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shrek 2?",
+      "answer": "Try Wish Dragon, Charming, Shrek—each shares DNA with Shrek 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shrek 2?",
+      "answer": "Shrek 2 (2004) is best described as Animation, Family, Comedy, Fantasy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shrek 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Shrek Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "elemental",
+    "hercules",
+    "cinderella-ii-dreams-come-true",
+    "encanto",
+    "enchanted",
+    "frozen-ii",
+    "home"
+  ]
+}

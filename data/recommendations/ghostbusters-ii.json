@@ -1,0 +1,172 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2978,
+    "title": "Ghostbusters II",
+    "slug": "ghostbusters-ii",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Ghostbusters II (1989) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 620,
+      "title": "Ghostbusters",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Ghostbusters (1984) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4011,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Beetlejuice (1988) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, How the Grinch Stole Christmas (2000) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425909,
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Ghostbusters: Afterlife (2021) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 967847,
+      "title": "Ghostbusters: Frozen Empire",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Ghostbusters: Frozen Empire (2024) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10025,
+      "title": "Just My Luck",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Just My Luck (2006) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "drama",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12187,
+      "title": "Heart and Souls",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Heart and Souls (1993) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 259316,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Fantastic Beasts and Where to Find Them (2016) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Moana (2016) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10625,
+      "title": "Mean Girls",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ghostbusters II clicked for you, Mean Girls (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ghostbusters II?",
+      "answer": "Try Ghostbusters, Beetlejuice, How the Grinch Stole Christmas—each shares DNA with Ghostbusters II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ghostbusters II?",
+      "answer": "Ghostbusters II (1989) is best described as Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ghostbusters II part of a franchise?",
+      "answer": "Yes—it's part of the \"Ghostbusters Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-going-on-30",
+    "a-minecraft-movie",
+    "addams-family-values",
+    "army-of-darkness",
+    "babe",
+    "beetlejuice",
+    "beetlejuice-beetlejuice"
+  ]
+}

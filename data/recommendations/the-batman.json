@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 414906,
+    "title": "The Batman",
+    "slug": "the-batman",
+    "year": 2022,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Batman (2022) stuck because it commits to its crime premise without apologizing—viewers remember set pieces and momentum as much as plot. Matt Reeves's control of tone keeps the ride coherent. The crime and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "mystery",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 32042,
+      "title": "Night Moves",
+      "year": 1975,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Batman clicked for you, Night Moves (1975) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Batman clicked for you, The Dark Knight (2008) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Batman clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 934433,
+      "title": "Scream VI",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Batman clicked for you, Scream VI (2023) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Batman clicked for you, Repo Men (2010) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 40662,
+      "title": "Batman: Under the Red Hood",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Batman clicked for you, Batman: Under the Red Hood (2010) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Batman clicked for you, Batman: Mask of the Phantasm (1993) is a strong next stop: both trade in crime and mystery, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "action",
+        "animation",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Batman clicked for you, Psycho II (1983) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 736073,
+      "title": "Batman: The Long Halloween, Part One",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Batman clicked for you, Batman: The Long Halloween, Part One (2021) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 736074,
+      "title": "Batman: The Long Halloween, Part Two",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Batman clicked for you, Batman: The Long Halloween, Part Two (2021) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Batman?",
+      "answer": "Try Night Moves, The Dark Knight, The Dark Knight Rises—each shares DNA with The Batman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Batman?",
+      "answer": "The Batman (2022) is best described as Crime, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Batman part of a franchise?",
+      "answer": "Yes—it's part of the \"The Batman Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "8mm",
+    "a-walk-among-the-tombstones",
+    "along-came-a-spider",
+    "anatomy-of-a-fall",
+    "awake",
+    "blue-velvet",
+    "chinatown"
+  ]
+}

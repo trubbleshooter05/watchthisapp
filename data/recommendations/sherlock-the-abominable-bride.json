@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 379170,
+    "title": "Sherlock: The Abominable Bride",
+    "slug": "sherlock-the-abominable-bride",
+    "year": 2016,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "TV Movie"
+    ],
+    "whyPeopleLoveIt": "Sherlock: The Abominable Bride works as a crime movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "drama",
+      "mystery",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 388,
+      "title": "Inside Man",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Inside Man (2006) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280996,
+      "title": "Mr. Holmes",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Mr. Holmes (2015) is a strong next stop: both trade in crime and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 605886,
+      "title": "To Catch a Killer",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, To Catch a Killer (2023) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 26390,
+      "title": "Brooklyn's Finest",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Brooklyn's Finest (2010) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 58574,
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Sherlock Holmes: A Game of Shadows (2011) is a strong next stop: both trade in crime and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 223,
+      "title": "Rebecca",
+      "year": 1940,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Rebecca (1940) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 829280,
+      "title": "Enola Holmes 2",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Enola Holmes 2 (2022) is a strong next stop: both trade in crime and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 26451,
+      "title": "Investigation of a Citizen Above Suspicion",
+      "year": 1970,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Investigation of a Citizen Above Suspicion (1970) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11904,
+      "title": "Young Sherlock Holmes",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Young Sherlock Holmes (1985) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 712,
+      "title": "Four Weddings and a Funeral",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sherlock: The Abominable Bride clicked for you, Four Weddings and a Funeral (1994) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Sherlock: The Abominable Bride?",
+      "answer": "Try Inside Man, Mr. Holmes, To Catch a Killer—each shares DNA with Sherlock: The Abominable Bride while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sherlock: The Abominable Bride?",
+      "answer": "Sherlock: The Abominable Bride (2016) is best described as Crime, Drama, Mystery, Thriller, TV Movie. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sherlock: The Abominable Bride worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this crime lane."
+    }
+  ],
+  "relatedPages": [
+    "a-walk-among-the-tombstones",
+    "chinatown",
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "it-was-just-an-accident",
+    "l-a-confidential",
+    "mystic-river"
+  ]
+}

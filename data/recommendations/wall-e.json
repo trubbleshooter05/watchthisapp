@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10681,
+    "title": "WALL·E",
+    "slug": "wall-e",
+    "year": 2008,
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "WALL·E (2008) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Andrew Stanton's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Home (2015) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Lightyear (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Elio (2025) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1857,
+      "title": "The Transformers: The Movie",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If WALL·E clicked for you, The Transformers: The Movie (1986) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If WALL·E clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after WALL·E?",
+      "answer": "Try Monsters vs Aliens, Home, Lightyear—each shares DNA with WALL·E while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is WALL·E?",
+      "answer": "WALL·E (2008) is best described as Animation, Family, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is WALL·E worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "atlantis-the-lost-empire",
+    "despicable-me",
+    "despicable-me-4",
+    "elio",
+    "home",
+    "hoppers",
+    "ice-age-collision-course"
+  ]
+}

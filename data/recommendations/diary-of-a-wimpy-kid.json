@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 33217,
+    "title": "Diary of a Wimpy Kid",
+    "slug": "diary-of-a-wimpy-kid",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Diary of a Wimpy Kid for the same reason it broke through in 2010: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Thor Freudenthal keeps the ensemble pointed in one direction. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Willy Wonka & the Chocolate Factory (1971) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 748783,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, The Garfield Movie (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 60307,
+      "title": "Diary of a Wimpy Kid: Rodrick Rules",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Diary of a Wimpy Kid: Rodrick Rules (2011) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 530,
+      "title": "A Grand Day Out",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, A Grand Day Out (1990) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Diary of a Wimpy Kid clicked for you, Elio (2025) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Diary of a Wimpy Kid?",
+      "answer": "Try Toy Story 3, The Simpsons Movie, Willy Wonka & the Chocolate Factory—each shares DNA with Diary of a Wimpy Kid while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Diary of a Wimpy Kid?",
+      "answer": "Diary of a Wimpy Kid (2010) is best described as Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Diary of a Wimpy Kid part of a franchise?",
+      "answer": "Yes—it's part of the \"Diary of a Wimpy Kid Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-minecraft-movie",
+    "addams-family-values",
+    "annie",
+    "babe",
+    "bee-movie"
+  ]
+}

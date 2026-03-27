@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 411,
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "slug": "the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Andrew Adamson's control of tone keeps the ride coherent. The adventure and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2454,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Chronicles of Narnia: Prince Caspian (2008) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11359,
+      "title": "The Indian in the Cupboard",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Indian in the Cupboard (1995) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1362,
+      "title": "The Hobbit",
+      "year": 1977,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Hobbit (1977) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "animation",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Lion, the Witch and the Wardrobe clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Chronicles of Narnia: The Lion, the Witch and the Wardrobe?",
+      "answer": "Try The Chronicles of Narnia: Prince Caspian, The Chronicles of Narnia: The Voyage of the Dawn Treader, The Spiderwick Chronicles—each shares DNA with The Chronicles of Narnia: The Lion, the Witch and the Wardrobe while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Chronicles of Narnia: The Lion, the Witch and the Wardrobe?",
+      "answer": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is best described as Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Chronicles of Narnia: The Lion, the Witch and the Wardrobe part of a franchise?",
+      "answer": "Yes—it's part of the \"The Chronicles of Narnia Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass",
+    "anastasia",
+    "brave"
+  ]
+}

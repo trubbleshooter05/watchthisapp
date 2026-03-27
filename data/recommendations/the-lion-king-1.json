@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11430,
+    "title": "The Lion King 1½",
+    "slug": "the-lion-king-1",
+    "year": 2004,
+    "genres": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "The Lion King 1½ works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 953,
+      "title": "Madagascar",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, Madagascar (2005) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 80321,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, Madagascar 3: Europe's Most Wanted (2012) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774825,
+      "title": "The Ice Age Adventures of Buck Wild",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, The Ice Age Adventures of Buck Wild (2022) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, The Monkey King (2023) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8587,
+      "title": "The Lion King",
+      "year": 1994,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, The Lion King (1994) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420818,
+      "title": "The Lion King",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lion King 1½ clicked for you, The Lion King (2019) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lion King 1½?",
+      "answer": "Try Madagascar, Madagascar: Escape 2 Africa, Madagascar 3: Europe's Most Wanted—each shares DNA with The Lion King 1½ while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lion King 1½?",
+      "answer": "The Lion King 1½ (2004) is best described as Family, Animation, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lion King 1½ part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lion King Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

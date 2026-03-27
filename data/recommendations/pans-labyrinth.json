@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1417,
+    "title": "Pan's Labyrinth",
+    "slug": "pans-labyrinth",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "War"
+    ],
+    "whyPeopleLoveIt": "Pan's Labyrinth works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "drama",
+      "war",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 16869,
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Inglourious Basterds (2009) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10110,
+      "title": "Empire of the Sun",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Empire of the Sun (1987) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283587,
+      "title": "Beasts of No Nation",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Beasts of No Nation (2015) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1433,
+      "title": "The Devil's Backbone",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, The Devil's Backbone (2001) is a strong next stop: both trade in fantasy and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 417466,
+      "title": "Monos",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Monos (2019) is a strong next stop: both trade in drama and war, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4495,
+      "title": "The Spirit of the Beehive",
+      "year": 1973,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, The Spirit of the Beehive (1973) is a strong next stop: both trade in fantasy and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 52520,
+      "title": "Underworld: Awakening",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Underworld: Awakening (2012) is a strong next stop: both trade in fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 12437,
+      "title": "Underworld: Rise of the Lycans",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, Underworld: Rise of the Lycans (2009) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 37247,
+      "title": "The Graduate",
+      "year": 1967,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pan's Labyrinth clicked for you, The Graduate (1967) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pan's Labyrinth?",
+      "answer": "Try Inglourious Basterds, Empire of the Sun, Beasts of No Nation—each shares DNA with Pan's Labyrinth while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pan's Labyrinth?",
+      "answer": "Pan's Labyrinth (2006) is best described as Fantasy, Drama, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pan's Labyrinth worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300-rise-of-an-empire",
+    "71",
+    "about-time",
+    "all-quiet-on-the-western-front",
+    "along-with-the-gods-the-two-worlds",
+    "apocalypse-now"
+  ]
+}

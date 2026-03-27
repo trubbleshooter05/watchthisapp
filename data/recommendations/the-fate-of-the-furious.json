@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 337339,
+    "title": "The Fate of the Furious",
+    "slug": "the-fate-of-the-furious",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Fate of the Furious (2017) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. F. Gary Gray's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 168259,
+      "title": "Furious 7",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Furious 7 (2015) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 385687,
+      "title": "Fast X",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Fast X (2023) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 189,
+      "title": "Sin City: A Dame to Kill For",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Sin City: A Dame to Kill For (2014) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Predator (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 187,
+      "title": "Sin City",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Sin City (2005) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 163,
+      "title": "Ocean's Twelve",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, Ocean's Twelve (2004) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 242,
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, The Godfather Part III (1990) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 399035,
+      "title": "The Commuter",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Fate of the Furious clicked for you, The Commuter (2018) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Fate of the Furious?",
+      "answer": "Try The Dark Knight, Furious 7, Fast X—each shares DNA with The Fate of the Furious while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Fate of the Furious?",
+      "answer": "The Fate of the Furious (2017) is best described as Action, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Fate of the Furious part of a franchise?",
+      "answer": "Yes—it's part of the \"The Fast and the Furious Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-working-man",
+    "along-came-a-spider",
+    "assassins",
+    "avengement",
+    "bad-boys",
+    "bad-boys-for-life",
+    "ballerina"
+  ]
+}

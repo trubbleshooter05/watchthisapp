@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 400106,
+    "title": "Bright",
+    "slug": "bright",
+    "year": 2017,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Bright (2017) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. David Ayer's control of tone keeps the ride coherent. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 489326,
+      "title": "Mortal",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bright clicked for you, Mortal (2020) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bright clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bright clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bright clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bright clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bright clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bright clicked for you, Predator 2 (1990) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324670,
+      "title": "Spectral",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bright clicked for you, Spectral (2016) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1306368,
+      "title": "The Rip",
+      "year": 2026,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bright clicked for you, The Rip (2026) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 666243,
+      "title": "The Witcher: Nightmare of the Wolf",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bright clicked for you, The Witcher: Nightmare of the Wolf (2021) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bright?",
+      "answer": "Try Mortal, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King—each shares DNA with Bright while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bright?",
+      "answer": "Bright (2017) is best described as Fantasy, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bright worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-two-worlds",
+    "blade-ii",
+    "demon-city",
+    "the-crow",
+    "troll-2",
+    "underworld",
+    "13-hours-the-secret-soldiers-of-benghazi"
+  ]
+}

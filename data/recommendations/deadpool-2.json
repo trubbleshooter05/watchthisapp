@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 383498,
+    "title": "Deadpool 2",
+    "slug": "deadpool-2",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Deadpool 2 works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 293660,
+      "title": "Deadpool",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Deadpool (2016) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284053,
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Thor: Ragnarok (2017) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 436969,
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, The Suicide Squad (2021) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Black Panther (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10138,
+      "title": "Iron Man 2",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Deadpool 2 clicked for you, Iron Man 2 (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Deadpool 2?",
+      "answer": "Try Deadpool, Thor: Ragnarok, The Suicide Squad—each shares DNA with Deadpool 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Deadpool 2?",
+      "answer": "Deadpool 2 (2018) is best described as Action, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Deadpool 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Deadpool Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "charlies-angels",
+    "city-hunter",
+    "deadpool",
+    "despicable-me-3",
+    "dog-man"
+  ]
+}

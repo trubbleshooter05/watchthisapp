@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 99861,
+    "title": "Avengers: Age of Ultron",
+    "slug": "avengers-age-of-ultron",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Avengers: Age of Ultron (2015) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Eternals (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Guardians of the Galaxy Vol. 3 (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Ant-Man and the Wasp: Quantumania (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1924,
+      "title": "Superman",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, Superman (1978) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Avengers: Age of Ultron clicked for you, The Fantastic 4: First Steps (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Avengers: Age of Ultron?",
+      "answer": "Try Captain America: Civil War, Guardians of the Galaxy Vol. 2, The Matrix Reloaded—each shares DNA with Avengers: Age of Ultron while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Avengers: Age of Ultron?",
+      "answer": "Avengers: Age of Ultron (2015) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Avengers: Age of Ultron part of a franchise?",
+      "answer": "Yes—it's part of the \"The Avengers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

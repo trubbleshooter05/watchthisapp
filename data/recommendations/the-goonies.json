@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9340,
+    "title": "The Goonies",
+    "slug": "the-goonies",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit The Goonies for the same reason it broke through in 1985: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Richard Donner keeps the ensemble pointed in one direction. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Moana (2016) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36819,
+      "title": "Time Bandits",
+      "year": 1981,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Time Bandits (1981) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10874,
+      "title": "Muppet Treasure Island",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Muppet Treasure Island (1996) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13355,
+      "title": "Scooby-Doo! Pirates Ahoy!",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Scooby-Doo! Pirates Ahoy! (2006) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 771,
+      "title": "Home Alone",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Home Alone (1990) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9016,
+      "title": "Treasure Planet",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Treasure Planet (2002) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "science-fiction",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 493529,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Dungeons & Dragons: Honor Among Thieves (2023) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 421,
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Goonies clicked for you, The Life Aquatic with Steve Zissou (2004) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Goonies clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Goonies?",
+      "answer": "Try Moana, Time Bandits, Muppet Treasure Island—each shares DNA with The Goonies while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Goonies?",
+      "answer": "The Goonies (1985) is best described as Adventure, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Goonies worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-minecraft-movie",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

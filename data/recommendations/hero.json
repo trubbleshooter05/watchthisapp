@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 79,
+    "title": "Hero",
+    "slug": "hero",
+    "year": 2002,
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Action",
+      "History"
+    ],
+    "whyPeopleLoveIt": "Hero works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "adventure",
+      "action",
+      "history",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12289,
+      "title": "Red Cliff",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hero clicked for you, Red Cliff (2008) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15384,
+      "title": "Red Cliff II",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hero clicked for you, Red Cliff II (2009) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hero clicked for you, Braveheart (1995) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 254,
+      "title": "King Kong",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hero clicked for you, King Kong (2005) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hero clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in drama and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9550,
+      "title": "House of Flying Daggers",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hero clicked for you, House of Flying Daggers (2004) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14392,
+      "title": "The Warlords",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hero clicked for you, The Warlords (2007) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hero clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hero clicked for you, Armageddon (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193,
+      "title": "Star Trek: Generations",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hero clicked for you, Star Trek: Generations (1994) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hero?",
+      "answer": "Try Red Cliff, Red Cliff II, Braveheart—each shares DNA with Hero while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hero?",
+      "answer": "Hero (2002) is best described as Drama, Adventure, Action, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hero worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "kingdom-of-heaven",
+    "red-cliff-ii",
+    "rurouni-kenshin-the-final",
+    "tae-guk-gi-the-brotherhood-of-war",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "a-knights-tale",
+    "against-the-ice"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2501,
+    "title": "The Bourne Identity",
+    "slug": "the-bourne-identity",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Bourne Identity works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "drama",
+      "mystery",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2503,
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, The Bourne Ultimatum (2007) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2502,
+      "title": "The Bourne Supremacy",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, The Bourne Supremacy (2004) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4176,
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Murder on the Orient Express (1974) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11412,
+      "title": "The Long Kiss Goodnight",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, The Long Kiss Goodnight (1996) is a strong next stop: both trade in action and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4105,
+      "title": "Black Rain",
+      "year": 1989,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Black Rain (1989) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 206647,
+      "title": "Spectre",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Spectre (2015) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146216,
+      "title": "RED 2",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, RED 2 (2013) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4141,
+      "title": "Shoot 'Em Up",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Shoot 'Em Up (2007) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 739405,
+      "title": "Operation Fortune: Ruse de Guerre",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Bourne Identity clicked for you, Operation Fortune: Ruse de Guerre (2023) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Bourne Identity?",
+      "answer": "Try The Bourne Ultimatum, The Bourne Supremacy, Murder on the Orient Express—each shares DNA with The Bourne Identity while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Bourne Identity?",
+      "answer": "The Bourne Identity (2002) is best described as Action, Drama, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Bourne Identity part of a franchise?",
+      "answer": "Yes—it's part of the \"The Bourne Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "oldboy",
+    "the-bourne-ultimatum",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "a-walk-among-the-tombstones"
+  ]
+}

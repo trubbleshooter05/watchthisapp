@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1153714,
+    "title": "Death of a Unicorn",
+    "slug": "death-of-a-unicorn",
+    "year": 2025,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Death of a Unicorn works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "fantasy",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 926899,
+      "title": "The House",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, The House (2022) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "comedy",
+        "animation",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 118,
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Charlie and the Chocolate Factory (2005) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 747,
+      "title": "Shaun of the Dead",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Shaun of the Dead (2004) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 75,
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Mars Attacks! (1996) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 526051,
+      "title": "Look Away",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Look Away (2018) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Wendell & Wild (2022) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 268,
+      "title": "Batman",
+      "year": 1989,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Batman (1989) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 277,
+      "title": "Underworld",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Underworld (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68,
+      "title": "Brazil",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Death of a Unicorn clicked for you, Brazil (1985) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Death of a Unicorn?",
+      "answer": "Try The House, Charlie and the Chocolate Factory, Shaun of the Dead—each shares DNA with Death of a Unicorn while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Death of a Unicorn?",
+      "answer": "Death of a Unicorn (2025) is best described as Horror, Fantasy, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Death of a Unicorn worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "army-of-darkness",
+    "beetlejuice-beetlejuice",
+    "death-becomes-her",
+    "el-conde",
+    "gremlins",
+    "roald-dahls-the-witches",
+    "the-house-with-a-clock-in-its-walls"
+  ]
+}

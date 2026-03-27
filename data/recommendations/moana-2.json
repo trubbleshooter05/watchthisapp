@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1241982,
+    "title": "Moana 2",
+    "slug": "moana-2",
+    "year": 2024,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Moana 2 works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11970,
+      "title": "Hercules",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Hercules (1997) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Moana (2016) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 508943,
+      "title": "Luca",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Luca (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 976573,
+      "title": "Elemental",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Elemental (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, The Sea Beast (2022) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Moana 2 clicked for you, Strange World (2022) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Moana 2?",
+      "answer": "Try Hercules, The Croods: A New Age, Moana—each shares DNA with Moana 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Moana 2?",
+      "answer": "Moana 2 (2024) is best described as Animation, Adventure, Family, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Moana 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Moana Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

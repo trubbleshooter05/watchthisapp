@@ -1,0 +1,167 @@
+{
+  "sourceMovie": {
+    "tmdbId": 240,
+    "title": "The Godfather Part II",
+    "slug": "the-godfather-part-ii",
+    "year": 1974,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "The Godfather Part II works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "crime",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 238,
+      "title": "The Godfather",
+      "year": 1972,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, The Godfather (1972) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 769,
+      "title": "GoodFellas",
+      "year": 1990,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, GoodFellas (1990) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 242,
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, The Godfather Part III (1990) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 524,
+      "title": "Casino",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, Casino (1995) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 311,
+      "title": "Once Upon a Time in America",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, Once Upon a Time in America (1984) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6075,
+      "title": "Carlito's Way",
+      "year": 1993,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, Carlito's Way (1993) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1607,
+      "title": "A Bronx Tale",
+      "year": 1993,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, A Bronx Tale (1993) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1429,
+      "title": "25th Hour",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, 25th Hour (2002) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524369,
+      "title": "The Many Saints of Newark",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Godfather Part II clicked for you, The Many Saints of Newark (2021) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Godfather Part II?",
+      "answer": "Try The Godfather, GoodFellas, The Godfather Part III—each shares DNA with The Godfather Part II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Godfather Part II?",
+      "answer": "The Godfather Part II (1974) is best described as Drama, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Godfather Part II part of a franchise?",
+      "answer": "Yes—it's part of the \"The Godfather Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "21",
+    "a-brighter-summer-day",
+    "a-bronx-tale",
+    "a-history-of-violence",
+    "a-touch-of-sin",
+    "a-walk-among-the-tombstones",
+    "american-gangster"
+  ]
+}

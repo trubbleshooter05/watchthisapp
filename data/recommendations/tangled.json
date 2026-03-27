@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 38757,
+    "title": "Tangled",
+    "slug": "tangled",
+    "year": 2010,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Tangled (2010) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 109445,
+      "title": "Frozen",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tangled clicked for you, Frozen (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 37135,
+      "title": "Tarzan",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tangled clicked for you, Tarzan (1999) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tangled clicked for you, Peter Pan (1953) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022796,
+      "title": "Wish",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tangled clicked for you, Wish (2023) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13285,
+      "title": "Barbie Fairytopia: Mermaidia",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tangled clicked for you, Barbie Fairytopia: Mermaidia (2006) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tangled clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tangled clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tangled clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tangled clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10882,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tangled clicked for you, Sleeping Beauty (1959) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tangled?",
+      "answer": "Try Frozen, Tarzan, Peter Pan—each shares DNA with Tangled while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tangled?",
+      "answer": "Tangled (2010) is best described as Animation, Family, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tangled part of a franchise?",
+      "answer": "Yes—it's part of the \"Tangled Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

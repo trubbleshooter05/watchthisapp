@@ -1,0 +1,196 @@
+{
+  "sourceMovie": {
+    "tmdbId": 808,
+    "title": "Shrek",
+    "slug": "shrek",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Shrek for the same reason it broke through in 2001: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Andrew Adamson keeps the ensemble pointed in one direction. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "fantasy",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shrek clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 417859,
+      "title": "Puss in Boots",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shrek clicked for you, Puss in Boots (2011) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22586,
+      "title": "The Swan Princess",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shrek clicked for you, The Swan Princess (1994) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10837,
+      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shrek clicked for you, DuckTales: The Movie - Treasure of the Lost Lamp (1990) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 355547,
+      "title": "The Star",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shrek clicked for you, The Star (2017) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shrek clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shrek clicked for you, Charming (2018) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shrek clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shrek clicked for you, Shrek 2 (2004) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shrek clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shrek?",
+      "answer": "Try Shrek Forever After, Puss in Boots, The Swan Princess—each shares DNA with Shrek while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shrek?",
+      "answer": "Shrek (2001) is best described as Animation, Comedy, Fantasy, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shrek part of a franchise?",
+      "answer": "Yes—it's part of the \"Shrek Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

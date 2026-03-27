@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 505642,
+    "title": "Black Panther: Wakanda Forever",
+    "slug": "black-panther-wakanda-forever",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Black Panther: Wakanda Forever for the same reason it broke through in 2022: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Ryan Coogler keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Avengers: Infinity War (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 299534,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Avengers: Endgame (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Black Panther (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10138,
+      "title": "Iron Man 2",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Iron Man 2 (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284053,
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Thor: Ragnarok (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 634649,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Spider-Man: No Way Home (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559,
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, Spider-Man 3 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Black Panther: Wakanda Forever clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Black Panther: Wakanda Forever?",
+      "answer": "Try Avengers: Infinity War, Avengers: Endgame, Captain America: Civil War—each shares DNA with Black Panther: Wakanda Forever while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Black Panther: Wakanda Forever?",
+      "answer": "Black Panther: Wakanda Forever (2022) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Black Panther: Wakanda Forever part of a franchise?",
+      "answer": "Yes—it's part of the \"Black Panther Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

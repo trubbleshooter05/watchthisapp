@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1273,
+    "title": "TMNT",
+    "slug": "tmnt",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto TMNT (2007) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If TMNT clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If TMNT clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 274862,
+      "title": "The Lego Ninjago Movie",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If TMNT clicked for you, The Lego Ninjago Movie (2017) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 71689,
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If TMNT clicked for you, Phineas and Ferb The Movie: Across the 2nd Dimension (2011) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If TMNT clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1497,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If TMNT clicked for you, Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If TMNT clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 614930,
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If TMNT clicked for you, Teenage Mutant Ninja Turtles: Mutant Mayhem (2023) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 572802,
+      "title": "Aquaman and the Lost Kingdom",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If TMNT clicked for you, Aquaman and the Lost Kingdom (2023) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4380,
+      "title": "Shall We Dance?",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If TMNT clicked for you, Shall We Dance? (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after TMNT?",
+      "answer": "Try Big Hero 6, Despicable Me 3, The Lego Ninjago Movie—each shares DNA with TMNT while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is TMNT?",
+      "answer": "TMNT (2007) is best described as Adventure, Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is TMNT worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

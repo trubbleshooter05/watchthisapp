@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 37135,
+    "title": "Tarzan",
+    "slug": "tarzan",
+    "year": 1999,
+    "genres": [
+      "Family",
+      "Adventure",
+      "Animation",
+      "Drama",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Tarzan (1999) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Chris Buck's control of tone keeps the ride coherent. The family and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "adventure",
+      "animation",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8587,
+      "title": "The Lion King",
+      "year": 1994,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tarzan clicked for you, The Lion King (1994) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tarzan clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in family and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tarzan clicked for you, Shrek (2001) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tarzan clicked for you, The Jungle Book (1967) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 441130,
+      "title": "Wolfwalkers",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tarzan clicked for you, Wolfwalkers (2020) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 250480,
+      "title": "The Many Adventures of Winnie the Pooh",
+      "year": 1977,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tarzan clicked for you, The Many Adventures of Winnie the Pooh (1977) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tarzan clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11002,
+      "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tarzan clicked for you, Greystoke: The Legend of Tarzan, Lord of the Apes (1984) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 326215,
+      "title": "Ooops! Noah Is Gone...",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tarzan clicked for you, Ooops! Noah Is Gone... (2015) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tarzan clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tarzan?",
+      "answer": "Try The Lion King, The Lion King II: Simba's Pride, Shrek—each shares DNA with Tarzan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tarzan?",
+      "answer": "Tarzan (1999) is best described as Family, Adventure, Animation, Drama, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tarzan part of a franchise?",
+      "answer": "Yes—it's part of the \"Tarzan (Animation) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "cars-3",
+    "castle-in-the-sky",
+    "despicable-me-3",
+    "dinosaur",
+    "dog-man",
+    "how-to-train-your-dragon-2"
+  ]
+}

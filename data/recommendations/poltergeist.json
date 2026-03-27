@@ -1,0 +1,160 @@
+{
+  "sourceMovie": {
+    "tmdbId": 609,
+    "title": "Poltergeist",
+    "slug": "poltergeist",
+    "year": 1982,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Poltergeist works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "horror",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 539,
+      "title": "Psycho",
+      "year": 1960,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Psycho (1960) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Hereditary (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49018,
+      "title": "Insidious",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Insidious (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 242224,
+      "title": "The Babadook",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, The Babadook (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 377,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, A Nightmare on Elm Street (1984) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 588,
+      "title": "Silent Hill",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Silent Hill (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 397243,
+      "title": "The Autopsy of Jane Doe",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, The Autopsy of Jane Doe (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 91586,
+      "title": "Insidious: Chapter 2",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Insidious: Chapter 2 (2013) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 345911,
+      "title": "Lights Out",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Lights Out (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 157547,
+      "title": "Oculus",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Poltergeist clicked for you, Oculus (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Poltergeist?",
+      "answer": "Try Psycho, Hereditary, Insidious—each shares DNA with Poltergeist while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Poltergeist?",
+      "answer": "Poltergeist (1982) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Poltergeist part of a franchise?",
+      "answer": "Yes—it's part of the \"Poltergeist Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-haunted-house-2"
+  ]
+}

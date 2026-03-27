@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 297762,
+    "title": "Wonder Woman",
+    "slug": "wonder-woman",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Wonder Woman for the same reason it broke through in 2017: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Patty Jenkins keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 464052,
+      "title": "Wonder Woman 1984",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Wonder Woman 1984 (2020) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 338970,
+      "title": "Tomb Raider",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Tomb Raider (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 15359,
+      "title": "Wonder Woman",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Wonder Woman (2009) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 17445,
+      "title": "Green Lantern: First Flight",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Green Lantern: First Flight (2009) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 299537,
+      "title": "Captain Marvel",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Captain Marvel (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 131634,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, The Hunger Games: Mockingjay - Part 2 (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290595,
+      "title": "The Huntsman: Winter's War",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, The Huntsman: Winter's War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wonder Woman clicked for you, The Fantastic 4: First Steps (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wonder Woman?",
+      "answer": "Try Wonder Woman 1984, Tomb Raider, Justice League: Gods and Monsters—each shares DNA with Wonder Woman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wonder Woman?",
+      "answer": "Wonder Woman (2017) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wonder Woman part of a franchise?",
+      "answer": "Yes—it's part of the \"Wonder Woman Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

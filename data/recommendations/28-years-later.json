@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1100988,
+    "title": "28 Years Later",
+    "slug": "28-years-later",
+    "year": 2025,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "28 Years Later works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, World War Z (2013) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 333371,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, 28 Days Later (2002) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, Land of the Dead (2005) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, Bird Box (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, War of the Worlds (2005) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, Predator (1987) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 316727,
+      "title": "The Purge: Election Year",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If 28 Years Later clicked for you, The Purge: Election Year (2016) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after 28 Years Later?",
+      "answer": "Try World War Z, 10 Cloverfield Lane, 28 Days Later—each shares DNA with 28 Years Later while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is 28 Years Later?",
+      "answer": "28 Years Later (2025) is best described as Horror, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is 28 Years Later part of a franchise?",
+      "answer": "Yes—it's part of the \"28 Days/Weeks/Years Later Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one",
+    "a-quiet-place-part-ii",
+    "companion"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 53182,
+    "title": "300: Rise of an Empire",
+    "slug": "300-rise-of-an-empire",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "whyPeopleLoveIt": "300: Rise of an Empire works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "drama",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1251,
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Letters from Iwo Jima (2006) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10652,
+      "title": "Hamburger Hill",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Hamburger Hill (1987) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, 300 (2007) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 274857,
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, King Arthur: Legend of the Sword (2017) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 558449,
+      "title": "Gladiator II",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Gladiator II (2024) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 567189,
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Tom Clancy's Without Remorse (2021) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10590,
+      "title": "We Were Soldiers",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, We Were Soldiers (2002) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3683,
+      "title": "Flags of Our Fathers",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Flags of Our Fathers (2006) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10592,
+      "title": "Hart's War",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If 300: Rise of an Empire clicked for you, Hart's War (2002) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after 300: Rise of an Empire?",
+      "answer": "Try Kingdom of Heaven, Letters from Iwo Jima, Hamburger Hill—each shares DNA with 300: Rise of an Empire while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is 300: Rise of an Empire?",
+      "answer": "300: Rise of an Empire (2014) is best described as Action, Drama, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is 300: Rise of an Empire part of a franchise?",
+      "answer": "Yes—it's part of the \"300 Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "braveheart",
+    "civil-war",
+    "dunkirk",
+    "fury",
+    "greyhound"
+  ]
+}

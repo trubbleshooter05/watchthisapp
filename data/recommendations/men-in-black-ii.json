@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 608,
+    "title": "Men in Black II",
+    "slug": "men-in-black-ii",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Men in Black II works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Men in Black (1997) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41154,
+      "title": "Men in Black 3",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Men in Black 3 (2012) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Megamind (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, The Avengers (2012) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 558,
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Spider-Man 2 (2004) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49521,
+      "title": "Man of Steel",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Man of Steel (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, The Terminator (1984) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Men in Black II clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Men in Black II?",
+      "answer": "Try Men in Black, Men in Black 3, Megamind—each shares DNA with Men in Black II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Men in Black II?",
+      "answer": "Men in Black II (2002) is best described as Action, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Men in Black II part of a franchise?",
+      "answer": "Yes—it's part of the \"Men in Black Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "deadpool-wolverine",
+    "despicable-me-4",
+    "megamind",
+    "men-in-black",
+    "men-in-black-3",
+    "small-soldiers",
+    "sonic-the-hedgehog"
+  ]
+}

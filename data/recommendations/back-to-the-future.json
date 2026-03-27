@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 105,
+    "title": "Back to the Future",
+    "slug": "back-to-the-future",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Back to the Future (1985) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Robert Zemeckis's control of tone keeps the ride coherent. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 165,
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Back to the Future Part II (1989) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 696806,
+      "title": "The Adam Project",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, The Adam Project (2022) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Bill & Ted's Excellent Adventure (1989) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354857,
+      "title": "Regular Show: The Movie",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Regular Show: The Movie (2015) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Toy Story (1995) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41154,
+      "title": "Men in Black 3",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Men in Black 3 (2012) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Star Trek (2009) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Back to the Future clicked for you, Predator (1987) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Back to the Future?",
+      "answer": "Try Back to the Future Part II, Back to the Future Part III, The Adam Project—each shares DNA with Back to the Future while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Back to the Future?",
+      "answer": "Back to the Future (1985) is best described as Adventure, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Back to the Future part of a franchise?",
+      "answer": "Yes—it's part of the \"Back to the Future Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "back-to-the-future-part-ii",
+    "back-to-the-future-part-iii",
+    "bill-teds-excellent-adventure",
+    "elio",
+    "free-guy",
+    "honey-i-shrunk-the-kids",
+    "hoppers"
+  ]
+}

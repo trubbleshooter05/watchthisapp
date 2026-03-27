@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9313,
+    "title": "The Man in the Iron Mask",
+    "slug": "the-man-in-the-iron-mask",
+    "year": 1998,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit The Man in the Iron Mask for the same reason it broke through in 1998: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Randall Wallace keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 254,
+      "title": "King Kong",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, King Kong (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in adventure and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9476,
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, A Knight's Tale (2001) is a strong next stop: both trade in adventure and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11362,
+      "title": "The Count of Monte Cristo",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, The Count of Monte Cristo (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 111,
+      "title": "Scarface",
+      "year": 1983,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Scarface (1983) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617653,
+      "title": "The Last Duel",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, The Last Duel (2021) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 174,
+      "title": "Star Trek VI: The Undiscovered Country",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Man in the Iron Mask clicked for you, Star Trek VI: The Undiscovered Country (1991) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Man in the Iron Mask?",
+      "answer": "Try King Kong, Crouching Tiger, Hidden Dragon, A Knight's Tale—each shares DNA with The Man in the Iron Mask while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Man in the Iron Mask?",
+      "answer": "The Man in the Iron Mask (1998) is best described as Adventure, Action, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Man in the Iron Mask worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "crouching-tiger-hidden-dragon",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii",
+    "hero"
+  ]
+}

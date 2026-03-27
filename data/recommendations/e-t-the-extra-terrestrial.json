@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 601,
+    "title": "E.T. the Extra-Terrestrial",
+    "slug": "e-t-the-extra-terrestrial",
+    "year": 1982,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "E.T. the Extra-Terrestrial (1982) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Steven Spielberg's control of tone keeps the ride coherent. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "adventure",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Home (2015) is a strong next stop: both trade in science fiction and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "family",
+        "fantasy",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10122,
+      "title": "Flight of the Navigator",
+      "year": 1986,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Flight of the Navigator (1986) is a strong next stop: both trade in science fiction and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9872,
+      "title": "Explorers",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Explorers (1985) is a strong next stop: both trade in science fiction and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 286217,
+      "title": "The Martian",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, The Martian (2015) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76600,
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Avatar: The Way of Water (2022) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, The Iron Giant (1999) is a strong next stop: both trade in science fiction and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "family",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10439,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Hocus Pocus (1993) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 552524,
+      "title": "Lilo & Stitch",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If E.T. the Extra-Terrestrial clicked for you, Lilo & Stitch (2025) is a strong next stop: both trade in science fiction and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after E.T. the Extra-Terrestrial?",
+      "answer": "Try Home, James and the Giant Peach, Flight of the Navigator—each shares DNA with E.T. the Extra-Terrestrial while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is E.T. the Extra-Terrestrial?",
+      "answer": "E.T. the Extra-Terrestrial (1982) is best described as Science Fiction, Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is E.T. the Extra-Terrestrial worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "minions-the-rise-of-gru",
+    "pok-mon-the-movie-2000",
+    "treasure-planet",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland"
+  ]
+}

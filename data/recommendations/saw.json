@@ -1,0 +1,170 @@
+{
+  "sourceMovie": {
+    "tmdbId": 176,
+    "title": "Saw",
+    "slug": "saw",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Saw (2004) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 38410,
+      "title": "The Poughkeepsie Tapes",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Saw clicked for you, The Poughkeepsie Tapes (2007) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 392044,
+      "title": "Murder on the Orient Express",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Saw clicked for you, Murder on the Orient Express (2017) is a strong next stop: both trade in mystery and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 214,
+      "title": "Saw III",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Saw clicked for you, Saw III (2006) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 298250,
+      "title": "Jigsaw",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Saw clicked for you, Jigsaw (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 585216,
+      "title": "Escape Room: Tournament of Champions",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Saw clicked for you, Escape Room: Tournament of Champions (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1232546,
+      "title": "Until Dawn",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Saw clicked for you, Until Dawn (2025) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 215,
+      "title": "Saw II",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Saw clicked for you, Saw II (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Saw clicked for you, The Hunt (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22804,
+      "title": "Saw VI",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Saw clicked for you, Saw VI (2009) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 158011,
+      "title": "The Call",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Saw clicked for you, The Call (2013) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Saw?",
+      "answer": "Try The Poughkeepsie Tapes, Murder on the Orient Express, Saw III—each shares DNA with Saw while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Saw?",
+      "answer": "Saw (2004) is best described as Horror, Mystery, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Saw part of a franchise?",
+      "answer": "Yes—it's part of the \"Saw Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "longlegs",
+    "scream",
+    "scream-7",
+    "8mm",
+    "a-cure-for-wellness",
+    "a-walk-among-the-tombstones",
+    "ace-ventura-pet-detective"
+  ]
+}

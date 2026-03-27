@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 180,
+    "title": "Minority Report",
+    "slug": "minority-report",
+    "year": 2002,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Minority Report (2002) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Minority Report clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59967,
+      "title": "Looper",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Looper (2012) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Armageddon (1998) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 406990,
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Minority Report clicked for you, What Happened to Monday (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5548,
+      "title": "RoboCop",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Minority Report clicked for you, RoboCop (1987) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7551,
+      "title": "Déjà Vu",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Déjà Vu (2006) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9620,
+      "title": "Paycheck",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Paycheck (2003) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 174,
+      "title": "Star Trek VI: The Undiscovered Country",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Minority Report clicked for you, Star Trek VI: The Undiscovered Country (1991) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Minority Report?",
+      "answer": "Try The Terminator, Looper, Insurgent—each shares DNA with Minority Report while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Minority Report?",
+      "answer": "Minority Report (2002) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Minority Report worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

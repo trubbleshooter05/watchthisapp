@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1581,
+    "title": "The Holiday",
+    "slug": "the-holiday",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Holiday (2006) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 114,
+      "title": "Pretty Woman",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Pretty Woman (1990) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137,
+      "title": "Groundhog Day",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Groundhog Day (1993) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153,
+      "title": "Lost in Translation",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Lost in Translation (2003) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 508,
+      "title": "Love Actually",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Love Actually (2003) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 549053,
+      "title": "Last Christmas",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Last Christmas (2019) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 556803,
+      "title": "The Princess Switch",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Holiday clicked for you, The Princess Switch (2018) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10033,
+      "title": "Just Friends",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Just Friends (2005) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 250124,
+      "title": "The Diary of a Teenage Girl",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Holiday clicked for you, The Diary of a Teenage Girl (2015) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 736918,
+      "title": "The Noel Diary",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Holiday clicked for you, The Noel Diary (2022) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Holiday clicked for you, Back to the Future (1985) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Holiday?",
+      "answer": "Try Pretty Woman, Groundhog Day, Lost in Translation—each shares DNA with The Holiday while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Holiday?",
+      "answer": "The Holiday (2006) is best described as Comedy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Holiday worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "13-going-on-30",
+    "27-dresses",
+    "50-first-dates",
+    "500-days-of-summer",
+    "a-cinderella-story",
+    "am-lie"
+  ]
+}

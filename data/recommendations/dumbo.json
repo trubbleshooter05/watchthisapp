@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 329996,
+    "title": "Dumbo",
+    "slug": "dumbo",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Dumbo (2019) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dumbo clicked for you, The Jungle Book (2016) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Maleficent: Mistress of Evil (2019) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12222,
+      "title": "Horton Hears a Who!",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Horton Hears a Who! (2008) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Christopher Robin (2018) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 294272,
+      "title": "Pete's Dragon",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Pete's Dragon (2016) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 532639,
+      "title": "Pinocchio",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Pinocchio (2022) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10150,
+      "title": "The Last Unicorn",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dumbo clicked for you, The Last Unicorn (1982) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 46929,
+      "title": "Fun and Fancy Free",
+      "year": 1947,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dumbo clicked for you, Fun and Fancy Free (1947) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dumbo clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dumbo clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dumbo?",
+      "answer": "Try The Jungle Book, Maleficent: Mistress of Evil, Horton Hears a Who!—each shares DNA with Dumbo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dumbo?",
+      "answer": "Dumbo (2019) is best described as Family, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dumbo worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass",
+    "anastasia",
+    "brave"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 6282,
+    "title": "Coyote Ugly",
+    "slug": "coyote-ugly",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Coyote Ugly (2000) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. David McNally's control of tone keeps the ride coherent. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "music",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 301351,
+      "title": "We Are Your Friends",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, We Are Your Friends (2015) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14871,
+      "title": "Make It Happen",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Make It Happen (2008) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27583,
+      "title": "Greenberg",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Greenberg (2010) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 446131,
+      "title": "Madame",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Madame (2017) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 653664,
+      "title": "Dinner in America",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Dinner in America (2020) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 28387,
+      "title": "Kicking and Screaming",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Kicking and Screaming (1995) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20758,
+      "title": "Father of the Bride",
+      "year": 1950,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Father of the Bride (1950) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22215,
+      "title": "Chéri",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Chéri (2009) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 17915,
+      "title": "Dance with Me",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Dance with Me (1998) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 746419,
+      "title": "Father of the Bride",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Coyote Ugly clicked for you, Father of the Bride (2022) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Coyote Ugly?",
+      "answer": "Try We Are Your Friends, Make It Happen, Greenberg—each shares DNA with Coyote Ugly while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Coyote Ugly?",
+      "answer": "Coyote Ugly (2000) is best described as Comedy, Drama, Music, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Coyote Ugly worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "hannah-montana-the-movie",
+    "10-things-i-hate-about-you",
+    "500-days-of-summer",
+    "a-star-is-born",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
+  ]
+}

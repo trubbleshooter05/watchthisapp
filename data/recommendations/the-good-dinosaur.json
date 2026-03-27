@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 105864,
+    "title": "The Good Dinosaur",
+    "slug": "the-good-dinosaur",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Good Dinosaur (2015) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10948,
+      "title": "The Fox and the Hound",
+      "year": 1981,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, The Fox and the Hound (1981) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12144,
+      "title": "The Land Before Time",
+      "year": 1988,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, The Land Before Time (1988) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, An American Tail (1986) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15997,
+      "title": "The Land Before Time II: The Great Valley Adventure",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, The Land Before Time II: The Great Valley Adventure (1994) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25913,
+      "title": "Balto: Wolf Quest",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, Balto: Wolf Quest (2002) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 335360,
+      "title": "My Little Pony: The Movie",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, My Little Pony: The Movie (2017) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 19004,
+      "title": "The Land Before Time III: The Time of the Great Giving",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, The Land Before Time III: The Time of the Great Giving (1995) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 24554,
+      "title": "The Land Before Time X: The Great Longneck Migration",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, The Land Before Time X: The Great Longneck Migration (2003) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Good Dinosaur clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Good Dinosaur?",
+      "answer": "Try The Fox and the Hound, Meet the Robinsons, The Land Before Time—each shares DNA with The Good Dinosaur while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Good Dinosaur?",
+      "answer": "The Good Dinosaur (2015) is best described as Adventure, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Good Dinosaur worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

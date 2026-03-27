@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 293167,
+    "title": "Kong: Skull Island",
+    "slug": "kong-skull-island",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Kong: Skull Island (2017) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Pacific Rim (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399566,
+      "title": "Godzilla vs. Kong",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Godzilla vs. Kong (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436969,
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, The Suicide Squad (2021) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 512200,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, Jumanji: The Next Level (2019) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kong: Skull Island clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kong: Skull Island?",
+      "answer": "Try The Lord of the Rings: The Return of the King, Pirates of the Caribbean: The Curse of the Black Pearl, Pirates of the Caribbean: Dead Man's Chest—each shares DNA with Kong: Skull Island while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kong: Skull Island?",
+      "answer": "Kong: Skull Island (2017) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kong: Skull Island worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

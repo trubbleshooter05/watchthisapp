@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 449574,
+    "title": "Godzilla: Planet of the Monsters",
+    "slug": "godzilla-planet-of-the-monsters",
+    "year": 2017,
+    "genres": [
+      "Animation",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Godzilla: Planet of the Monsters for the same reason it broke through in 2017: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Hiroyuki Seshita keeps the ensemble pointed in one direction. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 303857,
+      "title": "Dragon Ball Z: Resurrection 'F'",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Dragon Ball Z: Resurrection 'F' (2015) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 283566,
+      "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Evangelion: 3.0+1.0 Thrice Upon a Time (2021) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 536115,
+      "title": "Godzilla: The Planet Eater",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Godzilla: The Planet Eater (2018) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, The Fantastic 4: First Steps (2025) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4977,
+      "title": "Paprika",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Paprika (2006) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 776305,
+      "title": "Belle",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Belle (2021) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "drama",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 581997,
+      "title": "Batman vs Teenage Mutant Ninja Turtles",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Godzilla: Planet of the Monsters clicked for you, Batman vs Teenage Mutant Ninja Turtles (2019) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Godzilla: Planet of the Monsters?",
+      "answer": "Try Spider-Man: Into the Spider-Verse, Dragon Ball Z: Resurrection 'F', Titan A.E.—each shares DNA with Godzilla: Planet of the Monsters while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Godzilla: Planet of the Monsters?",
+      "answer": "Godzilla: Planet of the Monsters (2017) is best described as Animation, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Godzilla: Planet of the Monsters part of a franchise?",
+      "answer": "Yes—it's part of the \"Godzilla (Anime) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "akira",
+    "despicable-me-4",
+    "dragon-ball-super-super-hero",
+    "dragon-ball-z-battle-of-gods",
+    "dragon-ball-z-broly-the-legendary-super-saiyan",
+    "dragon-ball-z-the-return-of-cooler",
+    "evangelion-1-0-you-are-not-alone"
+  ]
+}

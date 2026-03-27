@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 24021,
+    "title": "The Twilight Saga: Eclipse",
+    "slug": "the-twilight-saga-eclipse",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "The Twilight Saga: Eclipse (2010) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. David Slade's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "drama",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 50620,
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, The Twilight Saga: Breaking Dawn - Part 2 (2012) is a strong next stop: both trade in adventure and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8966,
+      "title": "Twilight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Twilight (2008) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 628,
+      "title": "Interview with the Vampire",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Interview with the Vampire (1994) is a strong next stop: both trade in fantasy and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4148,
+      "title": "Revolutionary Road",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Revolutionary Road (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 3635,
+      "title": "Girl with a Pearl Earring",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Girl with a Pearl Earring (2003) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 3573,
+      "title": "Emma",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Emma (1996) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24100,
+      "title": "The Little Vampire",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, The Little Vampire (2000) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 63700,
+      "title": "My Babysitter's a Vampire",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, My Babysitter's a Vampire (2010) is a strong next stop: both trade in adventure and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "horror",
+        "tv-movie"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 33521,
+      "title": "Dracula",
+      "year": 1979,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Dracula (1979) is a strong next stop: both trade in fantasy and romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 52520,
+      "title": "Underworld: Awakening",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Twilight Saga: Eclipse clicked for you, Underworld: Awakening (2012) is a strong next stop: both trade in fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Twilight Saga: Eclipse?",
+      "answer": "Try The Twilight Saga: Breaking Dawn - Part 2, Twilight, Interview with the Vampire—each shares DNA with The Twilight Saga: Eclipse while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Twilight Saga: Eclipse?",
+      "answer": "The Twilight Saga: Eclipse (2010) is best described as Adventure, Fantasy, Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Twilight Saga: Eclipse part of a franchise?",
+      "answer": "Yes—it's part of the \"The Twilight Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "the-twilight-saga-breaking-dawn-part-2",
+    "a-knights-tale",
+    "about-time",
+    "aladdin",
+    "along-with-the-gods-the-two-worlds",
+    "big-fish",
+    "cinderella"
+  ]
+}

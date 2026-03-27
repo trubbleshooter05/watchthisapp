@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10530,
+    "title": "Pocahontas",
+    "slug": "pocahontas",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Pocahontas (1995) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Mike Gabriel's control of tone keeps the ride coherent. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "family",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Aladdin (1992) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Wish Dragon (2021) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Charming (2018) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420817,
+      "title": "Aladdin",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Aladdin (2019) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, The Jungle Book (1967) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12092,
+      "title": "Alice in Wonderland",
+      "year": 1951,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Alice in Wonderland (1951) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 533,
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Wallace & Gromit: The Curse of the Were-Rabbit (2005) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022796,
+      "title": "Wish",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, Wish (2023) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pocahontas clicked for you, The Sea Beast (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pocahontas?",
+      "answer": "Try Aladdin, Wish Dragon, Charming—each shares DNA with Pocahontas while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pocahontas?",
+      "answer": "Pocahontas (1995) is best described as Adventure, Animation, Family, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pocahontas part of a franchise?",
+      "answer": "Yes—it's part of the \"Pocahontas Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "hercules",
+    "lady-and-the-tramp",
+    "the-lion-king-ii-simbas-pride",
+    "a-bugs-life",
+    "aladdin",
+    "anastasia",
+    "atlantis-the-lost-empire"
+  ]
+}

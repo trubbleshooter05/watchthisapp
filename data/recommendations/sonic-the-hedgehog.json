@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 454626,
+    "title": "Sonic the Hedgehog",
+    "slug": "sonic-the-hedgehog",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Sonic the Hedgehog (2020) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Jeff Fowler's control of tone keeps the ride coherent. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 939243,
+      "title": "Sonic the Hedgehog 3",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Sonic the Hedgehog 3 (2024) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 675353,
+      "title": "Sonic the Hedgehog 2",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Sonic the Hedgehog 2 (2022) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7459,
+      "title": "Speed Racer",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Speed Racer (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Elio (2025) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10681,
+      "title": "WALL·E",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, WALL·E (2008) is a strong next stop: both trade in science fiction and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 335983,
+      "title": "Venom",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Venom (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 920,
+      "title": "Cars",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Cars (2006) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82690,
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Wreck-It Ralph (2012) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 301528,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Toy Story 4 (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sonic the Hedgehog clicked for you, Star Trek (2009) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Sonic the Hedgehog?",
+      "answer": "Try Sonic the Hedgehog 3, Sonic the Hedgehog 2, Speed Racer—each shares DNA with Sonic the Hedgehog while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sonic the Hedgehog?",
+      "answer": "Sonic the Hedgehog (2020) is best described as Action, Science Fiction, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sonic the Hedgehog part of a franchise?",
+      "answer": "Yes—it's part of the \"Sonic the Hedgehog Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "despicable-me-4",
+    "megamind",
+    "sonic-the-hedgehog-3",
+    "teenage-mutant-ninja-turtles-out-of-the-shadows",
+    "big-hero-6",
+    "deadpool-wolverine",
+    "despicable-me"
+  ]
+}

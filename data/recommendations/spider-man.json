@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 557,
+    "title": "Spider-Man",
+    "slug": "spider-man",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Spider-Man (2002) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Sam Raimi's control of tone keeps the ride coherent. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 315635,
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man: Homecoming (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 634649,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man: No Way Home (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1930,
+      "title": "The Amazing Spider-Man",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Amazing Spider-Man (2012) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 558,
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man 2 (2004) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559,
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man 3 (2007) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 569094,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Spider-Man: Across the Spider-Verse (2023) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Megamind (2010) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Spider-Man?",
+      "answer": "Try Spider-Man: Homecoming, Spider-Man: No Way Home, The Amazing Spider-Man—each shares DNA with Spider-Man while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Spider-Man?",
+      "answer": "Spider-Man (2002) is best described as Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Spider-Man part of a franchise?",
+      "answer": "Yes—it's part of the \"Spider-Man Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "akira",
+    "alien-resurrection",
+    "alienoid",
+    "aliens",
+    "alita-battle-angel",
+    "alive",
+    "allegiant"
+  ]
+}

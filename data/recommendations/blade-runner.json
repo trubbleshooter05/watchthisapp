@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 78,
+    "title": "Blade Runner",
+    "slug": "blade-runner",
+    "year": 1982,
+    "genres": [
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Blade Runner works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "drama",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 335984,
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Blade Runner 2049 (2017) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 83542,
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Cloud Atlas (2012) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 500664,
+      "title": "Upgrade",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Upgrade (2018) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3509,
+      "title": "A Scanner Darkly",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, A Scanner Darkly (2006) is a strong next stop: both trade in science fiction and thriller, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4176,
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Murder on the Orient Express (1974) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1090,
+      "title": "The Thirteenth Floor",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, The Thirteenth Floor (1999) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4105,
+      "title": "Black Rain",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Black Rain (1989) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1064028,
+      "title": "Subservience",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Blade Runner clicked for you, Subservience (2024) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Blade Runner?",
+      "answer": "Try Blade Runner 2049, The Terminator, Insurgent—each shares DNA with Blade Runner while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Blade Runner?",
+      "answer": "Blade Runner (1982) is best described as Science Fiction, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Blade Runner part of a franchise?",
+      "answer": "Yes—it's part of the \"Blade Runner Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "blindness",
+    "chronicle",
+    "contagion",
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "glass"
+  ]
+}

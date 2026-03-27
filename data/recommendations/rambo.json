@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 7555,
+    "title": "Rambo",
+    "slug": "rambo",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Thriller",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit Rambo for the same reason it broke through in 2008: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Sylvester Stallone keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 567189,
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rambo clicked for you, Tom Clancy's Without Remorse (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 717930,
+      "title": "Kandahar",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rambo clicked for you, Kandahar (2023) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 27578,
+      "title": "The Expendables",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rambo clicked for you, The Expendables (2010) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rambo clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rambo clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rambo clicked for you, Beast (2022) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 201,
+      "title": "Star Trek: Nemesis",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rambo clicked for you, Star Trek: Nemesis (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rambo clicked for you, The International (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rambo clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rambo clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rambo?",
+      "answer": "Try Tom Clancy's Without Remorse, Kandahar, The Expendables—each shares DNA with Rambo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rambo?",
+      "answer": "Rambo (2008) is best described as Action, Thriller, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rambo part of a franchise?",
+      "answer": "Yes—it's part of the \"Rambo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "first-blood",
+    "guy-ritchies-the-covenant",
+    "kandahar",
+    "land-of-bad",
+    "rambo-first-blood-part-ii"
+  ]
+}

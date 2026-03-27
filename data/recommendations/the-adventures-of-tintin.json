@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 17578,
+    "title": "The Adventures of Tintin",
+    "slug": "the-adventures-of-tintin",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit The Adventures of Tintin for the same reason it broke through in 2011: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Steven Spielberg keeps the ensemble pointed in one direction. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13355,
+      "title": "Scooby-Doo! Pirates Ahoy!",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Scooby-Doo! Pirates Ahoy! (2006) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "mystery",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11319,
+      "title": "The Rescuers",
+      "year": 1977,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, The Rescuers (1977) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10837,
+      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, DuckTales: The Movie - Treasure of the Lost Lamp (1990) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Back to the Future (1985) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Gladiator (2000) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, The Hobbit: An Unexpected Journey (2012) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 85,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Raiders of the Lost Ark (1981) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 166426,
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Adventures of Tintin clicked for you, Pirates of the Caribbean: Dead Men Tell No Tales (2017) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Adventures of Tintin?",
+      "answer": "Try Scooby-Doo! Pirates Ahoy!, Princess Mononoke, The Rescuers—each shares DNA with The Adventures of Tintin while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Adventures of Tintin?",
+      "answer": "The Adventures of Tintin (2011) is best described as Adventure, Animation, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Adventures of Tintin worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "zootopia-2",
+    "2001-a-space-odyssey",
+    "a-bugs-life",
+    "a-perfect-getaway",
+    "allegiant",
+    "anastasia",
+    "antz"
+  ]
+}

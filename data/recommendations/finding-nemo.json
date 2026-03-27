@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12,
+    "title": "Finding Nemo",
+    "slug": "finding-nemo",
+    "year": 2003,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Finding Nemo works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 127380,
+      "title": "Finding Dory",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Finding Dory (2016) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10674,
+      "title": "Mulan",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Mulan (1998) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, The Croods (2013) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Peter Pan (1953) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, Dinosaur (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Finding Nemo clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Finding Nemo?",
+      "answer": "Try Moana, Finding Dory, Mulan—each shares DNA with Finding Nemo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Finding Nemo?",
+      "answer": "Finding Nemo (2003) is best described as Animation, Family, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Finding Nemo part of a franchise?",
+      "answer": "Yes—it's part of the \"Finding Nemo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

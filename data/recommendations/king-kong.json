@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 254,
+    "title": "King Kong",
+    "slug": "king-kong",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "King Kong (2005) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Peter Jackson's control of tone keeps the ride coherent. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11002,
+      "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If King Kong clicked for you, Greystoke: The Legend of Tarzan, Lord of the Apes (1984) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If King Kong clicked for you, Pacific Rim (2013) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 293167,
+      "title": "Kong: Skull Island",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If King Kong clicked for you, Kong: Skull Island (2017) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399566,
+      "title": "Godzilla vs. Kong",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If King Kong clicked for you, Godzilla vs. Kong (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 124905,
+      "title": "Godzilla",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If King Kong clicked for you, Godzilla (2014) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If King Kong clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 387426,
+      "title": "Okja",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If King Kong clicked for you, Okja (2017) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 653346,
+      "title": "Kingdom of the Planet of the Apes",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If King Kong clicked for you, Kingdom of the Planet of the Apes (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If King Kong clicked for you, Dinosaur (2000) is a strong next stop: both trade in adventure and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9822,
+      "title": "Mighty Joe Young",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If King Kong clicked for you, Mighty Joe Young (1998) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after King Kong?",
+      "answer": "Try Greystoke: The Legend of Tarzan, Lord of the Apes, Pacific Rim, Kong: Skull Island—each shares DNA with King Kong while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is King Kong?",
+      "answer": "King Kong (2005) is best described as Adventure, Drama, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is King Kong worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "crouching-tiger-hidden-dragon",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii",
+    "hero"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 810,
+    "title": "Shrek the Third",
+    "slug": "shrek-the-third",
+    "year": 2007,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Shrek the Third for the same reason it broke through in 2007: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Chris Miller keeps the ensemble pointed in one direction. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "adventure",
+      "animation",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, Shrek (2001) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22586,
+      "title": "The Swan Princess",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, The Swan Princess (1994) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, The Monkey King (2023) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, Shrek 2 (2004) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, Hook (1991) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14411,
+      "title": "Sinbad: Legend of the Seven Seas",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, Sinbad: Legend of the Seven Seas (2003) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shrek the Third clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shrek the Third?",
+      "answer": "Try Shrek, The Super Mario Bros. Movie, The Swan Princess—each shares DNA with Shrek the Third while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shrek the Third?",
+      "answer": "Shrek the Third (2007) is best described as Fantasy, Adventure, Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shrek the Third part of a franchise?",
+      "answer": "Yes—it's part of the \"Shrek Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 766,
+    "title": "Army of Darkness",
+    "slug": "army-of-darkness",
+    "year": 1992,
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Army of Darkness for the same reason it broke through in 1992: clear stakes, memorable faces, and a horror rhythm that doesn't stall in the middle. Sam Raimi keeps the ensemble pointed in one direction. The fantasy and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "horror",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 765,
+      "title": "Evil Dead II",
+      "year": 1987,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Evil Dead II (1987) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 426063,
+      "title": "Nosferatu",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Nosferatu (2024) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10439,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Hocus Pocus (1993) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13509,
+      "title": "The Monster Squad",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, The Monster Squad (1987) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11342,
+      "title": "Warlock",
+      "year": 1989,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Warlock (1989) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10210,
+      "title": "A Midsummer Night's Dream",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, A Midsummer Night's Dream (1999) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 259316,
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Fantastic Beasts and Where to Find Them (2016) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Warcraft (2016) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10515,
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Army of Darkness clicked for you, Castle in the Sky (1986) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "action",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Army of Darkness?",
+      "answer": "Try Evil Dead II, Nosferatu, Hocus Pocus—each shares DNA with Army of Darkness while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Army of Darkness?",
+      "answer": "Army of Darkness (1992) is best described as Fantasy, Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Army of Darkness part of a franchise?",
+      "answer": "Yes—it's part of the \"Evil Dead Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "beetlejuice-beetlejuice",
+    "death-becomes-her",
+    "death-of-a-unicorn",
+    "el-conde",
+    "gremlins",
+    "roald-dahls-the-witches",
+    "the-house-with-a-clock-in-its-walls"
+  ]
+}

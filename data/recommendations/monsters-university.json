@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 62211,
+    "title": "Monsters University",
+    "slug": "monsters-university",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Monsters University for the same reason it broke through in 2013: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Dan Scanlon keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 508943,
+      "title": "Luca",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Luca (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 105864,
+      "title": "The Good Dinosaur",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Monsters University clicked for you, The Good Dinosaur (2015) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Monsters University clicked for you, An American Tail (1986) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Nimona (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13417,
+      "title": "Kronk's New Groove",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Monsters University clicked for you, Kronk's New Groove (2005) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Monsters University?",
+      "answer": "Try Monsters, Inc., Toy Story 3, Luca—each shares DNA with Monsters University while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Monsters University?",
+      "answer": "Monsters University (2013) is best described as Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Monsters University part of a franchise?",
+      "answer": "Yes—it's part of the \"Monsters, Inc. Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9502,
+    "title": "Kung Fu Panda",
+    "slug": "kung-fu-panda",
+    "year": 2008,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Kung Fu Panda (2008) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Mark Osborne's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "comedy",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Megamind (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 140300,
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Kung Fu Panda 3 (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1011985,
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Kung Fu Panda 4 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49444,
+      "title": "Kung Fu Panda 2",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Kung Fu Panda 2 (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527774,
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Raya and the Last Dragon (2021) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 65759,
+      "title": "Happy Feet Two",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Happy Feet Two (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1497,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 61717,
+      "title": "Wendy Wu: Homecoming Warrior",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, Wendy Wu: Homecoming Warrior (2006) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "action",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 59387,
+      "title": "The Powerpuff Girls Movie",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kung Fu Panda clicked for you, The Powerpuff Girls Movie (2002) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kung Fu Panda?",
+      "answer": "Try Megamind, Kung Fu Panda 3, Kung Fu Panda 4—each shares DNA with Kung Fu Panda while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kung Fu Panda?",
+      "answer": "Kung Fu Panda (2008) is best described as Animation, Family, Comedy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kung Fu Panda part of a franchise?",
+      "answer": "Yes—it's part of the \"Kung Fu Panda Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4",
+    "megamind"
+  ]
+}

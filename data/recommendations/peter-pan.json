@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10693,
+    "title": "Peter Pan",
+    "slug": "peter-pan",
+    "year": 1953,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Peter Pan (1953) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Return to Never Land (2002) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Tinker Bell and the Lost Treasure (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 44683,
+      "title": "Tinker Bell and the Great Fairy Rescue",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Tinker Bell and the Great Fairy Rescue (2010) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13285,
+      "title": "Barbie Fairytopia: Mermaidia",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Barbie Fairytopia: Mermaidia (2006) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38757,
+      "title": "Tangled",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Tangled (2010) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10144,
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, The Little Mermaid (1989) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Peter Pan clicked for you, Hook (1991) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Peter Pan?",
+      "answer": "Try Aladdin, Return to Never Land, Tinker Bell and the Lost Treasure—each shares DNA with Peter Pan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Peter Pan?",
+      "answer": "Peter Pan (1953) is best described as Animation, Family, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Peter Pan part of a franchise?",
+      "answer": "Yes—it's part of the \"Peter Pan Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "brave",
+    "castle-in-the-sky",
+    "frozen",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}

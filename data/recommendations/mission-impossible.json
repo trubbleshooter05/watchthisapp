@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 954,
+    "title": "Mission: Impossible",
+    "slug": "mission-impossible",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Mission: Impossible (1996) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 206647,
+      "title": "Spectre",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Spectre (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 56292,
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Mission: Impossible - Ghost Protocol (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 956,
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Mission: Impossible III (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Mission: Impossible - Dead Reckoning Part One (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 658,
+      "title": "Goldfinger",
+      "year": 1964,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Goldfinger (1964) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 708,
+      "title": "The Living Daylights",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, The Living Daylights (1987) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 343668,
+      "title": "Kingsman: The Golden Circle",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Kingsman: The Golden Circle (2017) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 177677,
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, Mission: Impossible - Rogue Nation (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2503,
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, The Bourne Ultimatum (2007) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 203801,
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mission: Impossible clicked for you, The Man from U.N.C.L.E. (2015) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mission: Impossible?",
+      "answer": "Try Spectre, Mission: Impossible - Ghost Protocol, Mission: Impossible III—each shares DNA with Mission: Impossible while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mission: Impossible?",
+      "answer": "Mission: Impossible (1996) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mission: Impossible part of a franchise?",
+      "answer": "Yes—it's part of the \"Mission: Impossible Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

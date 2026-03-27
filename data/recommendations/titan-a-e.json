@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 7450,
+    "title": "Titan A.E.",
+    "slug": "titan-a-e",
+    "year": 2000,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Adventure",
+      "Family",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Titan A.E. works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "science-fiction",
+      "adventure",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 718789,
+      "title": "Lightyear",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Lightyear (2022) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Strange World (2022) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Elio (2025) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15403,
+      "title": "Ben 10: Secret of the Omnitrix",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Ben 10: Secret of the Omnitrix (2007) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "action",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10681,
+      "title": "WALL·E",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, WALL·E (2008) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 75612,
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Oblivion (2013) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Predator (1987) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Titan A.E. clicked for you, Armageddon (1998) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Titan A.E.?",
+      "answer": "Try Monsters vs Aliens, Lightyear, Strange World—each shares DNA with Titan A.E. while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Titan A.E.?",
+      "answer": "Titan A.E. (2000) is best described as Animation, Science Fiction, Adventure, Family, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Titan A.E. worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "atlantis-the-lost-empire",
+    "big-hero-6",
+    "castle-in-the-sky",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "elio"
+  ]
+}

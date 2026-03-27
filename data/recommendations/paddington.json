@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 116149,
+    "title": "Paddington",
+    "slug": "paddington",
+    "year": 2014,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Paddington (2014) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Paul King's control of tone keeps the ride coherent. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "adventure",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "year": 1961,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Paddington clicked for you, One Hundred and One Dalmatians (1961) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11619,
+      "title": "Flushed Away",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Paddington clicked for you, Flushed Away (2006) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 364689,
+      "title": "Ferdinand",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Paddington clicked for you, Ferdinand (2017) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Paddington clicked for you, Christopher Robin (2018) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 346648,
+      "title": "Paddington 2",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Paddington clicked for you, Paddington 2 (2017) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 499701,
+      "title": "Dora and the Lost City of Gold",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Paddington clicked for you, Dora and the Lost City of Gold (2019) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Paddington clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 522478,
+      "title": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Paddington clicked for you, Peter Rabbit 2: The Runaway (2021) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 516729,
+      "title": "Paddington in Peru",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Paddington clicked for you, Paddington in Peru (2024) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Paddington clicked for you, The Jungle Book (2016) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Paddington?",
+      "answer": "Try One Hundred and One Dalmatians, Flushed Away, Ferdinand—each shares DNA with Paddington while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Paddington?",
+      "answer": "Paddington (2014) is best described as Comedy, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Paddington part of a franchise?",
+      "answer": "Yes—it's part of the \"Paddington Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-minecraft-movie",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

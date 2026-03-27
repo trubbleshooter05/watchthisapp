@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 658,
+    "title": "Goldfinger",
+    "slug": "goldfinger",
+    "year": 1964,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Goldfinger for the same reason it broke through in 1964: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Guy Hamilton keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 37724,
+      "title": "Skyfall",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Skyfall (2012) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 36557,
+      "title": "Casino Royale",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Casino Royale (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 206647,
+      "title": "Spectre",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Spectre (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Mission: Impossible (1996) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Predator (1987) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10764,
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Quantum of Solace (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 370172,
+      "title": "No Time to Die",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, No Time to Die (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 476669,
+      "title": "The King's Man",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, The King's Man (2021) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 646,
+      "title": "Dr. No",
+      "year": 1962,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Dr. No (1962) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 714,
+      "title": "Tomorrow Never Dies",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Goldfinger clicked for you, Tomorrow Never Dies (1997) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Goldfinger?",
+      "answer": "Try Skyfall, Casino Royale, Spectre—each shares DNA with Goldfinger while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Goldfinger?",
+      "answer": "Goldfinger (1964) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Goldfinger part of a franchise?",
+      "answer": "Yes—it's part of the \"James Bond Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12599,
+    "title": "Pokémon the Movie 2000",
+    "slug": "pok-mon-the-movie-2000",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Science Fiction",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Pokémon the Movie 2000 (1999) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Kunihiko Yuyama's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "animation",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1241982,
+      "title": "Moana 2",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Moana 2 (2024) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 436931,
+      "title": "Pokémon the Movie: I Choose You!",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Pokémon the Movie: I Choose You! (2017) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 34065,
+      "title": "Pokémon: Destiny Deoxys",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Pokémon: Destiny Deoxys (2004) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, The Iron Giant (1999) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Pocahontas (1995) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon the Movie 2000 clicked for you, Dinosaur (2000) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pokémon the Movie 2000?",
+      "answer": "Try Moana 2, James and the Giant Peach, Pokémon the Movie: I Choose You!—each shares DNA with Pokémon the Movie 2000 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon the Movie 2000?",
+      "answer": "Pokémon the Movie 2000 (1999) is best described as Adventure, Fantasy, Animation, Science Fiction, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon the Movie 2000 part of a franchise?",
+      "answer": "Yes—it's part of the \"Pokémon Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "minions-the-rise-of-gru",
+    "treasure-planet",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "brave",
+    "castle-in-the-sky",
+    "e-t-the-extra-terrestrial"
+  ]
+}

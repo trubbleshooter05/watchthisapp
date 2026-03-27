@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 587807,
+    "title": "Tom & Jerry",
+    "slug": "tom-jerry",
+    "year": 2021,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Tom & Jerry works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 65759,
+      "title": "Happy Feet Two",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Happy Feet Two (2011) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 748783,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, The Garfield Movie (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Finding Nemo (2003) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tom & Jerry clicked for you, Mary Poppins (1964) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tom & Jerry?",
+      "answer": "Try Ralph Breaks the Internet, Despicable Me 4, Spies in Disguise—each shares DNA with Tom & Jerry while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tom & Jerry?",
+      "answer": "Tom & Jerry (2021) is best described as Comedy, Family, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tom & Jerry worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

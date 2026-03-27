@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11827,
+    "title": "Heavy Metal",
+    "slug": "heavy-metal",
+    "year": 1981,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Adventure",
+      "Fantasy",
+      "Music"
+    ],
+    "whyPeopleLoveIt": "Heavy Metal (1981) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Gerald Potterton's control of tone keeps the ride coherent. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "science-fiction",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2179,
+      "title": "Tenacious D in The Pick of Destiny",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Tenacious D in The Pick of Destiny (2006) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 846867,
+      "title": "Mad God",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Mad God (2021) is a strong next stop: both trade in animation and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 703771,
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Deathstroke: Knights & Dragons - The Movie (2020) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Back to the Future (1985) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 165,
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Back to the Future Part II (1989) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 62,
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, 2001: A Space Odyssey (1968) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 75,
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Mars Attacks! (1996) is a strong next stop: both trade in science fiction and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 149,
+      "title": "Akira",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, Akira (1988) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 36685,
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Heavy Metal clicked for you, The Rocky Horror Picture Show (1975) is a strong next stop: both trade in science fiction and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "fantasy",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Heavy Metal?",
+      "answer": "Try Princess Mononoke, Tenacious D in The Pick of Destiny, Mad God—each shares DNA with Heavy Metal while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Heavy Metal?",
+      "answer": "Heavy Metal (1981) is best described as Animation, Science Fiction, Adventure, Fantasy, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Heavy Metal part of a franchise?",
+      "answer": "Yes—it's part of the \"Heavy Metal Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "minions-the-rise-of-gru",
+    "pok-mon-the-movie-2000",
+    "treasure-planet",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour",
+    "alienoid"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 424783,
+    "title": "Bumblebee",
+    "slug": "bumblebee",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Bumblebee (2018) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, X-Men: Days of Future Past (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Pacific Rim (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1858,
+      "title": "Transformers",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Transformers (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8373,
+      "title": "Transformers: Revenge of the Fallen",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Transformers: Revenge of the Fallen (2009) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 667538,
+      "title": "Transformers: Rise of the Beasts",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, Transformers: Rise of the Beasts (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, The Fantastic 4: First Steps (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 438590,
+      "title": "A-X-L",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, A-X-L (2018) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 27578,
+      "title": "The Expendables",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bumblebee clicked for you, The Expendables (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bumblebee?",
+      "answer": "Try Guardians of the Galaxy, Spider-Man: Into the Spider-Verse, X-Men: Days of Future Past—each shares DNA with Bumblebee while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bumblebee?",
+      "answer": "Bumblebee (2018) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bumblebee worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

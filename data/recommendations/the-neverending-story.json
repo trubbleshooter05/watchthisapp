@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 34584,
+    "title": "The NeverEnding Story",
+    "slug": "the-neverending-story",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The NeverEnding Story (1984) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "family",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2454,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, The Chronicles of Narnia: Prince Caspian (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, Onward (2020) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, Stardust (2007) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, Inkheart (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The NeverEnding Story clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The NeverEnding Story?",
+      "answer": "Try The Spiderwick Chronicles, Where the Wild Things Are, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe—each shares DNA with The NeverEnding Story while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The NeverEnding Story?",
+      "answer": "The NeverEnding Story (1984) is best described as Adventure, Fantasy, Family, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The NeverEnding Story part of a franchise?",
+      "answer": "Yes—it's part of the \"The NeverEnding Story Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "miss-peregrines-home-for-peculiar-children",
+    "the-boy-and-the-heron",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass"
+  ]
+}

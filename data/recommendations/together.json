@@ -1,0 +1,167 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1242011,
+    "title": "Together",
+    "slug": "together",
+    "year": 2025,
+    "genres": [
+      "Horror",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Together works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 201085,
+      "title": "Crimson Peak",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Together clicked for you, Crimson Peak (2015) is a strong next stop: both trade in horror and romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "romance",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 194,
+      "title": "Amélie",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Together clicked for you, Amélie (2001) is a strong next stop: both trade in romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Together clicked for you, The Cabin in the Woods (2012) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Together clicked for you, 28 Days Later (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Together clicked for you, Midsommar (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 142,
+      "title": "Brokeback Mountain",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Together clicked for you, Brokeback Mountain (2005) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 381283,
+      "title": "mother!",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Together clicked for you, mother! (2017) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 297,
+      "title": "Meet Joe Black",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Together clicked for you, Meet Joe Black (1998) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 377,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Together clicked for you, A Nightmare on Elm Street (1984) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9392,
+      "title": "The Descent",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Together clicked for you, The Descent (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Together?",
+      "answer": "Try Crimson Peak, Amélie, The Cabin in the Woods—each shares DNA with Together while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Together?",
+      "answer": "Together (2025) is best described as Horror, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Together worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "bram-stokers-dracula",
+    "crimson-peak",
+    "dracula",
+    "heart-eyes",
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "13-going-on-30"
+  ]
+}

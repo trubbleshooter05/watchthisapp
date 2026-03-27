@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10528,
+    "title": "Sherlock Holmes",
+    "slug": "sherlock-holmes",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Sherlock Holmes (2009) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "crime",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 58574,
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Sherlock Holmes: A Game of Shadows (2011) is a strong next stop: both trade in adventure and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 497582,
+      "title": "Enola Holmes",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Enola Holmes (2020) is a strong next stop: both trade in adventure and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 829280,
+      "title": "Enola Holmes 2",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Enola Holmes 2 (2022) is a strong next stop: both trade in adventure and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 379170,
+      "title": "Sherlock: The Abominable Bride",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Sherlock: The Abominable Bride (2016) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "drama",
+        "thriller",
+        "tv-movie"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 800815,
+      "title": "The Pale Blue Eye",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, The Pale Blue Eye (2022) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280996,
+      "title": "Mr. Holmes",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Mr. Holmes (2015) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 766475,
+      "title": "See How They Run",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, See How They Run (2022) is a strong next stop: both trade in crime and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 419835,
+      "title": "Crooked House",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Crooked House (2017) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11904,
+      "title": "Young Sherlock Holmes",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Young Sherlock Holmes (1985) is a strong next stop: both trade in adventure and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sherlock Holmes clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Sherlock Holmes?",
+      "answer": "Try Sherlock Holmes: A Game of Shadows, Enola Holmes, Enola Holmes 2—each shares DNA with Sherlock Holmes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sherlock Holmes?",
+      "answer": "Sherlock Holmes (2009) is best described as Adventure, Crime, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sherlock Holmes part of a franchise?",
+      "answer": "Yes—it's part of the \"Sherlock Holmes Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "enola-holmes",
+    "enola-holmes-2",
+    "nerve",
+    "sherlock-holmes-a-game-of-shadows",
+    "2001-a-space-odyssey",
+    "8mm",
+    "a-perfect-getaway"
+  ]
+}

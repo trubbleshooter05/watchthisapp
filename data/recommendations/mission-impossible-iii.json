@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 956,
+    "title": "Mission: Impossible III",
+    "slug": "mission-impossible-iii",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Mission: Impossible III works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 56292,
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Mission: Impossible - Ghost Protocol (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Mission: Impossible (1996) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10764,
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Quantum of Solace (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Mission: Impossible - Dead Reckoning Part One (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Salt (2010) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9331,
+      "title": "Clear and Present Danger",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Clear and Present Danger (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1087891,
+      "title": "The Amateur",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, The Amateur (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 717930,
+      "title": "Kandahar",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Kandahar (2023) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31967,
+      "title": "Dante's Inferno: An Animated Epic",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Dante's Inferno: An Animated Epic (2010) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976734,
+      "title": "Canary Black",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mission: Impossible III clicked for you, Canary Black (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mission: Impossible III?",
+      "answer": "Try Mission: Impossible - Ghost Protocol, Mission: Impossible, Quantum of Solace—each shares DNA with Mission: Impossible III while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mission: Impossible III?",
+      "answer": "Mission: Impossible III (2006) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mission: Impossible III part of a franchise?",
+      "answer": "Yes—it's part of the \"Mission: Impossible Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

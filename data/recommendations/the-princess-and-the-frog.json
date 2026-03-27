@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10198,
+    "title": "The Princess and the Frog",
+    "slug": "the-princess-and-the-frog",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Fantasy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Princess and the Frog works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "romance",
+      "fantasy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Shrek 2 (2004) is a strong next stop: both trade in animation and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Cinderella (1950) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16119,
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Cinderella III: A Twist in Time (2007) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 28032,
+      "title": "Thumbelina",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Thumbelina (1994) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Shrek (2001) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 109445,
+      "title": "Frozen",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Frozen (2013) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420817,
+      "title": "Aladdin",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, Aladdin (2019) is a strong next stop: both trade in romance and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Princess and the Frog clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Princess and the Frog?",
+      "answer": "Try Shrek 2, Aladdin, Beauty and the Beast—each shares DNA with The Princess and the Frog while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Princess and the Frog?",
+      "answer": "The Princess and the Frog (2009) is best described as Animation, Romance, Fantasy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Princess and the Frog worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "cinderella-ii-dreams-come-true",
+    "elemental",
+    "hercules",
+    "miraculous-ladybug-cat-noir-the-movie",
+    "shrek-2",
+    "sleeping-beauty",
+    "aladdin"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 464052,
+    "title": "Wonder Woman 1984",
+    "slug": "wonder-woman-1984",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Wonder Woman 1984 (2020) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 297762,
+      "title": "Wonder Woman",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Wonder Woman (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 408220,
+      "title": "Justice League Dark",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Justice League Dark (2017) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 30061,
+      "title": "Justice League: Crisis on Two Earths",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Justice League: Crisis on Two Earths (2010) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 15359,
+      "title": "Wonder Woman",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Wonder Woman (2009) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 17445,
+      "title": "Green Lantern: First Flight",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Green Lantern: First Flight (2009) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 912649,
+      "title": "Venom: The Last Dance",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Venom: The Last Dance (2024) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3604,
+      "title": "Flash Gordon",
+      "year": 1980,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Flash Gordon (1980) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 45162,
+      "title": "Superman/Batman: Apocalypse",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Superman/Batman: Apocalypse (2010) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14011,
+      "title": "Justice League: The New Frontier",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wonder Woman 1984 clicked for you, Justice League: The New Frontier (2008) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wonder Woman 1984?",
+      "answer": "Try Wonder Woman, Justice League Dark, Justice League: Crisis on Two Earths—each shares DNA with Wonder Woman 1984 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wonder Woman 1984?",
+      "answer": "Wonder Woman 1984 (2020) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wonder Woman 1984 part of a franchise?",
+      "answer": "Yes—it's part of the \"Wonder Woman Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

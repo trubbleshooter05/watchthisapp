@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8367,
+    "title": "Robin Hood: Prince of Thieves",
+    "slug": "robin-hood-prince-of-thieves",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Robin Hood: Prince of Thieves (1991) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Kevin Reynolds's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11780,
+      "title": "Rob Roy",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Rob Roy (1995) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Braveheart (1995) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Indiana Jones and the Last Crusade (1989) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20662,
+      "title": "Robin Hood",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Robin Hood (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 646,
+      "title": "Dr. No",
+      "year": 1962,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Dr. No (1962) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 658,
+      "title": "Goldfinger",
+      "year": 1964,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Goldfinger (1964) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 371645,
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Hunt for the Wilderpeople (2016) is a strong next stop: both trade in adventure and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 707,
+      "title": "A View to a Kill",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Robin Hood: Prince of Thieves clicked for you, A View to a Kill (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Robin Hood: Prince of Thieves?",
+      "answer": "Try Crouching Tiger, Hidden Dragon, Rob Roy, Braveheart—each shares DNA with Robin Hood: Prince of Thieves while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Robin Hood: Prince of Thieves?",
+      "answer": "Robin Hood: Prince of Thieves (1991) is best described as Action, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Robin Hood: Prince of Thieves worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "crouching-tiger-hidden-dragon",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii",
+    "hero"
+  ]
+}

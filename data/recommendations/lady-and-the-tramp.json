@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10340,
+    "title": "Lady and the Tramp",
+    "slug": "lady-and-the-tramp",
+    "year": 1955,
+    "genres": [
+      "Family",
+      "Animation",
+      "Romance",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Lady and the Tramp works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "romance",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 16340,
+      "title": "Rugrats in Paris: The Movie",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Rugrats in Paris: The Movie (2000) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "romance",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Moana (2016) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Shrek 2 (2004) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "romance",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "year": 1961,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, One Hundred and One Dalmatians (1961) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 748783,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, The Garfield Movie (2024) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, The Monkey King (2023) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lady and the Tramp clicked for you, Dinosaur (2000) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lady and the Tramp?",
+      "answer": "Try Rugrats in Paris: The Movie, Moana, Shrek 2—each shares DNA with Lady and the Tramp while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Lady and the Tramp?",
+      "answer": "Lady and the Tramp (1955) is best described as Family, Animation, Romance, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Lady and the Tramp part of a franchise?",
+      "answer": "Yes—it's part of the \"Lady and the Tramp Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "hercules",
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

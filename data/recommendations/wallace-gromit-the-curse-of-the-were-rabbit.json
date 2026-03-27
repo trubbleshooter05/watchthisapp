@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 533,
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "slug": "wallace-gromit-the-curse-of-the-were-rabbit",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Wallace & Gromit: The Curse of the Were-Rabbit (2005) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Steve Box's control of tone keeps the ride coherent. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Shrek (2001) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 140300,
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Kung Fu Panda 3 (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7518,
+      "title": "Over the Hedge",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Over the Hedge (2006) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7484,
+      "title": "Open Season",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Open Season (2006) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 520758,
+      "title": "Chicken Run: Dawn of the Nugget",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Chicken Run: Dawn of the Nugget (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400157,
+      "title": "Wonder Park",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Wonder Park (2019) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774370,
+      "title": "Dog Man",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wallace & Gromit: The Curse of the Were-Rabbit clicked for you, Dog Man (2025) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wallace & Gromit: The Curse of the Were-Rabbit?",
+      "answer": "Try Shrek, Kung Fu Panda 3, Over the Hedge—each shares DNA with Wallace & Gromit: The Curse of the Were-Rabbit while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wallace & Gromit: The Curse of the Were-Rabbit?",
+      "answer": "Wallace & Gromit: The Curse of the Were-Rabbit (2005) is best described as Adventure, Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wallace & Gromit: The Curse of the Were-Rabbit worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

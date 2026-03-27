@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 629542,
+    "title": "The Bad Guys",
+    "slug": "the-bad-guys",
+    "year": 2022,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Crime",
+      "Animation",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "The Bad Guys (2022) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Pierre Perifel's control of tone keeps the ride coherent. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "crime",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1175942,
+      "title": "The Bad Guys 2",
+      "year": 2025,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, The Bad Guys 2 (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "crime",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774370,
+      "title": "Dog Man",
+      "year": 2025,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Dog Man (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 520758,
+      "title": "Chicken Run: Dawn of the Nugget",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Chicken Run: Dawn of the Nugget (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13682,
+      "title": "Pooh's Heffalump Movie",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Pooh's Heffalump Movie (2005) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Bad Guys clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Bad Guys?",
+      "answer": "Try The Bad Guys 2, Dog Man, Ice Age: Dawn of the Dinosaurs—each shares DNA with The Bad Guys while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Bad Guys?",
+      "answer": "The Bad Guys (2022) is best described as Family, Comedy, Crime, Animation, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Bad Guys part of a franchise?",
+      "answer": "Yes—it's part of the \"The Bad Guys Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "hoodwinked",
+    "kung-fu-panda"
+  ]
+}

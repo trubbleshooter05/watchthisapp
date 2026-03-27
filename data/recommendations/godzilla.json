@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 124905,
+    "title": "Godzilla",
+    "slug": "godzilla",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Godzilla works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "drama",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Dawn of the Planet of the Apes (2014) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Pacific Rim (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399566,
+      "title": "Godzilla vs. Kong",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Godzilla vs. Kong (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 254,
+      "title": "King Kong",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Godzilla clicked for you, King Kong (2005) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 345940,
+      "title": "The Meg",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Godzilla clicked for you, The Meg (2018) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7191,
+      "title": "Cloverfield",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Cloverfield (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Rampage (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 373571,
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Godzilla: King of the Monsters (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 615656,
+      "title": "Meg 2: The Trench",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Godzilla clicked for you, Meg 2: The Trench (2023) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Godzilla?",
+      "answer": "Try Dawn of the Planet of the Apes, Pacific Rim, Godzilla vs. Kong—each shares DNA with Godzilla while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Godzilla?",
+      "answer": "Godzilla (2014) is best described as Action, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Godzilla part of a franchise?",
+      "answer": "Yes—it's part of the \"Godzilla Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "dawn-of-the-planet-of-the-apes",
+    "deep-impact",
+    "elysium",
+    "evangelion-1-0-you-are-not-alone",
+    "evangelion-2-0-you-can-not-advance",
+    "evangelion-3-0-1-0-thrice-upon-a-time",
+    "logan"
+  ]
+}

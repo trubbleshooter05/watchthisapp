@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 7131,
+    "title": "Van Helsing",
+    "slug": "van-helsing",
+    "year": 2004,
+    "genres": [
+      "Horror",
+      "Adventure",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Van Helsing (2004) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "adventure",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49017,
+      "title": "Dracula Untold",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Dracula Untold (2014) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 244,
+      "title": "King Kong",
+      "year": 1933,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, King Kong (1933) is a strong next stop: both trade in horror and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277,
+      "title": "Underworld",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Underworld (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 628,
+      "title": "Interview with the Vampire",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Van Helsing clicked for you, Interview with the Vampire (1994) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Van Helsing?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King, The Lord of the Rings: The Two Towers—each shares DNA with Van Helsing while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Van Helsing?",
+      "answer": "Van Helsing (2004) is best described as Horror, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Van Helsing worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "beast",
+    "peninsula",
+    "resident-evil-vendetta",
+    "train-to-busan",
+    "underwater",
+    "300",
+    "a-knights-tale"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9598,
+    "title": "Babe",
+    "slug": "babe",
+    "year": 1995,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Babe works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "drama",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11497,
+      "title": "All Dogs Go to Heaven",
+      "year": 1989,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Babe clicked for you, All Dogs Go to Heaven (1989) is a strong next stop: both trade in fantasy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Babe clicked for you, How the Grinch Stole Christmas (2000) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10719,
+      "title": "Elf",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Babe clicked for you, Elf (2003) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Babe clicked for you, Christopher Robin (2018) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Babe clicked for you, Wish Dragon (2021) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9986,
+      "title": "Charlotte's Web",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Babe clicked for you, Charlotte's Web (2006) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 662546,
+      "title": "Godmothered",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Babe clicked for you, Godmothered (2020) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Babe clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Babe clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Babe clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Babe?",
+      "answer": "Try All Dogs Go to Heaven, How the Grinch Stole Christmas, Elf—each shares DNA with Babe while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Babe?",
+      "answer": "Babe (1995) is best described as Fantasy, Drama, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Babe part of a franchise?",
+      "answer": "Yes—it's part of the \"Babe Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "luca",
+    "soul",
+    "a-minecraft-movie",
+    "addams-family-values",
+    "annie",
+    "big",
+    "cars-3"
+  ]
+}

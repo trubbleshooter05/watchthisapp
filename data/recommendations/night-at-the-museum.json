@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1593,
+    "title": "Night at the Museum",
+    "slug": "night-at-the-museum",
+    "year": 2006,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Night at the Museum (2006) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Shawn Levy's control of tone keeps the ride coherent. The fantasy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 181533,
+      "title": "Night at the Museum: Secret of the Tomb",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Night at the Museum: Secret of the Tomb (2014) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10719,
+      "title": "Elf",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Elf (2003) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 463821,
+      "title": "The House with a Clock in Its Walls",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, The House with a Clock in Its Walls (2018) is a strong next stop: both trade in fantasy and family, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 36819,
+      "title": "Time Bandits",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Time Bandits (1981) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 751741,
+      "title": "Night at the Museum: Kahmunrah Rises Again",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Night at the Museum: Kahmunrah Rises Again (2022) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Coraline (2009) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 81188,
+      "title": "Rise of the Guardians",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Rise of the Guardians (2012) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Peter Pan (2003) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 82703,
+      "title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Night at the Museum clicked for you, Mr. Peabody & Sherman (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Night at the Museum?",
+      "answer": "Try Night at the Museum: Secret of the Tomb, Elf, The House with a Clock in Its Walls—each shares DNA with Night at the Museum while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Night at the Museum?",
+      "answer": "Night at the Museum (2006) is best described as Fantasy, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Night at the Museum part of a franchise?",
+      "answer": "Yes—it's part of the \"Night at the Museum Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "casper",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle"
+  ]
+}

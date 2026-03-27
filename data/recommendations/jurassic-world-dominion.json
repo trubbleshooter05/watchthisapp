@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 507086,
+    "title": "Jurassic World Dominion",
+    "slug": "jurassic-world-dominion",
+    "year": 2022,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Jurassic World Dominion for the same reason it broke through in 2022: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Colin Trevorrow keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 135397,
+      "title": "Jurassic World",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Jurassic World (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 443791,
+      "title": "Underwater",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Underwater (2020) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Jurassic World Rebirth (2025) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3604,
+      "title": "Flash Gordon",
+      "year": 1980,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Flash Gordon (1980) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 590223,
+      "title": "Love and Monsters",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Love and Monsters (2020) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9822,
+      "title": "Mighty Joe Young",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Mighty Joe Young (1998) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jurassic World Dominion clicked for you, The Jungle Book (2016) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jurassic World Dominion?",
+      "answer": "Try Jurassic World, Jurassic World: Fallen Kingdom, Godzilla x Kong: The New Empire—each shares DNA with Jurassic World Dominion while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jurassic World Dominion?",
+      "answer": "Jurassic World Dominion (2022) is best described as Adventure, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jurassic World Dominion part of a franchise?",
+      "answer": "Yes—it's part of the \"Jurassic Park Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

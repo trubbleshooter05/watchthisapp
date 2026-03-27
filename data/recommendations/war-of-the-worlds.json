@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 74,
+    "title": "War of the Worlds",
+    "slug": "war-of-the-worlds",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto War of the Worlds (2005) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, World War Z (2013) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 333371,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 520763,
+      "title": "A Quiet Place Part II",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, A Quiet Place Part II (2021) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 72710,
+      "title": "The Host",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, The Host (2013) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 412656,
+      "title": "Chaos Walking",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, Chaos Walking (2021) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11549,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, Invasion of the Body Snatchers (1956) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10514,
+      "title": "The Andromeda Strain",
+      "year": 1971,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, The Andromeda Strain (1971) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, Bird Box (2018) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 726209,
+      "title": "Leave the World Behind",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If War of the Worlds clicked for you, Leave the World Behind (2023) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after War of the Worlds?",
+      "answer": "Try Maze Runner: The Scorch Trials, World War Z, 10 Cloverfield Lane—each shares DNA with War of the Worlds while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is War of the Worlds?",
+      "answer": "War of the Worlds (2005) is best described as Adventure, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is War of the Worlds worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "greenland-2-migration",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure"
+  ]
+}

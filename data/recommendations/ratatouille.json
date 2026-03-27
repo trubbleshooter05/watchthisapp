@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2062,
+    "title": "Ratatouille",
+    "slug": "ratatouille",
+    "year": 2007,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Ratatouille works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "fantasy",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, Onward (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, The Willoughbys (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10198,
+      "title": "The Princess and the Frog",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, The Princess and the Frog (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16340,
+      "title": "Rugrats in Paris: The Movie",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, Rugrats in Paris: The Movie (2000) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, The Iron Giant (1999) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10545,
+      "title": "The Hunchback of Notre Dame",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ratatouille clicked for you, The Hunchback of Notre Dame (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ratatouille?",
+      "answer": "Try Onward, The Boxtrolls, The Willoughbys—each shares DNA with Ratatouille while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ratatouille?",
+      "answer": "Ratatouille (2007) is best described as Animation, Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ratatouille worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "elemental",
+    "encanto",
+    "frozen-ii",
+    "hercules",
+    "home",
+    "horton-hears-a-who",
+    "hotel-transylvania"
+  ]
+}

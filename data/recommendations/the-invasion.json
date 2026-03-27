@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4858,
+    "title": "The Invasion",
+    "slug": "the-invasion",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Invasion (2007) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Oliver Hirschbiegel's control of tone keeps the ride coherent. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "science-fiction",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Invasion clicked for you, World War Z (2013) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1091,
+      "title": "The Thing",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Invasion clicked for you, The Thing (1982) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 520763,
+      "title": "A Quiet Place Part II",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Invasion clicked for you, A Quiet Place Part II (2021) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Invasion clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Invasion clicked for you, Event Horizon (1997) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 145135,
+      "title": "Dark Skies",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Invasion clicked for you, Dark Skies (2013) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11549,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Invasion clicked for you, Invasion of the Body Snatchers (1956) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Invasion clicked for you, I Am Legend (2007) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Invasion clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Invasion clicked for you, War of the Worlds (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Invasion?",
+      "answer": "Try World War Z, The Thing, A Quiet Place Part II—each shares DNA with The Invasion while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Invasion?",
+      "answer": "The Invasion (2007) is best described as Horror, Mystery, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Invasion worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-quiet-place-day-one"
+  ]
+}

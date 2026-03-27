@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 13183,
+    "title": "Watchmen",
+    "slug": "watchmen",
+    "year": 2009,
+    "genres": [
+      "Mystery",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Watchmen (2009) as a mystery theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The mystery and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "mystery",
+      "action",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 406990,
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Watchmen clicked for you, What Happened to Monday (2017) is a strong next stop: both trade in mystery and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 752,
+      "title": "V for Vendetta",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Watchmen clicked for you, V for Vendetta (2006) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Watchmen clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Watchmen clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 399035,
+      "title": "The Commuter",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Watchmen clicked for you, The Commuter (2018) is a strong next stop: both trade in mystery and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 581726,
+      "title": "Infinite",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Watchmen clicked for you, Infinite (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 736769,
+      "title": "They Cloned Tyrone",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Watchmen clicked for you, They Cloned Tyrone (2023) is a strong next stop: both trade in mystery and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 156022,
+      "title": "The Equalizer",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Watchmen clicked for you, The Equalizer (2014) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Watchmen clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Watchmen clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Watchmen?",
+      "answer": "Try What Happened to Monday, V for Vendetta, Resident Evil—each shares DNA with Watchmen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Watchmen?",
+      "answer": "Watchmen (2009) is best described as Mystery, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Watchmen worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this mystery lane."
+    }
+  ],
+  "relatedPages": [
+    "allegiant",
+    "knowing",
+    "oblivion",
+    "the-maze-runner",
+    "the-witch-part-1-the-subversion",
+    "the-witch-part-2-the-other-one",
+    "what-happened-to-monday"
+  ]
+}

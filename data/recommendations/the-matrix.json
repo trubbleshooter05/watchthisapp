@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 603,
+    "title": "The Matrix",
+    "slug": "the-matrix",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Matrix works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 333339,
+      "title": "Ready Player One",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Matrix clicked for you, Ready Player One (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Matrix clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Matrix clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Matrix clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Matrix clicked for you, Eternals (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Matrix clicked for you, The Book of Eli (2010) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Matrix clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1924,
+      "title": "Superman",
+      "year": 1978,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Matrix clicked for you, Superman (1978) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10483,
+      "title": "Death Race",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Matrix clicked for you, Death Race (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12244,
+      "title": "9",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Matrix clicked for you, 9 (2009) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "animation",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Matrix?",
+      "answer": "Try Ready Player One, Divergent, The Matrix Reloaded—each shares DNA with The Matrix while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Matrix?",
+      "answer": "The Matrix (1999) is best described as Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Matrix part of a franchise?",
+      "answer": "Yes—it's part of the \"The Matrix Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "akira",
+    "alien-resurrection",
+    "alienoid",
+    "aliens",
+    "alita-battle-angel",
+    "alive",
+    "allegiant"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 63,
+    "title": "Twelve Monkeys",
+    "slug": "twelve-monkeys",
+    "year": 1995,
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit Twelve Monkeys for the same reason it broke through in 1995: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Terry Gilliam keeps the ensemble pointed in one direction. The science fiction and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "thriller",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, I Am Legend (2007) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, War of the Worlds (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 333371,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, The Island (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2666,
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, Dark City (1998) is a strong next stop: both trade in science fiction and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3509,
+      "title": "A Scanner Darkly",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, A Scanner Darkly (2006) is a strong next stop: both trade in science fiction and thriller, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, Land of the Dead (2005) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8843,
+      "title": "The Cell",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Twelve Monkeys clicked for you, The Cell (2000) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Twelve Monkeys?",
+      "answer": "Try I Am Legend, World War Z, Maze Runner: The Scorch Trials—each shares DNA with Twelve Monkeys while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Twelve Monkeys?",
+      "answer": "Twelve Monkeys (1995) is best described as Science Fiction, Thriller, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Twelve Monkeys worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "blindness",
+    "gattaca",
+    "knowing",
+    "limitless",
+    "source-code",
+    "the-invasion",
+    "the-maze-runner"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8856,
+    "title": "The Karate Kid Part II",
+    "slug": "the-karate-kid-part-ii",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action",
+      "Romance",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Karate Kid Part II works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "action",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1885,
+      "title": "The Karate Kid",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, The Karate Kid (1984) is a strong next stop: both trade in adventure and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Wish Dragon (2021) is a strong next stop: both trade in adventure and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "romance",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 274862,
+      "title": "The Lego Ninjago Movie",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, The Lego Ninjago Movie (2017) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Batman Begins (2005) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Black Panther: Wakanda Forever (2022) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Onward (2020) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "comedy",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 480530,
+      "title": "Creed II",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Creed II (2018) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 64686,
+      "title": "47 Ronin",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, 47 Ronin (2013) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 313297,
+      "title": "Kubo and the Two Strings",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Karate Kid Part II clicked for you, Kubo and the Two Strings (2016) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Karate Kid Part II?",
+      "answer": "Try The Karate Kid, Big Hero 6, Wish Dragon—each shares DNA with The Karate Kid Part II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Karate Kid Part II?",
+      "answer": "The Karate Kid Part II (1986) is best described as Adventure, Drama, Action, Romance, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Karate Kid Part II part of a franchise?",
+      "answer": "Yes—it's part of the \"The Karate Kid Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "crouching-tiger-hidden-dragon",
+    "maleficent",
+    "tarzan",
+    "the-karate-kid",
+    "the-lion-king-ii-simbas-pride",
+    "aladdin"
+  ]
+}

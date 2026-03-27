@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9637,
+    "title": "Scooby-Doo",
+    "slug": "scooby-doo",
+    "year": 2002,
+    "genres": [
+      "Mystery",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Scooby-Doo works as a mystery movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The mystery and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "mystery",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 47533,
+      "title": "Scooby-Doo! Curse of the Lake Monster",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Scooby-Doo! Curse of the Lake Monster (2010) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24615,
+      "title": "Aloha Scooby-Doo!",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Aloha Scooby-Doo! (2005) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13355,
+      "title": "Scooby-Doo! Pirates Ahoy!",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Scooby-Doo! Pirates Ahoy! (2006) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560066,
+      "title": "Scooby-Doo! and the Curse of the 13th Ghost",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Scooby-Doo! and the Curse of the 13th Ghost (2019) is a strong next stop: both trade in mystery and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 371645,
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Hunt for the Wilderpeople (2016) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 992,
+      "title": "Sherlock Jr.",
+      "year": 1924,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Sherlock Jr. (1924) is a strong next stop: both trade in mystery and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21956,
+      "title": "Scooby-Doo! and the Monster of Mexico",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Scooby-Doo! and the Monster of Mexico (2003) is a strong next stop: both trade in mystery and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 45752,
+      "title": "Scooby-Doo! Camp Scare",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Scooby-Doo clicked for you, Scooby-Doo! Camp Scare (2010) is a strong next stop: both trade in mystery and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Scooby-Doo?",
+      "answer": "Try Zootopia 2, Chip 'n Dale: Rescue Rangers, Scooby-Doo! Curse of the Lake Monster—each shares DNA with Scooby-Doo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Scooby-Doo?",
+      "answer": "Scooby-Doo (2002) is best described as Mystery, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Scooby-Doo part of a franchise?",
+      "answer": "Yes—it's part of the \"Scooby-Doo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "zootopia-2",
+    "2001-a-space-odyssey",
+    "a-bugs-life",
+    "a-minecraft-movie",
+    "a-perfect-getaway",
+    "ace-ventura-pet-detective",
+    "allegiant"
+  ]
+}

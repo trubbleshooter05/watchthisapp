@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 335983,
+    "title": "Venom",
+    "slug": "venom",
+    "year": 2018,
+    "genres": [
+      "Science Fiction",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "People revisit Venom for the same reason it broke through in 2018: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Ruben Fleischer keeps the ensemble pointed in one direction. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Venom clicked for you, The Avengers (2012) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Venom clicked for you, Avengers: Infinity War (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Venom clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Venom clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Venom clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Venom clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Venom clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Venom clicked for you, Star Trek (2009) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Venom clicked for you, Guardians of the Galaxy Vol. 3 (2023) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1061474,
+      "title": "Superman",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Venom clicked for you, Superman (2025) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Venom?",
+      "answer": "Try The Avengers, Avengers: Infinity War, Guardians of the Galaxy—each shares DNA with Venom while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Venom?",
+      "answer": "Venom (2018) is best described as Science Fiction, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Venom part of a franchise?",
+      "answer": "Yes—it's part of the \"Venom Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "akira",
+    "alien-resurrection",
+    "alienoid",
+    "aliens",
+    "alita-battle-angel",
+    "alive",
+    "allegiant"
+  ]
+}

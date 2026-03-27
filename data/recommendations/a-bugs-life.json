@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9487,
+    "title": "A Bug's Life",
+    "slug": "a-bugs-life",
+    "year": 1998,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit A Bug's Life for the same reason it broke through in 1998: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. John Lasseter keeps the ensemble pointed in one direction. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "adventure",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Moana (2016) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 533,
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Wallace & Gromit: The Curse of the Were-Rabbit (2005) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 520758,
+      "title": "Chicken Run: Dawn of the Nugget",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Chicken Run: Dawn of the Nugget (2023) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 46929,
+      "title": "Fun and Fancy Free",
+      "year": 1947,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Fun and Fancy Free (1947) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Pocahontas (1995) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7443,
+      "title": "Chicken Run",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Chicken Run (2000) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 109451,
+      "title": "Cloudy with a Chance of Meatballs 2",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Cloudy with a Chance of Meatballs 2 (2013) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Bug's Life clicked for you, Dinosaur (2000) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Bug's Life?",
+      "answer": "Try Moana, Madagascar: Escape 2 Africa, The Road to El Dorado—each shares DNA with A Bug's Life while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Bug's Life?",
+      "answer": "A Bug's Life (1998) is best described as Family, Animation, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Bug's Life worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3",
+    "despicable-me-3"
+  ]
+}

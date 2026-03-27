@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 425,
+    "title": "Ice Age",
+    "slug": "ice-age",
+    "year": 2002,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Ice Age works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 950,
+      "title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Ice Age: The Meltdown (2006) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ice Age clicked for you, The Croods (2013) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51162,
+      "title": "Winnie the Pooh",
+      "year": 2011,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Winnie the Pooh (2011) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8587,
+      "title": "The Lion King",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ice Age clicked for you, The Lion King (1994) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ice Age clicked for you, The Jungle Book (1967) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 62214,
+      "title": "Frankenweenie",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ice Age clicked for you, Frankenweenie (2012) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ice Age?",
+      "answer": "Try Moana, Ice Age: The Meltdown, Ice Age: Dawn of the Dinosaurs—each shares DNA with Ice Age while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ice Age?",
+      "answer": "Ice Age (2002) is best described as Animation, Comedy, Family, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ice Age part of a franchise?",
+      "answer": "Yes—it's part of the \"Ice Age Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 301528,
+    "title": "Toy Story 4",
+    "slug": "toy-story-4",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Toy Story 4 for the same reason it broke through in 2019: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Josh Cooley keeps the ensemble pointed in one direction. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "animation",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Toy Story (1995) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 211672,
+      "title": "Minions",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Minions (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 748783,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, The Garfield Movie (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 675445,
+      "title": "PAW Patrol: The Movie",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, PAW Patrol: The Movie (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 893723,
+      "title": "PAW Patrol: The Mighty Movie",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, PAW Patrol: The Mighty Movie (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 863,
+      "title": "Toy Story 2",
+      "year": 1999,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Toy Story 4 clicked for you, Toy Story 2 (1999) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Toy Story 4?",
+      "answer": "Try Toy Story, Minions, Inside Out 2—each shares DNA with Toy Story 4 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Toy Story 4?",
+      "answer": "Toy Story 4 (2019) is best described as Family, Comedy, Animation, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Toy Story 4 part of a franchise?",
+      "answer": "Yes—it's part of the \"Toy Story Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

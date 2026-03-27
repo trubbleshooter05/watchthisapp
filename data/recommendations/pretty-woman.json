@@ -1,0 +1,168 @@
+{
+  "sourceMovie": {
+    "tmdbId": 114,
+    "title": "Pretty Woman",
+    "slug": "pretty-woman",
+    "year": 1990,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Pretty Woman works as a romance movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The romance and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "romance",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 313369,
+      "title": "La La Land",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, La La Land (2016) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20943,
+      "title": "The Ugly Truth",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, The Ugly Truth (2009) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 384677,
+      "title": "Set It Up",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, Set It Up (2018) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 901,
+      "title": "City Lights",
+      "year": 1931,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, City Lights (1931) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597219,
+      "title": "The Half of It",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, The Half of It (2020) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9429,
+      "title": "A Night at the Roxbury",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, A Night at the Roxbury (1998) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5968,
+      "title": "The Woman in Red",
+      "year": 1984,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, The Woman in Red (1984) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 909,
+      "title": "Meet Me in St. Louis",
+      "year": 1944,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, Meet Me in St. Louis (1944) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1143319,
+      "title": "Puppy Love",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, Puppy Love (2023) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1321439,
+      "title": "The Wrong Paris",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pretty Woman clicked for you, The Wrong Paris (2025) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pretty Woman?",
+      "answer": "Try La La Land, The Ugly Truth, Set It Up—each shares DNA with Pretty Woman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pretty Woman?",
+      "answer": "Pretty Woman (1990) is best described as Romance, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pretty Woman worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this romance lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "13-going-on-30",
+    "27-dresses",
+    "50-first-dates",
+    "500-days-of-summer",
+    "a-cinderella-story",
+    "am-lie"
+  ]
+}

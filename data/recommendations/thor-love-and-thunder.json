@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 616037,
+    "title": "Thor: Love and Thunder",
+    "slug": "thor-love-and-thunder",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Thor: Love and Thunder works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 594767,
+      "title": "Shazam! Fury of the Gods",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Shazam! Fury of the Gods (2023) is a strong next stop: both trade in fantasy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284052,
+      "title": "Doctor Strange",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Doctor Strange (2016) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10195,
+      "title": "Thor",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Thor (2011) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284053,
+      "title": "Thor: Ragnarok",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Thor: Ragnarok (2017) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76338,
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Thor: The Dark World (2013) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 566525,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Shang-Chi and the Legend of the Ten Rings (2021) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Doctor Strange in the Multiverse of Madness (2022) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Avengers: Infinity War (2018) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Thor: Love and Thunder clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Thor: Love and Thunder?",
+      "answer": "Try Shazam! Fury of the Gods, Doctor Strange, Thor—each shares DNA with Thor: Love and Thunder while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Thor: Love and Thunder?",
+      "answer": "Thor: Love and Thunder (2022) is best described as Fantasy, Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Thor: Love and Thunder part of a franchise?",
+      "answer": "Yes—it's part of the \"Thor Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-trouble-in-little-china",
+    "jumanji-welcome-to-the-jungle",
+    "kung-fu-hustle",
+    "kung-fu-panda-4",
+    "night-at-the-museum-battle-of-the-smithsonian",
+    "one-piece-the-movie",
+    "red-one"
+  ]
+}

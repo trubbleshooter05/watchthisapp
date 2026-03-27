@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 614930,
+    "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "slug": "teenage-mutant-ninja-turtles-mutant-mayhem",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Teenage Mutant Ninja Turtles: Mutant Mayhem for the same reason it broke through in 2023: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Jeff Rowe keeps the ensemble pointed in one direction. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "action",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 71689,
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Phineas and Ferb The Movie: Across the 2nd Dimension (2011) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "action",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 484862,
+      "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Scooby-Doo! & Batman: The Brave and the Bold (2018) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "action",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "action",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1497,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 581997,
+      "title": "Batman vs Teenage Mutant Ninja Turtles",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Batman vs Teenage Mutant Ninja Turtles (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles: Mutant Mayhem clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Teenage Mutant Ninja Turtles: Mutant Mayhem?",
+      "answer": "Try Phineas and Ferb The Movie: Across the 2nd Dimension, Scooby-Doo! & Batman: The Brave and the Bold, Big Hero 6—each shares DNA with Teenage Mutant Ninja Turtles: Mutant Mayhem while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Teenage Mutant Ninja Turtles: Mutant Mayhem?",
+      "answer": "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023) is best described as Animation, Comedy, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Teenage Mutant Ninja Turtles: Mutant Mayhem part of a franchise?",
+      "answer": "Yes—it's part of the \"Teenage Mutant Ninja Turtles (Animated) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "despicable-me-4",
+    "megamind",
+    "akira",
+    "big-hero-6",
+    "deadpool-wolverine",
+    "despicable-me",
+    "despicable-me-3"
+  ]
+}

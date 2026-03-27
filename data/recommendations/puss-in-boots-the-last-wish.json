@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 315162,
+    "title": "Puss in Boots: The Last Wish",
+    "slug": "puss-in-boots-the-last-wish",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Puss in Boots: The Last Wish (2022) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "fantasy",
+      "comedy",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 417859,
+      "title": "Puss in Boots",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, Puss in Boots (2011) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 778855,
+      "title": "Chickenhare and the Hamster of Darkness",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, Chickenhare and the Hamster of Darkness (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, Christopher Robin (2018) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Puss in Boots: The Last Wish clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Puss in Boots: The Last Wish?",
+      "answer": "Try Puss in Boots, The Croods: A New Age, The Monkey King—each shares DNA with Puss in Boots: The Last Wish while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Puss in Boots: The Last Wish?",
+      "answer": "Puss in Boots: The Last Wish (2022) is best described as Animation, Adventure, Fantasy, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Puss in Boots: The Last Wish part of a franchise?",
+      "answer": "Yes—it's part of the \"Puss in Boots Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

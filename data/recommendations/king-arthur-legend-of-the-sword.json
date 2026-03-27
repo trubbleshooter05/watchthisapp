@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 274857,
+    "title": "King Arthur: Legend of the Sword",
+    "slug": "king-arthur-legend-of-the-sword",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit King Arthur: Legend of the Sword for the same reason it broke through in 2017: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Guy Ritchie keeps the ensemble pointed in one direction. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "drama",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8840,
+      "title": "DragonHeart",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, DragonHeart (1996) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9477,
+      "title": "King Arthur",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, King Arthur (2004) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559907,
+      "title": "The Green Knight",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, The Green Knight (2021) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, Nimona (2023) is a strong next stop: both trade in action and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 18937,
+      "title": "Quest for Camelot",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, Quest for Camelot (1998) is a strong next stop: both trade in drama and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "animation",
+        "romance",
+        "family"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 759175,
+      "title": "The Princess",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, The Princess (2022) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 839033,
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, The Lord of the Rings: The War of the Rohirrim (2024) is a strong next stop: both trade in action and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 454294,
+      "title": "The Kid Who Would Be King",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, The Kid Who Would Be King (2019) is a strong next stop: both trade in action and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 50479,
+      "title": "Avalon High",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If King Arthur: Legend of the Sword clicked for you, Avalon High (2011) is a strong next stop: both trade in drama and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after King Arthur: Legend of the Sword?",
+      "answer": "Try DragonHeart, King Arthur, Conan the Barbarian—each shares DNA with King Arthur: Legend of the Sword while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is King Arthur: Legend of the Sword?",
+      "answer": "King Arthur: Legend of the Sword (2017) is best described as Action, Drama, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is King Arthur: Legend of the Sword worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-two-worlds",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300-rise-of-an-empire",
+    "71",
+    "a-knights-tale",
+    "about-time",
+    "alienoid"
+  ]
+}

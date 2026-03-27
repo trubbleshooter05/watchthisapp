@@ -1,0 +1,164 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4234,
+    "title": "Scream 3",
+    "slug": "scream-3",
+    "year": 2000,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Scream 3 works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 539,
+      "title": "Psycho",
+      "year": 1960,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Psycho (1960) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Scream (1996) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4233,
+      "title": "Scream 2",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Scream 2 (1997) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 646385,
+      "title": "Scream",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Scream (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 296065,
+      "title": "Last Shift",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Last Shift (2014) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 694,
+      "title": "The Shining",
+      "year": 1980,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, The Shining (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 567,
+      "title": "Rear Window",
+      "year": 1954,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Rear Window (1954) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 948,
+      "title": "Halloween",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, Halloween (1978) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 377,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Scream 3 clicked for you, A Nightmare on Elm Street (1984) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Scream 3?",
+      "answer": "Try Psycho, Scream, Scream 2—each shares DNA with Scream 3 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Scream 3?",
+      "answer": "Scream 3 (2000) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Scream 3 part of a franchise?",
+      "answer": "Yes—it's part of the \"Scream Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-cure-for-wellness",
+    "barbarian",
+    "bodies-bodies-bodies",
+    "crimson-peak",
+    "escape-room",
+    "exhuma",
+    "final-destination-2"
+  ]
+}

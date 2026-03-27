@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 228165,
+    "title": "The SpongeBob Movie: Sponge Out of Water",
+    "slug": "the-spongebob-movie-sponge-out-of-water",
+    "year": 2015,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "The SpongeBob Movie: Sponge Out of Water works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, The SpongeBob SquarePants Movie (2004) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1241982,
+      "title": "Moana 2",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Moana 2 (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Moana (2016) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 211672,
+      "title": "Minions",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Minions (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022789,
+      "title": "Inside Out 2",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, Inside Out 2 (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The SpongeBob Movie: Sponge Out of Water clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The SpongeBob Movie: Sponge Out of Water?",
+      "answer": "Try The Super Mario Bros. Movie, The SpongeBob SquarePants Movie, Moana 2—each shares DNA with The SpongeBob Movie: Sponge Out of Water while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The SpongeBob Movie: Sponge Out of Water?",
+      "answer": "The SpongeBob Movie: Sponge Out of Water (2015) is best described as Family, Comedy, Adventure, Animation, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The SpongeBob Movie: Sponge Out of Water part of a franchise?",
+      "answer": "Yes—it's part of the \"SpongeBob Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10515,
+    "title": "Castle in the Sky",
+    "slug": "castle-in-the-sky",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Action",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Castle in the Sky (1986) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "animation",
+      "action",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Peter Pan (1953) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 79707,
+      "title": "Children Who Chase Lost Voices",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Children Who Chase Lost Voices (2011) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 568012,
+      "title": "One Piece: Stampede",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, One Piece: Stampede (2019) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Spirited Away (2001) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Castle in the Sky clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Castle in the Sky?",
+      "answer": "Try Peter Pan, Children Who Chase Lost Voices, One Piece: Stampede—each shares DNA with Castle in the Sky while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Castle in the Sky?",
+      "answer": "Castle in the Sky (1986) is best described as Adventure, Fantasy, Animation, Action, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Castle in the Sky worth revisiting?",
+      "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "pok-mon-the-first-movie",
+    "pok-mon-the-movie-hoopa-and-the-clash-of-ages",
+    "raya-and-the-last-dragon",
+    "rise-of-the-guardians",
+    "anastasia"
+  ]
+}

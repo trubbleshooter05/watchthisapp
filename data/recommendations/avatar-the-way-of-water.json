@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 76600,
+    "title": "Avatar: The Way of Water",
+    "slug": "avatar-the-way-of-water",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Avatar: The Way of Water (2022) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1892,
+      "title": "Return of the Jedi",
+      "year": 1983,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Return of the Jedi (1983) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 54138,
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Star Trek Into Darkness (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Guardians of the Galaxy Vol. 3 (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 667538,
+      "title": "Transformers: Rise of the Beasts",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Transformers: Rise of the Beasts (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 786892,
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Furiosa: A Mad Max Saga (2024) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 588228,
+      "title": "The Tomorrow War",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, The Tomorrow War (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1242898,
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Predator: Badlands (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157,
+      "title": "Star Trek III: The Search for Spock",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Star Trek III: The Search for Spock (1984) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193,
+      "title": "Star Trek: Generations",
+      "year": 1994,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, Star Trek: Generations (1994) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Avatar: The Way of Water clicked for you, E.T. the Extra-Terrestrial (1982) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Avatar: The Way of Water?",
+      "answer": "Try Return of the Jedi, Star Trek Into Darkness, Guardians of the Galaxy Vol. 3—each shares DNA with Avatar: The Way of Water while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Avatar: The Way of Water?",
+      "answer": "Avatar: The Way of Water (2022) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Avatar: The Way of Water part of a franchise?",
+      "answer": "Yes—it's part of the \"Avatar Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 950387,
+    "title": "A Minecraft Movie",
+    "slug": "a-minecraft-movie",
+    "year": 2025,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "A Minecraft Movie works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "fantasy",
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Hook (1991) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Moana (2016) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 512200,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Jumanji: The Next Level (2019) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 81188,
+      "title": "Rise of the Guardians",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Rise of the Guardians (2012) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 493529,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, Dungeons & Dragons: Honor Among Thieves (2023) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13600,
+      "title": "City of Ember",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Minecraft Movie clicked for you, City of Ember (2008) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Minecraft Movie?",
+      "answer": "Try The Super Mario Bros. Movie, Hook, The Croods: A New Age—each shares DNA with A Minecraft Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Minecraft Movie?",
+      "answer": "A Minecraft Movie (2025) is best described as Family, Fantasy, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Minecraft Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"The Minecraft Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle",
+    "frozen-ii",
+    "hercules",
+    "hook",
+    "horton-hears-a-who"
+  ]
+}

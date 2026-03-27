@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 693134,
+    "title": "Dune: Part Two",
+    "slug": "dune-part-two",
+    "year": 2024,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Dune: Part Two (2024) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Back to the Future (1985) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, X-Men: Days of Future Past (2014) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559,
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Spider-Man 3 (2007) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Star Wars: Episode III - Revenge of the Sith (2005) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 438631,
+      "title": "Dune",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Dune (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 62,
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, 2001: A Space Odyssey (1968) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Predator (1987) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 188927,
+      "title": "Star Trek Beyond",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Star Trek Beyond (2016) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 80274,
+      "title": "Ender's Game",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dune: Part Two clicked for you, Ender's Game (2013) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dune: Part Two?",
+      "answer": "Try Back to the Future, X-Men: Days of Future Past, Spider-Man 3—each shares DNA with Dune: Part Two while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dune: Part Two?",
+      "answer": "Dune: Part Two (2024) is best described as Science Fiction, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dune: Part Two part of a franchise?",
+      "answer": "Yes—it's part of the \"Dune Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "2001-a-space-odyssey",
+    "a-i-artificial-intelligence",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp"
+  ]
+}

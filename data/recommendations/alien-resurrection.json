@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8078,
+    "title": "Alien Resurrection",
+    "slug": "alien-resurrection",
+    "year": 1997,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Alien Resurrection works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "horror",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Resident Evil (2002) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 679,
+      "title": "Aliens",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Aliens (1986) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348350,
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Solo: A Star Wars Story (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Predator (1987) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 500664,
+      "title": "Upgrade",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Upgrade (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 149,
+      "title": "Akira",
+      "year": 1988,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Akira (1988) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 34851,
+      "title": "Predators",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Predators (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87421,
+      "title": "Riddick",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Alien Resurrection clicked for you, Riddick (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Alien Resurrection?",
+      "answer": "Try Resident Evil, Resident Evil: Apocalypse, The Terminator—each shares DNA with Alien Resurrection while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Alien Resurrection?",
+      "answer": "Alien Resurrection (1997) is best described as Science Fiction, Horror, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Alien Resurrection part of a franchise?",
+      "answer": "Yes—it's part of the \"Alien Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alive",
+    "attack-on-titan",
+    "godzilla-minus-one",
+    "meg-2-the-trench",
+    "resident-evil",
+    "resident-evil-damnation",
+    "resident-evil-death-island"
+  ]
+}

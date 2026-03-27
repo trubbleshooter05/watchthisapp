@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 448119,
+    "title": "Dolittle",
+    "slug": "dolittle",
+    "year": 2020,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Dolittle for the same reason it broke through in 2020: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Stephen Gaghan keeps the ensemble pointed in one direction. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118,
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Charlie and the Chocolate Factory (2005) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 381289,
+      "title": "A Dog's Purpose",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dolittle clicked for you, A Dog's Purpose (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 826510,
+      "title": "Harold and the Purple Crayon",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Harold and the Purple Crayon (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dolittle clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dolittle clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dolittle clicked for you, The Sea Beast (2022) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9986,
+      "title": "Charlotte's Web",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dolittle clicked for you, Charlotte's Web (2006) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dolittle?",
+      "answer": "Try Charlie and the Chocolate Factory, A Dog's Purpose, Harold and the Purple Crayon—each shares DNA with Dolittle while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dolittle?",
+      "answer": "Dolittle (2020) is best described as Family, Comedy, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dolittle worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "frozen-ii",
+    "hercules",
+    "hook",
+    "horton-hears-a-who"
+  ]
+}

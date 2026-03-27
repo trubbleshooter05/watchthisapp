@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10140,
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "slug": "the-chronicles-of-narnia-the-voyage-of-the-dawn-treader",
+    "year": 2010,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "The Chronicles of Narnia: The Voyage of the Dawn Treader works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10191,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, How to Train Your Dragon (2010) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, Maleficent (2014) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "action",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2454,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Chronicles of Narnia: Prince Caspian (2008) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, Onward (2020) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Chronicles of Narnia: The Voyage of the Dawn Treader clicked for you, The Hobbit: The Battle of the Five Armies (2014) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Chronicles of Narnia: The Voyage of the Dawn Treader?",
+      "answer": "Try How to Train Your Dragon, Maleficent, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe—each shares DNA with The Chronicles of Narnia: The Voyage of the Dawn Treader while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Chronicles of Narnia: The Voyage of the Dawn Treader?",
+      "answer": "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is best described as Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Chronicles of Narnia: The Voyage of the Dawn Treader part of a franchise?",
+      "answer": "Yes—it's part of the \"The Chronicles of Narnia Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass",
+    "anastasia",
+    "brave"
+  ]
+}

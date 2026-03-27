@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 49017,
+    "title": "Dracula Untold",
+    "slug": "dracula-untold",
+    "year": 2014,
+    "genres": [
+      "Horror",
+      "Action",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Dracula Untold works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "action",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 36586,
+      "title": "Blade II",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Blade II (2002) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 36647,
+      "title": "Blade",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Blade (1998) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 277,
+      "title": "Underworld",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Underworld (2003) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7131,
+      "title": "Van Helsing",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Van Helsing (2004) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 639933,
+      "title": "The Northman",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, The Northman (2022) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Highlander (1986) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, Nimona (2023) is a strong next stop: both trade in action and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 666243,
+      "title": "The Witcher: Nightmare of the Wolf",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dracula Untold clicked for you, The Witcher: Nightmare of the Wolf (2021) is a strong next stop: both trade in action and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dracula Untold?",
+      "answer": "Try Blade II, The Lord of the Rings: The Return of the King, Blade—each shares DNA with Dracula Untold while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dracula Untold?",
+      "answer": "Dracula Untold (2014) is best described as Horror, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dracula Untold worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "blade-ii",
+    "constantine",
+    "hansel-gretel-witch-hunters",
+    "alien-resurrection",
+    "alienoid",
+    "alive",
+    "along-with-the-gods-the-two-worlds"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1900,
+    "title": "Traffic",
+    "slug": "traffic",
+    "year": 2000,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Traffic (2000) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Traffic clicked for you, Layer Cake (2004) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 580532,
+      "title": "Crisis",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Traffic clicked for you, Crisis (2021) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10629,
+      "title": "Veronica Guerin",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Traffic clicked for you, Veronica Guerin (2003) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 273481,
+      "title": "Sicario",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Traffic clicked for you, Sicario (2015) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4982,
+      "title": "American Gangster",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Traffic clicked for you, American Gangster (2007) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4133,
+      "title": "Blow",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Traffic clicked for you, Blow (2001) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 522938,
+      "title": "Rambo: Last Blood",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Traffic clicked for you, Rambo: Last Blood (2019) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 634528,
+      "title": "The Marksman",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Traffic clicked for you, The Marksman (2021) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 309886,
+      "title": "Blood Father",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Traffic clicked for you, Blood Father (2016) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 619297,
+      "title": "Sweet Girl",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Traffic clicked for you, Sweet Girl (2021) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Traffic?",
+      "answer": "Try Layer Cake, Crisis, Veronica Guerin—each shares DNA with Traffic while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Traffic?",
+      "answer": "Traffic (2000) is best described as Thriller, Drama, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Traffic worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "a-history-of-violence",
+    "a-walk-among-the-tombstones",
+    "american-psycho",
+    "bound",
+    "bound-by-honor",
+    "boyka-undisputed-iv",
+    "bullet-train-explosion"
+  ]
+}

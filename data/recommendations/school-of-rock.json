@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1584,
+    "title": "School of Rock",
+    "slug": "school-of-rock",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "School of Rock (2003) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Richard Linklater's control of tone keeps the ride coherent. The comedy and music blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "music",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10947,
+      "title": "High School Musical",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If School of Rock clicked for you, High School Musical (2006) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11887,
+      "title": "High School Musical 3: Senior Year",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If School of Rock clicked for you, High School Musical 3: Senior Year (2008) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13655,
+      "title": "Camp Rock",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Camp Rock (2008) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 333667,
+      "title": "Rock Dog",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Rock Dog (2016) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354912,
+      "title": "Coco",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Coco (2017) is a strong next stop: both trade in music and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 118,
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Charlie and the Chocolate Factory (2005) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 114150,
+      "title": "Pitch Perfect",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Pitch Perfect (2012) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8872,
+      "title": "Wayne's World",
+      "year": 1992,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If School of Rock clicked for you, Wayne's World (1992) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 243,
+      "title": "High Fidelity",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If School of Rock clicked for you, High Fidelity (2000) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11031,
+      "title": "This Is Spinal Tap",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If School of Rock clicked for you, This Is Spinal Tap (1984) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after School of Rock?",
+      "answer": "Try High School Musical, High School Musical 3: Senior Year, Camp Rock—each shares DNA with School of Rock while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is School of Rock?",
+      "answer": "School of Rock (2003) is best described as Comedy, Music, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is School of Rock worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "hannah-montana-the-movie",
+    "sing",
+    "sing-2",
+    "soul",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour"
+  ]
+}

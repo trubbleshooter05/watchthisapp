@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 153518,
+    "title": "The Angry Birds Movie",
+    "slug": "the-angry-birds-movie",
+    "year": 2016,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Angry Birds Movie works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454640,
+      "title": "The Angry Birds Movie 2",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, The Angry Birds Movie 2 (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, An American Tail (1986) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 72197,
+      "title": "The Pirates! In an Adventure with Scientists!",
+      "year": 2012,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, The Pirates! In an Adventure with Scientists! (2012) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51162,
+      "title": "Winnie the Pooh",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Angry Birds Movie clicked for you, Winnie the Pooh (2011) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Angry Birds Movie?",
+      "answer": "Try The Super Mario Bros. Movie, Ice Age: Dawn of the Dinosaurs, Ice Age: Continental Drift—each shares DNA with The Angry Birds Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Angry Birds Movie?",
+      "answer": "The Angry Birds Movie (2016) is best described as Animation, Adventure, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Angry Birds Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"The Angry Birds Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

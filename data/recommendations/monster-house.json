@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9297,
+    "title": "Monster House",
+    "slug": "monster-house",
+    "year": 2006,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Monster House (2006) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Gil Kenan's control of tone keeps the ride coherent. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Monster House clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Monster House clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Monster House clicked for you, Nimona (2023) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Monster House clicked for you, The Willoughbys (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1139829,
+      "title": "Orion and the Dark",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Monster House clicked for you, Orion and the Dark (2024) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Monster House clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Monster House clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 43650,
+      "title": "The Legend of Sleepy Hollow",
+      "year": 1949,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Monster House clicked for you, The Legend of Sleepy Hollow (1949) is a strong next stop: both trade in animation and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 721656,
+      "title": "Happy Halloween, Scooby-Doo!",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Monster House clicked for you, Happy Halloween, Scooby-Doo! (2020) is a strong next stop: both trade in animation and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 137,
+      "title": "Groundhog Day",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Monster House clicked for you, Groundhog Day (1993) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Monster House?",
+      "answer": "Try Hotel Transylvania: Transformania, The Boxtrolls, Nimona—each shares DNA with Monster House while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Monster House?",
+      "answer": "Monster House (2006) is best described as Animation, Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Monster House worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "elemental",
+    "encanto",
+    "frozen-ii",
+    "hercules",
+    "home",
+    "horton-hears-a-who",
+    "hotel-transylvania"
+  ]
+}

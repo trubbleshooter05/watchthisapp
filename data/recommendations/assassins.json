@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9691,
+    "title": "Assassins",
+    "slug": "assassins",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Assassins (1995) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Richard Donner's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "crime",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 39514,
+      "title": "RED",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Assassins clicked for you, RED (2010) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "crime",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Assassins clicked for you, The Jackal (1997) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 603692,
+      "title": "John Wick: Chapter 4",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Assassins clicked for you, John Wick: Chapter 4 (2023) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 138103,
+      "title": "The Expendables 3",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Assassins clicked for you, The Expendables 3 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 400535,
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Assassins clicked for you, Sicario: Day of the Soldado (2018) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8068,
+      "title": "Desperado",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Assassins clicked for you, Desperado (1995) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9705,
+      "title": "Swordfish",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Assassins clicked for you, Swordfish (2001) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Assassins clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10431,
+      "title": "War",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Assassins clicked for you, War (2007) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Assassins clicked for you, Smokin' Aces (2006) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Assassins?",
+      "answer": "Try RED, The Jackal, John Wick: Chapter 4—each shares DNA with Assassins while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Assassins?",
+      "answer": "Assassins (1995) is best described as Action, Adventure, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Assassins worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "red",
+    "the-jackal",
+    "the-roundup-2",
+    "a-view-to-a-kill",
+    "a-working-man",
+    "along-came-a-spider",
+    "along-with-the-gods-the-two-worlds"
+  ]
+}

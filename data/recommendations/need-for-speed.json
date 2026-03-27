@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 136797,
+    "title": "Need for Speed",
+    "slug": "need-for-speed",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Need for Speed (2014) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Scott Waugh's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "drama",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9615,
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, The Fast and the Furious: Tokyo Drift (2006) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 168259,
+      "title": "Furious 7",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, Furious 7 (2015) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9799,
+      "title": "The Fast and the Furious",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, The Fast and the Furious (2001) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 51497,
+      "title": "Fast Five",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, Fast Five (2011) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, The Transporter (2002) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, RocknRolla (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 522931,
+      "title": "Hitman's Wife's Bodyguard",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, Hitman's Wife's Bodyguard (2021) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, The International (2009) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4787,
+      "title": "Cassandra's Dream",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, Cassandra's Dream (2007) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Need for Speed clicked for you, Defendor (2009) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Need for Speed?",
+      "answer": "Try The Fast and the Furious: Tokyo Drift, Furious 7, The Fast and the Furious—each shares DNA with Need for Speed while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Need for Speed?",
+      "answer": "Need for Speed (2014) is best described as Action, Crime, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Need for Speed worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "colombiana",
+    "death-wish",
+    "double-impact",
+    "faster",
+    "felon"
+  ]
+}

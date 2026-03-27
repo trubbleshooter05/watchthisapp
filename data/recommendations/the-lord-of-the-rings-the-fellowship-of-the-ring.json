@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 120,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "People revisit The Lord of the Rings: The Fellowship of the Ring for the same reason it broke through in 2001: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Peter Jackson keeps the ensemble pointed in one direction. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "action",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, The Hobbit: An Unexpected Journey (2012) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, The Hobbit: The Battle of the Five Armies (2014) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 82702,
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, How to Train Your Dragon 2 (2014) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, Warcraft (2016) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 763215,
+      "title": "Damsel",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, Damsel (2024) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10191,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lord of the Rings: The Fellowship of the Ring clicked for you, How to Train Your Dragon (2010) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lord of the Rings: The Fellowship of the Ring?",
+      "answer": "Try The Lord of the Rings: The Return of the King, The Lord of the Rings: The Two Towers, The Hobbit: An Unexpected Journey—each shares DNA with The Lord of the Rings: The Fellowship of the Ring while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lord of the Rings: The Fellowship of the Ring?",
+      "answer": "The Lord of the Rings: The Fellowship of the Ring (2001) is best described as Adventure, Fantasy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lord of the Rings: The Fellowship of the Ring part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lord of the Rings Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

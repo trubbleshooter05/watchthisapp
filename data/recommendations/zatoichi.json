@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 246,
+    "title": "Zatoichi",
+    "slug": "zatoichi",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Zatoichi (2003) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Gladiator (2000) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 58857,
+      "title": "13 Assassins",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, 13 Assassins (2010) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602063,
+      "title": "Rurouni Kenshin: The Final",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Rurouni Kenshin: The Final (2021) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 672322,
+      "title": "Rurouni Kenshin: The Beginning",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Rurouni Kenshin: The Beginning (2021) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Predator (1987) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, Armageddon (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 64686,
+      "title": "47 Ronin",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Zatoichi clicked for you, 47 Ronin (2013) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Zatoichi?",
+      "answer": "Try Gladiator, Crouching Tiger, Hidden Dragon, 13 Assassins—each shares DNA with Zatoichi while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Zatoichi?",
+      "answer": "Zatoichi (2003) is best described as Adventure, Drama, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Zatoichi worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "crouching-tiger-hidden-dragon",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii",
+    "hero"
+  ]
+}

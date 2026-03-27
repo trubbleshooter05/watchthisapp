@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 5559,
+    "title": "Bee Movie",
+    "slug": "bee-movie",
+    "year": 2007,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Bee Movie (2007) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Simon J. Smith's control of tone keeps the ride coherent. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, A Bug's Life (1998) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, The SpongeBob SquarePants Movie (2004) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, An American Tail (1986) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 520758,
+      "title": "Chicken Run: Dawn of the Nugget",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, Chicken Run: Dawn of the Nugget (2023) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bee Movie clicked for you, Hoppers (2026) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bee Movie?",
+      "answer": "Try A Bug's Life, Ralph Breaks the Internet, The Croods: A New Age—each shares DNA with Bee Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bee Movie?",
+      "answer": "Bee Movie (2007) is best described as Family, Animation, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bee Movie worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3",
+    "despicable-me-3"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 6950,
+    "title": "Outbreak",
+    "slug": "outbreak",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Outbreak for the same reason it broke through in 1995: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Wolfgang Petersen keeps the ensemble pointed in one direction. The action and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "drama",
+      "science-fiction",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 61791,
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Rise of the Planet of the Apes (2011) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Dawn of the Planet of the Apes (2014) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453405,
+      "title": "Gemini Man",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Gemini Man (2019) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Outbreak clicked for you, The Omega Man (1971) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39538,
+      "title": "Contagion",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Contagion (2011) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 563,
+      "title": "Starship Troopers",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Starship Troopers (1997) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1265609,
+      "title": "War Machine",
+      "year": 2026,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Outbreak clicked for you, War Machine (2026) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Outbreak clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Outbreak clicked for you, 28 Days Later (2002) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 616,
+      "title": "The Last Samurai",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Outbreak clicked for you, The Last Samurai (2003) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Outbreak?",
+      "answer": "Try Rise of the Planet of the Apes, Dawn of the Planet of the Apes, Gemini Man—each shares DNA with Outbreak while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Outbreak?",
+      "answer": "Outbreak (1995) is best described as Action, Drama, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Outbreak worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "rise-of-the-planet-of-the-apes",
+    "the-omega-man",
+    "10-cloverfield-lane",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "sourceMovie": {
+    "tmdbId": 948,
+    "title": "Halloween",
+    "slug": "halloween",
+    "year": 1978,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Halloween (1978) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 424139,
+      "title": "Halloween",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Halloween clicked for you, Halloween (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 934433,
+      "title": "Scream VI",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Halloween clicked for you, Scream VI (2023) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 610253,
+      "title": "Halloween Kills",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Halloween clicked for you, Halloween Kills (2021) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11281,
+      "title": "Halloween II",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Halloween clicked for you, Halloween II (1981) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 517116,
+      "title": "Haunt",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Halloween clicked for you, Haunt (2019) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10225,
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Halloween clicked for you, Jason Lives - Friday the 13th Part VI (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Halloween clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Halloween clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10585,
+      "title": "Child's Play",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Halloween clicked for you, Child's Play (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Halloween clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Halloween?",
+      "answer": "Try Halloween, Scream VI, Halloween Kills—each shares DNA with Halloween while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Halloween?",
+      "answer": "Halloween (1978) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Halloween part of a franchise?",
+      "answer": "Yes—it's part of the \"Halloween Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one",
+    "a-quiet-place-part-ii"
+  ]
+}

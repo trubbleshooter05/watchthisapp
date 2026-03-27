@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 348,
+    "title": "Alien",
+    "slug": "alien",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Alien for the same reason it broke through in 1979: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Ridley Scott keeps the ensemble pointed in one direction. The horror and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 395992,
+      "title": "Life",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Alien clicked for you, Life (2017) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8077,
+      "title": "Alien³",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Alien clicked for you, Alien³ (1992) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 945961,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Alien clicked for you, Alien: Romulus (2024) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19898,
+      "title": "Pandorum",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Alien clicked for you, Pandorum (2009) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 604079,
+      "title": "The Long Walk",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Alien clicked for you, The Long Walk (2025) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9102,
+      "title": "Screamers",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Alien clicked for you, Screamers (1995) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "war"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15762,
+      "title": "Night of the Creeps",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Alien clicked for you, Night of the Creeps (1986) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 140607,
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Alien clicked for you, Star Wars: The Force Awakens (2015) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 274870,
+      "title": "Passengers",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Alien clicked for you, Passengers (2016) is a strong next stop: both trade in science fiction, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 70981,
+      "title": "Prometheus",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Alien clicked for you, Prometheus (2012) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Alien?",
+      "answer": "Try Life, Alien³, Alien: Romulus—each shares DNA with Alien while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Alien?",
+      "answer": "Alien (1979) is best described as Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Alien part of a franchise?",
+      "answer": "Yes—it's part of the \"Alien Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-quiet-place"
+  ]
+}

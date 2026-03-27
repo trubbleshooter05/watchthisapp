@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10882,
+    "title": "Sleeping Beauty",
+    "slug": "sleeping-beauty",
+    "year": 1959,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Romance",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Sleeping Beauty for the same reason it broke through in 1959: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Clyde Geronimi keeps the ensemble pointed in one direction. The fantasy and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "animation",
+      "romance",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Shrek 2 (2004) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "romance",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Cinderella (1950) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16119,
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Cinderella III: A Twist in Time (2007) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16962,
+      "title": "Barbie Fairytopia: Magic of the Rainbow",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Barbie Fairytopia: Magic of the Rainbow (2007) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Maleficent (2014) is a strong next stop: both trade in fantasy and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "family",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10144,
+      "title": "The Little Mermaid",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, The Little Mermaid (1989) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 408,
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1938,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Snow White and the Seven Dwarfs (1938) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sleeping Beauty clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Sleeping Beauty?",
+      "answer": "Try Shrek 2, Beauty and the Beast, Cinderella—each shares DNA with Sleeping Beauty while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sleeping Beauty?",
+      "answer": "Sleeping Beauty (1959) is best described as Fantasy, Animation, Romance, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sleeping Beauty worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "cinderella-ii-dreams-come-true",
+    "elemental",
+    "hercules",
+    "miraculous-ladybug-cat-noir-the-movie",
+    "shrek-2",
+    "the-princess-and-the-frog",
+    "aladdin"
+  ]
+}

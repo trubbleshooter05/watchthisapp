@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4011,
+    "title": "Beetlejuice",
+    "slug": "beetlejuice",
+    "year": 1988,
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Beetlejuice for the same reason it broke through in 1988: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Tim Burton keeps the ensemble pointed in one direction. The fantasy and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 620,
+      "title": "Ghostbusters",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Ghostbusters (1984) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2907,
+      "title": "The Addams Family",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, The Addams Family (1991) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9297,
+      "title": "Monster House",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Monster House (2006) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 917496,
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Beetlejuice Beetlejuice (2024) is a strong next stop: both trade in fantasy and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Nimona (2023) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 616747,
+      "title": "Haunted Mansion",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Haunted Mansion (2023) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3933,
+      "title": "Corpse Bride",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Corpse Bride (2005) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 501170,
+      "title": "Doctor Sleep",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Doctor Sleep (2019) is a strong next stop: both trade in fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4032,
+      "title": "My Girl",
+      "year": 1991,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, My Girl (1991) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 184345,
+      "title": "A Haunted House 2",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, A Haunted House 2 (2014) is a strong next stop: both trade in comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Beetlejuice?",
+      "answer": "Try Ghostbusters, The Addams Family, Monster House—each shares DNA with Beetlejuice while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Beetlejuice?",
+      "answer": "Beetlejuice (1988) is best described as Fantasy, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Beetlejuice part of a franchise?",
+      "answer": "Yes—it's part of the \"Beetlejuice Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-going-on-30",
+    "a-minecraft-movie",
+    "addams-family-values",
+    "army-of-darkness",
+    "babe",
+    "beetlejuice-beetlejuice",
+    "big"
+  ]
+}

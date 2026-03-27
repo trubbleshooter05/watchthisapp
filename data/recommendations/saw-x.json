@@ -1,0 +1,168 @@
+{
+  "sourceMovie": {
+    "tmdbId": 951491,
+    "title": "Saw X",
+    "slug": "saw-x",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Saw X (2023) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 539,
+      "title": "Psycho",
+      "year": 1960,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Saw X clicked for you, Psycho (1960) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 176,
+      "title": "Saw",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Saw X clicked for you, Saw (2004) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Saw X clicked for you, Scream (1996) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4233,
+      "title": "Scream 2",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Saw X clicked for you, Scream 2 (1997) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 298250,
+      "title": "Jigsaw",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Saw X clicked for you, Jigsaw (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 619778,
+      "title": "Malignant",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Saw X clicked for you, Malignant (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Saw X clicked for you, Psycho II (1983) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 215,
+      "title": "Saw II",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Saw X clicked for you, Saw II (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 214,
+      "title": "Saw III",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Saw X clicked for you, Saw III (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Saw X clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Saw X?",
+      "answer": "Try Psycho, Saw, Scream—each shares DNA with Saw X while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Saw X?",
+      "answer": "Saw X (2023) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Saw X part of a franchise?",
+      "answer": "Yes—it's part of the \"Saw Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-cure-for-wellness",
+    "barbarian",
+    "bodies-bodies-bodies",
+    "crimson-peak",
+    "escape-room",
+    "exhuma",
+    "final-destination-2"
+  ]
+}

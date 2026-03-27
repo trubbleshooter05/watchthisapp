@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 56292,
+    "title": "Mission: Impossible - Ghost Protocol",
+    "slug": "mission-impossible-ghost-protocol",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Mission: Impossible - Ghost Protocol (2011) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Mission: Impossible (1996) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 956,
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Mission: Impossible III (2006) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 415842,
+      "title": "American Assassin",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, American Assassin (2017) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 575265,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Mission: Impossible - The Final Reckoning (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 667,
+      "title": "You Only Live Twice",
+      "year": 1967,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, You Only Live Twice (1967) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399402,
+      "title": "Hunter Killer",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Hunter Killer (2018) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 691,
+      "title": "The Spy Who Loved Me",
+      "year": 1977,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, The Spy Who Loved Me (1977) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mission: Impossible - Ghost Protocol clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mission: Impossible - Ghost Protocol?",
+      "answer": "Try Mission: Impossible, Mission: Impossible III, American Assassin—each shares DNA with Mission: Impossible - Ghost Protocol while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mission: Impossible - Ghost Protocol?",
+      "answer": "Mission: Impossible - Ghost Protocol (2011) is best described as Action, Thriller, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mission: Impossible - Ghost Protocol part of a franchise?",
+      "answer": "Yes—it's part of the \"Mission: Impossible Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

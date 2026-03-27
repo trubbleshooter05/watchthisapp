@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 90,
+    "title": "Beverly Hills Cop",
+    "slug": "beverly-hills-cop",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Beverly Hills Cop (1984) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "crime",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 64688,
+      "title": "21 Jump Street",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, 21 Jump Street (2012) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9737,
+      "title": "Bad Boys",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Bad Boys (1995) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 96,
+      "title": "Beverly Hills Cop II",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Beverly Hills Cop II (1987) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9618,
+      "title": "Tango & Cash",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Tango & Cash (1989) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4141,
+      "title": "Shoot 'Em Up",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Shoot 'Em Up (2007) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Smokin' Aces (2006) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280180,
+      "title": "Beverly Hills Cop: Axel F",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Beverly Hills Cop clicked for you, Beverly Hills Cop: Axel F (2024) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Beverly Hills Cop?",
+      "answer": "Try 21 Jump Street, Hot Fuzz, Bad Boys—each shares DNA with Beverly Hills Cop while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Beverly Hills Cop?",
+      "answer": "Beverly Hills Cop (1984) is best described as Comedy, Crime, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Beverly Hills Cop part of a franchise?",
+      "answer": "Yes—it's part of the \"Beverly Hills Cop Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "american-made",
+    "bad-boys",
+    "bad-boys-ii",
+    "bad-boys-ride-or-die"
+  ]
+}

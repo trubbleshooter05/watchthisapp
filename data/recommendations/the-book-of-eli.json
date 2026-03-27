@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 20504,
+    "title": "The Book of Eli",
+    "slug": "the-book-of-eli",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Book of Eli (2010) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, Maze Runner: The Death Cure (2018) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 865,
+      "title": "The Running Man",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Running Man (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Omega Man (1971) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Matrix (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Transporter (2002) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 316727,
+      "title": "The Purge: Election Year",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, The Purge: Election Year (2016) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1100988,
+      "title": "28 Years Later",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, 28 Years Later (2025) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Book of Eli clicked for you, Land of the Dead (2005) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Book of Eli?",
+      "answer": "Try The Terminator, Maze Runner: The Death Cure, The Running Man—each shares DNA with The Book of Eli while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Book of Eli?",
+      "answer": "The Book of Eli (2010) is best described as Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Book of Eli worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 77950,
+    "title": "Turbo",
+    "slug": "turbo",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Turbo (2013) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. David Soren's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 920,
+      "title": "Cars",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Turbo clicked for you, Cars (2006) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82690,
+      "title": "Wreck-It Ralph",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Turbo clicked for you, Wreck-It Ralph (2012) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 127380,
+      "title": "Finding Dory",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Turbo clicked for you, Finding Dory (2016) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 211672,
+      "title": "Minions",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Turbo clicked for you, Minions (2015) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 260514,
+      "title": "Cars 3",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Turbo clicked for you, Cars 3 (2017) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Turbo clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Turbo clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Turbo clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Turbo clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1241982,
+      "title": "Moana 2",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Turbo clicked for you, Moana 2 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Turbo?",
+      "answer": "Try Cars, Wreck-It Ralph, Finding Dory—each shares DNA with Turbo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Turbo?",
+      "answer": "Turbo (2013) is best described as Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Turbo worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}

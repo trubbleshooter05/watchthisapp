@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 13475,
+    "title": "Star Trek",
+    "slug": "star-trek",
+    "year": 2009,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Star Trek (2009) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. J.J. Abrams's control of tone keeps the ride coherent. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 75612,
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Oblivion (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 54138,
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Star Trek Into Darkness (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348350,
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Solo: A Star Wars Story (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 188927,
+      "title": "Star Trek Beyond",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Star Trek Beyond (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 200,
+      "title": "Star Trek: Insurrection",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Star Trek: Insurrection (1998) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Titan A.E. (2000) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12914,
+      "title": "Stargate: Continuum",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Star Trek clicked for you, Stargate: Continuum (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Star Trek?",
+      "answer": "Try Guardians of the Galaxy, Oblivion, Star Wars: The Rise of Skywalker—each shares DNA with Star Trek while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Star Trek?",
+      "answer": "Star Trek (2009) is best described as Science Fiction, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Star Trek part of a franchise?",
+      "answer": "Yes—it's part of the \"Star Trek: Alternate Reality Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

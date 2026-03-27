@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 854,
+    "title": "The Mask",
+    "slug": "the-mask",
+    "year": 1994,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Mask for the same reason it broke through in 1994: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Chuck Russell keeps the ensemble pointed in one direction. The romance and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "romance",
+      "comedy",
+      "crime",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11814,
+      "title": "Weird Science",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Mask clicked for you, Weird Science (1985) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Mask clicked for you, Shrek (2001) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 268,
+      "title": "Batman",
+      "year": 1989,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Mask clicked for you, Batman (1989) is a strong next stop: both trade in crime and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Mask clicked for you, Nimona (2023) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 556901,
+      "title": "Teen Titans Go! vs. Teen Titans",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Mask clicked for you, Teen Titans Go! vs. Teen Titans (2019) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "action",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 45132,
+      "title": "Super",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Mask clicked for you, Super (2010) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 40662,
+      "title": "Batman: Under the Red Hood",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Mask clicked for you, Batman: Under the Red Hood (2010) is a strong next stop: both trade in crime, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 268531,
+      "title": "Captain Underpants: The First Epic Movie",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Mask clicked for you, Captain Underpants: The First Epic Movie (2017) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411736,
+      "title": "Batman: Return of the Caped Crusaders",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Mask clicked for you, Batman: Return of the Caped Crusaders (2016) is a strong next stop: both trade in crime, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "animation",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 15257,
+      "title": "Hulk vs. Wolverine",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Mask clicked for you, Hulk vs. Wolverine (2009) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Mask?",
+      "answer": "Try Weird Science, Shrek, Batman—each shares DNA with The Mask while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Mask?",
+      "answer": "The Mask (1994) is best described as Romance, Comedy, Crime, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Mask part of a franchise?",
+      "answer": "Yes—it's part of the \"The Mask Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-going-on-30",
+    "elemental",
+    "enchanted",
+    "focus",
+    "groundhog-day",
+    "hercules",
+    "hit-man"
+  ]
+}

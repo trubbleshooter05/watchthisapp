@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 119450,
+    "title": "Dawn of the Planet of the Apes",
+    "slug": "dawn-of-the-planet-of-the-apes",
+    "year": 2014,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Dawn of the Planet of the Apes (2014) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "drama",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 61791,
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Rise of the Planet of the Apes (2011) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, The Omega Man (1971) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, I Am Legend (2007) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 124905,
+      "title": "Godzilla",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Godzilla (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Minority Report (2002) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Predator (1987) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 766507,
+      "title": "Prey",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Prey (2022) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, The Island (2005) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dawn of the Planet of the Apes clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dawn of the Planet of the Apes?",
+      "answer": "Try Rise of the Planet of the Apes, The Omega Man, I Am Legend—each shares DNA with Dawn of the Planet of the Apes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dawn of the Planet of the Apes?",
+      "answer": "Dawn of the Planet of the Apes (2014) is best described as Science Fiction, Action, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dawn of the Planet of the Apes part of a franchise?",
+      "answer": "Yes—it's part of the \"Planet of the Apes (Reboot) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "elysium",
+    "outbreak",
+    "rise-of-the-planet-of-the-apes",
+    "the-omega-man",
+    "10-cloverfield-lane",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71"
+  ]
+}

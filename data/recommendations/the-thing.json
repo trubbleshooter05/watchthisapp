@@ -1,0 +1,172 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1091,
+    "title": "The Thing",
+    "slug": "the-thing",
+    "year": 1982,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Thing (1982) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Thing clicked for you, Event Horizon (1997) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 60935,
+      "title": "The Thing",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Thing clicked for you, The Thing (2011) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19898,
+      "title": "Pandorum",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Thing clicked for you, Pandorum (2009) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 70981,
+      "title": "Prometheus",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Thing clicked for you, Prometheus (2012) is a strong next stop: both trade in mystery and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 300668,
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Thing clicked for you, Annihilation (2018) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 945961,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Thing clicked for you, Alien: Romulus (2024) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11850,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Thing clicked for you, Invasion of the Body Snatchers (1978) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 604079,
+      "title": "The Long Walk",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Thing clicked for you, The Long Walk (2025) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Thing clicked for you, Psycho II (1983) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4722,
+      "title": "Body Snatchers",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Thing clicked for you, Body Snatchers (1993) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Thing?",
+      "answer": "Try Event Horizon, The Thing, Pandorum—each shares DNA with The Thing while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Thing?",
+      "answer": "The Thing (1982) is best described as Horror, Mystery, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Thing part of a franchise?",
+      "answer": "Yes—it's part of the \"The Thing Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-cure-for-wellness",
+    "life",
+    "the-invasion",
+    "10-cloverfield-lane",
+    "2001-a-space-odyssey",
+    "28-days-later",
+    "28-weeks-later"
+  ]
+}

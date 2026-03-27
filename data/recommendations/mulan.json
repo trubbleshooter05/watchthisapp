@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10674,
+    "title": "Mulan",
+    "slug": "mulan",
+    "year": 1998,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Mulan for the same reason it broke through in 1998: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Tony Bancroft keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mulan clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38757,
+      "title": "Tangled",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mulan clicked for you, Tangled (2010) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mulan clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527774,
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mulan clicked for you, Raya and the Last Dragon (2021) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mulan clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 313297,
+      "title": "Kubo and the Two Strings",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mulan clicked for you, Kubo and the Two Strings (2016) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1011985,
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mulan clicked for you, Kung Fu Panda 4 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10567,
+      "title": "Dinosaur",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mulan clicked for you, Dinosaur (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mulan clicked for you, Wish Dragon (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mulan clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mulan?",
+      "answer": "Try Moana, Tangled, Madagascar: Escape 2 Africa—each shares DNA with Mulan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mulan?",
+      "answer": "Mulan (1998) is best described as Animation, Family, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mulan part of a franchise?",
+      "answer": "Yes—it's part of the \"Mulan Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 76163,
+    "title": "The Expendables 2",
+    "slug": "the-expendables-2",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Expendables 2 works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Armageddon (1998) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 646389,
+      "title": "Plane",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Plane (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193,
+      "title": "Star Trek: Generations",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Star Trek: Generations (1994) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Gladiator (2000) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Indiana Jones and the Temple of Doom (1984) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, War of the Worlds (2005) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 225574,
+      "title": "Non-Stop",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Non-Stop (2014) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1119878,
+      "title": "Ice Road: Vengeance",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Expendables 2 clicked for you, Ice Road: Vengeance (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Expendables 2?",
+      "answer": "Try Armageddon, Plane, Star Trek: Generations—each shares DNA with The Expendables 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Expendables 2?",
+      "answer": "The Expendables 2 (2012) is best described as Action, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Expendables 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Expendables Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

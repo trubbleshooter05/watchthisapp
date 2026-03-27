@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 620,
+    "title": "Ghostbusters",
+    "slug": "ghostbusters",
+    "year": 1984,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Ghostbusters for the same reason it broke through in 1984: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Ivan Reitman keeps the ensemble pointed in one direction. The comedy and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4011,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Beetlejuice (1988) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425909,
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Ghostbusters: Afterlife (2021) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8839,
+      "title": "Casper",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Casper (1995) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2978,
+      "title": "Ghostbusters II",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Ghostbusters II (1989) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9297,
+      "title": "Monster House",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Monster House (2006) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 449563,
+      "title": "Isn't It Romantic",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Isn't It Romantic (2019) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 967847,
+      "title": "Ghostbusters: Frozen Empire",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Ghostbusters: Frozen Empire (2024) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 63700,
+      "title": "My Babysitter's a Vampire",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, My Babysitter's a Vampire (2010) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ghostbusters clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ghostbusters?",
+      "answer": "Try Beetlejuice, Ghostbusters: Afterlife, Casper—each shares DNA with Ghostbusters while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ghostbusters?",
+      "answer": "Ghostbusters (1984) is best described as Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ghostbusters part of a franchise?",
+      "answer": "Yes—it's part of the \"Ghostbusters Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-going-on-30",
+    "a-minecraft-movie",
+    "addams-family-values",
+    "army-of-darkness",
+    "babe",
+    "beetlejuice",
+    "beetlejuice-beetlejuice"
+  ]
+}

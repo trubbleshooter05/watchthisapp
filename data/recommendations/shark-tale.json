@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10555,
+    "title": "Shark Tale",
+    "slug": "shark-tale",
+    "year": 2004,
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Shark Tale (2004) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Megamind (2010) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 629542,
+      "title": "The Bad Guys",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, The Bad Guys (2022) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12242,
+      "title": "Mulan II",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Mulan II (2004) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 484862,
+      "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Scooby-Doo! & Batman: The Brave and the Bold (2018) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400160,
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, The SpongeBob Movie: Sponge on the Run (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 326215,
+      "title": "Ooops! Noah Is Gone...",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Ooops! Noah Is Gone... (2015) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1029119,
+      "title": "Minions & More Volume 1",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shark Tale clicked for you, Minions & More Volume 1 (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shark Tale?",
+      "answer": "Try Megamind, The Bad Guys, Mulan II—each shares DNA with Shark Tale while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shark Tale?",
+      "answer": "Shark Tale (2004) is best described as Animation, Action, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shark Tale worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "kung-fu-panda",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4"
+  ]
+}

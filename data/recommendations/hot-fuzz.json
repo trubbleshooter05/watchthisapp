@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4638,
+    "title": "Hot Fuzz",
+    "slug": "hot-fuzz",
+    "year": 2007,
+    "genres": [
+      "Crime",
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Hot Fuzz works as a crime movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The crime and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "action",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 90,
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Beverly Hills Cop (1984) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Bad Boys: Ride or Die (2024) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Smokin' Aces (2006) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 150,
+      "title": "48 Hrs.",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, 48 Hrs. (1982) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1106289,
+      "title": "The Pickup",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, The Pickup (2025) is a strong next stop: both trade in crime and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, The Transporter (2002) is a strong next stop: both trade in crime and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 941,
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Lethal Weapon (1987) is a strong next stop: both trade in crime and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 37136,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, The Naked Gun: From the Files of Police Squad! (1988) is a strong next stop: both trade in crime and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 943,
+      "title": "Lethal Weapon 3",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hot Fuzz clicked for you, Lethal Weapon 3 (1992) is a strong next stop: both trade in crime and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hot Fuzz?",
+      "answer": "Try Beverly Hills Cop, Rush Hour 2, Bad Boys: Ride or Die—each shares DNA with Hot Fuzz while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hot Fuzz?",
+      "answer": "Hot Fuzz (2007) is best described as Crime, Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hot Fuzz worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this crime lane."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "american-made",
+    "bad-boys",
+    "bad-boys-ii",
+    "bad-boys-ride-or-die"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8338,
+    "title": "Blindness",
+    "slug": "blindness",
+    "year": 2008,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Blindness works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "mystery",
+      "science-fiction",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 198663,
+      "title": "The Maze Runner",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Blindness clicked for you, The Maze Runner (2014) is a strong next stop: both trade in mystery and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Blindness clicked for you, I Am Legend (2007) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39538,
+      "title": "Contagion",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Blindness clicked for you, Contagion (2011) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4176,
+      "title": "Murder on the Orient Express",
+      "year": 1974,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Blindness clicked for you, Murder on the Orient Express (1974) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12101,
+      "title": "Soylent Green",
+      "year": 1973,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Blindness clicked for you, Soylent Green (1973) is a strong next stop: both trade in mystery and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Blindness clicked for you, The Omega Man (1971) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Blindness clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Blindness clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Blindness clicked for you, Maze Runner: The Death Cure (2018) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Blindness clicked for you, The Book of Eli (2010) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Blindness?",
+      "answer": "Try The Maze Runner, I Am Legend, Contagion—each shares DNA with Blindness while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Blindness?",
+      "answer": "Blindness (2008) is best described as Drama, Mystery, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Blindness worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "a-walk-among-the-tombstones",
+    "arrival",
+    "black-bag",
+    "blade-runner",
+    "chinatown",
+    "chronicle"
+  ]
+}

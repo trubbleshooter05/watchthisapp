@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8247,
+    "title": "Jumper",
+    "slug": "jumper",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Jumper (2008) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 558,
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jumper clicked for you, Spider-Man 2 (2004) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 131634,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jumper clicked for you, The Hunger Games: Mockingjay - Part 2 (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jumper clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jumper clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 46529,
+      "title": "I Am Number Four",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jumper clicked for you, I Am Number Four (2011) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 298618,
+      "title": "The Flash",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jumper clicked for you, The Flash (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 786892,
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jumper clicked for you, Furiosa: A Mad Max Saga (2024) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1242898,
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jumper clicked for you, Predator: Badlands (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jumper clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 464052,
+      "title": "Wonder Woman 1984",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jumper clicked for you, Wonder Woman 1984 (2020) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jumper?",
+      "answer": "Try Spider-Man 2, The Hunger Games: Mockingjay - Part 2, The Incredible Hulk—each shares DNA with Jumper while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jumper?",
+      "answer": "Jumper (2008) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jumper worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

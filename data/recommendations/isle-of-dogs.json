@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 399174,
+    "title": "Isle of Dogs",
+    "slug": "isle-of-dogs",
+    "year": 2018,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Isle of Dogs (2018) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "animation",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 953,
+      "title": "Madagascar",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Madagascar (2005) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 80321,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Madagascar 3: Europe's Most Wanted (2012) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 675445,
+      "title": "PAW Patrol: The Movie",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, PAW Patrol: The Movie (2021) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 62214,
+      "title": "Frankenweenie",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Frankenweenie (2012) is a strong next stop: both trade in comedy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 555604,
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Guillermo del Toro's Pinocchio (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18269,
+      "title": "Lady and the Tramp II: Scamp's Adventure",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Isle of Dogs clicked for you, Lady and the Tramp II: Scamp's Adventure (2001) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Isle of Dogs?",
+      "answer": "Try Madagascar, Madagascar: Escape 2 Africa, Madagascar 3: Europe's Most Wanted—each shares DNA with Isle of Dogs while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Isle of Dogs?",
+      "answer": "Isle of Dogs (2018) is best described as Adventure, Comedy, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Isle of Dogs worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "antz",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15371,
+    "title": "The Castle of Cagliostro",
+    "slug": "the-castle-of-cagliostro",
+    "year": 1979,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "People revisit The Castle of Cagliostro for the same reason it broke through in 1979: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Hayao Miyazaki keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "comedy",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 614587,
+      "title": "Lupin III: The First",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Lupin III: The First (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 920,
+      "title": "Cars",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Cars (2006) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 374205,
+      "title": "One Piece Film: GOLD",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, One Piece Film: GOLD (2016) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19576,
+      "title": "One Piece: The Movie",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, One Piece: The Movie (2000) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "action",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Men in Black (1997) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 854,
+      "title": "The Mask",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, The Mask (1994) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Mission: Impossible (1996) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 949,
+      "title": "Heat",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Heat (1995) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 956,
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Castle of Cagliostro clicked for you, Mission: Impossible III (2006) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Castle of Cagliostro?",
+      "answer": "Try Lupin III: The First, Cars, One Piece Film: GOLD—each shares DNA with The Castle of Cagliostro while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Castle of Cagliostro?",
+      "answer": "The Castle of Cagliostro (1979) is best described as Animation, Adventure, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Castle of Cagliostro part of a franchise?",
+      "answer": "Yes—it's part of the \"Lupin the Third Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "the-bad-guys-2",
+    "a-bugs-life",
+    "antz",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars"
+  ]
+}

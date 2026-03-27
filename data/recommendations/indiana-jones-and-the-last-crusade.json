@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 89,
+    "title": "Indiana Jones and the Last Crusade",
+    "slug": "indiana-jones-and-the-last-crusade",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Indiana Jones and the Last Crusade works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Gladiator (2000) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 429617,
+      "title": "Spider-Man: Far From Home",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Spider-Man: Far From Home (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 85,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Raiders of the Lost Ark (1981) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Indiana Jones and the Temple of Doom (1984) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 564,
+      "title": "The Mummy",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, The Mummy (1999) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Predator (1987) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, Armageddon (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 254,
+      "title": "King Kong",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Indiana Jones and the Last Crusade clicked for you, King Kong (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Indiana Jones and the Last Crusade?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, Gladiator, Pirates of the Caribbean: Dead Man's Chest—each shares DNA with Indiana Jones and the Last Crusade while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Indiana Jones and the Last Crusade?",
+      "answer": "Indiana Jones and the Last Crusade (1989) is best described as Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Indiana Jones and the Last Crusade part of a franchise?",
+      "answer": "Yes—it's part of the \"Indiana Jones Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "300",
+    "a-knights-tale",
+    "a-view-to-a-kill",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "along-with-the-gods-the-two-worlds"
+  ]
+}

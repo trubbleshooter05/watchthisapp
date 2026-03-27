@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1359,
+    "title": "American Psycho",
+    "slug": "american-psycho",
+    "year": 2000,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "American Psycho works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 274,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Silence of the Lambs (1991) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 184,
+      "title": "Jackie Brown",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If American Psycho clicked for you, Jackie Brown (1997) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9481,
+      "title": "The Bone Collector",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Bone Collector (1999) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If American Psycho clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 234,
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Cabinet of Dr. Caligari (1920) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241239,
+      "title": "A Most Violent Year",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If American Psycho clicked for you, A Most Violent Year (2014) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10518,
+      "title": "Marathon Man",
+      "year": 1976,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If American Psycho clicked for you, Marathon Man (1976) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 68812,
+      "title": "The Iceman",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Iceman (2012) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 466081,
+      "title": "The Informer",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Informer (2019) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 106646,
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If American Psycho clicked for you, The Wolf of Wall Street (2013) is a strong next stop: both trade in drama and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after American Psycho?",
+      "answer": "Try The Silence of the Lambs, Jackie Brown, The Bone Collector—each shares DNA with American Psycho while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is American Psycho?",
+      "answer": "American Psycho (2000) is best described as Thriller, Drama, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is American Psycho part of a franchise?",
+      "answer": "Yes—it's part of the \"American Psycho Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-history-of-violence",
+    "a-walk-among-the-tombstones",
+    "bound",
+    "bound-by-honor",
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "carlitos-way"
+  ]
+}

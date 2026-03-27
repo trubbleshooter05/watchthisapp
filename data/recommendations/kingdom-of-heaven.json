@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1495,
+    "title": "Kingdom of Heaven",
+    "slug": "kingdom-of-heaven",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Action",
+      "Adventure",
+      "History",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit Kingdom of Heaven for the same reason it broke through in 2005: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Ridley Scott keeps the ensemble pointed in one direction. The drama and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "action",
+      "adventure",
+      "history",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, Braveheart (1995) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 316152,
+      "title": "Free State of Jones",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, Free State of Jones (2016) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9093,
+      "title": "The Four Feathers",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, The Four Feathers (2002) is a strong next stop: both trade in drama and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "adventure",
+        "war",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 16638,
+      "title": "El Cid",
+      "year": 1961,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, El Cid (1961) is a strong next stop: both trade in drama and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history",
+        "war",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 617653,
+      "title": "The Last Duel",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, The Last Duel (2021) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 947,
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, Lawrence of Arabia (1962) is a strong next stop: both trade in adventure and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9476,
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, A Knight's Tale (2001) is a strong next stop: both trade in drama and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "adventure",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10590,
+      "title": "We Were Soldiers",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, We Were Soldiers (2002) is a strong next stop: both trade in action and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1911,
+      "title": "The 13th Warrior",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, The 13th Warrior (1999) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 948713,
+      "title": "The Last Kingdom: Seven Kings Must Die",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kingdom of Heaven clicked for you, The Last Kingdom: Seven Kings Must Die (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kingdom of Heaven?",
+      "answer": "Try Braveheart, Free State of Jones, The Four Feathers—each shares DNA with Kingdom of Heaven while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kingdom of Heaven?",
+      "answer": "Kingdom of Heaven (2005) is best described as Drama, Action, Adventure, History, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kingdom of Heaven worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "red-cliff-ii",
+    "tae-guk-gi-the-brotherhood-of-war",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "braveheart",
+    "hero",
+    "rurouni-kenshin-the-final",
+    "spartacus"
+  ]
+}

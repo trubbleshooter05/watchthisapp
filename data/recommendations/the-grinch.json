@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 360920,
+    "title": "The Grinch",
+    "slug": "the-grinch",
+    "year": 2018,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "The Grinch (2018) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Yarrow Cheney's control of tone keeps the ride coherent. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 51052,
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Arthur Christmas (2011) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13394,
+      "title": "Shrek the Halls",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Shrek the Halls (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15400,
+      "title": "Mickey's Once Upon a Christmas",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Mickey's Once Upon a Christmas (1999) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 645757,
+      "title": "That Christmas",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Grinch clicked for you, That Christmas (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21448,
+      "title": "Mickey's Magical Christmas: Snowed in at the House of Mouse",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Mickey's Magical Christmas: Snowed in at the House of Mouse (2001) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Grinch clicked for you, How the Grinch Stole Christmas (2000) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13313,
+      "title": "Beauty and the Beast: The Enchanted Christmas",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Beauty and the Beast: The Enchanted Christmas (1997) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 798021,
+      "title": "Family Switch",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Family Switch (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13378,
+      "title": "Mickey's Twice Upon a Christmas",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Grinch clicked for you, Mickey's Twice Upon a Christmas (2004) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1045944,
+      "title": "The Boss Baby: Christmas Bonus",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Grinch clicked for you, The Boss Baby: Christmas Bonus (2022) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Grinch?",
+      "answer": "Try Arthur Christmas, Shrek the Halls, Mickey's Once Upon a Christmas—each shares DNA with The Grinch while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Grinch?",
+      "answer": "The Grinch (2018) is best described as Family, Comedy, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Grinch worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

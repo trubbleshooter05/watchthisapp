@@ -1,0 +1,163 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9398,
+    "title": "Zoolander",
+    "slug": "zoolander",
+    "year": 2001,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Zoolander works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 19908,
+      "title": "Zombieland",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Zoolander clicked for you, Zombieland (2009) is a strong next stop: both trade in comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 350,
+      "title": "The Devil Wears Prada",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Zoolander clicked for you, The Devil Wears Prada (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2300,
+      "title": "Space Jam",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Zoolander clicked for you, Space Jam (1996) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14306,
+      "title": "Marley & Me",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Zoolander clicked for you, Marley & Me (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 492,
+      "title": "Being John Malkovich",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Zoolander clicked for you, Being John Malkovich (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12153,
+      "title": "White Chicks",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Zoolander clicked for you, White Chicks (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 262,
+      "title": "The King of Comedy",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Zoolander clicked for you, The King of Comedy (1982) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13680,
+      "title": "The Game Plan",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Zoolander clicked for you, The Game Plan (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252838,
+      "title": "The Wedding Ringer",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Zoolander clicked for you, The Wedding Ringer (2015) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11529,
+      "title": "Sweet Home Alabama",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Zoolander clicked for you, Sweet Home Alabama (2002) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Zoolander?",
+      "answer": "Try Zombieland, The Devil Wears Prada, Space Jam—each shares DNA with Zoolander while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Zoolander?",
+      "answer": "Zoolander (2001) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Zoolander part of a franchise?",
+      "answer": "Yes—it's part of the \"Zoolander Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "13-going-on-30",
+    "21-jump-street",
+    "22-jump-street",
+    "27-dresses",
+    "3-idiots",
+    "48-hrs"
+  ]
+}

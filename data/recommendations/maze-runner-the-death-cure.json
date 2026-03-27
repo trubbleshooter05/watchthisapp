@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 336843,
+    "title": "Maze Runner: The Death Cure",
+    "slug": "maze-runner-the-death-cure",
+    "year": 2018,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Maze Runner: The Death Cure (2018) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "adventure",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, Predator (1987) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, The Hunger Games: Catching Fire (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 198663,
+      "title": "The Maze Runner",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, The Maze Runner (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, Divergent (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 131634,
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, The Hunger Games: Mockingjay - Part 2 (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, Minority Report (2002) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, The Book of Eli (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Maze Runner: The Death Cure clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Maze Runner: The Death Cure?",
+      "answer": "Try Maze Runner: The Scorch Trials, Predator, The Hunger Games: Catching Fire—each shares DNA with Maze Runner: The Death Cure while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Maze Runner: The Death Cure?",
+      "answer": "Maze Runner: The Death Cure (2018) is best described as Science Fiction, Action, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Maze Runner: The Death Cure part of a franchise?",
+      "answer": "Yes—it's part of the \"The Maze Runner Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-scorch-trials",
+    "moonraker"
+  ]
+}

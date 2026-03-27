@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1369,
+    "title": "Rambo: First Blood Part II",
+    "slug": "rambo-first-blood-part-ii",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "War"
+    ],
+    "whyPeopleLoveIt": "Rambo: First Blood Part II (1985) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. George P. Cosmatos's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, First Blood (1982) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 717930,
+      "title": "Kandahar",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Kandahar (2023) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 293167,
+      "title": "Kong: Skull Island",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Kong: Skull Island (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 792,
+      "title": "Platoon",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Platoon (1986) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Escape from New York (1981) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10590,
+      "title": "We Were Soldiers",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, We Were Soldiers (2002) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9349,
+      "title": "Universal Soldier",
+      "year": 1992,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Universal Soldier (1992) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9952,
+      "title": "Rescue Dawn",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Rescue Dawn (2007) is a strong next stop: both trade in adventure and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10652,
+      "title": "Hamburger Hill",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Hamburger Hill (1987) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10616,
+      "title": "Contract Killer",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rambo: First Blood Part II clicked for you, Contract Killer (1998) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rambo: First Blood Part II?",
+      "answer": "Try First Blood, Kandahar, Kong: Skull Island—each shares DNA with Rambo: First Blood Part II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rambo: First Blood Part II?",
+      "answer": "Rambo: First Blood Part II (1985) is best described as Action, Adventure, Thriller, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rambo: First Blood Part II part of a franchise?",
+      "answer": "Yes—it's part of the \"Rambo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "first-blood",
+    "rambo-iii",
+    "the-guns-of-navarone",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300",
+    "71",
+    "a-view-to-a-kill"
+  ]
+}

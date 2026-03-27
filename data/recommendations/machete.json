@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 23631,
+    "title": "Machete",
+    "slug": "machete",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Machete (2010) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 273481,
+      "title": "Sicario",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Machete clicked for you, Sicario (2015) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 62835,
+      "title": "Colombiana",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Machete clicked for you, Colombiana (2011) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 602223,
+      "title": "The Forever Purge",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Machete clicked for you, The Forever Purge (2021) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 634528,
+      "title": "The Marksman",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Machete clicked for you, The Marksman (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2086,
+      "title": "Nick of Time",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Machete clicked for you, Nick of Time (1995) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Machete clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10735,
+      "title": "What a Girl Wants",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Machete clicked for you, What a Girl Wants (2003) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10795,
+      "title": "Tell No One",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Machete clicked for you, Tell No One (2006) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10493,
+      "title": "Dead Calm",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Machete clicked for you, Dead Calm (1989) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10464,
+      "title": "Corrina, Corrina",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Machete clicked for you, Corrina, Corrina (1994) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Machete?",
+      "answer": "Try Sicario, Colombiana, The Forever Purge—each shares DNA with Machete while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Machete?",
+      "answer": "Machete (2010) is best described as Action, Comedy, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Machete part of a franchise?",
+      "answer": "Yes—it's part of the \"Machete Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "6-underground",
+    "bad-boys",
+    "bullet-train",
+    "heads-of-state",
+    "money-talks",
+    "mr-mrs-smith",
+    "novocaine"
+  ]
+}

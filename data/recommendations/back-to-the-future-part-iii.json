@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 196,
+    "title": "Back to the Future Part III",
+    "slug": "back-to-the-future-part-iii",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Back to the Future Part III works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Back to the Future (1985) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 165,
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Back to the Future Part II (1989) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 696806,
+      "title": "The Adam Project",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, The Adam Project (2022) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 920,
+      "title": "Cars",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Cars (2006) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 158852,
+      "title": "Tomorrowland",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Tomorrowland (2015) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "family",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 44896,
+      "title": "Rango",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Rango (2011) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "western"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 428078,
+      "title": "Mortal Engines",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Mortal Engines (2018) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6978,
+      "title": "Big Trouble in Little China",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Big Trouble in Little China (1986) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "action",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3604,
+      "title": "Flash Gordon",
+      "year": 1980,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Back to the Future Part III clicked for you, Flash Gordon (1980) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Back to the Future Part III?",
+      "answer": "Try Back to the Future, Back to the Future Part II, The Adam Project—each shares DNA with Back to the Future Part III while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Back to the Future Part III?",
+      "answer": "Back to the Future Part III (1990) is best described as Adventure, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Back to the Future Part III part of a franchise?",
+      "answer": "Yes—it's part of the \"Back to the Future Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "back-to-the-future",
+    "back-to-the-future-part-ii",
+    "bill-teds-excellent-adventure",
+    "elio",
+    "free-guy",
+    "honey-i-shrunk-the-kids",
+    "hoppers"
+  ]
+}

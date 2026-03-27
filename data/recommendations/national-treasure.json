@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2059,
+    "title": "National Treasure",
+    "slug": "national-treasure",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit National Treasure for the same reason it broke through in 2004: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Jon Turteltaub keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 6637,
+      "title": "National Treasure: Book of Secrets",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If National Treasure clicked for you, National Treasure: Book of Secrets (2007) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Armageddon (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399361,
+      "title": "Triple Frontier",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Triple Frontier (2019) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Live and Let Die (1973) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 85,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Raiders of the Lost Ark (1981) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 166426,
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Pirates of the Caribbean: Dead Men Tell No Tales (2017) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Indiana Jones and the Last Crusade (1989) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87,
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Indiana Jones and the Temple of Doom (1984) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If National Treasure clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after National Treasure?",
+      "answer": "Try National Treasure: Book of Secrets, Armageddon, Triple Frontier—each shares DNA with National Treasure while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is National Treasure?",
+      "answer": "National Treasure (2004) is best described as Adventure, Action, Thriller, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is National Treasure part of a franchise?",
+      "answer": "Yes—it's part of the \"National Treasure Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "national-treasure-book-of-secrets",
+    "a-perfect-getaway",
+    "a-view-to-a-kill",
+    "allegiant",
+    "along-came-a-spider",
+    "along-with-the-gods-the-two-worlds",
+    "anna"
+  ]
+}

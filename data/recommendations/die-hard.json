@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 562,
+    "title": "Die Hard",
+    "slug": "die-hard",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Die Hard for the same reason it broke through in 1988: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. John McTiernan keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Die Hard clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Predator (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 615457,
+      "title": "Nobody",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Nobody (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39514,
+      "title": "RED",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Die Hard clicked for you, RED (2010) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 941,
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Lethal Weapon (1987) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 82682,
+      "title": "Gangster Squad",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Gangster Squad (2013) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 395990,
+      "title": "Death Wish",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Death Wish (2018) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 104,
+      "title": "Run Lola Run",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Run Lola Run (1998) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Die Hard?",
+      "answer": "Try The Terminator, Minority Report, Predator—each shares DNA with Die Hard while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Die Hard?",
+      "answer": "Die Hard (1988) is best described as Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Die Hard part of a franchise?",
+      "answer": "Yes—it's part of the \"Die Hard Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "6-underground",
+    "71",
+    "a-view-to-a-kill",
+    "a-working-man",
+    "air-force-one",
+    "aliens"
+  ]
+}

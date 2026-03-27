@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 615656,
+    "title": "Meg 2: The Trench",
+    "slug": "meg-2-the-trench",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Meg 2: The Trench works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 345940,
+      "title": "The Meg",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, The Meg (2018) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 443791,
+      "title": "Underwater",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Underwater (2020) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Megaboa (2021) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 68726,
+      "title": "Pacific Rim",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Pacific Rim (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 124905,
+      "title": "Godzilla",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Godzilla (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31967,
+      "title": "Dante's Inferno: An Animated Epic",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Dante's Inferno: An Animated Epic (2010) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "adventure",
+        "animation"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10643,
+      "title": "Godzilla 2000: Millennium",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, Godzilla 2000: Millennium (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10590,
+      "title": "We Were Soldiers",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, We Were Soldiers (2002) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10651,
+      "title": "The Dead Pool",
+      "year": 1988,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Meg 2: The Trench clicked for you, The Dead Pool (1988) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Meg 2: The Trench?",
+      "answer": "Try The Meg, Underwater, Megaboa—each shares DNA with Meg 2: The Trench while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Meg 2: The Trench?",
+      "answer": "Meg 2: The Trench (2023) is best described as Action, Science Fiction, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Meg 2: The Trench part of a franchise?",
+      "answer": "Yes—it's part of the \"The Meg Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alien-resurrection",
+    "alive",
+    "attack-on-titan",
+    "godzilla-minus-one",
+    "resident-evil",
+    "resident-evil-damnation",
+    "resident-evil-death-island"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 500,
+    "title": "Reservoir Dogs",
+    "slug": "reservoir-dogs",
+    "year": 1992,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Reservoir Dogs works as a crime movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The crime and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "thriller",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 680,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Pulp Fiction (1994) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 401469,
+      "title": "Widows",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Widows (2018) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 68727,
+      "title": "Trance",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Trance (2013) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10559,
+      "title": "Frequency",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Frequency (2000) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7972,
+      "title": "Before the Devil Knows You're Dead",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Before the Devil Knows You're Dead (2007) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10633,
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, In the Heat of the Night (1967) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10651,
+      "title": "The Dead Pool",
+      "year": 1988,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, The Dead Pool (1988) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10536,
+      "title": "The Italian Job",
+      "year": 1969,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, The Italian Job (1969) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 604685,
+      "title": "Den of Thieves 2: Pantera",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Den of Thieves 2: Pantera (2025) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10540,
+      "title": "Outland",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Reservoir Dogs clicked for you, Outland (1981) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "science-fiction",
+        "action",
+        "western"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Reservoir Dogs?",
+      "answer": "Try Pulp Fiction, Widows, Trance—each shares DNA with Reservoir Dogs while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Reservoir Dogs?",
+      "answer": "Reservoir Dogs (1992) is best described as Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Reservoir Dogs worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this crime lane."
+    }
+  ],
+  "relatedPages": [
+    "8mm",
+    "a-history-of-violence",
+    "a-walk-among-the-tombstones",
+    "a-working-man",
+    "along-came-a-spider",
+    "american-psycho",
+    "anatomy-of-a-fall"
+  ]
+}

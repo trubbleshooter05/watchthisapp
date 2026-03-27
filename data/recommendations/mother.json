@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 381283,
+    "title": "mother!",
+    "slug": "mother",
+    "year": 2017,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "mother! (2017) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Darren Aronofsky's control of tone keeps the ride coherent. The horror and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 805,
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If mother! clicked for you, Rosemary's Baby (1968) is a strong next stop: both trade in horror and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If mother! clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "thriller",
+        "mystery",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If mother! clicked for you, Gladiator (2000) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 103,
+      "title": "Taxi Driver",
+      "year": 1976,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If mother! clicked for you, Taxi Driver (1976) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 141,
+      "title": "Donnie Darko",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If mother! clicked for you, Donnie Darko (2001) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 176,
+      "title": "Saw",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If mother! clicked for you, Saw (2004) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 28,
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If mother! clicked for you, Apocalypse Now (1979) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 215,
+      "title": "Saw II",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If mother! clicked for you, Saw II (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 214,
+      "title": "Saw III",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If mother! clicked for you, Saw III (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 164,
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If mother! clicked for you, Breakfast at Tiffany's (1961) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after mother!?",
+      "answer": "Try Rosemary's Baby, Inland Empire, Gladiator—each shares DNA with mother! while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is mother!?",
+      "answer": "mother! (2017) is best described as Horror, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is mother! worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "a-quiet-place",
+    "apocalypse-z-the-beginning-of-the-end",
+    "bird-box",
+    "black-swan",
+    "candyman",
+    "frankenstein"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8587,
+    "title": "The Lion King",
+    "slug": "the-lion-king",
+    "year": 1994,
+    "genres": [
+      "Family",
+      "Animation",
+      "Drama",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "The Lion King (1994) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Roger Allers's control of tone keeps the ride coherent. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "drama",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 420818,
+      "title": "The Lion King",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Lion King (2019) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "drama",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 37135,
+      "title": "Tarzan",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lion King clicked for you, Tarzan (1999) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "drama",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in family and animation, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "drama",
+        "adventure",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 425,
+      "title": "Ice Age",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lion King clicked for you, Ice Age (2002) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lion King clicked for you, Aladdin (1992) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Croods (2013) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Jungle Book (1967) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 3170,
+      "title": "Bambi",
+      "year": 1942,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lion King clicked for you, Bambi (1942) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Lion King 1½ (2004) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 359983,
+      "title": "The Lion Guard: Return of the Roar",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lion King clicked for you, The Lion Guard: Return of the Roar (2016) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lion King?",
+      "answer": "Try The Lion King, Tarzan, The Lion King II: Simba's Pride—each shares DNA with The Lion King while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lion King?",
+      "answer": "The Lion King (1994) is best described as Family, Animation, Drama, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lion King part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lion King Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "cars-3",
+    "dinosaur",
+    "inside-out",
+    "spirit-stallion-of-the-cimarron",
+    "tarzan",
+    "the-boy-and-the-heron",
+    "the-fox-and-the-hound"
+  ]
+}

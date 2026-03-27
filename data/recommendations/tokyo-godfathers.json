@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 13398,
+    "title": "Tokyo Godfathers",
+    "slug": "tokyo-godfathers",
+    "year": 2003,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Tokyo Godfathers for the same reason it broke through in 2003: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Satoshi Kon keeps the ensemble pointed in one direction. The animation and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "drama",
+      "comedy",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1064486,
+      "title": "Memoir of a Snail",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, Memoir of a Snail (2024) is a strong next stop: both trade in animation and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21712,
+      "title": "Mind Game",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, Mind Game (2004) is a strong next stop: both trade in animation and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36865,
+      "title": "The Disappearance of Haruhi Suzumiya",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Disappearance of Haruhi Suzumiya (2010) is a strong next stop: both trade in animation and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "comedy",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 198375,
+      "title": "The Garden of Words",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Garden of Words (2013) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 149871,
+      "title": "The Tale of The Princess Kaguya",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Tale of The Princess Kaguya (2013) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 315465,
+      "title": "The Boy and the Beast",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Boy and the Beast (2015) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "action",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 450322,
+      "title": "The Man Who Invented Christmas",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Man Who Invented Christmas (2017) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "history",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10564,
+      "title": "Where the Heart Is",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, Where the Heart Is (2000) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 355547,
+      "title": "The Star",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Star (2017) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 364111,
+      "title": "The Anthem of the Heart",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tokyo Godfathers clicked for you, The Anthem of the Heart (2015) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tokyo Godfathers?",
+      "answer": "Try Memoir of a Snail, Mind Game, The Disappearance of Haruhi Suzumiya—each shares DNA with Tokyo Godfathers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tokyo Godfathers?",
+      "answer": "Tokyo Godfathers (2003) is best described as Animation, Drama, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tokyo Godfathers worth revisiting?",
+      "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "cars-3",
+    "inside-out",
+    "luca",
+    "soul",
+    "10-things-i-hate-about-you",
+    "3-idiots",
+    "500-days-of-summer"
+  ]
+}

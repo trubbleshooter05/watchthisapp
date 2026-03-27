@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 44826,
+    "title": "Hugo",
+    "slug": "hugo",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Hugo (2011) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "year": 1961,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hugo clicked for you, One Hundred and One Dalmatians (1961) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10112,
+      "title": "The Aristocats",
+      "year": 1970,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hugo clicked for you, The Aristocats (1970) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10545,
+      "title": "The Hunchback of Notre Dame",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hugo clicked for you, The Hunchback of Notre Dame (1996) is a strong next stop: both trade in drama and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hugo clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 342473,
+      "title": "Ballerina",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hugo clicked for you, Ballerina (2016) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9994,
+      "title": "The Great Mouse Detective",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hugo clicked for you, The Great Mouse Detective (1986) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 532639,
+      "title": "Pinocchio",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hugo clicked for you, Pinocchio (2022) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hugo clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 257,
+      "title": "Oliver Twist",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hugo clicked for you, Oliver Twist (2005) is a strong next stop: both trade in drama and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 297270,
+      "title": "Tinker Bell and the Legend of the NeverBeast",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hugo clicked for you, Tinker Bell and the Legend of the NeverBeast (2014) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hugo?",
+      "answer": "Try One Hundred and One Dalmatians, The Aristocats, The Hunchback of Notre Dame—each shares DNA with Hugo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hugo?",
+      "answer": "Hugo (2011) is best described as Adventure, Drama, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hugo worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "bridge-to-terabithia",
+    "cars-3",
+    "dinosaur",
+    "inside-out",
+    "miss-peregrines-home-for-peculiar-children",
+    "paulie",
+    "spirit-stallion-of-the-cimarron"
+  ]
+}

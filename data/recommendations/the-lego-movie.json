@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 137106,
+    "title": "The Lego Movie",
+    "slug": "the-lego-movie",
+    "year": 2014,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "The Lego Movie (2014) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Phil Lord's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Onward (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Toy Story (1995) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 274862,
+      "title": "The Lego Ninjago Movie",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, The Lego Ninjago Movie (2017) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Elio (2025) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 732670,
+      "title": "LEGO Star Wars Holiday Special",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, LEGO Star Wars Holiday Special (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20352,
+      "title": "Despicable Me",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lego Movie clicked for you, Despicable Me (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lego Movie?",
+      "answer": "Try Onward, Toy Story, Big Hero 6—each shares DNA with The Lego Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lego Movie?",
+      "answer": "The Lego Movie (2014) is best described as Animation, Family, Adventure, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lego Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lego Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

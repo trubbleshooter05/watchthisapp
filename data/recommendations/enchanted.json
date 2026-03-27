@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4523,
+    "title": "Enchanted",
+    "slug": "enchanted",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Enchanted works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "fantasy",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Shrek 2 (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Charming (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 321612,
+      "title": "Beauty and the Beast",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Beauty and the Beast (2017) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Maleficent (2014) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Cinderella (2015) is a strong next stop: both trade in family and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Cinderella (1950) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10882,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Sleeping Beauty (1959) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Stardust (2007) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16119,
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Enchanted clicked for you, Cinderella III: A Twist in Time (2007) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Enchanted?",
+      "answer": "Try Shrek 2, Charming, Beauty and the Beast—each shares DNA with Enchanted while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Enchanted?",
+      "answer": "Enchanted (2007) is best described as Comedy, Family, Fantasy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Enchanted part of a franchise?",
+      "answer": "Yes—it's part of the \"Enchanted Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "elemental",
+    "hercules",
+    "shrek-2",
+    "the-princess-bride",
+    "13-going-on-30",
+    "a-cinderella-story",
+    "a-minecraft-movie"
+  ]
+}

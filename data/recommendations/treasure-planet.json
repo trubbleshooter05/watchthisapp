@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9016,
+    "title": "Treasure Planet",
+    "slug": "treasure-planet",
+    "year": 2002,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Treasure Planet (2002) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "adventure",
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10865,
+      "title": "Atlantis: The Lost Empire",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Atlantis: The Lost Empire (2001) is a strong next stop: both trade in science fiction and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Home (2015) is a strong next stop: both trade in science fiction and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8965,
+      "title": "Atlantis: Milo's Return",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Atlantis: Milo's Return (2003) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, The Sea Beast (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Titan A.E. (2000) is a strong next stop: both trade in science fiction and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 36819,
+      "title": "Time Bandits",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Time Bandits (1981) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Moana (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, The Iron Giant (1999) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Treasure Planet clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Treasure Planet?",
+      "answer": "Try Atlantis: The Lost Empire, Home, Atlantis: Milo's Return—each shares DNA with Treasure Planet while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Treasure Planet?",
+      "answer": "Treasure Planet (2002) is best described as Science Fiction, Adventure, Animation, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Treasure Planet worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "minions-the-rise-of-gru",
+    "pok-mon-the-movie-2000",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "brave",
+    "castle-in-the-sky",
+    "e-t-the-extra-terrestrial"
+  ]
+}

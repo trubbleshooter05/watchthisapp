@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 49026,
+    "title": "The Dark Knight Rises",
+    "slug": "the-dark-knight-rises",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Dark Knight Rises works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "drama",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Batman Begins (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59,
+      "title": "A History of Violence",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, A History of Violence (2005) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1197306,
+      "title": "A Working Man",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, A Working Man (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11412,
+      "title": "The Long Kiss Goodnight",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, The Long Kiss Goodnight (1996) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Batman: Mask of the Phantasm (1993) is a strong next stop: both trade in action and crime, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "animation",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 69735,
+      "title": "Batman: Year One",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Batman: Year One (2011) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "animation"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2320,
+      "title": "Executive Decision",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Executive Decision (1996) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Defendor (2009) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24,
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Dark Knight Rises clicked for you, Kill Bill: Vol. 1 (2003) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Dark Knight Rises?",
+      "answer": "Try The Dark Knight, Batman Begins, A History of Violence—each shares DNA with The Dark Knight Rises while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Dark Knight Rises?",
+      "answer": "The Dark Knight Rises (2012) is best described as Action, Crime, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Dark Knight Rises part of a franchise?",
+      "answer": "Yes—it's part of the \"The Dark Knight Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "colombiana",
+    "death-wish",
+    "double-impact",
+    "faster",
+    "felon"
+  ]
+}

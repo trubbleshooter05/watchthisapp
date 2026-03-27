@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 135397,
+    "title": "Jurassic World",
+    "slug": "jurassic-world",
+    "year": 2015,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Jurassic World (2015) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Colin Trevorrow's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 351286,
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Jurassic World: Fallen Kingdom (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 507086,
+      "title": "Jurassic World Dominion",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Jurassic World Dominion (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Jurassic World Rebirth (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 329,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Jurassic Park (1993) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 124905,
+      "title": "Godzilla",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Godzilla (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 590223,
+      "title": "Love and Monsters",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, Love and Monsters (2020) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 695721,
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jurassic World clicked for you, The Hunger Games: The Ballad of Songbirds & Snakes (2023) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jurassic World?",
+      "answer": "Try Jurassic World: Fallen Kingdom, Mad Max: Fury Road, The Lost World: Jurassic Park—each shares DNA with Jurassic World while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jurassic World?",
+      "answer": "Jurassic World (2015) is best described as Action, Adventure, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jurassic World part of a franchise?",
+      "answer": "Yes—it's part of the \"Jurassic Park Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "maze-runner-the-scorch-trials",
+    "moonraker"
+  ]
+}

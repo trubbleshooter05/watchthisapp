@@ -1,0 +1,161 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4488,
+    "title": "Friday the 13th",
+    "slug": "friday-the-13th",
+    "year": 1980,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Friday the 13th (1980) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Sean S. Cunningham's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 646385,
+      "title": "Scream",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Scream (2022) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10585,
+      "title": "Child's Play",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Child's Play (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11281,
+      "title": "Halloween II",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Halloween II (1981) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 591274,
+      "title": "Fear Street: 1978",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Fear Street: 1978 (2021) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 250574,
+      "title": "Creep",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Creep (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 470229,
+      "title": "Summer of 84",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Friday the 13th clicked for you, Summer of 84 (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Friday the 13th?",
+      "answer": "Try Scream, Scream 4, Scream—each shares DNA with Friday the 13th while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Friday the 13th?",
+      "answer": "Friday the 13th (1980) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Friday the 13th part of a franchise?",
+      "answer": "Yes—it's part of the \"Friday the 13th Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-haunted-house-2"
+  ]
+}

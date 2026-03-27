@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 19576,
+    "title": "One Piece: The Movie",
+    "slug": "one-piece-the-movie",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto One Piece: The Movie (2000) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "animation",
+      "adventure",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 647,
+      "title": "Final Fantasy VII: Advent Children",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Final Fantasy VII: Advent Children (2005) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 568012,
+      "title": "One Piece: Stampede",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, One Piece: Stampede (2019) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 374205,
+      "title": "One Piece Film: GOLD",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, One Piece Film: GOLD (2016) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 564,
+      "title": "The Mummy",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, The Mummy (1999) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 81,
+      "title": "Nausicaä of the Valley of the Wind",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, Nausicaä of the Valley of the Wind (1984) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 23446,
+      "title": "One Piece: Clockwork Island Adventure",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If One Piece: The Movie clicked for you, One Piece: Clockwork Island Adventure (2001) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after One Piece: The Movie?",
+      "answer": "Try Final Fantasy VII: Advent Children, One Piece: Stampede, One Piece Film: GOLD—each shares DNA with One Piece: The Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is One Piece: The Movie?",
+      "answer": "One Piece: The Movie (2000) is best described as Action, Animation, Adventure, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is One Piece: The Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"One Piece Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "kung-fu-panda-4",
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king",
+    "castle-in-the-sky",
+    "despicable-me-3",
+    "dog-man"
+  ]
+}

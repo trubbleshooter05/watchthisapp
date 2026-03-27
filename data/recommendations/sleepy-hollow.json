@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2668,
+    "title": "Sleepy Hollow",
+    "slug": "sleepy-hollow",
+    "year": 1999,
+    "genres": [
+      "Fantasy",
+      "Thriller",
+      "Mystery",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Sleepy Hollow (1999) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "thriller",
+      "mystery",
+      "horror",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 800815,
+      "title": "The Pale Blue Eye",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, The Pale Blue Eye (2022) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24655,
+      "title": "The Car",
+      "year": 1977,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, The Car (1977) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 346364,
+      "title": "It",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, It (2017) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, Scream (1996) is a strong next stop: both trade in mystery and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "horror",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in thriller and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 179826,
+      "title": "Odd Thomas",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, Odd Thomas (2013) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 419835,
+      "title": "Crooked House",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, Crooked House (2017) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 46528,
+      "title": "The Warrior's Way",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, The Warrior's Way (2010) is a strong next stop: both trade in fantasy and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "adventure",
+        "action",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 630392,
+      "title": "The Cursed",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, The Cursed (2021) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19971,
+      "title": "The Little Girl Who Lives Down the Lane",
+      "year": 1976,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sleepy Hollow clicked for you, The Little Girl Who Lives Down the Lane (1976) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Sleepy Hollow?",
+      "answer": "Try The Pale Blue Eye, The Car, It—each shares DNA with Sleepy Hollow while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sleepy Hollow?",
+      "answer": "Sleepy Hollow (1999) is best described as Fantasy, Thriller, Mystery, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sleepy Hollow worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "blade-ii",
+    "escape-room",
+    "exhuma",
+    "get-out",
+    "ghostland",
+    "hereditary",
+    "house-of-wax"
+  ]
+}

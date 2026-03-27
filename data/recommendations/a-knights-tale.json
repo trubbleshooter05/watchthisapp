@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9476,
+    "title": "A Knight's Tale",
+    "slug": "a-knights-tale",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Romance",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "A Knight's Tale works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "romance",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "romance",
+        "action"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Braveheart (1995) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 153,
+      "title": "Lost in Translation",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Lost in Translation (2003) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 164,
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Breakfast at Tiffany's (1961) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116,
+      "title": "Match Point",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Match Point (2005) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 617653,
+      "title": "The Last Duel",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, The Last Duel (2021) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Knight's Tale clicked for you, Highlander (1986) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Knight's Tale?",
+      "answer": "Try Crouching Tiger, Hidden Dragon, Kingdom of Heaven, Pirates of the Caribbean: The Curse of the Black Pearl—each shares DNA with A Knight's Tale while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Knight's Tale?",
+      "answer": "A Knight's Tale (2001) is best described as Adventure, Drama, Romance, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Knight's Tale worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "crouching-tiger-hidden-dragon",
+    "the-karate-kid-part-ii",
+    "along-with-the-gods-the-two-worlds",
+    "city-hunter",
+    "days-of-thunder",
+    "gladiator",
+    "gladiator-ii"
+  ]
+}

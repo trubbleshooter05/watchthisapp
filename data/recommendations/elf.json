@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10719,
+    "title": "Elf",
+    "slug": "elf",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Elf (2003) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Elf clicked for you, How the Grinch Stole Christmas (2000) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527435,
+      "title": "The Christmas Chronicles",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Elf clicked for you, The Christmas Chronicles (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11395,
+      "title": "The Santa Clause",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Elf clicked for you, The Santa Clause (1994) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 654028,
+      "title": "The Christmas Chronicles: Part Two",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Elf clicked for you, The Christmas Chronicles: Part Two (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10437,
+      "title": "The Muppet Christmas Carol",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Elf clicked for you, The Muppet Christmas Carol (1992) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "music",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 798021,
+      "title": "Family Switch",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Elf clicked for you, Family Switch (2023) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454467,
+      "title": "Noelle",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Elf clicked for you, Noelle (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10515,
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Elf clicked for you, Castle in the Sky (1986) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 51052,
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Elf clicked for you, Arthur Christmas (2011) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "drama",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10510,
+      "title": "Miracle on 34th Street",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Elf clicked for you, Miracle on 34th Street (1994) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Elf?",
+      "answer": "Try How the Grinch Stole Christmas, The Christmas Chronicles, The Santa Clause—each shares DNA with Elf while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Elf?",
+      "answer": "Elf (2003) is best described as Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Elf worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "casper",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle"
+  ]
+}

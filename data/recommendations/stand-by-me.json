@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 235,
+    "title": "Stand by Me",
+    "slug": "stand-by-me",
+    "year": 1986,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Stand by Me (1986) as a crime theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "drama",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 184,
+      "title": "Jackie Brown",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Jackie Brown (1997) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 499932,
+      "title": "The Devil All the Time",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, The Devil All the Time (2020) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 227,
+      "title": "The Outsiders",
+      "year": 1983,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, The Outsiders (1983) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 257,
+      "title": "Oliver Twist",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Oliver Twist (2005) is a strong next stop: both trade in crime and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 140,
+      "title": "Bad Education",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Bad Education (2004) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13715,
+      "title": "At Close Range",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, At Close Range (1986) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10949,
+      "title": "Oliver Twist",
+      "year": 1948,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Oliver Twist (1948) is a strong next stop: both trade in crime and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 346364,
+      "title": "It",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, It (2017) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 207,
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Dead Poets Society (1989) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 28,
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Stand by Me clicked for you, Apocalypse Now (1979) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Stand by Me?",
+      "answer": "Try Jackie Brown, The Devil All the Time, The Outsiders—each shares DNA with Stand by Me while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Stand by Me?",
+      "answer": "Stand by Me (1986) is best described as Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Stand by Me worth revisiting?",
+      "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this crime lane."
+    }
+  ],
+  "relatedPages": [
+    "21",
+    "a-brighter-summer-day",
+    "a-bronx-tale",
+    "a-history-of-violence",
+    "a-touch-of-sin",
+    "a-walk-among-the-tombstones",
+    "american-gangster"
+  ]
+}

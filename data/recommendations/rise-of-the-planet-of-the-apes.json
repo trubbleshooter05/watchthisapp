@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 61791,
+    "title": "Rise of the Planet of the Apes",
+    "slug": "rise-of-the-planet-of-the-apes",
+    "year": 2011,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Drama",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Rise of the Planet of the Apes (2011) stuck because it commits to its thriller premise without apologizing—viewers remember set pieces and momentum as much as plot. Rupert Wyatt's control of tone keeps the ride coherent. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "drama",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, Dawn of the Planet of the Apes (2014) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6950,
+      "title": "Outbreak",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, Outbreak (1995) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10447,
+      "title": "No Escape",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, No Escape (1994) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, I Am Legend (2007) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39538,
+      "title": "Contagion",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, Contagion (2011) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, The Island (2005) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 871,
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, Planet of the Apes (1968) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, Repo Men (2010) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 199575,
+      "title": "These Final Hours",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, These Final Hours (2014) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 281338,
+      "title": "War for the Planet of the Apes",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rise of the Planet of the Apes clicked for you, War for the Planet of the Apes (2017) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rise of the Planet of the Apes?",
+      "answer": "Try Dawn of the Planet of the Apes, Outbreak, No Escape—each shares DNA with Rise of the Planet of the Apes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rise of the Planet of the Apes?",
+      "answer": "Rise of the Planet of the Apes (2011) is best described as Thriller, Action, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rise of the Planet of the Apes part of a franchise?",
+      "answer": "Yes—it's part of the \"Planet of the Apes (Reboot) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "outbreak",
+    "the-omega-man",
+    "10-cloverfield-lane",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71"
+  ]
+}

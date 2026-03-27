@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 524047,
+    "title": "Greenland",
+    "slug": "greenland",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Greenland (2020) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Ric Roman Waugh's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Greenland clicked for you, Armageddon (1998) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Greenland clicked for you, War of the Worlds (2005) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 406759,
+      "title": "Moonfall",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Greenland clicked for you, Moonfall (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9619,
+      "title": "Dante's Peak",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Greenland clicked for you, Dante's Peak (1997) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10540,
+      "title": "Outland",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Greenland clicked for you, Outland (1981) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "crime",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 333371,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Greenland clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8656,
+      "title": "Deep Impact",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Greenland clicked for you, Deep Impact (1998) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10514,
+      "title": "The Andromeda Strain",
+      "year": 1971,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Greenland clicked for you, The Andromeda Strain (1971) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11954,
+      "title": "Lifeforce",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Greenland clicked for you, Lifeforce (1985) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 199575,
+      "title": "These Final Hours",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Greenland clicked for you, These Final Hours (2014) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Greenland?",
+      "answer": "Try Armageddon, War of the Worlds, Moonfall—each shares DNA with Greenland while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Greenland?",
+      "answer": "Greenland (2020) is best described as Action, Adventure, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Greenland part of a franchise?",
+      "answer": "Yes—it's part of the \"Greenland Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "maze-runner-the-scorch-trials",
+    "moonraker"
+  ]
+}

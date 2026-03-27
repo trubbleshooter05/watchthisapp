@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 552524,
+    "title": "Lilo & Stitch",
+    "slug": "lilo-stitch",
+    "year": 2025,
+    "genres": [
+      "Family",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Lilo & Stitch for the same reason it broke through in 2025: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Dean Fleischer Camp keeps the ensemble pointed in one direction. The family and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "science-fiction",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Home (2015) is a strong next stop: both trade in family and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "comedy",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20760,
+      "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Lilo & Stitch 2: Stitch Has a Glitch (2005) is a strong next stop: both trade in family and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Elio (2025) is a strong next stop: both trade in family and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in family and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21316,
+      "title": "Leroy & Stitch",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Leroy & Stitch (2006) is a strong next stop: both trade in family and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Toy Story (1995) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Men in Black (1997) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 601,
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, E.T. the Extra-Terrestrial (1982) is a strong next stop: both trade in family and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 953,
+      "title": "Madagascar",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Madagascar (2005) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 772,
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lilo & Stitch clicked for you, Home Alone 2: Lost in New York (1992) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lilo & Stitch?",
+      "answer": "Try Home, Lilo & Stitch 2: Stitch Has a Glitch, Elio—each shares DNA with Lilo & Stitch while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Lilo & Stitch?",
+      "answer": "Lilo & Stitch (2025) is best described as Family, Science Fiction, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Lilo & Stitch part of a franchise?",
+      "answer": "Yes—it's part of the \"Lilo & Stitch (Live-Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "despicable-me",
+    "despicable-me-4",
+    "elio",
+    "home",
+    "honey-i-shrunk-the-kids",
+    "hoppers",
+    "ice-age-collision-course"
+  ]
+}

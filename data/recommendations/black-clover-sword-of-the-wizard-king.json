@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 812225,
+    "title": "Black Clover: Sword of the Wizard King",
+    "slug": "black-clover-sword-of-the-wizard-king",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Black Clover: Sword of the Wizard King for the same reason it broke through in 2023: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Ayataka Tanemura keeps the ensemble pointed in one direction. The animation and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "fantasy",
+      "action",
+      "adventure",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 433422,
+      "title": "Fairy Tail: Dragon Cry",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, Fairy Tail: Dragon Cry (2017) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 989937,
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, The Seven Deadly Sins: Grudge of Edinburgh Part 1 (2022) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 81,
+      "title": "Nausicaä of the Valley of the Wind",
+      "year": 1984,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, Nausicaä of the Valley of the Wind (1984) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 125521,
+      "title": "Slayers Return",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, Slayers Return (1996) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 123,
+      "title": "The Lord of the Rings",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, The Lord of the Rings (1978) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1216221,
+      "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Black Clover: Sword of the Wizard King clicked for you, Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Black Clover: Sword of the Wizard King?",
+      "answer": "Try Fairy Tail: Dragon Cry, The Seven Deadly Sins: Grudge of Edinburgh Part 1, The Lord of the Rings: The Fellowship of the Ring—each shares DNA with Black Clover: Sword of the Wizard King while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Black Clover: Sword of the Wizard King?",
+      "answer": "Black Clover: Sword of the Wizard King (2023) is best described as Animation, Fantasy, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Black Clover: Sword of the Wizard King worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "castle-in-the-sky",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "ne-zha-2",
+    "one-piece-film-red",
+    "one-piece-film-z",
+    "one-piece-the-movie"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 281957,
+    "title": "The Revenant",
+    "slug": "the-revenant",
+    "year": 2015,
+    "genres": [
+      "Western",
+      "Drama",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "The Revenant (2015) stuck because it commits to its western premise without apologizing—viewers remember set pieces and momentum as much as plot. Alejandro González Iñárritu's control of tone keeps the ride coherent. The western and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "western",
+      "drama",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 581,
+      "title": "Dances with Wolves",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Dances with Wolves (1990) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 384680,
+      "title": "Hostiles",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Hostiles (2017) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11040,
+      "title": "Little Big Man",
+      "year": 1970,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Little Big Man (1970) is a strong next stop: both trade in western and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16608,
+      "title": "The Proposition",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Revenant clicked for you, The Proposition (2005) is a strong next stop: both trade in western and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11943,
+      "title": "Jeremiah Johnson",
+      "year": 1972,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Jeremiah Johnson (1972) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15573,
+      "title": "The Cowboys",
+      "year": 1972,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Revenant clicked for you, The Cowboys (1972) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 273248,
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Revenant clicked for you, The Hateful Eight (2015) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in drama and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 294963,
+      "title": "Bone Tomahawk",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Bone Tomahawk (2015) is a strong next stop: both trade in western and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10669,
+      "title": "Deliverance",
+      "year": 1972,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Revenant clicked for you, Deliverance (1972) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Revenant?",
+      "answer": "Try Dances with Wolves, Hostiles, Little Big Man—each shares DNA with The Revenant while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Revenant?",
+      "answer": "The Revenant (2015) is best described as Western, Drama, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Revenant worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this western lane."
+    }
+  ],
+  "relatedPages": [
+    "dances-with-wolves",
+    "hostiles",
+    "spirit-stallion-of-the-cimarron",
+    "true-grit",
+    "127-hours",
+    "a-i-artificial-intelligence",
+    "a-knights-tale"
+  ]
+}

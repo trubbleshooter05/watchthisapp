@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10192,
+    "title": "Shrek Forever After",
+    "slug": "shrek-forever-after",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Shrek Forever After (2010) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Mike Mitchell's control of tone keeps the ride coherent. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "adventure",
+      "fantasy",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Shrek (2001) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, The Monkey King (2023) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Shrek 2 (2004) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "animation",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 172385,
+      "title": "Rio 2",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Rio 2 (2014) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41216,
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Legend of the Guardians: The Owls of Ga'Hoole (2010) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, An American Tail (1986) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 27850,
+      "title": "Halloweentown",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, Halloweentown (1998) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "fantasy",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 413658,
+      "title": "The Warriors Gate",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shrek Forever After clicked for you, The Warriors Gate (2016) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "fantasy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shrek Forever After?",
+      "answer": "Try Shrek, The Monkey King, Rugrats Go Wild—each shares DNA with Shrek Forever After while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shrek Forever After?",
+      "answer": "Shrek Forever After (2010) is best described as Comedy, Adventure, Fantasy, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shrek Forever After part of a franchise?",
+      "answer": "Yes—it's part of the \"Shrek Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 162,
+    "title": "Edward Scissorhands",
+    "slug": "edward-scissorhands",
+    "year": 1990,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Edward Scissorhands (1990) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "drama",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 297,
+      "title": "Meet Joe Black",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Meet Joe Black (1998) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 428449,
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, A Ghost Story (2017) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 137321,
+      "title": "Winter's Tale",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Winter's Tale (2014) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 38,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Eternal Sunshine of the Spotless Mind (2004) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "science-fiction"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 152601,
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Her (2013) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "science-fiction"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 153,
+      "title": "Lost in Translation",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Lost in Translation (2003) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 243,
+      "title": "High Fidelity",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, High Fidelity (2000) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 110,
+      "title": "Three Colors: Red",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Three Colors: Red (1994) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 7985,
+      "title": "Penelope",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Penelope (2007) is a strong next stop: both trade in fantasy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 145,
+      "title": "Breaking the Waves",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Edward Scissorhands clicked for you, Breaking the Waves (1996) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Edward Scissorhands?",
+      "answer": "Try Meet Joe Black, A Ghost Story, Winter's Tale—each shares DNA with Edward Scissorhands while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Edward Scissorhands?",
+      "answer": "Edward Scissorhands (1990) is best described as Fantasy, Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Edward Scissorhands worth revisiting?",
+      "answer": "Viewer scores sit around 7.7/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "about-time",
+    "cinderella",
+    "city-of-angels",
+    "intimacy",
+    "meet-joe-black",
+    "rascal-does-not-dream-of-a-dreaming-girl",
+    "stranger-than-fiction"
+  ]
+}

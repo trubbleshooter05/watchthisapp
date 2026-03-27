@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 35,
+    "title": "The Simpsons Movie",
+    "slug": "the-simpsons-movie",
+    "year": 2007,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit The Simpsons Movie for the same reason it broke through in 2007: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. David Silverman keeps the ensemble pointed in one direction. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Moana (2016) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 93456,
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Despicable Me 2 (2013) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, The Croods (2013) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 295693,
+      "title": "The Boss Baby",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, The Boss Baby (2017) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, Elio (2025) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14444,
+      "title": "The Rugrats Movie",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Simpsons Movie clicked for you, The Rugrats Movie (1998) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Simpsons Movie?",
+      "answer": "Try Toy Story 3, Moana, Despicable Me 2—each shares DNA with The Simpsons Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Simpsons Movie?",
+      "answer": "The Simpsons Movie (2007) is best described as Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Simpsons Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"The Simpsons Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

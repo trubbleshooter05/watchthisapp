@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1894,
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "slug": "star-wars-episode-ii-attack-of-the-clones",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Star Wars: Episode II - Attack of the Clones (2002) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 299534,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Avengers: Endgame (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11,
+      "title": "Star Wars",
+      "year": 1977,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Wars (1977) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 140607,
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Wars: The Force Awakens (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1891,
+      "title": "The Empire Strikes Back",
+      "year": 1980,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, The Empire Strikes Back (1980) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1892,
+      "title": "Return of the Jedi",
+      "year": 1983,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Return of the Jedi (1983) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Rogue One: A Star Wars Story (2016) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1893,
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Wars: Episode I - The Phantom Menace (1999) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Wars: Episode III - Revenge of the Sith (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Star Wars: Episode II - Attack of the Clones clicked for you, Star Trek (2009) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Star Wars: Episode II - Attack of the Clones?",
+      "answer": "Try Avengers: Endgame, Star Wars, Star Wars: The Force Awakens—each shares DNA with Star Wars: Episode II - Attack of the Clones while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Star Wars: Episode II - Attack of the Clones?",
+      "answer": "Star Wars: Episode II - Attack of the Clones (2002) is best described as Adventure, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Star Wars: Episode II - Attack of the Clones part of a franchise?",
+      "answer": "Yes—it's part of the \"Star Wars Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
+  ]
+}

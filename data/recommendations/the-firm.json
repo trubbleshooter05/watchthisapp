@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 37233,
+    "title": "The Firm",
+    "slug": "the-firm",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Firm (1993) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "mystery",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 210577,
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Firm clicked for you, Gone Girl (2014) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10403,
+      "title": "The Player",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Firm clicked for you, The Player (1992) is a strong next stop: both trade in drama and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 787,
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Firm clicked for you, Mr. & Mrs. Smith (2005) is a strong next stop: both trade in drama and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4566,
+      "title": "Michael Clayton",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Firm clicked for you, Michael Clayton (2007) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 37257,
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Firm clicked for you, Witness for the Prosecution (1957) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524251,
+      "title": "I See You",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Firm clicked for you, I See You (2019) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1965,
+      "title": "A Perfect Murder",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Firm clicked for you, A Perfect Murder (1998) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11462,
+      "title": "Suspicion",
+      "year": 1941,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Firm clicked for you, Suspicion (1941) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10497,
+      "title": "Bitter Moon",
+      "year": 1992,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Firm clicked for you, Bitter Moon (1992) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1847,
+      "title": "The Long Goodbye",
+      "year": 1973,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Firm clicked for you, The Long Goodbye (1973) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Firm?",
+      "answer": "Try Gone Girl, The Player, Mr. & Mrs. Smith—each shares DNA with The Firm while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Firm?",
+      "answer": "The Firm (1993) is best described as Drama, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Firm worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "a-walk-among-the-tombstones",
+    "black-bag",
+    "blindness",
+    "chinatown",
+    "confessions",
+    "eyes-wide-shut",
+    "gone-girl"
+  ]
+}

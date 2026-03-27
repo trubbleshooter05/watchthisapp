@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 20662,
+    "title": "Robin Hood",
+    "slug": "robin-hood",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "History"
+    ],
+    "whyPeopleLoveIt": "Robin Hood (2010) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Ridley Scott's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "history",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1911,
+      "title": "The 13th Warrior",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, The 13th Warrior (1999) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11780,
+      "title": "Rob Roy",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Rob Roy (1995) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 42661,
+      "title": "The Vikings",
+      "year": 1958,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, The Vikings (1958) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Gladiator (2000) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Braveheart (1995) is a strong next stop: both trade in action and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "history",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 89,
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Indiana Jones and the Last Crusade (1989) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8367,
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Robin Hood: Prince of Thieves (1991) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 665,
+      "title": "Ben-Hur",
+      "year": 1959,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Robin Hood clicked for you, Ben-Hur (1959) is a strong next stop: both trade in adventure and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Robin Hood?",
+      "answer": "Try The 13th Warrior, Rob Roy, The Vikings—each shares DNA with Robin Hood while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Robin Hood?",
+      "answer": "Robin Hood (2010) is best described as Action, Adventure, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Robin Hood worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "hero",
+    "kingdom-of-heaven",
+    "red-cliff-ii",
+    "rurouni-kenshin-the-final",
+    "tae-guk-gi-the-brotherhood-of-war",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300"
+  ]
+}

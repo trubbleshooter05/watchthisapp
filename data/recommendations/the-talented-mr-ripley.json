@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1213,
+    "title": "The Talented Mr. Ripley",
+    "slug": "the-talented-mr-ripley",
+    "year": 1999,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "The Talented Mr. Ripley (1999) stuck because it commits to its thriller premise without apologizing—viewers remember set pieces and momentum as much as plot. Anthony Minghella's control of tone keeps the ride coherent. The thriller and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "crime",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9740,
+      "title": "Hannibal",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Hannibal (2001) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10056,
+      "title": "Killer's Kiss",
+      "year": 1955,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Killer's Kiss (1955) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 346685,
+      "title": "The Girl on the Train",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, The Girl on the Train (2016) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 945729,
+      "title": "A Haunting in Venice",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, A Haunting in Venice (2023) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1429,
+      "title": "25th Hour",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, 25th Hour (2002) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2251,
+      "title": "Unfaithful",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Unfaithful (2002) is a strong next stop: both trade in thriller and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 398818,
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Call Me by Your Name (2017) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 807356,
+      "title": "Watcher",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Watcher (2022) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11033,
+      "title": "Dressed to Kill",
+      "year": 1980,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Talented Mr. Ripley clicked for you, Dressed to Kill (1980) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Talented Mr. Ripley?",
+      "answer": "Try Hannibal, A Walk Among the Tombstones, Killer's Kiss—each shares DNA with The Talented Mr. Ripley while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Talented Mr. Ripley?",
+      "answer": "The Talented Mr. Ripley (1999) is best described as Thriller, Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Talented Mr. Ripley worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "a-history-of-violence",
+    "a-walk-among-the-tombstones",
+    "american-psycho",
+    "bound",
+    "bound-by-honor",
+    "boyka-undisputed-iv",
+    "bullet-train-explosion"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 752,
+    "title": "V for Vendetta",
+    "slug": "v-for-vendetta",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "V for Vendetta (2006) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. James McTeigue's control of tone keeps the ride coherent. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "science-fiction",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, Insurgent (2015) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7299,
+      "title": "Equilibrium",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, Equilibrium (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 865,
+      "title": "The Running Man",
+      "year": 1987,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, The Running Man (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10447,
+      "title": "No Escape",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, No Escape (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, Men in Black (1997) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 782,
+      "title": "Gattaca",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, Gattaca (1997) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9495,
+      "title": "The Crow",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If V for Vendetta clicked for you, The Crow (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after V for Vendetta?",
+      "answer": "Try The Terminator, The Matrix Revolutions, Insurgent—each shares DNA with V for Vendetta while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is V for Vendetta?",
+      "answer": "V for Vendetta (2006) is best described as Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is V for Vendetta worth revisiting?",
+      "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10228,
+    "title": "Pokémon: The First Movie",
+    "slug": "pok-mon-the-first-movie",
+    "year": 1998,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Pokémon: The First Movie (1998) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Kunihiko Yuyama's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 571891,
+      "title": "Pokémon the Movie: Mewtwo Strikes Back - Evolution",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 36897,
+      "title": "Pokémon: Mewtwo Returns",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon: Mewtwo Returns (2001) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 436931,
+      "title": "Pokémon the Movie: I Choose You!",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon the Movie: I Choose You! (2017) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39057,
+      "title": "Pokémon: Arceus and the Jewel of Life",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon: Arceus and the Jewel of Life (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 34065,
+      "title": "Pokémon: Destiny Deoxys",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Pokémon: Destiny Deoxys (2004) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon: The First Movie clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pokémon: The First Movie?",
+      "answer": "Try Pokémon the Movie: Mewtwo Strikes Back - Evolution, Pokémon: Mewtwo Returns, Pokémon the Movie: Hoopa and the Clash of Ages—each shares DNA with Pokémon: The First Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon: The First Movie?",
+      "answer": "Pokémon: The First Movie (1998) is best described as Animation, Family, Adventure, Fantasy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon: The First Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"Pokémon Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "castle-in-the-sky",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "pok-mon-the-movie-hoopa-and-the-clash-of-ages",
+    "raya-and-the-last-dragon",
+    "rise-of-the-guardians",
+    "anastasia"
+  ]
+}

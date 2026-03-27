@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 400650,
+    "title": "Mary Poppins Returns",
+    "slug": "mary-poppins-returns",
+    "year": 2018,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Mary Poppins Returns for the same reason it broke through in 2018: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Rob Marshall keeps the ensemble pointed in one direction. The fantasy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Mary Poppins (1964) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11283,
+      "title": "Nanny McPhee",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Nanny McPhee (2005) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35019,
+      "title": "Nanny McPhee and the Big Bang",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Nanny McPhee and the Big Bang (2010) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12335,
+      "title": "Bedknobs and Broomsticks",
+      "year": 1971,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Bedknobs and Broomsticks (1971) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "adventure",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 662546,
+      "title": "Godmothered",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Godmothered (2020) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Spellbound (2024) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Spirited Away (2001) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mary Poppins Returns clicked for you, Cinderella (1950) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mary Poppins Returns?",
+      "answer": "Try Mary Poppins, Nanny McPhee, Nanny McPhee and the Big Bang—each shares DNA with Mary Poppins Returns while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mary Poppins Returns?",
+      "answer": "Mary Poppins Returns (2018) is best described as Fantasy, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mary Poppins Returns part of a franchise?",
+      "answer": "Yes—it's part of the \"Mary Poppins Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "addams-family-values",
+    "babe",
+    "casper",
+    "charlie-and-the-chocolate-factory",
+    "descendants-the-rise-of-red",
+    "dolittle"
+  ]
+}

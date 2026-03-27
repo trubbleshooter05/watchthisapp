@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 87,
+    "title": "Indiana Jones and the Temple of Doom",
+    "slug": "indiana-jones-and-the-temple-of-doom",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Indiana Jones and the Temple of Doom works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 85,
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, Raiders of the Lost Ark (1981) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 166426,
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, Pirates of the Caribbean: Dead Men Tell No Tales (2017) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1734,
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, The Mummy Returns (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2059,
+      "title": "National Treasure",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, National Treasure (2004) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 335787,
+      "title": "Uncharted",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, Uncharted (2022) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 335977,
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, Indiana Jones and the Dial of Destiny (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10159,
+      "title": "The Rundown",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, The Rundown (2003) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, The Jackal (1997) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9326,
+      "title": "Romancing the Stone",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, Romancing the Stone (1984) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10303,
+      "title": "The Jewel of the Nile",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Indiana Jones and the Temple of Doom clicked for you, The Jewel of the Nile (1985) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Indiana Jones and the Temple of Doom?",
+      "answer": "Try Raiders of the Lost Ark, Pirates of the Caribbean: Dead Men Tell No Tales, The Mummy Returns—each shares DNA with Indiana Jones and the Temple of Doom while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Indiana Jones and the Temple of Doom?",
+      "answer": "Indiana Jones and the Temple of Doom (1984) is best described as Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Indiana Jones and the Temple of Doom part of a franchise?",
+      "answer": "Yes—it's part of the \"Indiana Jones Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "300",
+    "a-knights-tale",
+    "a-view-to-a-kill",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "along-with-the-gods-the-two-worlds"
+  ]
+}

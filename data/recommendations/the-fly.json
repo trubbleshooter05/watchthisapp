@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9426,
+    "title": "The Fly",
+    "slug": "the-fly",
+    "year": 1986,
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Fly (1986) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. David Cronenberg's control of tone keeps the ride coherent. The horror and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 3035,
+      "title": "Frankenstein",
+      "year": 1931,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Fly clicked for you, Frankenstein (1931) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9035,
+      "title": "Slither",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Fly clicked for you, Slither (2006) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9599,
+      "title": "The Blob",
+      "year": 1988,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Fly clicked for you, The Blob (1988) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 28942,
+      "title": "The Brood",
+      "year": 1979,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Fly clicked for you, The Brood (1979) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11815,
+      "title": "The Fly",
+      "year": 1958,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Fly clicked for you, The Fly (1958) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15762,
+      "title": "Night of the Creeps",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Fly clicked for you, Night of the Creeps (1986) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18111,
+      "title": "Bride of Re-Animator",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Fly clicked for you, Bride of Re-Animator (1990) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 696393,
+      "title": "Cold Storage",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Fly clicked for you, Cold Storage (2026) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Fly clicked for you, The Iron Giant (1999) is a strong next stop: both trade in science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10529,
+      "title": "Outlander",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Fly clicked for you, Outlander (2008) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Fly?",
+      "answer": "Try Frankenstein, Slither, The Blob—each shares DNA with The Fly while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Fly?",
+      "answer": "The Fly (1986) is best described as Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Fly part of a franchise?",
+      "answer": "Yes—it's part of the \"The Fly (1986) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-quiet-place"
+  ]
+}

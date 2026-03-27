@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 257445,
+    "title": "Goosebumps",
+    "slug": "goosebumps",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Goosebumps (2015) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Rob Letterman's control of tone keeps the ride coherent. The adventure and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "horror",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in adventure and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "horror",
+        "comedy",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 531219,
+      "title": "Roald Dahl's The Witches",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, Roald Dahl's The Witches (2020) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 463821,
+      "title": "The House with a Clock in Its Walls",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The House with a Clock in Its Walls (2018) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy",
+        "family",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1139829,
+      "title": "Orion and the Dark",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, Orion and the Dark (2024) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 31967,
+      "title": "Dante's Inferno: An Animated Epic",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, Dante's Inferno: An Animated Epic (2010) is a strong next stop: both trade in adventure and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "horror",
+        "action",
+        "animation"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24100,
+      "title": "The Little Vampire",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The Little Vampire (2000) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 50620,
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The Twilight Saga: Breaking Dawn - Part 2 (2012) is a strong next stop: both trade in adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10591,
+      "title": "The Girl Next Door",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The Girl Next Door (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10166,
+      "title": "The Witches",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Goosebumps clicked for you, The Witches (1990) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "family"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Goosebumps?",
+      "answer": "Try The Curse of Bridge Hollow, Roald Dahl's The Witches, The House with a Clock in Its Walls—each shares DNA with Goosebumps while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Goosebumps?",
+      "answer": "Goosebumps (2015) is best described as Adventure, Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Goosebumps part of a franchise?",
+      "answer": "Yes—it's part of the \"Goosebumps Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-haunted-house-2",
+    "a-minecraft-movie",
+    "antz",
+    "army-of-darkness",
+    "back-to-the-future",
+    "back-to-the-future-part-ii"
+  ]
+}

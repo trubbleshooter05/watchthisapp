@@ -1,0 +1,170 @@
+{
+  "sourceMovie": {
+    "tmdbId": 228967,
+    "title": "The Interview",
+    "slug": "the-interview",
+    "year": 2014,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "The Interview works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 39514,
+      "title": "RED",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Interview clicked for you, RED (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 993710,
+      "title": "Back in Action",
+      "year": 2025,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Interview clicked for you, Back in Action (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592834,
+      "title": "My Spy",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Interview clicked for you, My Spy (2020) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 897087,
+      "title": "Freelance",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Interview clicked for you, Freelance (2023) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 273481,
+      "title": "Sicario",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Interview clicked for you, Sicario (2015) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4247,
+      "title": "Scary Movie",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Interview clicked for you, Scary Movie (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 345887,
+      "title": "The Equalizer 2",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Interview clicked for you, The Equalizer 2 (2018) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Interview clicked for you, Salt (2010) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Interview clicked for you, The Transporter (2002) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 59961,
+      "title": "Safe House",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Interview clicked for you, Safe House (2012) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Interview?",
+      "answer": "Try RED, Back in Action, My Spy—each shares DNA with The Interview while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Interview?",
+      "answer": "The Interview (2014) is best described as Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Interview worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "6-underground",
+    "american-made",
+    "back-in-action",
+    "bad-boys"
+  ]
+}

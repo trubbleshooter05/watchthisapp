@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8337,
+    "title": "They Live",
+    "slug": "they-live",
+    "year": 1988,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "They Live works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 87421,
+      "title": "Riddick",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If They Live clicked for you, Riddick (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If They Live clicked for you, Predator 2 (1990) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602,
+      "title": "Independence Day",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If They Live clicked for you, Independence Day (1996) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 158015,
+      "title": "The Purge",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If They Live clicked for you, The Purge (2013) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If They Live clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 701387,
+      "title": "Bugonia",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If They Live clicked for you, Bugonia (2025) is a strong next stop: both trade in science fiction and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3604,
+      "title": "Flash Gordon",
+      "year": 1980,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If They Live clicked for you, Flash Gordon (1980) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8974,
+      "title": "The War of the Worlds",
+      "year": 1953,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If They Live clicked for you, The War of the Worlds (1953) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 688258,
+      "title": "Occupation: Rainfall",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If They Live clicked for you, Occupation: Rainfall (2020) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If They Live clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after They Live?",
+      "answer": "Try Riddick, Predator 2, Independence Day—each shares DNA with They Live while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is They Live?",
+      "answer": "They Live (1988) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is They Live worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "cloverfield",
+    "d-j-vu",
+    "dawn-of-the-planet-of-the-apes",
+    "death-race",
+    "elevation"
+  ]
+}

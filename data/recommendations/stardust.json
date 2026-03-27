@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2270,
+    "title": "Stardust",
+    "slug": "stardust",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Stardust works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "romance",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Stardust clicked for you, Maleficent (2014) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420817,
+      "title": "Aladdin",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Stardust clicked for you, Aladdin (2019) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 447277,
+      "title": "The Little Mermaid",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Stardust clicked for you, The Little Mermaid (2023) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Stardust clicked for you, Miss Peregrine's Home for Peculiar Children (2016) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Stardust clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Stardust clicked for you, Cinderella (2015) is a strong next stop: both trade in fantasy and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "family",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2454,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Stardust clicked for you, The Chronicles of Narnia: Prince Caspian (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Stardust clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10882,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Stardust clicked for you, Sleeping Beauty (1959) is a strong next stop: both trade in fantasy and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Stardust clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Stardust?",
+      "answer": "Try Maleficent, Aladdin, The Little Mermaid—each shares DNA with Stardust while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Stardust?",
+      "answer": "Stardust (2007) is best described as Adventure, Fantasy, Romance, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Stardust worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "aladdin",
+    "hercules",
+    "maleficent",
+    "the-little-mermaid",
+    "the-princess-bride",
+    "a-minecraft-movie",
+    "a-monster-calls"
+  ]
+}

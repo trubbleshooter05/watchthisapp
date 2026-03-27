@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 497582,
+    "title": "Enola Holmes",
+    "slug": "enola-holmes",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Enola Holmes (2020) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "mystery",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10528,
+      "title": "Sherlock Holmes",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Sherlock Holmes (2009) is a strong next stop: both trade in adventure and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58574,
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Sherlock Holmes: A Game of Shadows (2011) is a strong next stop: both trade in adventure and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 829280,
+      "title": "Enola Holmes 2",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Enola Holmes 2 (2022) is a strong next stop: both trade in adventure and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 62,
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, 2001: A Space Odyssey (1968) is a strong next stop: both trade in adventure and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 176,
+      "title": "Saw",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Saw (2004) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 134,
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, O Brother, Where Art Thou? (2000) is a strong next stop: both trade in adventure and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in mystery and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 379170,
+      "title": "Sherlock: The Abominable Bride",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Sherlock: The Abominable Bride (2016) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama",
+        "thriller",
+        "tv-movie"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280996,
+      "title": "Mr. Holmes",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Mr. Holmes (2015) is a strong next stop: both trade in mystery and crime, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 93,
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Enola Holmes clicked for you, Anatomy of a Murder (1959) is a strong next stop: both trade in mystery and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Enola Holmes?",
+      "answer": "Try Sherlock Holmes, Sherlock Holmes: A Game of Shadows, Enola Holmes 2—each shares DNA with Enola Holmes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Enola Holmes?",
+      "answer": "Enola Holmes (2020) is best described as Adventure, Mystery, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Enola Holmes part of a franchise?",
+      "answer": "Yes—it's part of the \"Enola Holmes Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "enola-holmes-2",
+    "nerve",
+    "sherlock-holmes",
+    "sherlock-holmes-a-game-of-shadows",
+    "2001-a-space-odyssey",
+    "8mm",
+    "a-perfect-getaway"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 296099,
+    "title": "Vacation",
+    "slug": "vacation",
+    "year": 2015,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Vacation for the same reason it broke through in 2015: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. John Francis Daley keeps the ensemble pointed in one direction. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Vacation clicked for you, Back to the Future (1985) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 165,
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Vacation clicked for you, Back to the Future Part II (1989) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Vacation clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 421,
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Vacation clicked for you, The Life Aquatic with Steve Zissou (2004) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11153,
+      "title": "National Lampoon's Vacation",
+      "year": 1983,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Vacation clicked for you, National Lampoon's Vacation (1983) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Vacation clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Vacation clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Vacation clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Vacation clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 194,
+      "title": "Amélie",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Vacation clicked for you, Amélie (2001) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Vacation?",
+      "answer": "Try Back to the Future, Back to the Future Part II, Back to the Future Part III—each shares DNA with Vacation while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Vacation?",
+      "answer": "Vacation (2015) is best described as Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Vacation worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-minecraft-movie",
+    "antz",
+    "back-to-the-future",
+    "back-to-the-future-part-ii",
+    "back-to-the-future-part-iii",
+    "barbie"
+  ]
+}

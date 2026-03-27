@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9806,
+    "title": "The Incredibles",
+    "slug": "the-incredibles",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit The Incredibles for the same reason it broke through in 2004: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Brad Bird keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "animation",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 260513,
+      "title": "Incredibles 2",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Incredibles 2 (2018) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 274862,
+      "title": "The Lego Ninjago Movie",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, The Lego Ninjago Movie (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411736,
+      "title": "Batman: Return of the Caped Crusaders",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Batman: Return of the Caped Crusaders (2016) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, An American Tail (1986) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14011,
+      "title": "Justice League: The New Frontier",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Justice League: The New Frontier (2008) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4935,
+      "title": "Howl's Moving Castle",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Howl's Moving Castle (2004) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11459,
+      "title": "Sky High",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Incredibles clicked for you, Sky High (2005) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Incredibles?",
+      "answer": "Try Big Hero 6, Incredibles 2, The Lego Ninjago Movie—each shares DNA with The Incredibles while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Incredibles?",
+      "answer": "The Incredibles (2004) is best described as Action, Adventure, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Incredibles part of a franchise?",
+      "answer": "Yes—it's part of the \"The Incredibles Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "castle-in-the-sky",
+    "despicable-me-3",
+    "dog-man",
+    "how-to-train-your-dragon-2",
+    "incredibles-2",
+    "kung-fu-panda-3"
+  ]
+}

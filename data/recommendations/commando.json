@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10999,
+    "title": "Commando",
+    "slug": "commando",
+    "year": 1985,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Commando works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 415842,
+      "title": "American Assassin",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Commando clicked for you, American Assassin (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Commando clicked for you, The Jackal (1997) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Commando clicked for you, Beast (2022) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11358,
+      "title": "Walking Tall",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Commando clicked for you, Walking Tall (2004) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Commando clicked for you, The Transporter (2002) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 697843,
+      "title": "Extraction 2",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Commando clicked for you, Extraction 2 (2023) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3595,
+      "title": "Ransom",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Commando clicked for you, Ransom (1996) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4349,
+      "title": "The Kingdom",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Commando clicked for you, The Kingdom (2007) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4105,
+      "title": "Black Rain",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Commando clicked for you, Black Rain (1989) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 574060,
+      "title": "Gunpowder Milkshake",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Commando clicked for you, Gunpowder Milkshake (2021) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Commando?",
+      "answer": "Try American Assassin, The Jackal, Beast—each shares DNA with Commando while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Commando?",
+      "answer": "Commando (1985) is best described as Action, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Commando part of a franchise?",
+      "answer": "Yes—it's part of the \"Commando Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

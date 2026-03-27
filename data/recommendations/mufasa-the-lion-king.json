@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 762509,
+    "title": "Mufasa: The Lion King",
+    "slug": "mufasa-the-lion-king",
+    "year": 2024,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Mufasa: The Lion King (2024) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "family",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8587,
+      "title": "The Lion King",
+      "year": 1994,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Lion King (1994) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, Moana (2016) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420818,
+      "title": "The Lion King",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Lion King (2019) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, Pocahontas (1995) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in adventure and family, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10501,
+      "title": "The Road to El Dorado",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Road to El Dorado (2000) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 172385,
+      "title": "Rio 2",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, Rio 2 (2014) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Lion King 1½ (2004) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454640,
+      "title": "The Angry Birds Movie 2",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mufasa: The Lion King clicked for you, The Angry Birds Movie 2 (2019) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mufasa: The Lion King?",
+      "answer": "Try The Lion King, Moana, The Lion King—each shares DNA with Mufasa: The Lion King while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mufasa: The Lion King?",
+      "answer": "Mufasa: The Lion King (2024) is best described as Adventure, Family, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mufasa: The Lion King part of a franchise?",
+      "answer": "Yes—it's part of the \"The Lion King (Reboot) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "brave"
+  ]
+}

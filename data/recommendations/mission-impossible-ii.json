@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 955,
+    "title": "Mission: Impossible II",
+    "slug": "mission-impossible-ii",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Mission: Impossible II for the same reason it broke through in 2000: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. John Woo keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 37724,
+      "title": "Skyfall",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Skyfall (2012) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 206647,
+      "title": "Spectre",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Spectre (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 56292,
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Mission: Impossible - Ghost Protocol (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Mission: Impossible (1996) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 956,
+      "title": "Mission: Impossible III",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Mission: Impossible III (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290859,
+      "title": "Terminator: Dark Fate",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Terminator: Dark Fate (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 575264,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Mission: Impossible - Dead Reckoning Part One (2023) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49021,
+      "title": "Killer Elite",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Killer Elite (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Live and Let Die (1973) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mission: Impossible II clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mission: Impossible II?",
+      "answer": "Try Skyfall, Spectre, Mission: Impossible - Ghost Protocol—each shares DNA with Mission: Impossible II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mission: Impossible II?",
+      "answer": "Mission: Impossible II (2000) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mission: Impossible II part of a franchise?",
+      "answer": "Yes—it's part of the \"Mission: Impossible Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-two-worlds",
+    "anna",
+    "armageddon",
+    "assassins",
+    "beast",
+    "casino-royale"
+  ]
+}

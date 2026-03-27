@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 295830,
+    "title": "Attack on Titan",
+    "slug": "attack-on-titan",
+    "year": 2015,
+    "genres": [
+      "Horror",
+      "Action",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Attack on Titan for the same reason it broke through in 2015: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Shinji Higuchi keeps the ensemble pointed in one direction. The horror and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "action",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 56832,
+      "title": "Gantz",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Gantz (2010) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 282069,
+      "title": "Parasyte: Part 1",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Parasyte: Part 1 (2014) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18289,
+      "title": "Godzilla vs. Biollante",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Godzilla vs. Biollante (1989) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Rampage (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 39102,
+      "title": "Dragon Ball Z: Lord Slug",
+      "year": 1991,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Dragon Ball Z: Lord Slug (1991) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39100,
+      "title": "Dragon Ball Z: The World's Strongest",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Dragon Ball Z: The World's Strongest (1990) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39144,
+      "title": "Dragon Ball: Curse of the Blood Rubies",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Dragon Ball: Curse of the Blood Rubies (1986) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 452970,
+      "title": "Mazinger Z: Infinity",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Mazinger Z: Infinity (2017) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39145,
+      "title": "Dragon Ball: Sleeping Princess in Devil's Castle",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Attack on Titan clicked for you, Dragon Ball: Sleeping Princess in Devil's Castle (1987) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Attack on Titan?",
+      "answer": "Try Resident Evil: Apocalypse, Gantz, Parasyte: Part 1—each shares DNA with Attack on Titan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Attack on Titan?",
+      "answer": "Attack on Titan (2015) is best described as Horror, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Attack on Titan part of a franchise?",
+      "answer": "Yes—it's part of the \"Attack on Titan (Live-Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alien-resurrection",
+    "alive",
+    "godzilla-minus-one",
+    "meg-2-the-trench",
+    "resident-evil",
+    "resident-evil-damnation",
+    "resident-evil-death-island"
+  ]
+}

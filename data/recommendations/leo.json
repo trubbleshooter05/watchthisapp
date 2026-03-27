@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1075794,
+    "title": "Leo",
+    "slug": "leo",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Leo (2023) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Robert Marianetti's control of tone keeps the ride coherent. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 150540,
+      "title": "Inside Out",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Leo clicked for you, Inside Out (2015) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14160,
+      "title": "Up",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Leo clicked for you, Up (2009) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Leo clicked for you, Toy Story (1995) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Leo clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82703,
+      "title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Leo clicked for you, Mr. Peabody & Sherman (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774741,
+      "title": "Diary of a Wimpy Kid",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Leo clicked for you, Diary of a Wimpy Kid (2021) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Leo clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Leo clicked for you, Willy Wonka & the Chocolate Factory (1971) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19933,
+      "title": "The Brave Little Toaster",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Leo clicked for you, The Brave Little Toaster (1987) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 165,
+      "title": "Back to the Future Part II",
+      "year": 1989,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Leo clicked for you, Back to the Future Part II (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Leo?",
+      "answer": "Try Inside Out, Up, Toy Story—each shares DNA with Leo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Leo?",
+      "answer": "Leo (2023) is best described as Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Leo part of a franchise?",
+      "answer": "Yes—it's part of the \"Leo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

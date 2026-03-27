@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 294254,
+    "title": "Maze Runner: The Scorch Trials",
+    "slug": "maze-runner-the-scorch-trials",
+    "year": 2015,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Maze Runner: The Scorch Trials (2015) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, Maze Runner: The Death Cure (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 198663,
+      "title": "The Maze Runner",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, The Maze Runner (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, Divergent (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 74,
+      "title": "War of the Worlds",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, War of the Worlds (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, The Omega Man (1971) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 6479,
+      "title": "I Am Legend",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Maze Runner: The Scorch Trials clicked for you, I Am Legend (2007) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Maze Runner: The Scorch Trials?",
+      "answer": "Try Maze Runner: The Death Cure, Mad Max: Fury Road, The Maze Runner—each shares DNA with Maze Runner: The Scorch Trials while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Maze Runner: The Scorch Trials?",
+      "answer": "Maze Runner: The Scorch Trials (2015) is best described as Science Fiction, Action, Thriller, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Maze Runner: The Scorch Trials part of a franchise?",
+      "answer": "Yes—it's part of the \"The Maze Runner Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "moonraker"
+  ]
+}

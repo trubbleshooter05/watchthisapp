@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 532639,
+    "title": "Pinocchio",
+    "slug": "pinocchio",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Pinocchio (2022) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Robert Zemeckis's control of tone keeps the ride coherent. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "adventure",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12155,
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Alice in Wonderland (2010) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Maleficent (2014) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "action",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, The Jungle Book (2016) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Maleficent: Mistress of Evil (2019) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 329996,
+      "title": "Dumbo",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Dumbo (2019) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Christopher Robin (2018) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Peter Pan (2003) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 294272,
+      "title": "Pete's Dragon",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Pete's Dragon (2016) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pinocchio clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pinocchio?",
+      "answer": "Try Alice in Wonderland, Maleficent, The Jungle Book—each shares DNA with Pinocchio while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pinocchio?",
+      "answer": "Pinocchio (2022) is best described as Fantasy, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pinocchio worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass",
+    "anastasia",
+    "brave"
+  ]
+}

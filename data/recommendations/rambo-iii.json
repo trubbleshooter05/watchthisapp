@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1370,
+    "title": "Rambo III",
+    "slug": "rambo-iii",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "War"
+    ],
+    "whyPeopleLoveIt": "Rambo III (1988) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Peter MacDonald's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 682,
+      "title": "The Man with the Golden Gun",
+      "year": 1974,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rambo III clicked for you, The Man with the Golden Gun (1974) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 708,
+      "title": "The Living Daylights",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rambo III clicked for you, The Living Daylights (1987) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11358,
+      "title": "Walking Tall",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Walking Tall (2004) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 775996,
+      "title": "Outside the Wire",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Outside the Wire (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10413,
+      "title": "Nowhere to Run",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Nowhere to Run (1993) is a strong next stop: both trade in action and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9103,
+      "title": "The Quest",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rambo III clicked for you, The Quest (1996) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rambo III clicked for you, The Killer (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rambo III clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rambo III?",
+      "answer": "Try Rambo: First Blood Part II, The Man with the Golden Gun, Star Trek II: The Wrath of Khan—each shares DNA with Rambo III while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rambo III?",
+      "answer": "Rambo III (1988) is best described as Action, Adventure, Thriller, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rambo III part of a franchise?",
+      "answer": "Yes—it's part of the \"Rambo Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "first-blood",
+    "rambo-first-blood-part-ii",
+    "the-guns-of-navarone",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300",
+    "71",
+    "a-view-to-a-kill"
+  ]
+}

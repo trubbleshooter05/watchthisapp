@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1022796,
+    "title": "Wish",
+    "slug": "wish",
+    "year": 2023,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Wish (2023) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 109445,
+      "title": "Frozen",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wish clicked for you, Frozen (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wish clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12092,
+      "title": "Alice in Wonderland",
+      "year": 1951,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wish clicked for you, Alice in Wonderland (1951) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wish clicked for you, Anastasia (1997) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 460793,
+      "title": "Olaf's Frozen Adventure",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wish clicked for you, Olaf's Frozen Adventure (2017) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 75258,
+      "title": "Secret of the Wings",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wish clicked for you, Secret of the Wings (2012) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wish clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wish clicked for you, The House of Magic (2013) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 38757,
+      "title": "Tangled",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wish clicked for you, Tangled (2010) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wish clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wish?",
+      "answer": "Try Frozen, Aladdin, Alice in Wonderland—each shares DNA with Wish while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wish?",
+      "answer": "Wish (2023) is best described as Animation, Family, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wish worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "brave",
+    "castle-in-the-sky",
+    "frozen",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 447277,
+    "title": "The Little Mermaid",
+    "slug": "the-little-mermaid",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "The Little Mermaid works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "family",
+      "fantasy",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Maleficent (2014) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "romance",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Stardust (2007) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 321612,
+      "title": "Beauty and the Beast",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Beauty and the Beast (2017) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Cinderella (2015) is a strong next stop: both trade in family and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 420809,
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Maleficent: Mistress of Evil (2019) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Enchanted (2007) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 277217,
+      "title": "Descendants",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Descendants (2015) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "tv-movie",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14191,
+      "title": "Aquamarine",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Aquamarine (2006) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16119,
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Little Mermaid clicked for you, Cinderella III: A Twist in Time (2007) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Little Mermaid?",
+      "answer": "Try Maleficent, Stardust, Beauty and the Beast—each shares DNA with The Little Mermaid while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Little Mermaid?",
+      "answer": "The Little Mermaid (2023) is best described as Adventure, Family, Fantasy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Little Mermaid worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "aladdin",
+    "hercules",
+    "maleficent",
+    "stardust",
+    "the-princess-bride",
+    "a-minecraft-movie",
+    "a-monster-calls"
+  ]
+}

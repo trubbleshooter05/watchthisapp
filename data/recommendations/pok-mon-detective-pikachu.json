@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 447404,
+    "title": "Pokémon Detective Pikachu",
+    "slug": "pok-mon-detective-pikachu",
+    "year": 2019,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Pokémon Detective Pikachu (2019) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 353486,
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Jumanji: Welcome to the Jungle (2017) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Wendell & Wild (2022) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 58574,
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Sherlock Holmes: A Game of Shadows (2011) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 856,
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Who Framed Roger Rabbit (1988) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27581,
+      "title": "The Other Guys",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, The Other Guys (2010) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 26389,
+      "title": "From Paris with Love",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon Detective Pikachu clicked for you, From Paris with Love (2010) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pokémon Detective Pikachu?",
+      "answer": "Try Jumanji: Welcome to the Jungle, Pokémon: The Rise of Darkrai, Wendell & Wild—each shares DNA with Pokémon Detective Pikachu while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon Detective Pikachu?",
+      "answer": "Pokémon Detective Pikachu (2019) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon Detective Pikachu worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "aquaman-and-the-lost-kingdom",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

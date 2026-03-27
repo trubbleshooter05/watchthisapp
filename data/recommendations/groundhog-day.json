@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 137,
+    "title": "Groundhog Day",
+    "slug": "groundhog-day",
+    "year": 1993,
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Groundhog Day (1993) as a romance theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The romance and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "romance",
+      "fantasy",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 433310,
+      "title": "When We First Met",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, When We First Met (2018) is a strong next stop: both trade in romance and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10210,
+      "title": "A Midsummer Night's Dream",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, A Midsummer Night's Dream (1999) is a strong next stop: both trade in romance and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400155,
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, Hotel Transylvania 3: Summer Vacation (2018) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10719,
+      "title": "Elf",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, Elf (2003) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 603661,
+      "title": "The Hating Game",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, The Hating Game (2021) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10437,
+      "title": "The Muppet Christmas Carol",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, The Muppet Christmas Carol (1992) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "music",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13667,
+      "title": "Better Off Dead...",
+      "year": 1985,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, Better Off Dead... (1985) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 785457,
+      "title": "Afterlife of the Party",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, Afterlife of the Party (2021) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, Epic (2013) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 431530,
+      "title": "A Bad Moms Christmas",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Groundhog Day clicked for you, A Bad Moms Christmas (2017) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Groundhog Day?",
+      "answer": "Try When We First Met, A Midsummer Night's Dream, Hotel Transylvania 3: Summer Vacation—each shares DNA with Groundhog Day while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Groundhog Day?",
+      "answer": "Groundhog Day (1993) is best described as Romance, Fantasy, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Groundhog Day worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this romance lane."
+    }
+  ],
+  "relatedPages": [
+    "13-going-on-30",
+    "elemental",
+    "enchanted",
+    "hercules",
+    "just-like-heaven",
+    "midnight-in-paris",
+    "shrek-2"
+  ]
+}

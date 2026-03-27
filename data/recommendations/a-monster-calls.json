@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 258230,
+    "title": "A Monster Calls",
+    "slug": "a-monster-calls",
+    "year": 2016,
+    "genres": [
+      "Fantasy",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "A Monster Calls (2016) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. J. A. Bayona's control of tone keeps the ride coherent. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "adventure",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118,
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Charlie and the Chocolate Factory (2005) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1139829,
+      "title": "Orion and the Dark",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Orion and the Dark (2024) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11224,
+      "title": "Cinderella",
+      "year": 1950,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Cinderella (1950) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Monster Calls clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Monster Calls?",
+      "answer": "Try Charlie and the Chocolate Factory, The Spiderwick Chronicles, Where the Wild Things Are—each shares DNA with A Monster Calls while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Monster Calls?",
+      "answer": "A Monster Calls (2016) is best described as Fantasy, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Monster Calls worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-minecraft-movie",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass",
+    "anastasia",
+    "brave",
+    "castle-in-the-sky"
+  ]
+}

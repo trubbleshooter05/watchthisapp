@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 572802,
+    "title": "Aquaman and the Lost Kingdom",
+    "slug": "aquaman-and-the-lost-kingdom",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Aquaman and the Lost Kingdom (2023) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 297802,
+      "title": "Aquaman",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Aquaman (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 464052,
+      "title": "Wonder Woman 1984",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Wonder Woman 1984 (2020) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 426284,
+      "title": "Blade of the Immortal",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Blade of the Immortal (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 299534,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Avengers: Endgame (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 559,
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Spider-Man 3 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 505642,
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Aquaman and the Lost Kingdom clicked for you, Black Panther: Wakanda Forever (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Aquaman and the Lost Kingdom?",
+      "answer": "Try Aquaman, Wonder Woman 1984, Blade of the Immortal—each shares DNA with Aquaman and the Lost Kingdom while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Aquaman and the Lost Kingdom?",
+      "answer": "Aquaman and the Lost Kingdom (2023) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Aquaman and the Lost Kingdom part of a franchise?",
+      "answer": "Yes—it's part of the \"Aquaman Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman",
+    "avatar",
+    "big-trouble-in-little-china",
+    "black-clover-sword-of-the-wizard-king",
+    "castle-in-the-sky"
+  ]
+}
