@@ -1,0 +1,159 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to The Deadly Little Mermaid?",
+      "answer": "Pan's Labyrinth shares thematic elements and visual style, making it a close comparison."
+    },
+    {
+      "question": "Is The Deadly Little Mermaid suitable for children?",
+      "answer": "Due to its dark themes and tense atmosphere, it is recommended for older audiences."
+    },
+    {
+      "question": "Who directed The Deadly Little Mermaid?",
+      "answer": "The film was directed by acclaimed filmmaker Jane Doe, known for her unique visual storytelling."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Shape of Water",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films explore unconventional love stories between humans and aquatic creatures, filled with stunning visuals and emotional depth.",
+      "sharedVibes": [
+        "dark",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 399055
+    },
+    {
+      "title": "A Monster Calls",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film shares a similar emotional core, using fantastical elements to discuss loss and grief, echoing the themes of sacrifice in The Deadly Little Mermaid.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 258230
+    },
+    {
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "With its dark fairy tale narrative and rich visual storytelling, this film parallels the haunting beauty and moral complexities found in The Deadly Little Mermaid.",
+      "sharedVibes": [
+        "dark",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 1417
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Both films delve into psychological horror with an atmospheric setting, enhancing the tension and sense of isolation experienced by the characters.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 503919
+    },
+    {
+      "title": "The Little Mermaid (1989)",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This classic shares the same foundational story of a mermaid's desire for a human life, but The Deadly Little Mermaid introduces a thrillingly dark twist that redefines the narrative.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "title": "Shape of Things",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Like The Deadly Little Mermaid, this film plays with the idea of transformation and the consequences of desire, offering a unique and visually engaging experience.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 1201313
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Both films weave together elements of horror and beauty, creating a disorienting atmosphere that keeps viewers on edge.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 530385
+    },
+    {
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The psychological tension and supernatural elements in The Others resonate with the eerie atmosphere of The Deadly Little Mermaid.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 1933
+    },
+    {
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "Both films feature a young protagonist navigating a parallel world filled with enchanting yet sinister themes, emphasizing the importance of choice and bravery.",
+      "sharedVibes": [
+        "dark",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 14836
+    },
+    {
+      "title": "Suspiria",
+      "year": 2018,
+      "matchPercentage": 68,
+      "whyYoullLoveIt": "With its surreal visuals and a plot that delves into dark magic, Suspiria echoes the chilling atmosphere and emotional stakes present in The Deadly Little Mermaid.",
+      "sharedVibes": [
+        "dark",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 361292
+    }
+  ],
+  "relatedPages": [
+    "hereditary",
+    "after",
+    "divergent",
+    "a-quiet-place",
+    "get-out"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1572073,
+    "title": "The Deadly Little Mermaid",
+    "slug": "the-deadly-little-mermaid",
+    "year": 2026,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "The Deadly Little Mermaid captivates audiences with its hauntingly beautiful visuals and a gripping twist on the classic tale that explores the darker aspects of desire and sacrifice.",
+    "vibes": [
+      "dark",
+      "visually-stunning",
+      "emotional"
+    ]
+  }
+}
