@@ -39,6 +39,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2012100367550025"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         className={`${display.variable} ${body.variable} min-h-screen bg-[#0F0F0F] font-body text-[#FAFAFA] antialiased`}
       >
