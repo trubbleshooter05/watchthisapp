@@ -16,8 +16,11 @@ export function SiteFooter() {
           <Link href="/about" className="hover:text-amber-500">
             About
           </Link>
-          <Link href="/signup" className="hover:text-amber-500">
-            Sign up
+          <Link href="/privacy" className="hover:text-amber-500">
+            Privacy
+          </Link>
+          <Link href="/terms" className="hover:text-amber-500">
+            Terms
           </Link>
           <Link href="/sitemap.xml" className="hover:text-amber-500">
             Sitemap

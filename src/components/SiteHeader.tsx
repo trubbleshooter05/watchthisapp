@@ -2,8 +2,6 @@ import Link from "next/link";
 
 const nav = [
   { href: "/browse", label: "Browse" },
-  { href: "/quiz", label: "Quiz" },
-  { href: "/watchlist", label: "Watchlist" },
   { href: "/about", label: "About" },
 ];
 
@@ -24,12 +22,6 @@ export function SiteHeader() {
               {item.label}
             </Link>
           ))}
-          <Link
-            href="/login"
-            className="rounded-full border border-white/15 px-3 py-1 text-[#FAFAFA] hover:border-amber-500/50 hover:text-amber-500 transition-colors"
-          >
-            Log in
-          </Link>
         </nav>
       </div>
     </header>
