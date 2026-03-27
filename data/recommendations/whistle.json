@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Whistle?",
+      "answer": "The Invisible Man and Gone Girl both share similar themes of psychological tension and complex character dynamics."
+    },
+    {
+      "question": "Is Whistle a horror movie?",
+      "answer": "While Whistle contains elements of horror, it primarily focuses on psychological thriller aspects and emotional storytelling."
+    },
+    {
+      "question": "What should I expect from the ending of Whistle?",
+      "answer": "The ending of Whistle is designed to be thought-provoking and emotionally impactful, leaving audiences to reflect on the narrative long after the credits roll."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Similar to Whistle, this film delves into themes of paranoia and psychological trauma, featuring a strong female lead who confronts her fears. The tension builds masterfully, keeping viewers on the edge of their seats.",
+      "sharedVibes": [
+        "tense",
+        "emotionally-resonant"
+      ],
+      "mood": "tense",
+      "tmdbId": 570670
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films explore complex themes through unique storytelling techniques, with Whistle's intricate plot echoing Arrival's thought-provoking narrative about communication and understanding. The emotional depth in both films leaves a lasting impact.",
+      "sharedVibes": [
+        "cerebral",
+        "emotionally-resonant"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 329865
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "With its twisty plot and psychological thrills, Shutter Island mirrors Whistle's exploration of the mind and reality, leading to a shocking conclusion. Both films keep viewers guessing until the very end.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 11324
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Like Whistle, Gone Girl masterfully crafts a narrative filled with deception and complex characters, making audiences question the truth. The film's gripping tension and emotional stakes are equally compelling.",
+      "sharedVibes": [
+        "tense",
+        "emotionally-resonant"
+      ],
+      "mood": "dark",
+      "tmdbId": 210577
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Her's exploration of human connection through technology resonates with the emotional undercurrents of Whistle, creating a thoughtful dialogue on relationships. The film\u2019s aesthetic and emotional depth will appeal to fans of both stories.",
+      "sharedVibes": [
+        "cerebral",
+        "emotionally-resonant"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Midsommar's slow-burn tension and unsettling atmosphere align closely with Whistle's narrative style, both films inviting audiences to delve deeper into the human psyche. The emotional turmoil present in both stories creates a haunting experience.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 530385
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Annihilation's sci-fi elements and psychological exploration resonate with Whistle's themes, both films featuring strong visual storytelling and profound questions about identity. The unsettling atmosphere enhances the viewing experience.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 300668
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Ex Machina's examination of artificial intelligence and morality parallels the ethical dilemmas in Whistle, making for a cerebral cinematic experience. Both films challenge viewers to consider the implications of their narratives.",
+      "sharedVibes": [
+        "cerebral",
+        "emotionally-resonant"
+      ],
+      "mood": "tense",
+      "tmdbId": 264660
+    },
+    {
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "The Sixth Sense\u2019s twisty storytelling and emotional depth resonate with Whistle, as both films reveal hidden truths that dramatically alter perceptions. The strong character development in both stories enhances their impact.",
+      "sharedVibes": [
+        "tense",
+        "emotionally-resonant"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 745
+    },
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Black Swan's psychological intensity and exploration of ambition and identity echo the themes found in Whistle, creating a powerful viewing experience. Both films are visually striking and emotionally charged.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 44214
+    }
+  ],
+  "relatedPages": [
+    "knives-out",
+    "scream-7",
+    "after",
+    "war-machine",
+    "crime-101"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1193501,
+    "title": "Whistle",
+    "slug": "whistle",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Whistle captivates audiences with its intricate blend of suspense and emotional depth, exploring the duality of human nature in a gripping narrative.",
+    "vibes": [
+      "cerebral",
+      "tense",
+      "emotionally-resonant"
+    ]
+  }
+}
