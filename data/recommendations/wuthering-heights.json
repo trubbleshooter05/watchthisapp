@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Wuthering Heights?",
+      "answer": "Jane Eyre, as both share themes of passionate love and societal struggles."
+    },
+    {
+      "question": "Is Wuthering Heights a horror film?",
+      "answer": "While not a horror film in the traditional sense, it contains dark elements and psychological tension that can evoke fear."
+    },
+    {
+      "question": "What is the main theme of Wuthering Heights?",
+      "answer": "The main themes include love, revenge, and the destructive nature of obsession."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Jane Eyre",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Much like 'Wuthering Heights', this adaptation explores the complexities of love and social status through its rich character development and gothic atmosphere.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 372240
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film's intense psychological dynamics and isolated setting mirror the tumultuous relationships seen in 'Wuthering Heights'.",
+      "sharedVibes": [
+        "dark",
+        "slow-burn"
+      ],
+      "mood": "tense",
+      "tmdbId": 503919
+    },
+    {
+      "title": "The Favourite",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Both films delve into the complexities of love and power, showcasing strong, flawed characters in a visually stunning manner.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 375262
+    },
+    {
+      "title": "Pride and Prejudice",
+      "year": 2020,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The adaptation captures the tension between love and societal expectations, much like the passionate struggles in 'Wuthering Heights'.",
+      "sharedVibes": [
+        "emotional",
+        "slow-burn"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 692260
+    },
+    {
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This film's dark atmosphere and themes of loss and longing resonate with the haunting elements found in 'Wuthering Heights'.",
+      "sharedVibes": [
+        "dark",
+        "slow-burn"
+      ],
+      "mood": "tense",
+      "tmdbId": 1933
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Like 'Wuthering Heights', this film explores the devastating effects of love and miscommunication across time.",
+      "sharedVibes": [
+        "emotional",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 4347
+    },
+    {
+      "title": "The Shape of Water",
+      "year": 2017,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Both films feature unconventional love stories that challenge societal norms, wrapped in stunning visual storytelling.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 399055
+    },
+    {
+      "title": "Rebecca",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This adaptation mirrors the gothic elements and psychological intensity present in 'Wuthering Heights', with a focus on obsession and memory.",
+      "sharedVibes": [
+        "dark",
+        "slow-burn"
+      ],
+      "mood": "tense",
+      "tmdbId": 505379
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The film's exploration of grief and relationships in a visually captivating yet unsettling setting parallels the emotional landscape of 'Wuthering Heights'.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 530385
+    },
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "Both films delve into themes of obsession and control within relationships, wrapped in a gripping narrative that keeps you on edge.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 570670
+    }
+  ],
+  "relatedPages": [
+    "whiplash",
+    "inception",
+    "hereditary",
+    "the-social-network",
+    "black-swan"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1316092,
+    "title": "\"Wuthering Heights\"",
+    "slug": "wuthering-heights",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "The film beautifully captures the tempestuous romance and haunting legacy of love and revenge that defines human relationships.",
+    "vibes": [
+      "emotional",
+      "dark",
+      "slow-burn"
+    ]
+  }
+}
