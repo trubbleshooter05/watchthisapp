@@ -1,0 +1,164 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Hoppers?",
+      "answer": "Arrival and Interstellar both share thematic elements of human connection and exploration of complex realities."
+    },
+    {
+      "question": "Is Hoppers suitable for all ages?",
+      "answer": "Hoppers contains intense themes and some mature content, making it more suitable for older teens and adults."
+    },
+    {
+      "question": "What genre does Hoppers fall under?",
+      "answer": "Hoppers is primarily a sci-fi film, blending elements of drama and adventure."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films explore themes of reality versus illusion, featuring characters who must navigate a complex digital landscape. The stunning visual effects and action sequences in both movies keep viewers on the edge of their seats.",
+      "sharedVibes": [
+        "epic",
+        "cerebral"
+      ],
+      "mood": "tense",
+      "tmdbId": 624860
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Like Hoppers, Arrival delves into the intricacies of communication and connection, showcasing the emotional weight of first contact with an alien species. Its slow-burn narrative and thought-provoking themes resonate deeply.",
+      "sharedVibes": [
+        "cerebral",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 329865
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films feature grand space exploration and the emotional ties that bind us, with a focus on familial love and sacrifice. The epic scope and stunning visuals create a similar atmosphere of awe.",
+      "sharedVibes": [
+        "epic",
+        "cerebral"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 157336
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Ex Machina shares Hoppers' exploration of AI and the questions surrounding consciousness, delivering a tense atmosphere that keeps viewers questioning the morality of technology. Its minimalist approach heightens the psychological tension.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "dark",
+      "tmdbId": 264660
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films present visually-stunning dystopian worlds and grapple with questions of identity and humanity in a technologically advanced society. The atmospheric storytelling and character-driven plots create an engaging experience.",
+      "sharedVibes": [
+        "epic",
+        "cerebral"
+      ],
+      "mood": "dark",
+      "tmdbId": 335984
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Her and Hoppers both examine the nature of relationships in a digital context, focusing on emotional connections that transcend physical boundaries. The unique narrative style and introspective themes create a deeply felt experience.",
+      "sharedVibes": [
+        "cerebral",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 152601
+    },
+    {
+      "title": "The Lobster",
+      "year": 2015,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Both movies present unconventional takes on love and relationships, wrapped in a surreal and satirical narrative. The dark humor and emotional undertones resonate with audiences who enjoy thought-provoking cinema.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 254320
+    },
+    {
+      "title": "Snowpiercer",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Snowpiercer shares Hoppers' themes of survival and societal structure in a confined space, presenting a gripping narrative filled with tension and unexpected twists. Its unique setting and character dynamics will keep you engaged.",
+      "sharedVibes": [
+        "tense",
+        "epic"
+      ],
+      "mood": "dark",
+      "tmdbId": 110415
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "Both films feature strong female protagonists navigating alien environments, tackling complex themes related to identity and transformation. The visually-stunning cinematography and eerie atmosphere create a haunting experience.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 300668
+    },
+    {
+      "title": "The One",
+      "year": 2001,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The One\u2019s exploration of multiverse concepts and identity mirrors the themes in Hoppers, with intense action sequences and a focus on self-discovery. The film's blend of sci-fi and action will appeal to fans of high-concept storytelling.",
+      "sharedVibes": [
+        "epic",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 10796
+    }
+  ],
+  "relatedPages": [
+    "shelter",
+    "titanic",
+    "the-perks-of-being-a-wallflower",
+    "the-hunger-games",
+    "bodies-bodies-bodies"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1327819,
+    "title": "Hoppers",
+    "slug": "hoppers",
+    "year": 2026,
+    "genres": [
+      "Animation",
+      "Family",
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Hoppers captivates audiences with its unique blend of sci-fi adventure and profound emotional depth, exploring the complexities of human connection in a digital age.",
+    "vibes": [
+      "epic",
+      "cerebral",
+      "heartwarming"
+    ]
+  }
+}
