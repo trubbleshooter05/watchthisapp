@@ -1,0 +1,159 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Demon Slayer: Kimetsu no Yaiba Infinity Castle?",
+      "answer": "Attack on Titan: The Final Season is the most similar, sharing themes of intense battles, deep emotional stakes, and character development."
+    },
+    {
+      "question": "Is Demon Slayer: Kimetsu no Yaiba Infinity Castle worth watching?",
+      "answer": "Absolutely! Its stunning animation, compelling story, and rich character arcs make it a must-see for fans of anime."
+    },
+    {
+      "question": "Who are the main characters in Demon Slayer: Kimetsu no Yaiba Infinity Castle?",
+      "answer": "The main characters include Tanjiro Kamado, Nezuko Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, each bringing their unique strengths to the story."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Your Name",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This film weaves a poignant tale of connection across time, much like the relationships explored in Demon Slayer. Its stunning visuals and emotional depth will resonate with fans of the series.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 372058
+    },
+    {
+      "title": "Attack on Titan: The Final Season",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Similar to Demon Slayer, this series features intense battles against overwhelming odds and deep character development. The stakes are high, and the emotional weight of the story will keep you engaged.",
+      "sharedVibes": [
+        "epic",
+        "tense"
+      ],
+      "mood": "dark"
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Both films showcase breathtaking animation and a journey into captivating worlds filled with mystical beings. The themes of courage and self-discovery are beautifully portrayed in both tales.",
+      "sharedVibes": [
+        "visually-stunning",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 129
+    },
+    {
+      "title": "My Hero Academia: Two Heroes",
+      "year": 2018,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "With its focus on heroism and teamwork, this movie echoes the camaraderie found in Demon Slayer. The action-packed sequences and character development will appeal to fans looking for similar thrills.",
+      "sharedVibes": [
+        "action-packed",
+        "epic"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 505262
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "year": 2009,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This series shares themes of sacrifice, brotherhood, and the quest for redemption, paralleling Tanjiro's journey. Its emotional storytelling and thrilling action sequences will resonate with Demon Slayer fans.",
+      "sharedVibes": [
+        "epic",
+        "emotional"
+      ],
+      "mood": "tense"
+    },
+    {
+      "title": "Jujutsu Kaisen 0",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Similar to Demon Slayer, this film features powerful battles against supernatural foes and a strong emphasis on friendship and loss. Its stunning animation and character-driven plot will captivate viewers.",
+      "sharedVibes": [
+        "action-packed",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 810693
+    },
+    {
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This film's exploration of nature, conflict, and personal growth mirrors the themes found in Demon Slayer. Its rich storytelling and striking visuals make it a timeless classic.",
+      "sharedVibes": [
+        "epic",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 128
+    },
+    {
+      "title": "Sword Art Online: Ordinal Scale",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The blend of action and emotional stakes in this film will resonate with Demon Slayer fans, as both explore the bonds formed in extraordinary circumstances. The futuristic setting adds an exciting twist.",
+      "sharedVibes": [
+        "action-packed",
+        "cerebral"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 413594
+    },
+    {
+      "title": "The Girl Who Leapt Through Time",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This film combines emotional storytelling with fantastical elements, much like the journey of Tanjiro. Its exploration of time and relationships adds depth to its engaging narrative.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 14069
+    },
+    {
+      "title": "Chainsaw Man",
+      "year": 2022,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "With its intense action scenes and dark humor, this series reflects the same energy found in Demon Slayer's battles and character dynamics. Fans will appreciate its unique blend of horror and heart.",
+      "sharedVibes": [
+        "action-packed",
+        "dark"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "relatedPages": [
+    "midsommar",
+    "the-notebook",
+    "white-chicks",
+    "war-machine",
+    "get-out"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "slug": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+    "year": 2025,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Fans are drawn to 'Demon Slayer: Kimetsu no Yaiba Infinity Castle' for its breathtaking animation and deeply emotional storytelling that explores the bonds of family and sacrifice amidst relentless battles.",
+    "vibes": [
+      "epic",
+      "visually-stunning",
+      "emotional"
+    ]
+  }
+}
