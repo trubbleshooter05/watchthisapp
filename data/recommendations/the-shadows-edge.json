@@ -1,0 +1,163 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to The Shadow's Edge?",
+      "answer": "Inception and Blade Runner 2049 are both highly similar, sharing themes of reality, identity, and intricate narratives."
+    },
+    {
+      "question": "Is The Shadow's Edge a standalone film?",
+      "answer": "Yes, The Shadow's Edge is designed as a standalone narrative, though it explores themes that can resonate with other films."
+    },
+    {
+      "question": "What genre does The Shadow's Edge belong to?",
+      "answer": "The Shadow's Edge is primarily a sci-fi thriller, incorporating elements of drama and psychological exploration."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Inception",
+      "year": 2010,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films delve into the complexities of the human mind and the nature of reality, featuring layers of narrative that challenge perception. The intense emotional stakes and stunning visuals will keep you on the edge of your seat.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 27205
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Like The Shadow's Edge, this film grapples with identity and humanity in a visually-stunning dystopian setting. The slow-burn narrative allows for deep character exploration and philosophical questioning.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 335984
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films utilize a sci-fi backdrop to explore profound emotional themes and the connections between individuals. The thought-provoking storytelling will resonate with viewers who appreciate layered narratives.",
+      "sharedVibes": [
+        "cerebral",
+        "emotionally-charged"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 329865
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Similar to The Shadow's Edge, this film weaves a tale of obsession and sacrifice with unexpected twists. The intricate plot and rich character arcs will leave you questioning the nature of ambition.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "tense",
+      "tmdbId": 1124
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films explore the unknown and the human psyche, offering a visually stunning experience that challenges the viewer's understanding of reality. The themes of transformation and self-discovery are powerfully mirrored.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 300668
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This film shares thematic elements of love, sacrifice, and the vastness of the universe, paralleling the emotional journeys in The Shadow's Edge. Its epic scope and emotional depth will resonate with fans of grand storytelling.",
+      "sharedVibes": [
+        "epic",
+        "emotionally-charged"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 157336
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Both films challenge the perception of reality and explore the conflict between control and freedom in visually striking ways. The action-packed sequences and philosophical undertones will appeal to fans of thought-provoking cinema.",
+      "sharedVibes": [
+        "sci-fi",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 603
+    },
+    {
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Similar to The Shadow's Edge, this film features a neo-noir aesthetic and explores themes of memory and identity in a captivating, mysterious world. The atmospheric storytelling will draw you into its dark narrative.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "tense",
+      "tmdbId": 2666
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "This film shares emotional themes of love and loss, using a unique narrative structure that echoes the layered storytelling of The Shadow's Edge. Its introspective nature will resonate with those seeking depth.",
+      "sharedVibes": [
+        "emotionally-charged",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 38
+    },
+    {
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Both films create a haunting atmosphere filled with suspense and psychological depth, revealing the darker aspects of human nature. The twisty narratives keep viewers engaged till the very end.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 1933
+    }
+  ],
+  "relatedPages": [
+    "shelter",
+    "saltburn",
+    "shutter-island",
+    "barbie",
+    "avatar"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1419406,
+    "title": "The Shadow's Edge",
+    "slug": "the-shadows-edge",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Shadow's Edge captivates audiences with its intricate storytelling and profound character development, exploring the duality of light and darkness within us all.",
+    "vibes": [
+      "cerebral",
+      "dark",
+      "emotionally-charged"
+    ]
+  }
+}
