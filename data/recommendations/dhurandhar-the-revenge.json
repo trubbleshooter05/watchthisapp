@@ -1,0 +1,161 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Dhurandhar: The Revenge?",
+      "answer": "Vengeance Unleashed and Kill Bill: Vol. 1 share similar themes of revenge and personal transformation."
+    },
+    {
+      "question": "Is Dhurandhar: The Revenge a standalone film?",
+      "answer": "While it has connections to previous films in the series, it can be enjoyed independently due to its self-contained storyline."
+    },
+    {
+      "question": "What themes are explored in Dhurandhar: The Revenge?",
+      "answer": "The film delves into themes of betrayal, redemption, and the moral complexities of vengeance."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Vengeance Unleashed",
+      "year": 2020,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films explore the theme of revenge driven by personal loss, featuring a protagonist who evolves from a victim to a formidable avenger. The intense action sequences and deep emotional arcs mirror the gripping style of Dhurandhar.",
+      "sharedVibes": [
+        "epic",
+        "tense"
+      ],
+      "mood": "action-packed"
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Similar to Dhurandhar, this film delves into survival and vengeance, showcasing a character's relentless pursuit of justice. The stark visuals and raw performances create an immersive experience akin to the emotional depths in Dhurandhar.",
+      "sharedVibes": [
+        "epic",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 281957
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both films feature a protagonist trapped in a web of vengeance, unraveling dark secrets that lead to shocking revelations. The stylistic storytelling and intense confrontations will resonate with fans of Dhurandhar.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 670
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Like Dhurandhar, this film centers on a woman's quest for revenge, infused with unique visual storytelling and stylized action. The protagonist's journey through betrayal and vengeance mirrors the emotional core of Dhurandhar.",
+      "sharedVibes": [
+        "epic",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 24
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "This film's non-linear narrative and exploration of memory and revenge parallel the intricate storytelling found in Dhurandhar. Both films challenge viewers to piece together the protagonist's journey of vengeance.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "slow-burn",
+      "tmdbId": 77
+    },
+    {
+      "title": "Prisoners",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films highlight the moral complexities of revenge and justice, featuring characters pushed to their limits in desperate situations. The intense atmosphere and emotional performances resonate strongly with Dhurandhar's themes.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 146233
+    },
+    {
+      "title": "Zodiac",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Similar in its investigative style, both films offer a deep dive into obsession and the quest for truth, creating a tense atmosphere throughout. The intricate plot developments will appeal to fans of Dhurandhar's narrative depth.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "slow-burn",
+      "tmdbId": 1949
+    },
+    {
+      "title": "Sicario",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Both films explore the moral ambiguity of violence and revenge within a crime-ridden landscape, featuring strong character portrayals and gripping narratives. The tension and atmosphere align closely with the intensity of Dhurandhar.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 273481
+    },
+    {
+      "title": "Gone Girl",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The themes of betrayal and manipulation in both films create a gripping experience, where the quest for truth leads to unforeseen consequences. The psychological depth and suspense will resonate with viewers who enjoyed Dhurandhar.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 210577
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "With a strong focus on revenge and uncovering dark secrets, this film echoes Dhurandhar's themes of justice and personal turmoil. The complex characters and suspenseful plot will keep viewers engaged.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 65754
+    }
+  ],
+  "relatedPages": [
+    "project-hail-mary",
+    "a-quiet-place",
+    "divergent",
+    "the-shawshank-redemption",
+    "the-conjuring"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1582770,
+    "title": "Dhurandhar: The Revenge",
+    "slug": "dhurandhar-the-revenge",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Dhurandhar: The Revenge captivates audiences with its gripping narrative of betrayal and redemption, set against a backdrop of breathtaking visuals and intense emotions.",
+    "vibes": [
+      "epic",
+      "tense",
+      "dark"
+    ]
+  }
+}
