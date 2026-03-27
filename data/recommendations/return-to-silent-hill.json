@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Return to Silent Hill?",
+      "answer": "Hereditary and The Babadook both share themes of psychological horror and emotional depth with Return to Silent Hill."
+    },
+    {
+      "question": "Is Return to Silent Hill a sequel or a reboot?",
+      "answer": "Return to Silent Hill is considered a spiritual sequel to the previous films, exploring new characters and stories within the same haunting universe."
+    },
+    {
+      "question": "Will there be familiar elements from the video game in the movie?",
+      "answer": "Yes, the film is expected to incorporate iconic elements from the Silent Hill video game series, including its eerie atmosphere and psychological themes."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Witch",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films delve into the psychological unraveling of characters in a disturbing setting, with a strong emphasis on atmosphere and dread.",
+      "sharedVibes": [
+        "dark",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 310131
+    },
+    {
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Hereditary shares themes of family trauma and psychological horror, delivering an unsettling experience that lingers long after viewing.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 493922
+    },
+    {
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film explores grief and emotional breakdown in a visually stunning, yet horrifying setting, paralleling the psychological journey of Return to Silent Hill.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "dark",
+      "tmdbId": 530385
+    },
+    {
+      "title": "The Babadook",
+      "year": 2014,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Both films feature strong female leads facing their inner demons, combining psychological horror with a poignant exploration of loss.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 242224
+    },
+    {
+      "title": "It Follows",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The slow-burn tension and unique approach to horror in It Follows mirrors the unsettling atmosphere of Return to Silent Hill.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 270303
+    },
+    {
+      "title": "The Lighthouse",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The psychological unraveling and surreal visuals create a similarly haunting experience, exploring themes of isolation and madness.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 503919
+    },
+    {
+      "title": "Under the Skin",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Both films offer a haunting exploration of identity and human experience, with visually stunning cinematography that enhances their eerie atmospheres.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 97370
+    },
+    {
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This modern take on horror blends psychological tension with social commentary, creating a gripping experience akin to Return to Silent Hill.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 570670
+    },
+    {
+      "title": "The Cabin in the Woods",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "This film combines horror with self-awareness and dark humor, offering a unique twist that resonates with fans of psychological thrills.",
+      "sharedVibes": [
+        "dark",
+        "funny"
+      ],
+      "mood": "dark",
+      "tmdbId": 22970
+    },
+    {
+      "title": "A Cure for Wellness",
+      "year": 2016,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "With its surreal visuals and unsettling narrative, this film shares the eerie atmosphere of Return to Silent Hill while exploring themes of sanity.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "dark",
+      "tmdbId": 340837
+    }
+  ],
+  "relatedPages": [
+    "superbad",
+    "the-notebook",
+    "send-help",
+    "the-social-network",
+    "knives-out"
+  ],
+  "sourceMovie": {
+    "tmdbId": 680493,
+    "title": "Return to Silent Hill",
+    "slug": "return-to-silent-hill",
+    "year": 2026,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Return to Silent Hill captivates audiences with its haunting atmosphere and exploration of psychological horror intertwined with deep emotional narratives.",
+    "vibes": [
+      "cerebral",
+      "dark",
+      "tense"
+    ]
+  }
+}
