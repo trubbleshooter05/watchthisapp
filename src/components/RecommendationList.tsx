@@ -182,7 +182,7 @@ export function RecommendationList({ items }: { items: EnrichedRecommendation[] 
                   href="/signup"
                   className="inline-flex w-fit items-center rounded-full border border-amber-500/40 bg-amber-500/10 px-4 py-2 text-sm font-medium text-amber-500 hover:bg-amber-500/20 transition-colors"
                 >
-                  + Add to watchlist
+                  + Save for later
                 </Link>
               </div>
             </article>
