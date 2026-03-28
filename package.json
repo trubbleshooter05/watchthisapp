@@ -13,6 +13,7 @@
     "data:bulk-scaffold": "node scripts/bulk-scaffold-backlog.mjs",
     "data:fill-all": "node scripts/fill-all-bundles.mjs",
     "data:refine-auto": "node scripts/fill-all-bundles.mjs --refine-auto",
+    "data:fix-sequels": "node scripts/fill-all-bundles.mjs --fix-sequels",
     "data:discover": "node scripts/discover-movies.mjs",
     "data:audit-quality": "node scripts/audit-quality.mjs",
     "data:regen-recs": "node scripts/regenerate-recs.mjs",

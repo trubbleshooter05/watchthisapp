@@ -5,6 +5,7 @@
  *   node scripts/fill-all-bundles.mjs
  *   node scripts/fill-all-bundles.mjs --force        # overwrite everything (dangerous)
  *   node scripts/fill-all-bundles.mjs --refine-auto  # re-pick TMDB recs for auto-filled bundles only
+ *   node scripts/fill-all-bundles.mjs --fix-sequels  # re-fill only pages that have sequel recs
  */
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "fs";
 import path from "path";
@@ -13,6 +14,7 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const force = process.argv.includes("--force");
 const refineAuto = process.argv.includes("--refine-auto");
+const fixSequels = process.argv.includes("--fix-sequels");
 
 function loadKey() {
   const env = process.env.TMDB_API_KEY?.trim();
@@ -62,12 +64,54 @@ function isAutoTemplate(bundle) {
   return t.startsWith("If ") && t.includes(" clicked for you, ") && t.includes(" is a strong next stop:");
 }
 
-function pickTopRecommendations(merged, sourceId, sourceGenreIds) {
+/** Returns true if the bundle has any obvious sequel/franchise recommendations. */
+function hasSequelRecs(bundle) {
+  const sourceTitle = bundle.sourceMovie?.title ?? "";
+  const recs = bundle.recommendations ?? [];
+  return recs.some((r) => isSequelOrFranchise(sourceTitle, null, r.title ?? ""));
+}
+
+/**
+ * Returns true if recTitle is a sequel/franchise entry of the source movie.
+ * Uses title-prefix matching and collection-name word overlap.
+ */
+function isSequelOrFranchise(sourceTitle, collectionName, recTitle) {
+  if (!recTitle) return false;
+  const norm = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
+  const src = norm(sourceTitle);
+  const rec = norm(recTitle);
+
+  // Exact match (shouldn't happen but guard anyway)
+  if (rec === src) return true;
+
+  // Rec title starts with source title (e.g. "Back to the Future Part II")
+  if (rec.startsWith(src + " ")) return true;
+
+  // Collection-based: remove generic words then check word overlap
+  if (collectionName) {
+    const collKey = norm(collectionName)
+      .replace(/\b(collection|franchise|series|saga|universe|films?|movies?|parts?)\b/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+    const collWords = collKey.split(" ").filter((w) => w.length > 3);
+    if (collWords.length >= 2) {
+      const recWords = new Set(rec.split(" "));
+      const hits = collWords.filter((w) => recWords.has(w)).length;
+      if (hits / collWords.length >= 0.65) return true;
+    }
+  }
+
+  return false;
+}
+
+function pickTopRecommendations(merged, sourceId, sourceGenreIds, sourceTitle, collectionName) {
   const deduped = [];
   const seen = new Set();
   for (const r of merged) {
     if (!r?.id || r.id === sourceId || seen.has(r.id)) continue;
     seen.add(r.id);
+    const recTitle = r.title || r.original_title || "";
+    if (isSequelOrFranchise(sourceTitle, collectionName, recTitle)) continue;
     deduped.push(r);
   }
 
@@ -235,7 +279,12 @@ async function main() {
       skipped++;
       continue;
     }
-    if (refineAuto) {
+    if (fixSequels) {
+      if (!hasSequelRecs(bundle)) {
+        skipped++;
+        continue;
+      }
+    } else if (refineAuto) {
       if (!isAutoTemplate(bundle)) {
         skipped++;
         continue;
@@ -256,7 +305,8 @@ async function main() {
 
       const merged = [...(recData.results || []), ...(simData.results || [])];
       const sourceGenreIds = (detail.genres || []).map((g) => g.id);
-      const picked = pickTopRecommendations(merged, id, sourceGenreIds);
+      const collectionName = detail.belongs_to_collection?.name ?? null;
+      const picked = pickTopRecommendations(merged, id, sourceGenreIds, detail.title || bundle.sourceMovie.title, collectionName);
 
       const sourceGenres = (detail.genres || []).map((g) => g.name);
       const dir = directorName(detail.credits);
@@ -287,7 +337,6 @@ async function main() {
         };
       });
 
-      const collectionName = detail.belongs_to_collection?.name ?? null;
       const faq = buildFaq(
         detail.title || bundle.sourceMovie.title,
         y,
