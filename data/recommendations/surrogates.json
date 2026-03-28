@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 19959,
+    "title": "Surrogates",
+    "slug": "surrogates",
+    "year": 2009,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Surrogates (2009) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Surrogates clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59967,
+      "title": "Looper",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Looper (2012) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 500664,
+      "title": "Upgrade",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Upgrade (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Escape from New York (1981) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Resident Evil (2002) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in science fiction and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1266,
+      "title": "Street Kings",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Surrogates clicked for you, Street Kings (2008) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Surrogates?",
+      "answer": "Try The Terminator, Terminator 2: Judgment Day, Looper—each shares DNA with Surrogates while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Surrogates?",
+      "answer": "Surrogates (2009) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Surrogates worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "battleship",
+    "boss-level",
+    "captain-america-brave-new-world",
+    "cloverfield",
+    "d-j-vu"
+  ]
+}

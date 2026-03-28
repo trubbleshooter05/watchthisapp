@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 387426,
+    "title": "Okja",
+    "slug": "okja",
+    "year": 2017,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Okja for the same reason it broke through in 2017: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Bong Joon Ho keeps the ensemble pointed in one direction. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 61791,
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Okja clicked for you, Rise of the Planet of the Apes (2011) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Okja clicked for you, Dawn of the Planet of the Apes (2014) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Okja clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 339967,
+      "title": "Colossal",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Okja clicked for you, Colossal (2017) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Okja clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Okja clicked for you, Strange World (2022) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Okja clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4922,
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Okja clicked for you, The Curious Case of Benjamin Button (2008) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Okja clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7191,
+      "title": "Cloverfield",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Okja clicked for you, Cloverfield (2008) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Okja?",
+      "answer": "Try Rise of the Planet of the Apes, Dawn of the Planet of the Apes, Monsters vs Aliens—each shares DNA with Okja while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Okja?",
+      "answer": "Okja (2017) is best described as Adventure, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Okja worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-i-artificial-intelligence",
+    "finch",
+    "gemini-man",
+    "planet-of-the-apes",
+    "spaceman",
+    "the-animal-kingdom",
+    "the-great-flood"
+  ]
+}

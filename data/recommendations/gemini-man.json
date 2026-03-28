@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 453405,
+    "title": "Gemini Man",
+    "slug": "gemini-man",
+    "year": 2019,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit Gemini Man for the same reason it broke through in 2019: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Ang Lee keeps the ensemble pointed in one direction. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "adventure",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 682,
+      "title": "The Man with the Golden Gun",
+      "year": 1974,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, The Man with the Golden Gun (1974) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 976720,
+      "title": "Vesper",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Vesper (2022) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1948,
+      "title": "Crank",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Crank (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2110,
+      "title": "Wasabi",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Wasabi (2001) is a strong next stop: both trade in action and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 932420,
+      "title": "Code 8 Part II",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Code 8 Part II (2024) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Megaboa (2021) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 733317,
+      "title": "Monsters of Man",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Monsters of Man (2020) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1001835,
+      "title": "Wifelike",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Wifelike (2022) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 926670,
+      "title": "Henry Danger: The Movie",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Henry Danger: The Movie (2025) is a strong next stop: both trade in science fiction and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2252,
+      "title": "Eastern Promises",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gemini Man clicked for you, Eastern Promises (2007) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gemini Man?",
+      "answer": "Try The Man with the Golden Gun, Vesper, Crank—each shares DNA with Gemini Man while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gemini Man?",
+      "answer": "Gemini Man (2019) is best described as Science Fiction, Action, Adventure, Thriller, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gemini Man worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-two-worlds",
+    "armageddon",
+    "battleship",
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "futureworld",
+    "greenland"
+  ]
+}

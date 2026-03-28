@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 14161,
+    "title": "2012",
+    "slug": "2012",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit 2012 for the same reason it broke through in 2009: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Roland Emmerich keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If 2012 clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If 2012 clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If 2012 clicked for you, Armageddon (1998) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If 2012 clicked for you, The Island (2005) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 406759,
+      "title": "Moonfall",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If 2012 clicked for you, Moonfall (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If 2012 clicked for you, 300 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20504,
+      "title": "The Book of Eli",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If 2012 clicked for you, The Book of Eli (2010) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 615656,
+      "title": "Meg 2: The Trench",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If 2012 clicked for you, Meg 2: The Trench (2023) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1381,
+      "title": "The Fountain",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If 2012 clicked for you, The Fountain (2006) is a strong next stop: both trade in adventure and science fiction, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 840464,
+      "title": "Greenland 2: Migration",
+      "year": 2026,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If 2012 clicked for you, Greenland 2: Migration (2026) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after 2012?",
+      "answer": "Try Mad Max: Fury Road, The Matrix Revolutions, Armageddon—each shares DNA with 2012 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is 2012?",
+      "answer": "2012 (2009) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is 2012 worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "65",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania"
+  ]
+}

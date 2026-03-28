@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 18239,
+    "title": "The Twilight Saga: New Moon",
+    "slug": "the-twilight-saga-new-moon",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Drama",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "The Twilight Saga: New Moon works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "drama",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 50620,
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, The Twilight Saga: Breaking Dawn - Part 2 (2012) is a strong next stop: both trade in adventure and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8966,
+      "title": "Twilight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Twilight (2008) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Stardust (2007) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "romance",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 38117,
+      "title": "Beastly",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Beastly (2011) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 18032,
+      "title": "The Secret of Moonacre",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, The Secret of Moonacre (2009) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 537915,
+      "title": "After",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, After (2019) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1587,
+      "title": "What's Eating Gilbert Grape",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, What's Eating Gilbert Grape (1993) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1391,
+      "title": "Y Tu Mamá También",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Y Tu Mamá También (2001) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Nimona (2023) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1259,
+      "title": "Notes on a Scandal",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Twilight Saga: New Moon clicked for you, Notes on a Scandal (2006) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Twilight Saga: New Moon?",
+      "answer": "Try The Twilight Saga: Breaking Dawn - Part 2, Twilight, Stardust—each shares DNA with The Twilight Saga: New Moon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Twilight Saga: New Moon?",
+      "answer": "The Twilight Saga: New Moon (2009) is best described as Adventure, Fantasy, Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Twilight Saga: New Moon part of a franchise?",
+      "answer": "Yes—it's part of the \"The Twilight Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "the-twilight-saga-breaking-dawn-part-2",
+    "the-twilight-saga-eclipse",
+    "17-again",
+    "a-big-bold-beautiful-journey",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-dogs-purpose"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 81005,
+    "title": "Jack the Giant Slayer",
+    "slug": "jack-the-giant-slayer",
+    "year": 2013,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit Jack the Giant Slayer for the same reason it broke through in 2013: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Bryan Singer keeps the ensemble pointed in one direction. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "adventure",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 763215,
+      "title": "Damsel",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, Damsel (2024) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 839033,
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, The Lord of the Rings: The War of the Rohirrim (2024) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 413658,
+      "title": "The Warriors Gate",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, The Warriors Gate (2016) is a strong next stop: both trade in fantasy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 730840,
+      "title": "Trollhunters: Rise of the Titans",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, Trollhunters: Rise of the Titans (2021) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, Rampage (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in adventure and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4538,
+      "title": "The Darjeeling Limited",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, The Darjeeling Limited (2007) is a strong next stop: both trade in adventure and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11639,
+      "title": "The Dark Crystal",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, The Dark Crystal (1982) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1241921,
+      "title": "A Big Bold Beautiful Journey",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jack the Giant Slayer clicked for you, A Big Bold Beautiful Journey (2025) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jack the Giant Slayer?",
+      "answer": "Try Damsel, The Lord of the Rings: The War of the Rohirrim, The Warriors Gate—each shares DNA with Jack the Giant Slayer while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jack the Giant Slayer?",
+      "answer": "Jack the Giant Slayer (2013) is best described as Fantasy, Action, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jack the Giant Slayer worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-two-worlds",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "naruto-shippuden-the-movie-the-will-of-fire",
+    "rurouni-kenshin-part-ii-kyoto-inferno",
+    "the-boy-and-the-beast",
+    "the-myth",
+    "13-assassins"
+  ]
+}

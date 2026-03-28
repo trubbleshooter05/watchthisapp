@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1086260,
+    "title": "The Astronaut",
+    "slug": "the-astronaut",
+    "year": 2025,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Astronaut works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "horror",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 333371,
+      "title": "10 Cloverfield Lane",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 520763,
+      "title": "A Quiet Place Part II",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, A Quiet Place Part II (2021) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 762441,
+      "title": "A Quiet Place: Day One",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, A Quiet Place: Day One (2024) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19898,
+      "title": "Pandorum",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Pandorum (2009) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 145135,
+      "title": "Dark Skies",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Dark Skies (2013) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49047,
+      "title": "Gravity",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Gravity (2013) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1091,
+      "title": "The Thing",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, The Thing (1982) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2787,
+      "title": "Pitch Black",
+      "year": 2000,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Pitch Black (2000) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 945961,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Alien: Romulus (2024) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Astronaut clicked for you, Event Horizon (1997) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Astronaut?",
+      "answer": "Try 10 Cloverfield Lane, A Quiet Place Part II, A Quiet Place: Day One—each shares DNA with The Astronaut while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Astronaut?",
+      "answer": "The Astronaut (2025) is best described as Science Fiction, Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Astronaut worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one",
+    "a-quiet-place-part-ii"
+  ]
+}

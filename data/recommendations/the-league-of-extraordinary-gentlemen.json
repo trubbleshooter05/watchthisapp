@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8698,
+    "title": "The League of Extraordinary Gentlemen",
+    "slug": "the-league-of-extraordinary-gentlemen",
+    "year": 2003,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The League of Extraordinary Gentlemen (2003) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Stephen Norrington's control of tone keeps the ride coherent. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8965,
+      "title": "Atlantis: Milo's Return",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Atlantis: Milo's Return (2003) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "science-fiction",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 30061,
+      "title": "Justice League: Crisis on Two Earths",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Justice League: Crisis on Two Earths (2010) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "science-fiction",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13253,
+      "title": "Futurama: Bender's Game",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Futurama: Bender's Game (2008) is a strong next stop: both trade in fantasy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "science-fiction",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Iron Man (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, The Matrix (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The League of Extraordinary Gentlemen clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The League of Extraordinary Gentlemen?",
+      "answer": "Try The Terminator, The Matrix Reloaded, The Matrix Revolutions—each shares DNA with The League of Extraordinary Gentlemen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The League of Extraordinary Gentlemen?",
+      "answer": "The League of Extraordinary Gentlemen (2003) is best described as Fantasy, Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The League of Extraordinary Gentlemen worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "underworld-blood-wars",
+    "alienoid",
+    "aliens",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "armageddon",
+    "battleship"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9907,
+    "title": "Barnyard",
+    "slug": "barnyard",
+    "year": 2006,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Barnyard (2006) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Barnyard clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 481084,
+      "title": "The Addams Family",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Barnyard clicked for you, The Addams Family (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Barnyard clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Barnyard clicked for you, An American Tail (1986) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10380,
+      "title": "An American Tail: Fievel Goes West",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Barnyard clicked for you, An American Tail: Fievel Goes West (1991) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "western",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9948,
+      "title": "The Fox and the Hound 2",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Barnyard clicked for you, The Fox and the Hound 2 (2006) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22582,
+      "title": "Tom and Jerry: The Movie",
+      "year": 1992,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Barnyard clicked for you, Tom and Jerry: The Movie (1992) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 892153,
+      "title": "Tom and Jerry Cowboy Up!",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Barnyard clicked for you, Tom and Jerry Cowboy Up! (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "western"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 203696,
+      "title": "Scooby-Doo! Stage Fright",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Barnyard clicked for you, Scooby-Doo! Stage Fright (2013) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 567811,
+      "title": "10 Lives",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Barnyard clicked for you, 10 Lives (2024) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Barnyard?",
+      "answer": "Try Fantastic Mr. Fox, The Addams Family, Shaun the Sheep Movie—each shares DNA with Barnyard while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Barnyard?",
+      "answer": "Barnyard (2006) is best described as Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Barnyard worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "alvin-and-the-chipmunks",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

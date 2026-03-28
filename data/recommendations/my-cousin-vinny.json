@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10377,
+    "title": "My Cousin Vinny",
+    "slug": "my-cousin-vinny",
+    "year": 1992,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto My Cousin Vinny (1992) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1574,
+      "title": "Chicago",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Chicago (2002) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8952,
+      "title": "I Love You Phillip Morris",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, I Love You Phillip Morris (2010) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "crime",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 489930,
+      "title": "Blindspotting",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Blindspotting (2018) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10860,
+      "title": "Steel Magnolias",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Steel Magnolias (1989) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "School of Rock",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, School of Rock (2003) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1493,
+      "title": "Miss Congeniality",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Miss Congeniality (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1598,
+      "title": "Cape Fear",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Cape Fear (1991) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1255,
+      "title": "The Host",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If My Cousin Vinny clicked for you, The Host (2006) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after My Cousin Vinny?",
+      "answer": "Try Chicago, I Love You Phillip Morris, Blindspotting—each shares DNA with My Cousin Vinny while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is My Cousin Vinny?",
+      "answer": "My Cousin Vinny (1992) is best described as Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is My Cousin Vinny worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "3-idiots",
+    "500-days-of-summer",
+    "53-sundays",
+    "a-dogs-purpose",
+    "a-dogs-will"
+  ]
+}

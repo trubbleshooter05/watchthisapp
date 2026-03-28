@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 395,
+    "title": "AVP: Alien vs. Predator",
+    "slug": "avp-alien-vs-predator",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "AVP: Alien vs. Predator works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "science-fiction",
+      "action",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11954,
+      "title": "Lifeforce",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Lifeforce (1985) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Megaboa (2021) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14609,
+      "title": "Ultimate Avengers: The Movie",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Ultimate Avengers: The Movie (2006) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13811,
+      "title": "Knowing",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Knowing (2009) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 34851,
+      "title": "Predators",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Predators (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 945961,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Alien: Romulus (2024) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Predator 2 (1990) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 60935,
+      "title": "The Thing",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, The Thing (2011) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 168,
+      "title": "Star Trek IV: The Voyage Home",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Star Trek IV: The Voyage Home (1986) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10529,
+      "title": "Outlander",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If AVP: Alien vs. Predator clicked for you, Outlander (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after AVP: Alien vs. Predator?",
+      "answer": "Try Lifeforce, Megaboa, Ultimate Avengers: The Movie—each shares DNA with AVP: Alien vs. Predator while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is AVP: Alien vs. Predator?",
+      "answer": "AVP: Alien vs. Predator (2004) is best described as Adventure, Science Fiction, Action, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is AVP: Alien vs. Predator part of a franchise?",
+      "answer": "Yes—it's part of the \"AVP Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "resident-evil-vendetta",
+    "underwater",
+    "vampire-hunter-d-bloodlust",
+    "2012",
+    "65",
+    "alien-resurrection",
+    "alienoid"
+  ]
+}

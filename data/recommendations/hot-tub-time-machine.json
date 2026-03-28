@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 23048,
+    "title": "Hot Tub Time Machine",
+    "slug": "hot-tub-time-machine",
+    "year": 2010,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Hot Tub Time Machine works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 696806,
+      "title": "The Adam Project",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, The Adam Project (2022) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Bill & Ted's Excellent Adventure (1989) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1649,
+      "title": "Bill & Ted's Bogus Journey",
+      "year": 1991,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Bill & Ted's Bogus Journey (1991) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 587792,
+      "title": "Palm Springs",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Palm Springs (2020) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1727,
+      "title": "Bird on a Wire",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Bird on a Wire (1990) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "action",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22494,
+      "title": "Frequently Asked Questions About Time Travel",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Frequently Asked Questions About Time Travel (2009) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 451925,
+      "title": "Time Freak",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Time Freak (2018) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 276908,
+      "title": "Comet",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hot Tub Time Machine clicked for you, Comet (2014) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hot Tub Time Machine?",
+      "answer": "Try The Adam Project, Meet the Robinsons, Bill & Ted's Excellent Adventure—each shares DNA with Hot Tub Time Machine while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hot Tub Time Machine?",
+      "answer": "Hot Tub Time Machine (2010) is best described as Science Fiction, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hot Tub Time Machine part of a franchise?",
+      "answer": "Yes—it's part of the \"Hot Tub Time Machine Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "back-to-the-future",
+    "back-to-the-future-part-ii",
+    "back-to-the-future-part-iii",
+    "bill-teds-excellent-adventure",
+    "elio",
+    "free-guy",
+    "honey-i-shrunk-the-kids"
+  ]
+}

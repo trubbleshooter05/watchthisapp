@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 817,
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "slug": "austin-powers-the-spy-who-shagged-me",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Austin Powers: The Spy Who Shagged Me works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "adventure",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 436969,
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, The Suicide Squad (2021) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation",
+        "action",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Bill & Ted's Excellent Adventure (1989) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1035259,
+      "title": "The Naked Gun",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, The Naked Gun (2025) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Iron Man (2008) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49521,
+      "title": "Man of Steel",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Man of Steel (2013) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 646380,
+      "title": "Don't Look Up",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Don't Look Up (2021) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Austin Powers: The Spy Who Shagged Me clicked for you, Armageddon (1998) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Austin Powers: The Spy Who Shagged Me?",
+      "answer": "Try The Suicide Squad, Meet the Robinsons, Spies in Disguise—each shares DNA with Austin Powers: The Spy Who Shagged Me while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Austin Powers: The Spy Who Shagged Me?",
+      "answer": "Austin Powers: The Spy Who Shagged Me (1999) is best described as Comedy, Adventure, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Austin Powers: The Spy Who Shagged Me part of a franchise?",
+      "answer": "Yes—it's part of the \"Austin Powers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "cruella",
+    "fanboys",
+    "kingsman-the-golden-circle",
+    "kingsman-the-secret-service",
+    "o-brother-where-art-thou",
+    "red",
+    "taxi"
+  ]
+}

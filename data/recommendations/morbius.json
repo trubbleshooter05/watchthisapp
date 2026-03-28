@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 526896,
+    "title": "Morbius",
+    "slug": "morbius",
+    "year": 2022,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Morbius for the same reason it broke through in 2022: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Daniel Espinosa keeps the ensemble pointed in one direction. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 246655,
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Morbius clicked for you, X-Men: Apocalypse (2016) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Morbius clicked for you, The Avengers (2012) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Morbius clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Morbius clicked for you, Black Panther (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 263115,
+      "title": "Logan",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Morbius clicked for you, Logan (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Morbius clicked for you, Captain America: The Winter Soldier (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Morbius clicked for you, Spider-Man: Into the Spider-Verse (2018) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Morbius clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Morbius clicked for you, Doctor Strange in the Multiverse of Madness (2022) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436270,
+      "title": "Black Adam",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Morbius clicked for you, Black Adam (2022) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Morbius?",
+      "answer": "Try X-Men: Apocalypse, The Avengers, Captain America: Civil War—each shares DNA with Morbius while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Morbius?",
+      "answer": "Morbius (2022) is best described as Action, Science Fiction, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Morbius worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "fantastic-four",
+    "knights-of-the-zodiac",
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "pacific-rim-uprising",
+    "small-soldiers",
+    "sword-art-online-the-movie-ordinal-scale"
+  ]
+}

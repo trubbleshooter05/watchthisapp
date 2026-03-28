@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 338762,
+    "title": "Bloodshot",
+    "slug": "bloodshot",
+    "year": 2020,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Bloodshot works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Avengers: Infinity War (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Black Panther (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 246655,
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, X-Men: Apocalypse (2016) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 75612,
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Oblivion (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436270,
+      "title": "Black Adam",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bloodshot clicked for you, Black Adam (2022) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bloodshot?",
+      "answer": "Try Avengers: Infinity War, Guardians of the Galaxy, Black Panther—each shares DNA with Bloodshot while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bloodshot?",
+      "answer": "Bloodshot (2020) is best described as Action, Science Fiction, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bloodshot worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "2012",
+    "65",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp"
+  ]
+}

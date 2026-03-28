@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9982,
+    "title": "Chicken Little",
+    "slug": "chicken-little",
+    "year": 2005,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Chicken Little (2005) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277834,
+      "title": "Moana",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Moana (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13053,
+      "title": "Bolt",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Bolt (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, The Angry Birds Movie (2016) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 227973,
+      "title": "The Peanuts Movie",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, The Peanuts Movie (2015) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, An American Tail (1986) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51162,
+      "title": "Winnie the Pooh",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Winnie the Pooh (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, Elio (2025) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15655,
+      "title": "The Tigger Movie",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Chicken Little clicked for you, The Tigger Movie (2000) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Chicken Little?",
+      "answer": "Try Moana, Bolt, The Angry Birds Movie—each shares DNA with Chicken Little while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Chicken Little?",
+      "answer": "Chicken Little (2005) is best described as Animation, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Chicken Little worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "alvin-and-the-chipmunks",
+    "barnyard",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars"
+  ]
+}

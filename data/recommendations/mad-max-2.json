@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8810,
+    "title": "Mad Max 2",
+    "slug": "mad-max-2",
+    "year": 1981,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Mad Max 2 works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9659,
+      "title": "Mad Max",
+      "year": 1979,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Mad Max (1979) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Extinction (2015) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, First Blood (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87421,
+      "title": "Riddick",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Riddick (2013) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Escape from New York (1981) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1242898,
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mad Max 2 clicked for you, Predator: Badlands (2025) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mad Max 2?",
+      "answer": "Try The Matrix Revolutions, Mad Max, Extinction—each shares DNA with Mad Max 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mad Max 2?",
+      "answer": "Mad Max 2 (1981) is best described as Adventure, Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mad Max 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Mad Max Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "battleship",
+    "futureworld",
+    "gemini-man",
+    "greenland",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom"
+  ]
+}

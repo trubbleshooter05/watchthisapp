@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 49730,
+    "title": "Red Riding Hood",
+    "slug": "red-riding-hood",
+    "year": 2011,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Horror",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Red Riding Hood works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "fantasy",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 50620,
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, The Twilight Saga: Breaking Dawn - Part 2 (2012) is a strong next stop: both trade in drama and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "romance",
+        "adventure"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 41233,
+      "title": "Step Up 3D",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Step Up 3D (2010) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1242011,
+      "title": "Together",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Together (2025) is a strong next stop: both trade in horror and romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13666,
+      "title": "The Wolf Man",
+      "year": 1941,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, The Wolf Man (1941) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 599521,
+      "title": "Z-O-M-B-I-E-S 2",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Z-O-M-B-I-E-S 2 (2020) is a strong next stop: both trade in fantasy and romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "tv-movie"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13665,
+      "title": "Arthur",
+      "year": 1981,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Arthur (1981) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11229,
+      "title": "Freeway",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Freeway (1996) is a strong next stop: both trade in thriller and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Christopher Robin (2018) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10982,
+      "title": "Hoodwinked!",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Red Riding Hood clicked for you, Hoodwinked! (2005) is a strong next stop: both trade in mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "animation",
+        "comedy",
+        "family",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Red Riding Hood?",
+      "answer": "Try The Twilight Saga: Breaking Dawn - Part 2, Step Up 3D, Together—each shares DNA with Red Riding Hood while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Red Riding Hood?",
+      "answer": "Red Riding Hood (2011) is best described as Thriller, Drama, Fantasy, Mystery, Horror, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Red Riding Hood worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "after-life",
+    "sleepy-hollow",
+    "the-illusionist",
+    "the-lake-house",
+    "the-lost-boys",
+    "the-silence",
+    "vincent-must-die"
+  ]
+}

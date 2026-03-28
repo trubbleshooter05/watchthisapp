@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1257009,
+    "title": "Primitive War",
+    "slug": "primitive-war",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Horror",
+      "War",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Primitive War (2025) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "horror",
+      "war",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 375366,
+      "title": "The Girl with All the Gifts",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Primitive War clicked for you, The Girl with All the Gifts (2016) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Extinction (2015) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9102,
+      "title": "Screamers",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Screamers (1995) is a strong next stop: both trade in horror and war, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "war",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 608195,
+      "title": "Ghosts of War",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Ghosts of War (2020) is a strong next stop: both trade in horror and war, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "war",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Megaboa (2021) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Primitive War clicked for you, 300 (2007) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Primitive War clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1091,
+      "title": "The Thing",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Primitive War clicked for you, The Thing (1982) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Primitive War clicked for you, First Blood (1982) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Primitive War?",
+      "answer": "Try Resident Evil, The Girl with All the Gifts, Extinction—each shares DNA with Primitive War while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Primitive War?",
+      "answer": "Primitive War (2025) is best described as Action, Horror, War, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Primitive War worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "alien-resurrection",
+    "alive",
+    "attack-on-titan",
+    "attack-on-titan-ii-end-of-the-world",
+    "avp-alien-vs-predator",
+    "blade-trinity",
+    "deep-blue-sea"
+  ]
+}

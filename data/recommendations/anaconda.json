@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1234731,
+    "title": "Anaconda",
+    "slug": "anaconda",
+    "year": 2025,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "People revisit Anaconda for the same reason it broke through in 2025: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Tom Gormican keeps the ensemble pointed in one direction. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 512200,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Jumanji: The Next Level (2019) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 172385,
+      "title": "Rio 2",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Rio 2 (2014) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10159,
+      "title": "The Rundown",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Anaconda clicked for you, The Rundown (2003) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 135397,
+      "title": "Jurassic World",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Jurassic World (2015) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Anaconda clicked for you, The Jungle Book (2016) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 254,
+      "title": "King Kong",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Anaconda clicked for you, King Kong (2005) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 387426,
+      "title": "Okja",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Anaconda clicked for you, Okja (2017) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Anaconda?",
+      "answer": "Try Jumanji: The Next Level, Ice Age: Dawn of the Dinosaurs, Madagascar: Escape 2 Africa—each shares DNA with Anaconda while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Anaconda?",
+      "answer": "Anaconda (2025) is best described as Adventure, Comedy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Anaconda worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "goosebumps",
+    "a-bugs-life",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-dogs-purpose",
+    "a-haunted-house",
+    "a-haunted-house-2"
+  ]
+}

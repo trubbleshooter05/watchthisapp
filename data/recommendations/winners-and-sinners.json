@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 25539,
+    "title": "Winners and Sinners",
+    "slug": "winners-and-sinners",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Winners and Sinners (1983) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "comedy",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2109,
+      "title": "Rush Hour",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Rush Hour (1998) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9470,
+      "title": "Kung Fu Hustle",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Kung Fu Hustle (2004) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1727,
+      "title": "Bird on a Wire",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Bird on a Wire (1990) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10622,
+      "title": "Mr. Nice Guy",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Mr. Nice Guy (1997) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12085,
+      "title": "Mad Money",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Mad Money (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11198,
+      "title": "City Hunter",
+      "year": 1993,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, City Hunter (1993) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1281,
+      "title": "Bean",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, Bean (1997) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Winners and Sinners clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Winners and Sinners?",
+      "answer": "Try Rush Hour, Rush Hour 3, Kung Fu Hustle—each shares DNA with Winners and Sinners while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Winners and Sinners?",
+      "answer": "Winners and Sinners (1983) is best described as Action, Adventure, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Winners and Sinners part of a franchise?",
+      "answer": "Yes—it's part of the \"Lucky Stars Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "kingsman-the-golden-circle",
+    "kingsman-the-secret-service",
+    "red",
+    "taxi",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs"
+  ]
+}

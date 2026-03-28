@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 209112,
+    "title": "Batman v Superman: Dawn of Justice",
+    "slug": "batman-v-superman-dawn-of-justice",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Batman v Superman: Dawn of Justice (2016) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Zack Snyder's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 246655,
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, X-Men: Apocalypse (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 791373,
+      "title": "Zack Snyder's Justice League",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Zack Snyder's Justice League (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 464052,
+      "title": "Wonder Woman 1984",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Wonder Woman 1984 (2020) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 21683,
+      "title": "Batman: Mystery of the Batwoman",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Batman: Mystery of the Batwoman (2003) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Iron Man (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, 300 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 268,
+      "title": "Batman",
+      "year": 1989,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Batman (1989) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1487,
+      "title": "Hellboy",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Hellboy (2004) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436270,
+      "title": "Black Adam",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Batman v Superman: Dawn of Justice clicked for you, Black Adam (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Batman v Superman: Dawn of Justice?",
+      "answer": "Try X-Men: Apocalypse, Zack Snyder's Justice League, Wonder Woman 1984—each shares DNA with Batman v Superman: Dawn of Justice while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Batman v Superman: Dawn of Justice?",
+      "answer": "Batman v Superman: Dawn of Justice (2016) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Batman v Superman: Dawn of Justice part of a franchise?",
+      "answer": "Yes—it's part of the \"Man of Steel Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman"
+  ]
+}

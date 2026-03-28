@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15999,
+    "title": "Vampire Hunter D: Bloodlust",
+    "slug": "vampire-hunter-d-bloodlust",
+    "year": 2001,
+    "genres": [
+      "Animation",
+      "Fantasy",
+      "Horror",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Vampire Hunter D: Bloodlust (2001) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Yoshiaki Kawajiri's control of tone keeps the ride coherent. The animation and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "fantasy",
+      "horror",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 703771,
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Deathstroke: Knights & Dragons - The Movie (2020) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "science-fiction",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 396263,
+      "title": "GANTZ:O",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, GANTZ:O (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1216221,
+      "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1362,
+      "title": "The Hobbit",
+      "year": 1977,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, The Hobbit (1977) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 357786,
+      "title": "Kizumonogatari Part 1: Tekketsu",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Kizumonogatari Part 1: Tekketsu (2016) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "drama",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, 300 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Escape from New York (1981) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1494,
+      "title": "Curse of the Golden Flower",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Vampire Hunter D: Bloodlust clicked for you, Curse of the Golden Flower (2006) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Vampire Hunter D: Bloodlust?",
+      "answer": "Try Deathstroke: Knights & Dragons - The Movie, Meet the Robinsons, GANTZ:O—each shares DNA with Vampire Hunter D: Bloodlust while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Vampire Hunter D: Bloodlust?",
+      "answer": "Vampire Hunter D: Bloodlust (2001) is best described as Animation, Fantasy, Horror, Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Vampire Hunter D: Bloodlust part of a franchise?",
+      "answer": "Yes—it's part of the \"Vampire Hunter D Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "resident-evil-vendetta",
+    "sword-art-online-the-movie-ordinal-scale",
+    "alienoid",
+    "avp-alien-vs-predator",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "black-clover-sword-of-the-wizard-king"
+  ]
+}

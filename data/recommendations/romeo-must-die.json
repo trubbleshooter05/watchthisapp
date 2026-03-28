@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2085,
+    "title": "Romeo Must Die",
+    "slug": "romeo-must-die",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Romeo Must Die for the same reason it broke through in 2000: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Andrzej Bartkowiak keeps the ensemble pointed in one direction. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9404,
+      "title": "Police Story 4: First Strike",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Police Story 4: First Strike (1996) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 180894,
+      "title": "Ninja: Shadow of a Tear",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Ninja: Shadow of a Tear (2013) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14576,
+      "title": "Shade",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Shade (2003) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16136,
+      "title": "Juice",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Juice (1992) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5889,
+      "title": "Azumi",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Azumi (2003) is a strong next stop: both trade in action and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9452,
+      "title": "Bulworth",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Bulworth (1998) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4816,
+      "title": "Ghost Dog: The Way of the Samurai",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Ghost Dog: The Way of the Samurai (1999) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9460,
+      "title": "Black Mask",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Romeo Must Die clicked for you, Black Mask (1996) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Romeo Must Die?",
+      "answer": "Try Police Story 4: First Strike, Ninja: Shadow of a Tear, Shade—each shares DNA with Romeo Must Die while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Romeo Must Die?",
+      "answer": "Romeo Must Die (2000) is best described as Action, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Romeo Must Die worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "a-working-man",
+    "along-came-a-spider",
+    "assassins",
+    "ava",
+    "avengement",
+    "bad-boys",
+    "bad-boys-for-life"
+  ]
+}

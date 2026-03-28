@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 328425,
+    "title": "The Gift",
+    "slug": "the-gift",
+    "year": 2015,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Gift (2015) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "mystery",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 69668,
+      "title": "Dream House",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Gift clicked for you, Dream House (2011) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Gift clicked for you, Inland Empire (2006) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13528,
+      "title": "Gaslight",
+      "year": 1944,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Gift clicked for you, Gaslight (1944) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1834,
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Gift clicked for you, Murder, My Sweet (1944) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Gift clicked for you, American Psycho (2000) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Gift clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1266,
+      "title": "Street Kings",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Gift clicked for you, Street Kings (2008) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 524251,
+      "title": "I See You",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Gift clicked for you, I See You (2019) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1247,
+      "title": "The Good Shepherd",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Gift clicked for you, The Good Shepherd (2006) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 807356,
+      "title": "Watcher",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Gift clicked for you, Watcher (2022) is a strong next stop: both trade in thriller and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Gift?",
+      "answer": "Try Dream House, Inland Empire, Gaslight—each shares DNA with The Gift while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Gift?",
+      "answer": "The Gift (2015) is best described as Thriller, Mystery, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Gift worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "a-walk-among-the-tombstones",
+    "after-life",
+    "black-bag",
+    "blindness",
+    "chinatown",
+    "confessions",
+    "deep-water"
+  ]
+}

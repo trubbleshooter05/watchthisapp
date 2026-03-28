@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 632632,
+    "title": "Given",
+    "slug": "given",
+    "year": 2020,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "People revisit Given for the same reason it broke through in 2020: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Hikaru Yamaguchi keeps the ensemble pointed in one direction. The animation and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "drama",
+      "music",
+      "romance",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 364111,
+      "title": "The Anthem of the Heart",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Given clicked for you, The Anthem of the Heart (2015) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 21057,
+      "title": "Ocean Waves",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Given clicked for you, Ocean Waves (1993) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 642121,
+      "title": "The Stranger by the Shore",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Given clicked for you, The Stranger by the Shore (2020) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 472516,
+      "title": "The Moment You Fall in Love",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Given clicked for you, The Moment You Fall in Love (2016) is a strong next stop: both trade in animation and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 372754,
+      "title": "Dou kyu sei – Classmates",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Given clicked for you, Dou kyu sei – Classmates (2016) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Given clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13949,
+      "title": "Persuasion",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Given clicked for you, Persuasion (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "tv-movie"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1104844,
+      "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Given clicked for you, BLUE LOCK THE MOVIE -EPISODE NAGI- (2024) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 257475,
+      "title": "Tamako Love Story",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Given clicked for you, Tamako Love Story (2014) is a strong next stop: both trade in animation and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 255413,
+      "title": "anohana: The Flower We Saw That Day - The Movie",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Given clicked for you, anohana: The Flower We Saw That Day - The Movie (2013) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Given?",
+      "answer": "Try The Anthem of the Heart, Ocean Waves, The Stranger by the Shore—each shares DNA with Given while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Given?",
+      "answer": "Given (2020) is best described as Animation, Drama, Music, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Given part of a franchise?",
+      "answer": "Yes—it's part of the \"given Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "5-centimeters-per-second",
+    "a-silent-voice-the-movie",
+    "a-star-is-born",
+    "a-whisker-away",
+    "coda",
+    "coyote-ugly",
+    "dirty-dancing"
+  ]
+}

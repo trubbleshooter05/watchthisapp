@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 26662,
+    "title": "Detective Conan: The Phantom of Baker Street",
+    "slug": "detective-conan-the-phantom-of-baker-street",
+    "year": 2002,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Mystery",
+      "Science Fiction",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Detective Conan: The Phantom of Baker Street (2002) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "mystery",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 21452,
+      "title": "Case Closed: The Fourteenth Target",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Case Closed: The Fourteenth Target (1998) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "mystery",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "crime",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14043,
+      "title": "Nancy Drew",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Nancy Drew (2007) is a strong next stop: both trade in adventure and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "mystery",
+        "crime",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 32022,
+      "title": "Case Closed: Countdown to Heaven",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Case Closed: Countdown to Heaven (2001) is a strong next stop: both trade in animation and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "mystery",
+        "crime",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 438058,
+      "title": "Case Closed: The Crimson Love Letter",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Case Closed: The Crimson Love Letter (2017) is a strong next stop: both trade in animation and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "mystery",
+        "crime",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13654,
+      "title": "101 Dalmatians II: Patch's London Adventure",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, 101 Dalmatians II: Patch's London Adventure (2003) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13937,
+      "title": "Raising Cain",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Detective Conan: The Phantom of Baker Street clicked for you, Raising Cain (1992) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Detective Conan: The Phantom of Baker Street?",
+      "answer": "Try Case Closed: The Fourteenth Target, Batman: Gotham Knight, Nancy Drew—each shares DNA with Detective Conan: The Phantom of Baker Street while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Detective Conan: The Phantom of Baker Street?",
+      "answer": "Detective Conan: The Phantom of Baker Street (2002) is best described as Animation, Adventure, Mystery, Science Fiction, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Detective Conan: The Phantom of Baker Street part of a franchise?",
+      "answer": "Yes—it's part of the \"Detective Conan Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "case-closed-the-fourteenth-target",
+    "detective-conan-captured-in-her-eyes",
+    "detective-conan-the-last-wizard-of-the-century",
+    "detective-conan-the-time-bombed-skyscraper",
+    "2001-a-space-odyssey",
+    "allegiant",
+    "atlantis-the-lost-empire"
+  ]
+}

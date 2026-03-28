@@ -1,0 +1,162 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1542,
+    "title": "Office Space",
+    "slug": "office-space",
+    "year": 1999,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Office Space (1999) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Mike Judge's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Office Space clicked for you, Night at the Museum (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Office Space clicked for you, A Bug's Life (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51540,
+      "title": "Horrible Bosses",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Office Space clicked for you, Horrible Bosses (2011) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 254470,
+      "title": "Pitch Perfect 2",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Office Space clicked for you, Pitch Perfect 2 (2015) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8699,
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Office Space clicked for you, Anchorman: The Legend of Ron Burgundy (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 371638,
+      "title": "The Disaster Artist",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Office Space clicked for you, The Disaster Artist (2017) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9352,
+      "title": "EuroTrip",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Office Space clicked for you, EuroTrip (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Office Space clicked for you, Dogma (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 384677,
+      "title": "Set It Up",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Office Space clicked for you, Set It Up (2018) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2292,
+      "title": "Clerks",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Office Space clicked for you, Clerks (1994) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Office Space?",
+      "answer": "Try Night at the Museum, A Bug's Life, Horrible Bosses—each shares DNA with Office Space while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Office Space?",
+      "answer": "Office Space (1999) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Office Space worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "21-jump-street",
+    "22-jump-street",
+    "27-dresses"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9255,
+    "title": "Hot Shots! Part Deux",
+    "slug": "hot-shots-part-deux",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "whyPeopleLoveIt": "Hot Shots! Part Deux works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9595,
+      "title": "Hot Shots!",
+      "year": 1991,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Hot Shots! (1991) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6415,
+      "title": "Three Kings",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Three Kings (1999) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 882569,
+      "title": "Guy Ritchie's The Covenant",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Guy Ritchie's The Covenant (2023) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 463272,
+      "title": "Johnny English Strikes Again",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Johnny English Strikes Again (2018) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 993710,
+      "title": "Back in Action",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Back in Action (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1241436,
+      "title": "Warfare",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Warfare (2025) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 717930,
+      "title": "Kandahar",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Kandahar (2023) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 457332,
+      "title": "Hidden Strike",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Hidden Strike (2023) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9404,
+      "title": "Police Story 4: First Strike",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Police Story 4: First Strike (1996) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hot Shots! Part Deux clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hot Shots! Part Deux?",
+      "answer": "Try Hot Shots!, Three Kings, Guy Ritchie's The Covenant—each shares DNA with Hot Shots! Part Deux while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hot Shots! Part Deux?",
+      "answer": "Hot Shots! Part Deux (1993) is best described as Action, Comedy, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hot Shots! Part Deux part of a franchise?",
+      "answer": "Yes—it's part of the \"Hot Shots! Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "hot-shots",
+    "the-ministry-of-ungentlemanly-warfare",
+    "tropic-thunder",
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "21-jump-street",
+    "22-jump-street"
+  ]
+}

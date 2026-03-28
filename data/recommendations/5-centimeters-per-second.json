@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 38142,
+    "title": "5 Centimeters per Second",
+    "slug": "5-centimeters-per-second",
+    "year": 2007,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto 5 Centimeters per Second (2007) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "romance",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 21057,
+      "title": "Ocean Waves",
+      "year": 1993,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Ocean Waves (1993) is a strong next stop: both trade in animation and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 530079,
+      "title": "Ride Your Wave",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Ride Your Wave (2019) is a strong next stop: both trade in animation and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "drama",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1443,
+      "title": "The Virgin Suicides",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, The Virgin Suicides (2000) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1391,
+      "title": "Y Tu Mamá También",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Y Tu Mamá También (2001) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 475215,
+      "title": "Mirai",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Mirai (2018) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 476292,
+      "title": "Maquia: When the Promised Flower Blooms",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Maquia: When the Promised Flower Blooms (2018) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 431819,
+      "title": "Fireworks",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Fireworks (2017) is a strong next stop: both trade in animation and romance, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 64246,
+      "title": "Colorful",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Colorful (2010) is a strong next stop: both trade in animation and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1538,
+      "title": "Collateral",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Collateral (2004) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If 5 Centimeters per Second clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after 5 Centimeters per Second?",
+      "answer": "Try Ocean Waves, Ride Your Wave, The Virgin Suicides—each shares DNA with 5 Centimeters per Second while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is 5 Centimeters per Second?",
+      "answer": "5 Centimeters per Second (2007) is best described as Animation, Romance, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is 5 Centimeters per Second worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-silent-voice-the-movie",
+    "a-whisker-away",
+    "given",
+    "i-want-to-eat-your-pancreas",
+    "josee-the-tiger-and-the-fish",
+    "millennium-actress",
+    "ocean-waves"
+  ]
+}

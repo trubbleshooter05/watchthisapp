@@ -1,0 +1,159 @@
+{
+  "sourceMovie": {
+    "tmdbId": 439079,
+    "title": "The Nun",
+    "slug": "the-nun",
+    "year": 2018,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "The Nun works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9552,
+      "title": "The Exorcist",
+      "year": 1973,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Nun clicked for you, The Exorcist (1973) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13885,
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Nun clicked for you, Sweeney Todd: The Demon Barber of Fleet Street (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 396422,
+      "title": "Annabelle: Creation",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Nun clicked for you, Annabelle: Creation (2017) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 521029,
+      "title": "Annabelle Comes Home",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Nun clicked for you, Annabelle Comes Home (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1078605,
+      "title": "Weapons",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Nun clicked for you, Weapons (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 758323,
+      "title": "The Pope's Exorcist",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Nun clicked for you, The Pope's Exorcist (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8643,
+      "title": "The Exorcism of Emily Rose",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Nun clicked for you, The Exorcism of Emily Rose (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14001,
+      "title": "Dead Silence",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Nun clicked for you, Dead Silence (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Nun clicked for you, Eden Lake (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13515,
+      "title": "Mirrors",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Nun clicked for you, Mirrors (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Nun?",
+      "answer": "Try The Exorcist, Sweeney Todd: The Demon Barber of Fleet Street, Annabelle: Creation—each shares DNA with The Nun while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Nun?",
+      "answer": "The Nun (2018) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Nun part of a franchise?",
+      "answer": "Yes—it's part of the \"The Nun Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "1408",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness"
+  ]
+}

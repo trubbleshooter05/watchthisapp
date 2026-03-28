@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 258489,
+    "title": "The Legend of Tarzan",
+    "slug": "the-legend-of-tarzan",
+    "year": 2016,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit The Legend of Tarzan for the same reason it broke through in 2016: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. David Yates keeps the ensemble pointed in one direction. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1680,
+      "title": "King Kong vs. Godzilla",
+      "year": 1962,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, King Kong vs. Godzilla (1962) is a strong next stop: both trade in fantasy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 278927,
+      "title": "The Jungle Book",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, The Jungle Book (2016) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 37135,
+      "title": "Tarzan",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Tarzan (1999) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "family",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1672,
+      "title": "The Professional",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, The Professional (1981) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11002,
+      "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Greystoke: The Legend of Tarzan, Lord of the Apes (1984) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11385,
+      "title": "Hatari!",
+      "year": 1962,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Hatari! (1962) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1372,
+      "title": "Blood Diamond",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Blood Diamond (2006) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 254375,
+      "title": "Hector and the Search for Happiness",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Hector and the Search for Happiness (2014) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9545,
+      "title": "Sniper",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Legend of Tarzan clicked for you, Sniper (1993) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Legend of Tarzan?",
+      "answer": "Try King Kong vs. Godzilla, The Jungle Book, Tarzan—each shares DNA with The Legend of Tarzan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Legend of Tarzan?",
+      "answer": "The Legend of Tarzan (2016) is best described as Fantasy, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Legend of Tarzan worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman"
+  ]
+}

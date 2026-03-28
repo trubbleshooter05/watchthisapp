@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 59108,
+    "title": "Tower Heist",
+    "slug": "tower-heist",
+    "year": 2011,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Tower Heist works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 402900,
+      "title": "Ocean's Eight",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Ocean's Eight (2018) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 512195,
+      "title": "Red Notice",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Red Notice (2021) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27581,
+      "title": "The Other Guys",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, The Other Guys (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1497,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10589,
+      "title": "After the Sunset",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, After the Sunset (2004) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12085,
+      "title": "Mad Money",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Mad Money (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1106289,
+      "title": "The Pickup",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, The Pickup (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 106646,
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, The Wolf of Wall Street (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tower Heist clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tower Heist?",
+      "answer": "Try Ocean's Eight, Red Notice, The Other Guys—each shares DNA with Tower Heist while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tower Heist?",
+      "answer": "Tower Heist (2011) is best described as Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tower Heist worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "6-underground",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "afterburn"
+  ]
+}

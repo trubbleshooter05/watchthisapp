@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 87101,
+    "title": "Terminator Genisys",
+    "slug": "terminator-genisys",
+    "year": 2015,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Terminator Genisys (2015) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, The Terminator (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290859,
+      "title": "Terminator: Dark Fate",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, Terminator: Dark Fate (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, Escape from New York (1981) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, The Matrix (1999) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, Eternals (2021) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, Resident Evil (2002) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Terminator Genisys clicked for you, First Blood (1982) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Terminator Genisys?",
+      "answer": "Try The Terminator, The Matrix Reloaded, The Matrix Revolutions—each shares DNA with Terminator Genisys while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Terminator Genisys?",
+      "answer": "Terminator Genisys (2015) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Terminator Genisys part of a franchise?",
+      "answer": "Yes—it's part of the \"The Terminator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "aliens",
+    "armageddon",
+    "battleship",
+    "boss-level",
+    "captain-america-brave-new-world",
+    "cloverfield",
+    "d-j-vu"
+  ]
+}

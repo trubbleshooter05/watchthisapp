@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 36648,
+    "title": "Blade: Trinity",
+    "slug": "blade-trinity",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Horror",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Blade: Trinity for the same reason it broke through in 2004: clear stakes, memorable faces, and a horror rhythm that doesn't stall in the middle. David S. Goyer keeps the ensemble pointed in one direction. The action and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "horror",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 36647,
+      "title": "Blade",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Blade (1998) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49017,
+      "title": "Dracula Untold",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Dracula Untold (2014) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 36586,
+      "title": "Blade II",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Blade II (2002) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1233413,
+      "title": "Sinners",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Sinners (2025) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Escape from New York (1981) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 755566,
+      "title": "Day Shift",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Day Shift (2022) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "fantasy",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9945,
+      "title": "Vampires",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Vampires (1998) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 52015,
+      "title": "Stake Land",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, Stake Land (2010) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Blade: Trinity clicked for you, 300 (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Blade: Trinity?",
+      "answer": "Try Blade, Dracula Untold, Blade II—each shares DNA with Blade: Trinity while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Blade: Trinity?",
+      "answer": "Blade: Trinity (2004) is best described as Action, Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Blade: Trinity part of a franchise?",
+      "answer": "Yes—it's part of the \"Blade Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alien-resurrection",
+    "alive",
+    "attack-on-titan",
+    "attack-on-titan-ii-end-of-the-world",
+    "avp-alien-vs-predator",
+    "deep-blue-sea",
+    "godzilla-minus-one"
+  ]
+}

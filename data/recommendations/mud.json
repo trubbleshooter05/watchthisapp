@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 103731,
+    "title": "Mud",
+    "slug": "mud",
+    "year": 2013,
+    "genres": [
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Mud works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 68718,
+      "title": "Django Unchained",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mud clicked for you, Django Unchained (2012) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 281957,
+      "title": "The Revenant",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mud clicked for you, The Revenant (2015) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 44264,
+      "title": "True Grit",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mud clicked for you, True Grit (2010) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 581,
+      "title": "Dances with Wolves",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mud clicked for you, Dances with Wolves (1990) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1645,
+      "title": "A Time to Kill",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mud clicked for you, A Time to Kill (1996) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4512,
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mud clicked for you, The Assassination of Jesse James by the Coward Robert Ford (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 776503,
+      "title": "CODA",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mud clicked for you, CODA (2021) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 39013,
+      "title": "Winter's Bone",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mud clicked for you, Winter's Bone (2010) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 293,
+      "title": "A River Runs Through It",
+      "year": 1992,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mud clicked for you, A River Runs Through It (1992) is a strong next stop: both trade in drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 223485,
+      "title": "Slow West",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mud clicked for you, Slow West (2015) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "adventure",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Mud?",
+      "answer": "Try Django Unchained, The Revenant, True Grit—each shares DNA with Mud while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mud?",
+      "answer": "Mud (2013) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mud worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "12-angry-men",
+    "12-years-a-slave",
+    "127-hours",
+    "13",
+    "13-assassins"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 399035,
+    "title": "The Commuter",
+    "slug": "the-commuter",
+    "year": 2018,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit The Commuter for the same reason it broke through in 2018: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Jaume Collet-Serra keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Commuter clicked for you, The International (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 860623,
+      "title": "Last Man Down",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Last Man Down (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13183,
+      "title": "Watchmen",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Watchmen (2009) is a strong next stop: both trade in action and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13448,
+      "title": "Angels & Demons",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Angels & Demons (2009) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 345,
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Eyes Wide Shut (1999) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617,
+      "title": "Wild Things",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Wild Things (1998) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14462,
+      "title": "The Manchurian Candidate",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Commuter clicked for you, The Manchurian Candidate (2004) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2140,
+      "title": "Kiss of the Dragon",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Kiss of the Dragon (2001) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15659,
+      "title": "Foul Play",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Foul Play (1978) is a strong next stop: both trade in thriller and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14576,
+      "title": "Shade",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Commuter clicked for you, Shade (2003) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Commuter?",
+      "answer": "Try The International, Last Man Down, Watchmen—each shares DNA with The Commuter while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Commuter?",
+      "answer": "The Commuter (2018) is best described as Action, Thriller, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Commuter worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "abduction",
+    "along-came-a-spider",
+    "eagle-eye",
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "inferno",
+    "knowing"
+  ]
+}

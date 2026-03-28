@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 818,
+    "title": "Austin Powers in Goldmember",
+    "slug": "austin-powers-in-goldmember",
+    "year": 2002,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "People revisit Austin Powers in Goldmember for the same reason it broke through in 2002: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Jay Roach keeps the ensemble pointed in one direction. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 343668,
+      "title": "Kingsman: The Golden Circle",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Kingsman: The Golden Circle (2017) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Bad Boys: Ride or Die (2024) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13685,
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Bottle Rocket (1996) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2661,
+      "title": "Batman",
+      "year": 1966,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Batman (1966) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 581997,
+      "title": "Batman vs Teenage Mutant Ninja Turtles",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Batman vs Teenage Mutant Ninja Turtles (2019) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "animation",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13804,
+      "title": "Fast & Furious",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Fast & Furious (2009) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 384018,
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Fast & Furious Presents: Hobbs & Shaw (2019) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 385128,
+      "title": "F9",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, F9 (2021) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Megamind (2010) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "action",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Austin Powers in Goldmember clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Austin Powers in Goldmember?",
+      "answer": "Try Kingsman: The Golden Circle, Bad Boys: Ride or Die, Bottle Rocket—each shares DNA with Austin Powers in Goldmember while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Austin Powers in Goldmember?",
+      "answer": "Austin Powers in Goldmember (2002) is best described as Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Austin Powers in Goldmember part of a franchise?",
+      "answer": "Yes—it's part of the \"Austin Powers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "ace-ventura-pet-detective",
+    "almost-cops",
+    "american-made",
+    "austin-powers-international-man-of-mystery"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 98566,
+    "title": "Teenage Mutant Ninja Turtles",
+    "slug": "teenage-mutant-ninja-turtles",
+    "year": 2014,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Teenage Mutant Ninja Turtles for the same reason it broke through in 2014: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Jonathan Liebesman keeps the ensemble pointed in one direction. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, The Avengers (2012) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Black Panther (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 315635,
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Spider-Man: Homecoming (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 558,
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Spider-Man 2 (2004) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 246655,
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, X-Men: Apocalypse (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 608,
+      "title": "Men in Black II",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Men in Black II (2002) is a strong next stop: both trade in science fiction and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 640146,
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Ant-Man and the Wasp: Quantumania (2023) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 572802,
+      "title": "Aquaman and the Lost Kingdom",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Teenage Mutant Ninja Turtles clicked for you, Aquaman and the Lost Kingdom (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Teenage Mutant Ninja Turtles?",
+      "answer": "Try The Avengers, Black Panther, Spider-Man: Homecoming—each shares DNA with Teenage Mutant Ninja Turtles while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Teenage Mutant Ninja Turtles?",
+      "answer": "Teenage Mutant Ninja Turtles (2014) is best described as Science Fiction, Action, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Teenage Mutant Ninja Turtles part of a franchise?",
+      "answer": "Yes—it's part of the \"Teenage Mutant Ninja Turtles (Remake) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "men-in-black",
+    "men-in-black-international",
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "small-soldiers",
+    "teenage-mutant-ninja-turtles-out-of-the-shadows",
+    "thor-ragnarok",
+    "2012"
+  ]
+}

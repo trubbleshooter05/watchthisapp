@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1995,
+    "title": "Lara Croft: Tomb Raider",
+    "slug": "lara-croft-tomb-raider",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Lara Croft: Tomb Raider for the same reason it broke through in 2001: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Simon West keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14208,
+      "title": "The Librarian: Return to King Solomon's Mines",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, The Librarian: Return to King Solomon's Mines (2006) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12444,
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, Harry Potter and the Deathly Hallows: Part 1 (2010) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 333339,
+      "title": "Ready Player One",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, Ready Player One (2018) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2164,
+      "title": "Stargate",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, Stargate (1994) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 657,
+      "title": "From Russia with Love",
+      "year": 1963,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, From Russia with Love (1963) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 667,
+      "title": "You Only Live Twice",
+      "year": 1967,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, You Only Live Twice (1967) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 682,
+      "title": "The Man with the Golden Gun",
+      "year": 1974,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, The Man with the Golden Gun (1974) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lara Croft: Tomb Raider clicked for you, Inkheart (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lara Croft: Tomb Raider?",
+      "answer": "Try The Forbidden Kingdom, The Librarian: Return to King Solomon's Mines, Harry Potter and the Deathly Hallows: Part 1—each shares DNA with Lara Croft: Tomb Raider while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Lara Croft: Tomb Raider?",
+      "answer": "Lara Croft: Tomb Raider (2001) is best described as Adventure, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Lara Croft: Tomb Raider part of a franchise?",
+      "answer": "Yes—it's part of the \"Tomb Raider Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "aquaman"
+  ]
+}

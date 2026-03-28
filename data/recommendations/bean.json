@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1281,
+    "title": "Bean",
+    "slug": "bean",
+    "year": 1997,
+    "genres": [
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Bean works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12230,
+      "title": "One Hundred and One Dalmatians",
+      "year": 1961,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bean clicked for you, One Hundred and One Dalmatians (1961) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11619,
+      "title": "Flushed Away",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bean clicked for you, Flushed Away (2006) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bean clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "action",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 499701,
+      "title": "Dora and the Lost City of Gold",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bean clicked for you, Dora and the Lost City of Gold (2019) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 218836,
+      "title": "Planes: Fire & Rescue",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bean clicked for you, Planes: Fire & Rescue (2014) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 25059,
+      "title": "Homeward Bound II: Lost in San Francisco",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bean clicked for you, Homeward Bound II: Lost in San Francisco (1996) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bean clicked for you, Back to the Future (1985) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 863,
+      "title": "Toy Story 2",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bean clicked for you, Toy Story 2 (1999) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1268,
+      "title": "Mr. Bean's Holiday",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bean clicked for you, Mr. Bean's Holiday (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19933,
+      "title": "The Brave Little Toaster",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bean clicked for you, The Brave Little Toaster (1987) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bean?",
+      "answer": "Try One Hundred and One Dalmatians, Flushed Away, The Lego Movie 2: The Second Part—each shares DNA with Bean while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bean?",
+      "answer": "Bean (1997) is best described as Family, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bean part of a franchise?",
+      "answer": "Yes—it's part of the \"Mr. Bean Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars"
+  ]
+}

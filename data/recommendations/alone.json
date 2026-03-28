@@ -1,0 +1,168 @@
+{
+  "sourceMovie": {
+    "tmdbId": 509635,
+    "title": "Alone",
+    "slug": "alone",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Alone (2020) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Alone clicked for you, Eden Lake (2008) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 250574,
+      "title": "Creep",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Alone clicked for you, Creep (2014) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13474,
+      "title": "P2",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Alone clicked for you, P2 (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 467632,
+      "title": "Bad Samaritan",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Alone clicked for you, Bad Samaritan (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 621151,
+      "title": "Spell",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Alone clicked for you, Spell (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 759902,
+      "title": "Hunter Hunter",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Alone clicked for you, Hunter Hunter (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14397,
+      "title": "Whisper",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Alone clicked for you, Whisper (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Alone clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 539972,
+      "title": "Kraven the Hunter",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Alone clicked for you, Kraven the Hunter (2024) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Alone clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Alone?",
+      "answer": "Try Eden Lake, Creep, P2—each shares DNA with Alone while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Alone?",
+      "answer": "Alone (2020) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Alone worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one",
+    "a-quiet-place-part-ii"
+  ]
+}

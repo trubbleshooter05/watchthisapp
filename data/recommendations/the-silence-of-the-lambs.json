@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 274,
+    "title": "The Silence of the Lambs",
+    "slug": "the-silence-of-the-lambs",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit The Silence of the Lambs for the same reason it broke through in 1991: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Jonathan Demme keeps the ensemble pointed in one direction. The crime and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "thriller",
+      "drama",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9740,
+      "title": "Hannibal",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Hannibal (2001) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9437,
+      "title": "Kiss the Girls",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Kiss the Girls (1997) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9411,
+      "title": "Fallen",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Fallen (1998) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 68812,
+      "title": "The Iceman",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, The Iceman (2012) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4351,
+      "title": "Bordertown",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Bordertown (2007) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 807,
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Se7en (1995) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1700,
+      "title": "Misery",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Misery (1990) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9533,
+      "title": "Red Dragon",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Red Dragon (2002) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1248,
+      "title": "Hannibal Rising",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Silence of the Lambs clicked for you, Hannibal Rising (2007) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Silence of the Lambs?",
+      "answer": "Try American Psycho, Hannibal, Kiss the Girls—each shares DNA with The Silence of the Lambs while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Silence of the Lambs?",
+      "answer": "The Silence of the Lambs (1991) is best described as Crime, Thriller, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Silence of the Lambs part of a franchise?",
+      "answer": "Yes—it's part of the \"The Hannibal Lecter Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-history-of-violence",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones",
+    "american-psycho",
+    "bound",
+    "bound-by-honor"
+  ]
+}

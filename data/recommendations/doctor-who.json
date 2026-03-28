@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15691,
+    "title": "Doctor Who",
+    "slug": "doctor-who",
+    "year": 1996,
+    "genres": [
+      "TV Movie",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Doctor Who for the same reason it broke through in 1996: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Geoffrey Sax keeps the ensemble pointed in one direction. The tv movie and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "tv-movie",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Star Trek (2009) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 298618,
+      "title": "The Flash",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, The Flash (2023) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 696806,
+      "title": "The Adam Project",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, The Adam Project (2022) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2135,
+      "title": "The Time Machine",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, The Time Machine (2002) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Titan A.E. (2000) is a strong next stop: both trade in adventure and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12914,
+      "title": "Stargate: Continuum",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Stargate: Continuum (2008) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2267,
+      "title": "The Last Mimzy",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, The Last Mimzy (2007) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 69315,
+      "title": "Battlestar Galactica: Razor",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Battlestar Galactica: Razor (2007) is a strong next stop: both trade in tv movie and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "science-fiction",
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31011,
+      "title": "Mr. Nobody",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Mr. Nobody (2009) is a strong next stop: both trade in science fiction, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Doctor Who clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Doctor Who?",
+      "answer": "Try Star Trek, The Flash, The Adam Project—each shares DNA with Doctor Who while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Doctor Who?",
+      "answer": "Doctor Who (1996) is best described as TV Movie, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Doctor Who worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this tv movie lane."
+    }
+  ],
+  "relatedPages": [
+    "2001-a-space-odyssey",
+    "2012",
+    "65",
+    "a-i-artificial-intelligence",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant"
+  ]
+}

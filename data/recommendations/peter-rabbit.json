@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 381719,
+    "title": "Peter Rabbit",
+    "slug": "peter-rabbit",
+    "year": 2018,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Peter Rabbit (2018) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Will Gluck's control of tone keeps the ride coherent. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 81188,
+      "title": "Rise of the Guardians",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Rise of the Guardians (2012) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 748783,
+      "title": "The Garfield Movie",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, The Garfield Movie (2024) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420821,
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Chip 'n Dale: Rescue Rangers (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51162,
+      "title": "Winnie the Pooh",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Winnie the Pooh (2011) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Elio (2025) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Hoppers (2026) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Peter Rabbit clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Peter Rabbit?",
+      "answer": "Try Rise of the Guardians, DC League of Super-Pets, The Garfield Movie—each shares DNA with Peter Rabbit while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Peter Rabbit?",
+      "answer": "Peter Rabbit (2018) is best described as Animation, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Peter Rabbit part of a franchise?",
+      "answer": "Yes—it's part of the \"Peter Rabbit Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "anastasia",
+    "arthur-and-the-invisibles",
+    "atlantis-the-lost-empire",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}

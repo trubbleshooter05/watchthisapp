@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1883,
+    "title": "Malcolm X",
+    "slug": "malcolm-x",
+    "year": 1992,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "whyPeopleLoveIt": "People revisit Malcolm X for the same reason it broke through in 1992: clear stakes, memorable faces, and a history rhythm that doesn't stall in the middle. Spike Lee keeps the ensemble pointed in one direction. The drama and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "history",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 487558,
+      "title": "BlacKkKlansman",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, BlacKkKlansman (2018) is a strong next stop: both trade in drama and history, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 783,
+      "title": "Gandhi",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, Gandhi (1982) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 502425,
+      "title": "Escape from Pretoria",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, Escape from Pretoria (2020) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1165,
+      "title": "The Queen",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, The Queen (2006) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 402529,
+      "title": "All Eyez on Me",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, All Eyez on Me (2017) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1396,
+      "title": "Mirror",
+      "year": 1975,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, Mirror (1975) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 192136,
+      "title": "Mandela: Long Walk to Freedom",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, Mandela: Long Walk to Freedom (2013) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 458131,
+      "title": "The Best of Enemies",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, The Best of Enemies (2019) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 592863,
+      "title": "Respect",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, Respect (2021) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1013601,
+      "title": "The Alto Knights",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Malcolm X clicked for you, The Alto Knights (2025) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Malcolm X?",
+      "answer": "Try BlacKkKlansman, Gandhi, Escape from Pretoria—each shares DNA with Malcolm X while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Malcolm X?",
+      "answer": "Malcolm X (1992) is best described as Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Malcolm X worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "12-years-a-slave",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "a-taxi-driver",
+    "against-the-ice",
+    "alexander",
+    "amadeus",
+    "apocalypto"
+  ]
+}

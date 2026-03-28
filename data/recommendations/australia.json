@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 6972,
+    "title": "Australia",
+    "slug": "australia",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Australia works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "romance",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11259,
+      "title": "Far and Away",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Australia clicked for you, Far and Away (1992) is a strong next stop: both trade in adventure and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "romance",
+        "drama",
+        "western"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 488,
+      "title": "The African Queen",
+      "year": 1952,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Australia clicked for you, The African Queen (1952) is a strong next stop: both trade in adventure and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4922,
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Australia clicked for you, The Curious Case of Benjamin Button (2008) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Australia clicked for you, Pride & Prejudice (2005) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Australia clicked for you, Atonement (2007) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4476,
+      "title": "Legends of the Fall",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Australia clicked for you, Legends of the Fall (1994) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "western",
+        "war"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 581032,
+      "title": "News of the World",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Australia clicked for you, News of the World (2020) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Australia clicked for you, Lust, Caution (2007) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "action",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 16608,
+      "title": "The Proposition",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Australia clicked for you, The Proposition (2005) is a strong next stop: both trade in adventure and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4441,
+      "title": "Candy",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Australia clicked for you, Candy (2006) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Australia?",
+      "answer": "Try Far and Away, The African Queen, The Curious Case of Benjamin Button—each shares DNA with Australia while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Australia?",
+      "answer": "Australia (2008) is best described as Adventure, Romance, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Australia worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-knights-tale",
+    "alexander",
+    "blue-lagoon-the-awakening",
+    "crouching-tiger-hidden-dragon",
+    "the-aeronauts",
+    "the-beach",
+    "the-blue-lagoon"
+  ]
+}

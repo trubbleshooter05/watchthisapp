@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 22611,
+    "title": "Little Nemo: Adventures in Slumberland",
+    "slug": "little-nemo-adventures-in-slumberland",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Little Nemo: Adventures in Slumberland (1989) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Masami Hata's control of tone keeps the ride coherent. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, The House of Magic (2013) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, The Monkey King (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 410113,
+      "title": "The Loud House Movie",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, The Loud House Movie (2021) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 72972,
+      "title": "Tom and Jerry & The Wizard of Oz",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Tom and Jerry & The Wizard of Oz (2011) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 805051,
+      "title": "Welcome to Smelliville",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Welcome to Smelliville (2021) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 955644,
+      "title": "Mia and Me: The Hero of Centopia",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Mia and Me: The Hero of Centopia (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 424656,
+      "title": "Crayon Shin-chan: Fast Asleep! Dreaming World Big Assault!",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Crayon Shin-chan: Fast Asleep! Dreaming World Big Assault! (2016) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 877957,
+      "title": "Drifting Home",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Drifting Home (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 211755,
+      "title": "Hunter x Hunter: Phantom Rouge",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Little Nemo: Adventures in Slumberland clicked for you, Hunter x Hunter: Phantom Rouge (2013) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Little Nemo: Adventures in Slumberland?",
+      "answer": "Try The House of Magic, The Monkey King, Pokémon the Movie: Hoopa and the Clash of Ages—each shares DNA with Little Nemo: Adventures in Slumberland while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Little Nemo: Adventures in Slumberland?",
+      "answer": "Little Nemo: Adventures in Slumberland (1989) is best described as Adventure, Animation, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Little Nemo: Adventures in Slumberland worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "anastasia",
+    "arthur-and-the-invisibles",
+    "brave",
+    "castle-in-the-sky",
+    "dragonkeeper",
+    "frozen",
+    "frozen-ii"
+  ]
+}

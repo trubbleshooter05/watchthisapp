@@ -1,0 +1,174 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11474,
+    "title": "The Warriors",
+    "slug": "the-warriors",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Warriors works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10126,
+      "title": "Colors",
+      "year": 1988,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Colors (1988) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4547,
+      "title": "Panic Room",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Panic Room (2002) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Highlander (1986) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Layer Cake (2004) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4566,
+      "title": "Michael Clayton",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Michael Clayton (2007) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9702,
+      "title": "Bound by Honor",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Bound by Honor (1993) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4413,
+      "title": "The Brave One",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Warriors clicked for you, The Brave One (2007) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9333,
+      "title": "Last Man Standing",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Last Man Standing (1996) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9516,
+      "title": "Menace II Society",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Warriors clicked for you, Menace II Society (1993) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Warriors?",
+      "answer": "Try Colors, Hot Fuzz, Panic Room—each shares DNA with The Warriors while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Warriors?",
+      "answer": "The Warriors (1979) is best described as Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Warriors worth revisiting?",
+      "answer": "Viewer scores sit around 7.7/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "6-underground",
+    "71",
+    "a-view-to-a-kill",
+    "a-working-man",
+    "abduction"
+  ]
+}

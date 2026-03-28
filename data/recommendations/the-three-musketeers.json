@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 52451,
+    "title": "The Three Musketeers",
+    "slug": "the-three-musketeers",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit The Three Musketeers for the same reason it broke through in 2011: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Paul W. S. Anderson keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11362,
+      "title": "The Count of Monte Cristo",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, The Count of Monte Cristo (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1865,
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Pirates of the Caribbean: On Stranger Tides (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9313,
+      "title": "The Man in the Iron Mask",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, The Man in the Iron Mask (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 308504,
+      "title": "Last Knights",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Last Knights (2015) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13635,
+      "title": "Mesrine: Killer Instinct",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Mesrine: Killer Instinct (2008) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13491,
+      "title": "Arn: The Knight Templar",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, Arn: The Knight Templar (2007) is a strong next stop: both trade in adventure and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13938,
+      "title": "The Last Dragon",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, The Last Dragon (1985) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "music",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 617653,
+      "title": "The Last Duel",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Three Musketeers clicked for you, The Last Duel (2021) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Three Musketeers?",
+      "answer": "Try The Count of Monte Cristo, Pirates of the Caribbean: On Stranger Tides, Kingdom of Heaven—each shares DNA with The Three Musketeers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Three Musketeers?",
+      "answer": "The Three Musketeers (2011) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Three Musketeers worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "american-assassin",
+    "anna",
+    "armageddon",
+    "ashfall"
+  ]
+}
