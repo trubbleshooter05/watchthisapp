@@ -19,50 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 942,
-      "title": "Lethal Weapon 2",
-      "year": 1989,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "There's a reason Lethal Weapon fans keep landing on Lethal Weapon 2 (1989) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 943,
-      "title": "Lethal Weapon 3",
-      "year": 1992,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Lethal Weapon 3 draws from the same action well as Lethal Weapon, channeling thriller in ways that feel unmistakably related. The 1992 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 944,
-      "title": "Lethal Weapon 4",
-      "year": 1998,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Lethal Weapon 4 (1998) captures the action appeal of Lethal Weapon without simply imitating it. The thriller streak running through both films is what puts Lethal Weapon 4 at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 9618,
       "title": "Tango & Cash",
       "year": 1989,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The action appeal of Lethal Weapon — that funny edge, the thriller — translates cleanly into Tango & Cash (1989). Different setting, same essential satisfaction.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Tango & Cash (1989) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -76,8 +37,8 @@
       "tmdbId": 1306368,
       "title": "The Rip",
       "year": 2026,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The filmmakers behind The Rip (2026) clearly understood what makes action work — the same quality that keeps Lethal Weapon rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, The Rip (2026) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -89,8 +50,8 @@
       "tmdbId": 2019,
       "title": "Hard Target",
       "year": 1993,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Hard Target (1993) is the kind of film Lethal Weapon fans discover and immediately send to their group chat. The action overlap is real, but it's the dark emotional pull that seals the recommendation.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Hard Target (1993) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -102,8 +63,8 @@
       "tmdbId": 17466,
       "title": "Death Warrant",
       "year": 1990,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Death Warrant shares Lethal Weapon's gift for action — the 1990 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Death Warrant (1990) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -116,8 +77,8 @@
       "tmdbId": 218,
       "title": "The Terminator",
       "year": 1984,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Much of what makes Lethal Weapon compelling — the action, the thriller — shows up in The Terminator (1984) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -129,8 +90,8 @@
       "tmdbId": 180,
       "title": "Minority Report",
       "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The action energy of Lethal Weapon is alive in Minority Report (2002), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -142,8 +103,47 @@
       "tmdbId": 4638,
       "title": "Hot Fuzz",
       "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 184,
+      "title": "Jackie Brown",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Jackie Brown (1997) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 90,
+      "title": "Beverly Hills Cop",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Beverly Hills Cop (1984) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Hot Fuzz (2007) operates in the same action as Lethal Weapon, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "whyYoullLoveIt": "If Lethal Weapon clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -155,7 +155,7 @@
   "faq": [
     {
       "question": "What should I watch after Lethal Weapon?",
-      "answer": "Try Lethal Weapon 2, Lethal Weapon 3, Lethal Weapon 4—each shares DNA with Lethal Weapon while changing the setting enough to feel fresh."
+      "answer": "Try Tango & Cash, The Rip, Hard Target—each shares DNA with Lethal Weapon while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Lethal Weapon?",

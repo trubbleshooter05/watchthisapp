@@ -21,38 +21,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 8810,
-      "title": "Mad Max 2",
-      "year": 1981,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Mad Max 2 (1981) captures the adventure appeal of Mad Max without simply imitating it. The action streak running through both films is what puts Mad Max 2 at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "adventure",
-        "action",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 76341,
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "The adventure appeal of Mad Max — that tense edge, the action — translates cleanly into Mad Max: Fury Road (2015). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "adventure",
-        "action",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
       "tmdbId": 7299,
       "title": "Equilibrium",
       "year": 2002,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The filmmakers behind Equilibrium (2002) clearly understood what makes action work — the same quality that keeps Mad Max rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Equilibrium (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -64,21 +37,8 @@
       "tmdbId": 786892,
       "title": "Furiosa: A Mad Max Saga",
       "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Furiosa: A Mad Max Saga (2024) is the kind of film Mad Max fans discover and immediately send to their group chat. The adventure overlap is real, but it's the tense emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "adventure",
-        "action",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 9355,
-      "title": "Mad Max Beyond Thunderdome",
-      "year": 1985,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Mad Max Beyond Thunderdome shares Mad Max's gift for adventure — the 1985 film delivers action without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Furiosa: A Mad Max Saga (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
         "action",
@@ -90,8 +50,8 @@
       "tmdbId": 1242898,
       "title": "Predator: Badlands",
       "year": 2025,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Much of what makes Mad Max compelling — the adventure, the action — shows up in Predator: Badlands (2025) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Predator: Badlands (2025) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
         "action",
@@ -103,8 +63,8 @@
       "tmdbId": 31867,
       "title": "Repo Men",
       "year": 2010,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The action energy of Mad Max is alive in Repo Men (2010), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Repo Men (2010) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -117,8 +77,8 @@
       "tmdbId": 310135,
       "title": "Turbo Kid",
       "year": 2015,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Turbo Kid (2015) operates in the same adventure as Mad Max, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Turbo Kid (2015) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
         "action",
@@ -131,8 +91,8 @@
       "tmdbId": 10540,
       "title": "Outland",
       "year": 1981,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Outland (1981) belongs to the same conversation as Mad Max — both anchor their action in thriller emotion that doesn't let go. The dark undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mad Max clicked for you, Outland (1981) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -146,8 +106,8 @@
       "tmdbId": 333371,
       "title": "10 Cloverfield Lane",
       "year": 2016,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "If Mad Max's thriller stayed with you, 10 Cloverfield Lane (2016) delivers the same sensation through an entirely different story. The science-fiction through-line is the real common thread between them.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mad Max clicked for you, 10 Cloverfield Lane (2016) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "thriller",
         "science-fiction",
@@ -155,12 +115,51 @@
         "horror"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 604079,
+      "title": "The Long Walk",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mad Max clicked for you, The Long Walk (2025) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10586,
+      "title": "The Ghost and the Darkness",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mad Max clicked for you, The Ghost and the Darkness (1996) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 199575,
+      "title": "These Final Hours",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mad Max clicked for you, These Final Hours (2014) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Mad Max?",
-      "answer": "Try Mad Max 2, Mad Max: Fury Road, Equilibrium—each shares DNA with Mad Max while changing the setting enough to feel fresh."
+      "answer": "Try Equilibrium, Furiosa: A Mad Max Saga, Predator: Badlands—each shares DNA with Mad Max while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Mad Max?",

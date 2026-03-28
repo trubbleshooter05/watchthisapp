@@ -19,16 +19,15 @@
   },
   "recommendations": [
     {
-      "tmdbId": 197,
-      "title": "Braveheart",
-      "year": 1995,
+      "tmdbId": 10590,
+      "title": "We Were Soldiers",
+      "year": 2002,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "There's a reason Midway fans keep landing on Braveheart (1995) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "whyYoullLoveIt": "If Midway clicked for you, We Were Soldiers (2002) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
-        "history",
-        "drama"
+        "history"
       ],
       "mood": "tense"
     },
@@ -37,7 +36,7 @@
       "title": "The Great Raid",
       "year": 2005,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "The Great Raid draws from the same action well as Midway, channeling war in ways that feel unmistakably related. The 2005 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "whyYoullLoveIt": "If Midway clicked for you, The Great Raid (2005) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
@@ -50,7 +49,7 @@
       "title": "Danger Close: The Battle of Long Tan",
       "year": 2019,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "Danger Close: The Battle of Long Tan (2019) captures the action appeal of Midway without simply imitating it. The war streak running through both films is what puts Danger Close: The Battle of Long Tan at the top of any \"if you liked…\" shortlist.",
+      "whyYoullLoveIt": "If Midway clicked for you, Danger Close: The Battle of Long Tan (2019) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
@@ -64,7 +63,7 @@
       "title": "Battle of Britain",
       "year": 1969,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "The action appeal of Midway — that tense edge, the war — translates cleanly into Battle of Britain (1969). Different setting, same essential satisfaction.",
+      "whyYoullLoveIt": "If Midway clicked for you, Battle of Britain (1969) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
@@ -73,25 +72,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 11422,
-      "title": "Midway",
-      "year": 1976,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The filmmakers behind Midway (1976) clearly understood what makes action work — the same quality that keeps Midway rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "action",
-        "war",
-        "history",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
       "tmdbId": 193756,
       "title": "Lone Survivor",
       "year": 2013,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Lone Survivor (2013) is the kind of film Midway fans discover and immediately send to their group chat. The action overlap is real, but it's the tense emotional pull that seals the recommendation.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Midway clicked for you, Lone Survivor (2013) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
@@ -103,8 +88,8 @@
       "tmdbId": 8741,
       "title": "The Thin Red Line",
       "year": 1998,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The Thin Red Line shares Midway's gift for war — the 1998 film delivers history without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Midway clicked for you, The Thin Red Line (1998) is a strong next stop: both trade in war and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "war",
         "history",
@@ -116,8 +101,8 @@
       "tmdbId": 516486,
       "title": "Greyhound",
       "year": 2020,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Much of what makes Midway compelling — the action, the war — shows up in Greyhound (2020) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Midway clicked for you, Greyhound (2020) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "war",
@@ -126,11 +111,25 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 205,
-      "title": "Hotel Rwanda",
-      "year": 2004,
+      "tmdbId": 10911,
+      "title": "The Guns of Navarone",
+      "year": 1961,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Midway clicked for you, The Guns of Navarone (1961) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1061699,
+      "title": "The Six Triple Eight",
+      "year": 2024,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "The war energy of Midway is alive in Hotel Rwanda (2004), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "whyYoullLoveIt": "If Midway clicked for you, The Six Triple Eight (2024) is a strong next stop: both trade in war and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "war",
         "history",
@@ -139,11 +138,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 387,
-      "title": "Das Boot",
-      "year": 1981,
+      "tmdbId": 10655,
+      "title": "Gettysburg",
+      "year": 1993,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Das Boot (1981) operates in the same war as Midway, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "whyYoullLoveIt": "If Midway clicked for you, Gettysburg (1993) is a strong next stop: both trade in war and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "war",
         "history",
@@ -155,7 +154,7 @@
   "faq": [
     {
       "question": "What should I watch after Midway?",
-      "answer": "Try Braveheart, The Great Raid, Danger Close: The Battle of Long Tan—each shares DNA with Midway while changing the setting enough to feel fresh."
+      "answer": "Try We Were Soldiers, The Great Raid, Danger Close: The Battle of Long Tan—each shares DNA with Midway while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Midway?",

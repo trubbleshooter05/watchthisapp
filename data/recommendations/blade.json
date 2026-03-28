@@ -17,25 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 36586,
-      "title": "Blade II",
-      "year": 2002,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Blade II shares Blade's gift for horror — the 2002 film delivers action without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "horror",
-        "action",
-        "fantasy",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 1577,
       "title": "Resident Evil: Apocalypse",
       "year": 2004,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Blade compelling — the horror, the action — shows up in Resident Evil: Apocalypse (2004) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Blade clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "action",
@@ -44,11 +30,91 @@
       "mood": "dark"
     },
     {
+      "tmdbId": 346672,
+      "title": "Underworld: Blood Wars",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Blade clicked for you, Underworld: Blood Wars (2016) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "fantasy",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 38321,
+      "title": "Priest",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Blade clicked for you, Priest (2011) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 27150,
+      "title": "Silent Rage",
+      "year": 1982,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Blade clicked for you, Silent Rage (1982) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 26480,
+      "title": "The Legend of the 7 Golden Vampires",
+      "year": 1974,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Blade clicked for you, The Legend of the 7 Golden Vampires (1974) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 297761,
+      "title": "Suicide Squad",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Blade clicked for you, Suicide Squad (2016) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 209112,
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Blade clicked for you, Batman v Superman: Dawn of Justice (2016) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
       "tmdbId": 4108,
       "title": "The Transporter",
       "year": 2002,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The action energy of Blade is alive in The Transporter (2002), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Blade clicked for you, The Transporter (2002) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -57,99 +123,36 @@
       "mood": "dark"
     },
     {
+      "tmdbId": 3597,
+      "title": "I Know What You Did Last Summer",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Blade clicked for you, I Know What You Did Last Summer (1997) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
       "tmdbId": 539972,
       "title": "Kraven the Hunter",
       "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Kraven the Hunter (2024) operates in the same action as Blade, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Blade clicked for you, Kraven the Hunter (2024) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
         "thriller"
       ],
       "mood": "tense"
-    },
-    {
-      "tmdbId": 4141,
-      "title": "Shoot 'Em Up",
-      "year": 2007,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Shoot 'Em Up (2007) belongs to the same conversation as Blade — both anchor their action in thriller emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 4105,
-      "title": "Black Rain",
-      "year": 1989,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Blade's action stayed with you, Black Rain (1989) delivers the same sensation through an entirely different story. The drama through-line is the real common thread between them.",
-      "sharedVibes": [
-        "action",
-        "drama",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 3604,
-      "title": "Flash Gordon",
-      "year": 1980,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Blade excels in action, Flash Gordon (1980) doubles down on science-fiction to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 52015,
-      "title": "Stake Land",
-      "year": 2010,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Stake Land (2010) is the natural next step after Blade: same horror DNA, different perspective. The dark streak and drama elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "horror",
-        "drama",
-        "science-fiction"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11891,
-      "title": "Kung Pow: Enter the Fist",
-      "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Blade who respond to its action will find Kung Pow: Enter the Fist (2002) immediately familiar. Both films share a comedy sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "action",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 11868,
-      "title": "Dracula",
-      "year": 1958,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Blade fans keep landing on Dracula (1958) — the horror is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "horror"
-      ],
-      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Blade?",
-      "answer": "Try Blade II, Resident Evil: Apocalypse, The Transporter—each shares DNA with Blade while changing the setting enough to feel fresh."
+      "answer": "Try Resident Evil: Apocalypse, Underworld: Blood Wars, Priest—each shares DNA with Blade while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Blade?",

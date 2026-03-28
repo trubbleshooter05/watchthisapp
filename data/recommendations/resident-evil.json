@@ -19,37 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 1577,
-      "title": "Resident Evil: Apocalypse",
-      "year": 2004,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Where Resident Evil excels in horror, Resident Evil: Apocalypse (2004) doubles down on action to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "horror",
-        "action",
-        "science-fiction"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 7737,
-      "title": "Resident Evil: Extinction",
-      "year": 2007,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Resident Evil: Extinction (2007) is the natural next step after Resident Evil: same horror DNA, different perspective. The dark streak and action elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "horror",
-        "action",
-        "science-fiction"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 338676,
       "title": "Extinction",
       "year": 2015,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Fans of Resident Evil who respond to its horror will find Extinction (2015) immediately familiar. Both films share a action sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Extinction (2015) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "action",
@@ -63,8 +37,8 @@
       "tmdbId": 263115,
       "title": "Logan",
       "year": 2017,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "There's a reason Resident Evil fans keep landing on Logan (2017) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Logan (2017) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
@@ -73,90 +47,118 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 607,
-      "title": "Men in Black",
-      "year": 1997,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Men in Black draws from the same action well as Resident Evil, channeling science-fiction in ways that feel unmistakably related. The 1997 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Repo Men (2010) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Land of the Dead (2005) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 142061,
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Batman: The Dark Knight Returns, Part 2 (2013) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11234,
+      "title": "The Omega Man",
+      "year": 1971,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, The Omega Man (1971) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "family",
         "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
         "comedy"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 157350,
-      "title": "Divergent",
-      "year": 2014,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Divergent (2014) captures the action appeal of Resident Evil without simply imitating it. The science-fiction streak running through both films is what puts Divergent at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 605,
-      "title": "The Matrix Revolutions",
-      "year": 2003,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The action appeal of Resident Evil — that tense edge, the science-fiction — translates cleanly into The Matrix Revolutions (2003). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 841,
-      "title": "Dune",
-      "year": 1984,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The filmmakers behind Dune (1984) clearly understood what makes action work — the same quality that keeps Resident Evil rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 865,
-      "title": "The Running Man",
-      "year": 1987,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The Running Man (1987) is the kind of film Resident Evil fans discover and immediately send to their group chat. The action overlap is real, but it's the tense emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 837,
-      "title": "Videodrome",
-      "year": 1983,
+      "tmdbId": 2666,
+      "title": "Dark City",
+      "year": 1998,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Videodrome shares Resident Evil's gift for horror — the 1983 film delivers science-fiction without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "whyYoullLoveIt": "If Resident Evil clicked for you, Dark City (1998) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "horror",
         "science-fiction",
         "mystery"
       ],
-      "mood": "dark"
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Resident Evil?",
-      "answer": "Try Resident Evil: Apocalypse, Resident Evil: Extinction, Extinction—each shares DNA with Resident Evil while changing the setting enough to feel fresh."
+      "answer": "Try Extinction, Logan, Divergent—each shares DNA with Resident Evil while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Resident Evil?",

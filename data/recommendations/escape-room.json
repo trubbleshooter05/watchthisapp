@@ -19,24 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 585216,
-      "title": "Escape Room: Tournament of Champions",
-      "year": 2021,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Escape Room: Tournament of Champions shares Escape Room's gift for horror — the 2021 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "horror",
-        "thriller",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 513268,
       "title": "Body Cam",
       "year": 2020,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Escape Room compelling — the horror, the thriller — shows up in Body Cam (2020) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Body Cam (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
@@ -48,8 +35,8 @@
       "tmdbId": 405774,
       "title": "Bird Box",
       "year": 2018,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The horror energy of Escape Room is alive in Bird Box (2018), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Bird Box (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
@@ -61,8 +48,8 @@
       "tmdbId": 176,
       "title": "Saw",
       "year": 2004,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Saw (2004) operates in the same horror as Escape Room, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Saw (2004) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "mystery",
@@ -74,8 +61,8 @@
       "tmdbId": 431,
       "title": "Cube",
       "year": 1998,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Cube (1998) belongs to the same conversation as Escape Room — both anchor their thriller in mystery emotion that doesn't let go. The tense undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Cube (1998) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "thriller",
         "mystery",
@@ -84,23 +71,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 713704,
-      "title": "Evil Dead Rise",
-      "year": 2023,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Escape Room's horror stayed with you, Evil Dead Rise (2023) delivers the same sensation through an entirely different story. The thriller through-line is the real common thread between them.",
-      "sharedVibes": [
-        "horror",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 514847,
       "title": "The Hunt",
       "year": 2020,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Escape Room excels in horror, The Hunt (2020) doubles down on thriller to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Escape Room clicked for you, The Hunt (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
@@ -112,8 +87,8 @@
       "tmdbId": 22804,
       "title": "Saw VI",
       "year": 2009,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Saw VI (2009) is the natural next step after Escape Room: same horror DNA, different perspective. The dark streak and thriller elevate it well above a simple genre exercise.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Saw VI (2009) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller"
@@ -121,11 +96,24 @@
       "mood": "dark"
     },
     {
+      "tmdbId": 12403,
+      "title": "A Perfect Getaway",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Escape Room clicked for you, A Perfect Getaway (2009) is a strong next stop: both trade in thriller and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
       "tmdbId": 411143,
       "title": "Tau",
       "year": 2018,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Escape Room who respond to its horror will find Tau (2018) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Tau (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
@@ -134,13 +122,28 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 215,
-      "title": "Saw II",
-      "year": 2005,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Escape Room fans keep landing on Saw II (2005) — the horror is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "tmdbId": 10766,
+      "title": "Damien - Omen II",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Damien - Omen II (1978) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "horror"
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10692,
+      "title": "Henry: Portrait of a Serial Killer",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Escape Room clicked for you, Henry: Portrait of a Serial Killer (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime",
+        "drama"
       ],
       "mood": "dark"
     }
@@ -148,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after Escape Room?",
-      "answer": "Try Escape Room: Tournament of Champions, Body Cam, Bird Box—each shares DNA with Escape Room while changing the setting enough to feel fresh."
+      "answer": "Try Body Cam, Bird Box, Saw—each shares DNA with Escape Room while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Escape Room?",

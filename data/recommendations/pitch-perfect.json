@@ -19,26 +19,31 @@
   },
   "recommendations": [
     {
-      "tmdbId": 254470,
-      "title": "Pitch Perfect 2",
-      "year": 2015,
+      "tmdbId": 10947,
+      "title": "High School Musical",
+      "year": 2006,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "Pitch Perfect 2 shares Pitch Perfect's gift for comedy — the 2015 film delivers music without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, High School Musical (2006) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
-        "music"
+        "music",
+        "romance",
+        "drama",
+        "family"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 353616,
-      "title": "Pitch Perfect 3",
-      "year": 2017,
+      "tmdbId": 13497,
+      "title": "Drumline",
+      "year": 2002,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Pitch Perfect compelling — the comedy, the music — shows up in Pitch Perfect 3 (2017) in a slightly different form. Both films understand that funny storytelling works best when it trusts the audience.",
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Drumline (2002) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
-        "music"
+        "music",
+        "romance",
+        "drama"
       ],
       "mood": "funny"
     },
@@ -47,7 +52,7 @@
       "title": "Wayne's World",
       "year": 1992,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "The comedy energy of Pitch Perfect is alive in Wayne's World (1992), filtered through a different story but the same emotional register. It earns its place on this list with a funny payoff that rivals the original pick.",
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Wayne's World (1992) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "music"
@@ -55,11 +60,23 @@
       "mood": "funny"
     },
     {
+      "tmdbId": 10314,
+      "title": "She's All That",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, She's All That (1999) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
       "tmdbId": 531454,
       "title": "Eurovision Song Contest: The Story of Fire Saga",
       "year": 2020,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Eurovision Song Contest: The Story of Fire Saga (2020) operates in the same comedy as Pitch Perfect, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Eurovision Song Contest: The Story of Fire Saga (2020) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "music"
@@ -70,8 +87,8 @@
       "tmdbId": 612706,
       "title": "Work It",
       "year": 2020,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Work It (2020) belongs to the same conversation as Pitch Perfect — both anchor their comedy in music emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Work It (2020) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "music"
@@ -79,11 +96,24 @@
       "mood": "funny"
     },
     {
+      "tmdbId": 707886,
+      "title": "Feel the Beat",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Feel the Beat (2020) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
       "tmdbId": 37725,
       "title": "It's a Boy Girl Thing",
       "year": 2006,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Pitch Perfect's comedy stayed with you, It's a Boy Girl Thing (2006) delivers the same sensation through an entirely different story. The romance through-line is the real common thread between them.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, It's a Boy Girl Thing (2006) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "romance",
@@ -95,8 +125,8 @@
       "tmdbId": 762968,
       "title": "Do Revenge",
       "year": 2022,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Pitch Perfect excels in comedy, Do Revenge (2022) doubles down on romance to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Do Revenge (2022) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "romance",
@@ -108,36 +138,12 @@
       "tmdbId": 10654,
       "title": "Hair",
       "year": 1979,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Hair (1979) is the natural next step after Pitch Perfect: same comedy DNA, different perspective. The funny streak and music elevate it well above a simple genre exercise.",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pitch Perfect clicked for you, Hair (1979) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "music",
         "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 15037,
-      "title": "Can't Hardly Wait",
-      "year": 1998,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Pitch Perfect who respond to its comedy will find Can't Hardly Wait (1998) immediately familiar. Both films share a romance sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 15143,
-      "title": "Some Kind of Wonderful",
-      "year": 1987,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Pitch Perfect fans keep landing on Some Kind of Wonderful (1987) — the comedy is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
       ],
       "mood": "funny"
     }
@@ -145,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after Pitch Perfect?",
-      "answer": "Try Pitch Perfect 2, Pitch Perfect 3, Wayne's World—each shares DNA with Pitch Perfect while changing the setting enough to feel fresh."
+      "answer": "Try High School Musical, Drumline, Wayne's World—each shares DNA with Pitch Perfect while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Pitch Perfect?",

@@ -17,23 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 6279,
-      "title": "Sister Act 2: Back in the Habit",
-      "year": 1993,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Sister Act 2: Back in the Habit draws from the same music well as Sister Act, channeling comedy in ways that feel unmistakably related. The 1993 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "music",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 12182,
       "title": "Nick and Norah's Infinite Playlist",
       "year": 2008,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Nick and Norah's Infinite Playlist (2008) captures the music appeal of Sister Act without simply imitating it. The comedy streak running through both films is what puts Nick and Norah's Infinite Playlist at the top of any \"if you liked…\" shortlist.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sister Act clicked for you, Nick and Norah's Infinite Playlist (2008) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "comedy",
@@ -46,8 +34,8 @@
       "tmdbId": 12614,
       "title": "Victor/Victoria",
       "year": 1982,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The music appeal of Sister Act — that funny edge, the comedy — translates cleanly into Victor/Victoria (1982). Different setting, same essential satisfaction.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sister Act clicked for you, Victor/Victoria (1982) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "comedy",
@@ -56,15 +44,27 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 105,
-      "title": "Back to the Future",
-      "year": 1985,
+      "tmdbId": 17661,
+      "title": "Going My Way",
+      "year": 1944,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sister Act clicked for you, Going My Way (1944) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10625,
+      "title": "Mean Girls",
+      "year": 2004,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "The filmmakers behind Back to the Future (1985) clearly understood what makes comedy work — the same quality that keeps Sister Act rewatchable. Expect the same funny rhythm, executed with a fresh angle.",
+      "whyYoullLoveIt": "If Sister Act clicked for you, Mean Girls (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
-        "adventure",
-        "science-fiction"
+        "drama"
       ],
       "mood": "funny"
     },
@@ -73,7 +73,7 @@
       "title": "The Sound of Music",
       "year": 1965,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "The Sound of Music (1965) is the kind of film Sister Act fans discover and immediately send to their group chat. The music overlap is real, but it's the bittersweet emotional pull that seals the recommendation.",
+      "whyYoullLoveIt": "If Sister Act clicked for you, The Sound of Music (1965) is a strong next stop: both trade in music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -83,24 +83,37 @@
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 69,
-      "title": "Walk the Line",
-      "year": 2005,
+      "tmdbId": 5516,
+      "title": "The Ladykillers",
+      "year": 2004,
       "matchPercentage": 86,
-      "whyYoullLoveIt": "Walk the Line shares Sister Act's gift for music — the 2005 film delivers drama without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "whyYoullLoveIt": "If Sister Act clicked for you, The Ladykillers (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10537,
+      "title": "The Doors",
+      "year": 1991,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sister Act clicked for you, The Doors (1991) is a strong next stop: both trade in music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
-        "romance"
+        "history"
       ],
-      "mood": "bittersweet"
+      "mood": "tense"
     },
     {
       "tmdbId": 74018,
       "title": "A Cinderella Story: Once Upon a Song",
       "year": 2011,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Much of what makes Sister Act compelling — the comedy, the family — shows up in A Cinderella Story: Once Upon a Song (2011) in a slightly different form. Both films understand that funny storytelling works best when it trusts the audience.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sister Act clicked for you, A Cinderella Story: Once Upon a Song (2011) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "family",
@@ -110,23 +123,11 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 212,
-      "title": "Arsenic and Old Lace",
-      "year": 1944,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The comedy energy of Sister Act is alive in Arsenic and Old Lace (1944), filtered through a different story but the same emotional register. It earns its place on this list with a funny payoff that rivals the original pick.",
-      "sharedVibes": [
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 1137350,
       "title": "The Phoenician Scheme",
       "year": 2025,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "The Phoenician Scheme (2025) operates in the same comedy as Sister Act, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "whyYoullLoveIt": "If Sister Act clicked for you, The Phoenician Scheme (2025) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "adventure",
@@ -139,7 +140,7 @@
       "title": "Quartet",
       "year": 2012,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Quartet (2012) belongs to the same conversation as Sister Act — both anchor their comedy in drama emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "whyYoullLoveIt": "If Sister Act clicked for you, Quartet (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "drama",
@@ -151,7 +152,7 @@
   "faq": [
     {
       "question": "What should I watch after Sister Act?",
-      "answer": "Try Sister Act 2: Back in the Habit, Nick and Norah's Infinite Playlist, Victor/Victoria—each shares DNA with Sister Act while changing the setting enough to feel fresh."
+      "answer": "Try Nick and Norah's Infinite Playlist, Victor/Victoria, Going My Way—each shares DNA with Sister Act while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Sister Act?",

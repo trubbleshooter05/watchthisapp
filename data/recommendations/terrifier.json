@@ -19,11 +19,24 @@
       "title": "It",
       "year": 2017,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "It (2017) is the natural next step after Terrifier: same horror DNA, different perspective. The dark streak and thriller elevate it well above a simple genre exercise.",
+      "whyYoullLoveIt": "If Terrifier clicked for you, It (2017) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
         "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 539,
+      "title": "Psycho",
+      "year": 1960,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Terrifier clicked for you, Psycho (1960) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
       ],
       "mood": "dark"
     },
@@ -31,8 +44,8 @@
       "tmdbId": 474350,
       "title": "It Chapter Two",
       "year": 2019,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Fans of Terrifier who respond to its horror will find It Chapter Two (2019) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Terrifier clicked for you, It Chapter Two (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller",
@@ -41,38 +54,25 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 4232,
-      "title": "Scream",
-      "year": 1996,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "There's a reason Terrifier fans keep landing on Scream (1996) — the horror is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "horror",
-        "crime",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4233,
-      "title": "Scream 2",
-      "year": 1997,
+      "tmdbId": 377,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "Scream 2 draws from the same horror well as Terrifier, channeling mystery in ways that feel unmistakably related. The 1997 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4488,
-      "title": "Friday the 13th",
-      "year": 1980,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Friday the 13th (1980) captures the horror appeal of Terrifier without simply imitating it. The dark streak running through both films is what puts Friday the 13th at the top of any \"if you liked…\" shortlist.",
+      "whyYoullLoveIt": "If Terrifier clicked for you, A Nightmare on Elm Street (1984) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 588,
+      "title": "Silent Hill",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Terrifier clicked for you, Silent Hill (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
       ],
       "mood": "dark"
     },
@@ -81,33 +81,20 @@
       "title": "Halloween",
       "year": 2007,
       "matchPercentage": 86,
-      "whyYoullLoveIt": "The horror appeal of Terrifier — that dark edge, the craft — translates cleanly into Halloween (2007). Different setting, same essential satisfaction.",
+      "whyYoullLoveIt": "If Terrifier clicked for you, Halloween (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 663712,
-      "title": "Terrifier 2",
-      "year": 2022,
+      "tmdbId": 138,
+      "title": "Dracula",
+      "year": 1931,
       "matchPercentage": 84,
-      "whyYoullLoveIt": "The filmmakers behind Terrifier 2 (2022) clearly understood what makes horror work — the same quality that keeps Terrifier rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "whyYoullLoveIt": "If Terrifier clicked for you, Dracula (1931) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "horror",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 1034541,
-      "title": "Terrifier 3",
-      "year": 2024,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Terrifier 3 (2024) is the kind of film Terrifier fans discover and immediately send to their group chat. The horror overlap is real, but it's the dark emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "horror",
-        "thriller"
+        "horror"
       ],
       "mood": "dark"
     },
@@ -115,11 +102,23 @@
       "tmdbId": 517116,
       "title": "Haunt",
       "year": 2019,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Haunt shares Terrifier's gift for horror — the 2019 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Terrifier clicked for you, Haunt (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 136,
+      "title": "Freaks",
+      "year": 1932,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Terrifier clicked for you, Freaks (1932) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
       ],
       "mood": "dark"
     },
@@ -128,7 +127,7 @@
       "title": "Killer Klowns from Outer Space",
       "year": 1988,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Much of what makes Terrifier compelling — the horror, the comedy — shows up in Killer Klowns from Outer Space (1988) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "whyYoullLoveIt": "If Terrifier clicked for you, Killer Klowns from Outer Space (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "comedy",
@@ -140,7 +139,7 @@
   "faq": [
     {
       "question": "What should I watch after Terrifier?",
-      "answer": "Try It, It Chapter Two, Scream—each shares DNA with Terrifier while changing the setting enough to feel fresh."
+      "answer": "Try It, Psycho, It Chapter Two—each shares DNA with Terrifier while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Terrifier?",

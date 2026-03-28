@@ -23,41 +23,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 446893,
-      "title": "Trolls World Tour",
-      "year": 2020,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Trolls World Tour (2020) operates in the same family as Trolls, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
-      "sharedVibes": [
-        "family",
-        "animation",
-        "fantasy",
-        "adventure",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 901362,
-      "title": "Trolls Band Together",
-      "year": 2023,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Trolls Band Together (2023) belongs to the same conversation as Trolls — both anchor their family in animation emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
-      "sharedVibes": [
-        "family",
-        "animation",
-        "fantasy",
-        "adventure",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 30074,
       "title": "Scooby-Doo! and the Legend of the Vampire",
       "year": 2003,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Trolls's family stayed with you, Scooby-Doo! and the Legend of the Vampire (2003) delivers the same sensation through an entirely different story. The animation through-line is the real common thread between them.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Trolls clicked for you, Scooby-Doo! and the Legend of the Vampire (2003) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -71,8 +41,8 @@
       "tmdbId": 592983,
       "title": "Spellbound",
       "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Where Trolls excels in family, Spellbound (2024) doubles down on animation to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Trolls clicked for you, Spellbound (2024) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -86,8 +56,8 @@
       "tmdbId": 170687,
       "title": "The Boxtrolls",
       "year": 2014,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The Boxtrolls (2014) is the natural next step after Trolls: same family DNA, different perspective. The funny streak and animation elevate it well above a simple genre exercise.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Trolls clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -100,8 +70,8 @@
       "tmdbId": 417320,
       "title": "Descendants 2",
       "year": 2017,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Fans of Trolls who respond to its family will find Descendants 2 (2017) immediately familiar. Both films share a fantasy sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Trolls clicked for you, Descendants 2 (2017) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "fantasy",
@@ -115,8 +85,8 @@
       "tmdbId": 454458,
       "title": "UglyDolls",
       "year": 2019,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "There's a reason Trolls fans keep landing on UglyDolls (2019) — the family is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Trolls clicked for you, UglyDolls (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -129,8 +99,8 @@
       "tmdbId": 335360,
       "title": "My Little Pony: The Movie",
       "year": 2017,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "My Little Pony: The Movie draws from the same family well as Trolls, channeling animation in ways that feel unmistakably related. The 2017 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Trolls clicked for you, My Little Pony: The Movie (2017) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -140,11 +110,37 @@
       "mood": "uplifting"
     },
     {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Trolls clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Trolls clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
       "tmdbId": 756,
       "title": "Fantasia",
       "year": 1940,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "Fantasia (1940) captures the family appeal of Trolls without simply imitating it. The animation streak running through both films is what puts Fantasia at the top of any \"if you liked…\" shortlist.",
+      "whyYoullLoveIt": "If Trolls clicked for you, Fantasia (1940) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "family",
         "animation",
@@ -153,15 +149,15 @@
       "mood": "uplifting"
     },
     {
-      "tmdbId": 3933,
-      "title": "Corpse Bride",
-      "year": 2005,
+      "tmdbId": 250480,
+      "title": "The Many Adventures of Winnie the Pooh",
+      "year": 1977,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "The animation appeal of Trolls — that uplifting edge, the fantasy — translates cleanly into Corpse Bride (2005). Different setting, same essential satisfaction.",
+      "whyYoullLoveIt": "If Trolls clicked for you, The Many Adventures of Winnie the Pooh (1977) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
+        "family",
         "animation",
-        "fantasy",
-        "romance"
+        "adventure"
       ],
       "mood": "uplifting"
     }
@@ -169,7 +165,7 @@
   "faq": [
     {
       "question": "What should I watch after Trolls?",
-      "answer": "Try Trolls World Tour, Trolls Band Together, Scooby-Doo! and the Legend of the Vampire—each shares DNA with Trolls while changing the setting enough to feel fresh."
+      "answer": "Try Scooby-Doo! and the Legend of the Vampire, Spellbound, The Boxtrolls—each shares DNA with Trolls while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Trolls?",

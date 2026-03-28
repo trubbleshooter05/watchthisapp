@@ -17,24 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 27578,
-      "title": "The Expendables",
-      "year": 2010,
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If Extraction's action stayed with you, The Expendables (2010) delivers the same sensation through an entirely different story. The thriller through-line is the real common thread between them.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 697843,
-      "title": "Extraction 2",
-      "year": 2023,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Where Extraction excels in action, Extraction 2 (2023) doubles down on thriller to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "whyYoullLoveIt": "If Extraction clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -43,23 +30,24 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 3595,
-      "title": "Ransom",
-      "year": 1996,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Ransom (1996) is the natural next step after Extraction: same action DNA, different perspective. The tense streak and thriller elevate it well above a simple genre exercise.",
+      "tmdbId": 189,
+      "title": "Sin City: A Dame to Kill For",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Extraction clicked for you, Sin City: A Dame to Kill For (2014) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
-        "thriller"
+        "thriller",
+        "crime"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
       "tmdbId": 560016,
       "title": "Monkey Man",
       "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Fans of Extraction who respond to its action will find Monkey Man (2024) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Extraction clicked for you, Monkey Man (2024) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller"
@@ -70,8 +58,8 @@
       "tmdbId": 668489,
       "title": "Havoc",
       "year": 2025,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "There's a reason Extraction fans keep landing on Havoc (2025) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Extraction clicked for you, Havoc (2025) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -84,8 +72,8 @@
       "tmdbId": 20762,
       "title": "The Substitute",
       "year": 1996,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The Substitute draws from the same action well as Extraction, channeling thriller in ways that feel unmistakably related. The 1996 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Extraction clicked for you, The Substitute (1996) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -98,8 +86,8 @@
       "tmdbId": 11018,
       "title": "Year of the Dragon",
       "year": 1985,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Year of the Dragon (1985) captures the action appeal of Extraction without simply imitating it. The thriller streak running through both films is what puts Year of the Dragon at the top of any \"if you liked…\" shortlist.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Extraction clicked for you, Year of the Dragon (1985) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -111,8 +99,8 @@
       "tmdbId": 1125899,
       "title": "Cleaner",
       "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The action appeal of Extraction — that tense edge, the thriller — translates cleanly into Cleaner (2025). Different setting, same essential satisfaction.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Extraction clicked for you, Cleaner (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller"
@@ -123,8 +111,8 @@
       "tmdbId": 127521,
       "title": "6 Bullets",
       "year": 2012,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The filmmakers behind 6 Bullets (2012) clearly understood what makes action work — the same quality that keeps Extraction rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Extraction clicked for you, 6 Bullets (2012) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -136,20 +124,33 @@
       "tmdbId": 680,
       "title": "Pulp Fiction",
       "year": 1994,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Pulp Fiction (1994) is the kind of film Extraction fans discover and immediately send to their group chat. The thriller overlap is real, but it's the funny emotional pull that seals the recommendation.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Extraction clicked for you, Pulp Fiction (1994) is a strong next stop: both trade in thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "thriller",
         "crime",
         "comedy"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Extraction clicked for you, Batman Begins (2005) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Extraction?",
-      "answer": "Try The Expendables, Extraction 2, Ransom—each shares DNA with Extraction while changing the setting enough to feel fresh."
+      "answer": "Try The Dark Knight, Sin City: A Dame to Kill For, Monkey Man—each shares DNA with Extraction while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Extraction?",

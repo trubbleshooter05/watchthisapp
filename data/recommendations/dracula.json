@@ -19,24 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 33521,
-      "title": "Dracula",
-      "year": 1979,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Dracula (1979) is the kind of film Dracula fans discover and immediately send to their group chat. The horror overlap is real, but it's the dark emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "horror",
-        "fantasy",
-        "romance"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 628,
       "title": "Interview with the Vampire",
       "year": 1994,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Interview with the Vampire shares Dracula's gift for horror — the 1994 film delivers fantasy without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dracula clicked for you, Interview with the Vampire (1994) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "fantasy",
@@ -48,8 +35,8 @@
       "tmdbId": 6114,
       "title": "Bram Stoker's Dracula",
       "year": 1992,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Much of what makes Dracula compelling — the horror, the romance — shows up in Bram Stoker's Dracula (1992) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dracula clicked for you, Bram Stoker's Dracula (1992) is a strong next stop: both trade in horror and romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "romance"
@@ -60,8 +47,8 @@
       "tmdbId": 426063,
       "title": "Nosferatu",
       "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The horror energy of Dracula is alive in Nosferatu (2024), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dracula clicked for you, Nosferatu (2024) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "fantasy"
@@ -72,8 +59,8 @@
       "tmdbId": 649609,
       "title": "Renfield",
       "year": 2023,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Renfield (2023) operates in the same horror as Dracula, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dracula clicked for you, Renfield (2023) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "fantasy",
@@ -85,11 +72,24 @@
       "tmdbId": 635910,
       "title": "The Last Voyage of the Demeter",
       "year": 2023,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The Last Voyage of the Demeter (2023) belongs to the same conversation as Dracula — both anchor their horror in fantasy emotion that doesn't let go. The dark undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dracula clicked for you, The Last Voyage of the Demeter (2023) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 779,
+      "title": "Vampyr",
+      "year": 1932,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dracula clicked for you, Vampyr (1932) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "mystery"
       ],
       "mood": "dark"
     },
@@ -98,7 +98,7 @@
       "title": "Dolls",
       "year": 1986,
       "matchPercentage": 84,
-      "whyYoullLoveIt": "If Dracula's horror stayed with you, Dolls (1986) delivers the same sensation through an entirely different story. The fantasy through-line is the real common thread between them.",
+      "whyYoullLoveIt": "If Dracula clicked for you, Dolls (1986) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "fantasy"
@@ -106,48 +106,47 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 7131,
-      "title": "Van Helsing",
-      "year": 2004,
+      "tmdbId": 348,
+      "title": "Alien",
+      "year": 1979,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "Where Dracula excels in horror, Van Helsing (2004) doubles down on adventure to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "whyYoullLoveIt": "If Dracula clicked for you, Alien (1979) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
-        "adventure",
-        "action"
+        "science-fiction"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 1427,
-      "title": "Perfume: The Story of a Murderer",
-      "year": 2006,
+      "tmdbId": 194,
+      "title": "Amélie",
+      "year": 2001,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "Perfume: The Story of a Murderer (2006) is the natural next step after Dracula: same fantasy DNA, different perspective. The tense streak and crime elevate it well above a simple genre exercise.",
+      "whyYoullLoveIt": "If Dracula clicked for you, Amélie (2001) is a strong next stop: both trade in romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277,
+      "title": "Underworld",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dracula clicked for you, Underworld (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
-        "crime",
-        "drama"
+        "action",
+        "thriller"
       ],
       "mood": "tense"
-    },
-    {
-      "tmdbId": 591273,
-      "title": "Fear Street: 1994",
-      "year": 2021,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Fans of Dracula who respond to its horror will find Fear Street: 1994 (2021) immediately familiar. Both films share a mystery sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "horror",
-        "mystery"
-      ],
-      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Dracula?",
-      "answer": "Try Dracula, Interview with the Vampire, Bram Stoker's Dracula—each shares DNA with Dracula while changing the setting enough to feel fresh."
+      "answer": "Try Interview with the Vampire, Bram Stoker's Dracula, Nosferatu—each shares DNA with Dracula while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Dracula?",

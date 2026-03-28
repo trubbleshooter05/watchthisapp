@@ -17,14 +17,41 @@
   },
   "recommendations": [
     {
+      "tmdbId": 116,
+      "title": "Match Point",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Match Point (2005) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
       "tmdbId": 4148,
       "title": "Revolutionary Road",
       "year": 2008,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "The drama energy of The Great Gatsby is alive in Revolutionary Road (2008), filtered through a different story but the same emotional register. It earns its place on this list with a bittersweet payoff that rivals the original pick.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Revolutionary Road (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "adventure",
+        "action"
       ],
       "mood": "bittersweet"
     },
@@ -32,8 +59,8 @@
       "tmdbId": 330483,
       "title": "The Choice",
       "year": 2016,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "The Choice (2016) operates in the same drama as The Great Gatsby, but with its own distinct voice and pacing. The bittersweet payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, The Choice (2016) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
@@ -41,11 +68,24 @@
       "mood": "bittersweet"
     },
     {
+      "tmdbId": 110,
+      "title": "Three Colors: Red",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Three Colors: Red (1994) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
       "tmdbId": 465914,
       "title": "If Beale Street Could Talk",
       "year": 2018,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Beale Street Could Talk (2018) belongs to the same conversation as The Great Gatsby — both anchor their drama in romance emotion that doesn't let go. The bittersweet undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, If Beale Street Could Talk (2018) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
@@ -56,45 +96,20 @@
       "tmdbId": 10436,
       "title": "The Age of Innocence",
       "year": 1993,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If The Great Gatsby's drama stayed with you, The Age of Innocence (1993) delivers the same sensation through an entirely different story. The romance through-line is the real common thread between them.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, The Age of Innocence (1993) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
       ],
       "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 988078,
-      "title": "Through My Window: Across the Sea",
-      "year": 2023,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Where The Great Gatsby excels in drama, Through My Window: Across the Sea (2023) doubles down on romance to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "drama",
-        "romance",
-        "comedy"
-      ],
-      "mood": "funny"
     },
     {
       "tmdbId": 10362,
       "title": "Two Lovers",
       "year": 2008,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Two Lovers (2008) is the natural next step after The Great Gatsby: same drama DNA, different perspective. The bittersweet streak and romance elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 11034,
-      "title": "The Great Gatsby",
-      "year": 1974,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Fans of The Great Gatsby who respond to its drama will find The Great Gatsby (1974) immediately familiar. Both films share a romance sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Two Lovers (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
@@ -105,8 +120,8 @@
       "tmdbId": 814338,
       "title": "Lady Chatterley's Lover",
       "year": 2022,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "There's a reason The Great Gatsby fans keep landing on Lady Chatterley's Lover (2022) — the drama is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, Lady Chatterley's Lover (2022) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
@@ -117,33 +132,19 @@
       "tmdbId": 283591,
       "title": "The Secret Scripture",
       "year": 2017,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The Secret Scripture draws from the same drama well as The Great Gatsby, channeling romance in ways that feel unmistakably related. The 2017 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Great Gatsby clicked for you, The Secret Scripture (2017) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance"
       ],
       "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 450322,
-      "title": "The Man Who Invented Christmas",
-      "year": 2017,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The Man Who Invented Christmas (2017) captures the drama appeal of The Great Gatsby without simply imitating it. The history streak running through both films is what puts The Man Who Invented Christmas at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "drama",
-        "history",
-        "comedy",
-        "family"
-      ],
-      "mood": "funny"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Great Gatsby?",
-      "answer": "Try Revolutionary Road, The Choice, If Beale Street Could Talk—each shares DNA with The Great Gatsby while changing the setting enough to feel fresh."
+      "answer": "Try Match Point, Revolutionary Road, Crouching Tiger, Hidden Dragon—each shares DNA with The Great Gatsby while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Great Gatsby?",

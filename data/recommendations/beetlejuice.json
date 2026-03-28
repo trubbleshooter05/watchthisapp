@@ -21,7 +21,7 @@
       "title": "Ghostbusters",
       "year": 1984,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "Ghostbusters shares Beetlejuice's gift for fantasy — the 1984 film delivers comedy without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Ghostbusters (1984) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "comedy"
@@ -33,7 +33,7 @@
       "title": "The Addams Family",
       "year": 1991,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Beetlejuice compelling — the fantasy, the comedy — shows up in The Addams Family (1991) in a slightly different form. Both films understand that funny storytelling works best when it trusts the audience.",
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, The Addams Family (1991) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "comedy"
@@ -45,7 +45,7 @@
       "title": "Monster House",
       "year": 2006,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "The fantasy energy of Beetlejuice is alive in Monster House (2006), filtered through a different story but the same emotional register. It earns its place on this list with a funny payoff that rivals the original pick.",
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Monster House (2006) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "comedy",
@@ -55,39 +55,11 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 917496,
-      "title": "Beetlejuice Beetlejuice",
-      "year": 2024,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Beetlejuice Beetlejuice (2024) operates in the same fantasy as Beetlejuice, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
-      "sharedVibes": [
-        "fantasy",
-        "comedy",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 961323,
-      "title": "Nimona",
-      "year": 2023,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Nimona (2023) belongs to the same conversation as Beetlejuice — both anchor their fantasy in comedy emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
-      "sharedVibes": [
-        "fantasy",
-        "comedy",
-        "animation",
-        "family",
-        "action"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 616747,
       "title": "Haunted Mansion",
       "year": 2023,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Beetlejuice's fantasy stayed with you, Haunted Mansion (2023) delivers the same sensation through an entirely different story. The comedy through-line is the real common thread between them.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Haunted Mansion (2023) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "comedy",
@@ -96,53 +68,82 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 3933,
-      "title": "Corpse Bride",
-      "year": 2005,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Beetlejuice excels in fantasy, Corpse Bride (2005) doubles down on romance to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
-        "romance",
-        "animation"
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 162,
+      "title": "Edward Scissorhands",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Edward Scissorhands (1990) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 141,
+      "title": "Donnie Darko",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, Donnie Darko (2001) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Beetlejuice clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
       ],
       "mood": "uplifting"
-    },
-    {
-      "tmdbId": 501170,
-      "title": "Doctor Sleep",
-      "year": 2019,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Doctor Sleep (2019) is the natural next step after Beetlejuice: same fantasy DNA, different perspective. The dark streak and horror elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "fantasy",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4032,
-      "title": "My Girl",
-      "year": 1991,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Beetlejuice who respond to its comedy will find My Girl (1991) immediately familiar. Both films share a drama sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "comedy",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 184345,
-      "title": "A Haunted House 2",
-      "year": 2014,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Beetlejuice fans keep landing on A Haunted House 2 (2014) — the comedy is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "comedy",
-        "horror"
-      ],
-      "mood": "dark"
     }
   ],
   "faq": [

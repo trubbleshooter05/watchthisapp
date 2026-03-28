@@ -19,24 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 400535,
-      "title": "Sicario: Day of the Soldado",
-      "year": 2018,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "The action energy of Sicario is alive in Sicario: Day of the Soldado (2018), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
-      "sharedVibes": [
-        "action",
-        "crime",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 8068,
       "title": "Desperado",
       "year": 1995,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Desperado (1995) operates in the same action as Sicario, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sicario clicked for you, Desperado (1995) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -48,8 +35,8 @@
       "tmdbId": 1428,
       "title": "Once Upon a Time in Mexico",
       "year": 2003,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Once Upon a Time in Mexico (2003) belongs to the same conversation as Sicario — both anchor their action in crime emotion that doesn't let go. The dark undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sicario clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -59,25 +46,11 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 31867,
-      "title": "Repo Men",
-      "year": 2010,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "If Sicario's action stayed with you, Repo Men (2010) delivers the same sensation through an entirely different story. The crime through-line is the real common thread between them.",
-      "sharedVibes": [
-        "action",
-        "crime",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 10431,
       "title": "War",
       "year": 2007,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Where Sicario excels in action, War (2007) doubles down on crime to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sicario clicked for you, War (2007) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -89,8 +62,8 @@
       "tmdbId": 9691,
       "title": "Assassins",
       "year": 1995,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Assassins (1995) is the natural next step after Sicario: same action DNA, different perspective. The dark streak and crime elevate it well above a simple genre exercise.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sicario clicked for you, Assassins (1995) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -103,8 +76,8 @@
       "tmdbId": 20676,
       "title": "Deep Cover",
       "year": 1992,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Fans of Sicario who respond to its action will find Deep Cover (1992) immediately familiar. Both films share a crime sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sicario clicked for you, Deep Cover (1992) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
@@ -113,24 +86,51 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 754,
-      "title": "Face/Off",
-      "year": 1997,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "There's a reason Sicario fans keep landing on Face/Off (1997) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sicario clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sicario clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
         "science-fiction"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 1900,
-      "title": "Traffic",
-      "year": 2000,
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sicario clicked for you, Predator (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 184,
+      "title": "Jackie Brown",
+      "year": 1997,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "Traffic draws from the same crime well as Sicario, channeling thriller in ways that feel unmistakably related. The 2000 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "whyYoullLoveIt": "If Sicario clicked for you, Jackie Brown (1997) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
@@ -139,15 +139,15 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 49021,
-      "title": "Killer Elite",
-      "year": 2011,
+      "tmdbId": 754,
+      "title": "Face/Off",
+      "year": 1997,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Killer Elite (2011) captures the action appeal of Sicario without simply imitating it. The thriller streak running through both films is what puts Killer Elite at the top of any \"if you liked…\" shortlist.",
+      "whyYoullLoveIt": "If Sicario clicked for you, Face/Off (1997) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
-        "thriller",
-        "adventure"
+        "crime",
+        "science-fiction"
       ],
       "mood": "tense"
     }
@@ -155,7 +155,7 @@
   "faq": [
     {
       "question": "What should I watch after Sicario?",
-      "answer": "Try Sicario: Day of the Soldado, Desperado, Once Upon a Time in Mexico—each shares DNA with Sicario while changing the setting enough to feel fresh."
+      "answer": "Try Desperado, Once Upon a Time in Mexico, War—each shares DNA with Sicario while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Sicario?",

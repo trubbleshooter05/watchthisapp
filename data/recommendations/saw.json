@@ -23,36 +23,10 @@
       "title": "The Poughkeepsie Tapes",
       "year": 2007,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "The Poughkeepsie Tapes (2007) is the natural next step after Saw: same horror DNA, different perspective. The dark streak and mystery elevate it well above a simple genre exercise.",
+      "whyYoullLoveIt": "If Saw clicked for you, The Poughkeepsie Tapes (2007) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "mystery",
-        "crime",
-        "thriller"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 392044,
-      "title": "Murder on the Orient Express",
-      "year": 2017,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Fans of Saw who respond to its mystery will find Murder on the Orient Express (2017) immediately familiar. Both films share a crime sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "mystery",
-        "crime",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 214,
-      "title": "Saw III",
-      "year": 2006,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "There's a reason Saw fans keep landing on Saw III (2006) — the horror is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "horror",
         "crime",
         "thriller"
       ],
@@ -62,8 +36,8 @@
       "tmdbId": 298250,
       "title": "Jigsaw",
       "year": 2017,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Jigsaw draws from the same horror well as Saw, channeling mystery in ways that feel unmistakably related. The 2017 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Saw clicked for you, Jigsaw (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "mystery"
@@ -74,8 +48,8 @@
       "tmdbId": 585216,
       "title": "Escape Room: Tournament of Champions",
       "year": 2021,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Escape Room: Tournament of Champions (2021) captures the horror appeal of Saw without simply imitating it. The mystery streak running through both films is what puts Escape Room: Tournament of Champions at the top of any \"if you liked…\" shortlist.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Saw clicked for you, Escape Room: Tournament of Champions (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "mystery",
@@ -84,11 +58,24 @@
       "mood": "dark"
     },
     {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Saw clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
       "tmdbId": 1232546,
       "title": "Until Dawn",
       "year": 2025,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The horror appeal of Saw — that dark edge, the mystery — translates cleanly into Until Dawn (2025). Different setting, same essential satisfaction.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Saw clicked for you, Until Dawn (2025) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "mystery"
@@ -96,13 +83,16 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 215,
-      "title": "Saw II",
-      "year": 2005,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The filmmakers behind Saw II (2005) clearly understood what makes horror work — the same quality that keeps Saw rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "tmdbId": 4193,
+      "title": "Evil Under the Sun",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Saw clicked for you, Evil Under the Sun (1982) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "horror"
+        "mystery",
+        "crime",
+        "thriller",
+        "drama"
       ],
       "mood": "dark"
     },
@@ -110,8 +100,8 @@
       "tmdbId": 514847,
       "title": "The Hunt",
       "year": 2020,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The Hunt (2020) is the kind of film Saw fans discover and immediately send to their group chat. The horror overlap is real, but it's the dark emotional pull that seals the recommendation.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Saw clicked for you, The Hunt (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "action",
@@ -120,14 +110,13 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 22804,
-      "title": "Saw VI",
-      "year": 2009,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Saw VI shares Saw's gift for horror — the 2009 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Saw clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "horror",
-        "thriller"
+        "horror"
       ],
       "mood": "dark"
     },
@@ -135,11 +124,25 @@
       "tmdbId": 158011,
       "title": "The Call",
       "year": 2013,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Much of what makes Saw compelling — the crime, the thriller — shows up in The Call (2013) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Saw clicked for you, The Call (2013) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Saw clicked for you, The Jackal (1997) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller",
+        "adventure"
       ],
       "mood": "dark"
     }
@@ -147,7 +150,7 @@
   "faq": [
     {
       "question": "What should I watch after Saw?",
-      "answer": "Try The Poughkeepsie Tapes, Murder on the Orient Express, Saw III—each shares DNA with Saw while changing the setting enough to feel fresh."
+      "answer": "Try The Poughkeepsie Tapes, Jigsaw, Escape Room: Tournament of Champions—each shares DNA with Saw while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Saw?",

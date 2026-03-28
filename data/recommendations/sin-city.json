@@ -17,28 +17,28 @@
   },
   "recommendations": [
     {
-      "tmdbId": 603692,
-      "title": "John Wick: Chapter 4",
-      "year": 2023,
+      "tmdbId": 4147,
+      "title": "Road to Perdition",
+      "year": 2002,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "Fans of Sin City who respond to its crime will find John Wick: Chapter 4 (2023) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "whyYoullLoveIt": "If Sin City clicked for you, Road to Perdition (2002) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
-        "action"
+        "drama"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 189,
-      "title": "Sin City: A Dame to Kill For",
-      "year": 2014,
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "There's a reason Sin City fans keep landing on Sin City: A Dame to Kill For (2014) — the crime is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "whyYoullLoveIt": "If Sin City clicked for you, Layer Cake (2004) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
-        "action"
+        "drama"
       ],
       "mood": "dark"
     },
@@ -47,7 +47,7 @@
       "title": "Repo Men",
       "year": 2010,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "Repo Men draws from the same crime well as Sin City, channeling thriller in ways that feel unmistakably related. The 2010 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "whyYoullLoveIt": "If Sin City clicked for you, Repo Men (2010) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
@@ -57,24 +57,11 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 10651,
-      "title": "The Dead Pool",
-      "year": 1988,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The Dead Pool (1988) captures the crime appeal of Sin City without simply imitating it. The thriller streak running through both films is what puts The Dead Pool at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "crime",
-        "thriller",
-        "action"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 339095,
       "title": "The Last Days of American Crime",
       "year": 2020,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The crime appeal of Sin City — that dark edge, the thriller — translates cleanly into The Last Days of American Crime (2020). Different setting, same essential satisfaction.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sin City clicked for you, The Last Days of American Crime (2020) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
@@ -83,64 +70,78 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 10388,
-      "title": "The Limey",
-      "year": 1999,
+      "tmdbId": 26039,
+      "title": "Point Blank",
+      "year": 1967,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sin City clicked for you, Point Blank (1967) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 25736,
+      "title": "The Postman Always Rings Twice",
+      "year": 1946,
       "matchPercentage": 86,
-      "whyYoullLoveIt": "The filmmakers behind The Limey (1999) clearly understood what makes crime work — the same quality that keeps Sin City rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "whyYoullLoveIt": "If Sin City clicked for you, The Postman Always Rings Twice (1946) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
         "drama",
-        "mystery"
+        "romance"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 10427,
-      "title": "Red Rock West",
-      "year": 1993,
+      "tmdbId": 4772,
+      "title": "Cul-de-sac",
+      "year": 1966,
       "matchPercentage": 84,
-      "whyYoullLoveIt": "Red Rock West (1993) is the kind of film Sin City fans discover and immediately send to their group chat. The crime overlap is real, but it's the dark emotional pull that seals the recommendation.",
+      "whyYoullLoveIt": "If Sin City clicked for you, Cul-de-sac (1966) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "crime",
         "thriller",
+        "comedy",
         "drama"
       ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 32042,
-      "title": "Night Moves",
-      "year": 1975,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Night Moves shares Sin City's gift for crime — the 1975 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "crime",
-        "thriller",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 32040,
-      "title": "The Killing of a Chinese Bookie",
-      "year": 1976,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Much of what makes Sin City compelling — the crime, the thriller — shows up in The Killing of a Chinese Bookie (1976) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "crime",
-        "thriller",
-        "drama"
-      ],
-      "mood": "dark"
+      "mood": "funny"
     },
     {
       "tmdbId": 752,
       "title": "V for Vendetta",
       "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sin City clicked for you, V for Vendetta (2006) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 59967,
+      "title": "Looper",
+      "year": 2012,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sin City clicked for you, Looper (2012) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7299,
+      "title": "Equilibrium",
+      "year": 2002,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "The thriller energy of Sin City is alive in V for Vendetta (2006), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "whyYoullLoveIt": "If Sin City clicked for you, Equilibrium (2002) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "thriller",
         "action",
@@ -152,7 +153,7 @@
   "faq": [
     {
       "question": "What should I watch after Sin City?",
-      "answer": "Try John Wick: Chapter 4, Sin City: A Dame to Kill For, Repo Men—each shares DNA with Sin City while changing the setting enough to feel fresh."
+      "answer": "Try Road to Perdition, Layer Cake, Repo Men—each shares DNA with Sin City while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Sin City?",

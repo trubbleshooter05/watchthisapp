@@ -17,23 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 338967,
-      "title": "Zombieland: Double Tap",
-      "year": 2019,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Zombieland: Double Tap (2019) operates in the same comedy as Zombieland, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
-      "sharedVibes": [
-        "comedy",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 273477,
       "title": "Scouts Guide to the Zombie Apocalypse",
       "year": 2015,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Scouts Guide to the Zombie Apocalypse (2015) belongs to the same conversation as Zombieland — both anchor their comedy in horror emotion that doesn't let go. The dark undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Scouts Guide to the Zombie Apocalypse (2015) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "horror"
@@ -44,8 +32,8 @@
       "tmdbId": 16281,
       "title": "Creepshow",
       "year": 1982,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Zombieland's comedy stayed with you, Creepshow (1982) delivers the same sensation through an entirely different story. The horror through-line is the real common thread between them.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Creepshow (1982) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "horror"
@@ -56,8 +44,8 @@
       "tmdbId": 503125,
       "title": "Little Monsters",
       "year": 2019,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Where Zombieland excels in comedy, Little Monsters (2019) doubles down on horror to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Little Monsters (2019) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "horror"
@@ -68,8 +56,8 @@
       "tmdbId": 604578,
       "title": "Spontaneous",
       "year": 2020,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Spontaneous (2020) is the natural next step after Zombieland: same comedy DNA, different perspective. The dark streak and horror elevate it well above a simple genre exercise.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Spontaneous (2020) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "horror"
@@ -80,8 +68,8 @@
       "tmdbId": 10288,
       "title": "Fido",
       "year": 2006,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Fans of Zombieland who respond to its comedy will find Fido (2006) immediately familiar. Both films share a horror sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Fido (2006) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "horror",
@@ -91,59 +79,73 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 277834,
-      "title": "Moana",
-      "year": 2016,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "There's a reason Zombieland fans keep landing on Moana (2016) — the comedy is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "tmdbId": 105,
+      "title": "Back to the Future",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Back to the Future (1985) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "adventure",
-        "family",
-        "animation"
+        "science-fiction"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 4247,
-      "title": "Scary Movie",
-      "year": 2000,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Scary Movie draws from the same comedy well as Zombieland, channeling atmosphere in ways that feel unmistakably related. The 2000 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 109414,
-      "title": "This Is the End",
-      "year": 2013,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "This Is the End (2013) captures the comedy appeal of Zombieland without simply imitating it. The action streak running through both films is what puts This Is the End at the top of any \"if you liked…\" shortlist.",
+      "tmdbId": 115,
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Zombieland clicked for you, The Big Lebowski (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
-        "action"
+        "crime"
       ],
       "mood": "funny"
     },
     {
-      "tmdbId": 924,
-      "title": "Dawn of the Dead",
+      "tmdbId": 196,
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Back to the Future Part III (1990) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 176,
+      "title": "Saw",
       "year": 2004,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The horror appeal of Zombieland — that dark edge, the action — translates cleanly into Dawn of the Dead (2004). Different setting, same essential satisfaction.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Saw (2004) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
-        "action"
+        "mystery",
+        "crime"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 107,
+      "title": "Snatch",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Zombieland clicked for you, Snatch (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Zombieland?",
-      "answer": "Try Zombieland: Double Tap, Scouts Guide to the Zombie Apocalypse, Creepshow—each shares DNA with Zombieland while changing the setting enough to feel fresh."
+      "answer": "Try Scouts Guide to the Zombie Apocalypse, Creepshow, Little Monsters—each shares DNA with Zombieland while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Zombieland?",

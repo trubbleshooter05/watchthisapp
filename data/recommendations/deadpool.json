@@ -19,56 +19,15 @@
   },
   "recommendations": [
     {
-      "tmdbId": 383498,
-      "title": "Deadpool 2",
-      "year": 2018,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Deadpool 2 (2018) belongs to the same conversation as Deadpool — both anchor their action in adventure emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
-      "sharedVibes": [
-        "action",
-        "adventure",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
       "tmdbId": 436969,
       "title": "The Suicide Squad",
       "year": 2021,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "If Deadpool's action stayed with you, The Suicide Squad (2021) delivers the same sensation through an entirely different story. The adventure through-line is the real common thread between them.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Deadpool clicked for you, The Suicide Squad (2021) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
         "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 7446,
-      "title": "Tropic Thunder",
-      "year": 2008,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Where Deadpool excels in action, Tropic Thunder (2008) doubles down on adventure to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "action",
-        "adventure",
-        "comedy",
-        "war"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 7459,
-      "title": "Speed Racer",
-      "year": 2008,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Speed Racer (2008) is the natural next step after Deadpool: same action DNA, different perspective. The funny streak and adventure elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "action",
-        "adventure",
-        "comedy",
-        "family"
       ],
       "mood": "funny"
     },
@@ -76,8 +35,8 @@
       "tmdbId": 24428,
       "title": "The Avengers",
       "year": 2012,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Fans of Deadpool who respond to its action will find The Avengers (2012) immediately familiar. Both films share a adventure sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Deadpool clicked for you, The Avengers (2012) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
@@ -89,8 +48,8 @@
       "tmdbId": 271110,
       "title": "Captain America: Civil War",
       "year": 2016,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "There's a reason Deadpool fans keep landing on Captain America: Civil War (2016) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
@@ -102,8 +61,8 @@
       "tmdbId": 284054,
       "title": "Black Panther",
       "year": 2018,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Black Panther draws from the same action well as Deadpool, channeling adventure in ways that feel unmistakably related. The 2018 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Black Panther (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
@@ -115,12 +74,25 @@
       "tmdbId": 10138,
       "title": "Iron Man 2",
       "year": 2010,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Iron Man 2 (2010) captures the action appeal of Deadpool without simply imitating it. The adventure streak running through both films is what puts Iron Man 2 at the top of any \"if you liked…\" shortlist.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Iron Man 2 (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
         "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 22,
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Pirates of the Caribbean: The Curse of the Black Pearl (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
       ],
       "mood": "tense"
     },
@@ -128,8 +100,8 @@
       "tmdbId": 100402,
       "title": "Captain America: The Winter Soldier",
       "year": 2014,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The action appeal of Deadpool — that tense edge, the adventure — translates cleanly into Captain America: The Winter Soldier (2014). Different setting, same essential satisfaction.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Captain America: The Winter Soldier (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
@@ -138,11 +110,37 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 36657,
-      "title": "X-Men",
-      "year": 2000,
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Deadpool clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 580489,
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "The filmmakers behind X-Men (2000) clearly understood what makes action work — the same quality that keeps Deadpool rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
+      "whyYoullLoveIt": "If Deadpool clicked for you, Venom: Let There Be Carnage (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "adventure",
@@ -154,7 +152,7 @@
   "faq": [
     {
       "question": "What should I watch after Deadpool?",
-      "answer": "Try Deadpool 2, The Suicide Squad, Tropic Thunder—each shares DNA with Deadpool while changing the setting enough to feel fresh."
+      "answer": "Try The Suicide Squad, The Avengers, Captain America: Civil War—each shares DNA with Deadpool while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Deadpool?",

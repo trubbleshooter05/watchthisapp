@@ -17,77 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 315635,
-      "title": "Spider-Man: Homecoming",
-      "year": 2017,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Spider-Man: Homecoming draws from the same action well as Spider-Man, channeling science-fiction in ways that feel unmistakably related. The 2017 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 634649,
-      "title": "Spider-Man: No Way Home",
-      "year": 2021,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Spider-Man: No Way Home (2021) captures the action appeal of Spider-Man without simply imitating it. The science-fiction streak running through both films is what puts Spider-Man: No Way Home at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
       "tmdbId": 1930,
       "title": "The Amazing Spider-Man",
       "year": 2012,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The action appeal of Spider-Man — that tense edge, the science-fiction — translates cleanly into The Amazing Spider-Man (2012). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 324857,
-      "title": "Spider-Man: Into the Spider-Verse",
-      "year": 2018,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The filmmakers behind Spider-Man: Into the Spider-Verse (2018) clearly understood what makes action work — the same quality that keeps Spider-Man rewatchable. Expect the same uplifting rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "animation",
-        "adventure"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 558,
-      "title": "Spider-Man 2",
-      "year": 2004,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Spider-Man 2 (2004) is the kind of film Spider-Man fans discover and immediately send to their group chat. The action overlap is real, but it's the tense emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 559,
-      "title": "Spider-Man 3",
-      "year": 2007,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Spider-Man 3 shares Spider-Man's gift for action — the 2007 film delivers science-fiction without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Amazing Spider-Man (2012) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
@@ -99,8 +33,8 @@
       "tmdbId": 102382,
       "title": "The Amazing Spider-Man 2",
       "year": 2014,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Much of what makes Spider-Man compelling — the action, the science-fiction — shows up in The Amazing Spider-Man 2 (2014) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
@@ -112,8 +46,8 @@
       "tmdbId": 1724,
       "title": "The Incredible Hulk",
       "year": 2008,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The action energy of Spider-Man is alive in The Incredible Hulk (2008), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
@@ -122,25 +56,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 569094,
-      "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Spider-Man: Across the Spider-Verse (2023) operates in the same action as Spider-Man, but with its own distinct voice and pacing. The uplifting payoff will feel satisfyingly familiar without retreading the same ground.",
-      "sharedVibes": [
-        "action",
-        "science-fiction",
-        "animation",
-        "adventure"
-      ],
-      "mood": "uplifting"
-    },
-    {
       "tmdbId": 38055,
       "title": "Megamind",
       "year": 2010,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Megamind (2010) belongs to the same conversation as Spider-Man — both anchor their action in science-fiction emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Megamind (2010) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "science-fiction",
@@ -149,12 +69,96 @@
         "family"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 46529,
+      "title": "I Am Number Four",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, I Am Number Four (2011) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 986056,
+      "title": "Thunderbolts*",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Thunderbolts* (2025) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9806,
+      "title": "The Incredibles",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, The Incredibles (2004) is a strong next stop: both trade in action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 566525,
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spider-Man clicked for you, Shang-Chi and the Legend of the Ten Rings (2021) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Spider-Man?",
-      "answer": "Try Spider-Man: Homecoming, Spider-Man: No Way Home, The Amazing Spider-Man—each shares DNA with Spider-Man while changing the setting enough to feel fresh."
+      "answer": "Try The Amazing Spider-Man, The Amazing Spider-Man 2, The Incredible Hulk—each shares DNA with Spider-Man while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Spider-Man?",

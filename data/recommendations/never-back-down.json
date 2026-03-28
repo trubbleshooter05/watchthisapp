@@ -17,11 +17,24 @@
   },
   "recommendations": [
     {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
       "tmdbId": 59440,
       "title": "Warrior",
       "year": 2011,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Much of what makes Never Back Down compelling — the drama, the action — shows up in Warrior (2011) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Warrior (2011) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action"
@@ -29,24 +42,25 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 11690,
-      "title": "Bloodsport",
-      "year": 1988,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "The drama energy of Never Back Down is alive in Bloodsport (1988), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in drama and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action",
-        "thriller"
+        "adventure",
+        "romance"
       ],
-      "mood": "tense"
+      "mood": "bittersweet"
     },
     {
-      "tmdbId": 4105,
-      "title": "Black Rain",
-      "year": 1989,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Black Rain (1989) operates in the same drama as Never Back Down, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "tmdbId": 11690,
+      "title": "Bloodsport",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Bloodsport (1988) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action",
@@ -58,8 +72,8 @@
       "tmdbId": 22164,
       "title": "Blood and Bone",
       "year": 2009,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Blood and Bone (2009) belongs to the same conversation as Never Back Down — both anchor their drama in action emotion that doesn't let go. The dark undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Blood and Bone (2009) is a strong next stop: both trade in drama and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action",
@@ -72,8 +86,8 @@
       "tmdbId": 9103,
       "title": "The Quest",
       "year": 1996,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "If Never Back Down's drama stayed with you, The Quest (1996) delivers the same sensation through an entirely different story. The action through-line is the real common thread between them.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, The Quest (1996) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action",
@@ -82,23 +96,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 70006,
-      "title": "Never Back Down 2: The Beatdown",
-      "year": 2011,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Where Never Back Down excels in drama, Never Back Down 2: The Beatdown (2011) doubles down on action to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "drama",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
       "tmdbId": 12721,
       "title": "No Retreat, No Surrender",
       "year": 1986,
       "matchPercentage": 84,
-      "whyYoullLoveIt": "No Retreat, No Surrender (1986) is the natural next step after Never Back Down: same drama DNA, different perspective. The funny streak and action elevate it well above a simple genre exercise.",
+      "whyYoullLoveIt": "If Never Back Down clicked for you, No Retreat, No Surrender (1986) is a strong next stop: both trade in drama and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "action",
@@ -108,48 +110,48 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 391757,
-      "title": "Never Back Down: No Surrender",
-      "year": 2016,
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "Fans of Never Back Down who respond to its drama will find Never Back Down: No Surrender (2016) immediately familiar. Both films share a action sensibility without ever feeling like carbon copies of each other.",
+      "whyYoullLoveIt": "If Never Back Down clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "drama",
-        "action"
+        "action",
+        "adventure",
+        "fantasy"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 254320,
-      "title": "The Lobster",
-      "year": 2015,
+      "tmdbId": 24,
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "There's a reason Never Back Down fans keep landing on The Lobster (2015) — the drama is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "drama",
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 4108,
-      "title": "The Transporter",
-      "year": 2002,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The Transporter draws from the same action well as Never Back Down, channeling crime in ways that feel unmistakably related. The 2002 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "whyYoullLoveIt": "If Never Back Down clicked for you, Kill Bill: Vol. 1 (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
-        "crime",
-        "thriller"
+        "crime"
       ],
-      "mood": "dark"
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Never Back Down clicked for you, The Terminator (1984) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Never Back Down?",
-      "answer": "Try Warrior, Bloodsport, Black Rain—each shares DNA with Never Back Down while changing the setting enough to feel fresh."
+      "answer": "Try Léon: The Professional, Warrior, Crouching Tiger, Hidden Dragon—each shares DNA with Never Back Down while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Never Back Down?",

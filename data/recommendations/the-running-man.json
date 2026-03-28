@@ -19,15 +19,55 @@
   },
   "recommendations": [
     {
-      "tmdbId": 49530,
-      "title": "In Time",
-      "year": 2011,
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "If The Running Man's action stayed with you, In Time (2011) delivers the same sensation through an entirely different story. The thriller through-line is the real common thread between them.",
+      "whyYoullLoveIt": "If The Running Man clicked for you, The Terminator (1984) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
         "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49530,
+      "title": "In Time",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Running Man clicked for you, In Time (2011) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Running Man clicked for you, Minority Report (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Running Man clicked for you, Predator (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
       ],
       "mood": "tense"
     },
@@ -35,8 +75,8 @@
       "tmdbId": 20504,
       "title": "The Book of Eli",
       "year": 2010,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Where The Running Man excels in action, The Book of Eli (2010) doubles down on thriller to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Running Man clicked for you, The Book of Eli (2010) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -45,38 +85,38 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 865,
-      "title": "The Running Man",
-      "year": 1987,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The Running Man (1987) is the natural next step after The Running Man: same action DNA, different perspective. The tense streak and thriller elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 31867,
-      "title": "Repo Men",
-      "year": 2010,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Fans of The Running Man who respond to its action will find Repo Men (2010) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Running Man clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
         "science-fiction",
-        "crime"
+        "adventure"
       ],
-      "mood": "dark"
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Running Man clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 300671,
       "title": "13 Hours: The Secret Soldiers of Benghazi",
       "year": 2016,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "There's a reason The Running Man fans keep landing on 13 Hours: The Secret Soldiers of Benghazi (2016) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Running Man clicked for you, 13 Hours: The Secret Soldiers of Benghazi (2016) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -90,8 +130,8 @@
       "tmdbId": 514847,
       "title": "The Hunt",
       "year": 2020,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The Hunt draws from the same action well as The Running Man, channeling thriller in ways that feel unmistakably related. The 2020 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Running Man clicked for you, The Hunt (2020) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -100,53 +140,15 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 604079,
-      "title": "The Long Walk",
-      "year": 2025,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The Long Walk (2025) captures the thriller appeal of The Running Man without simply imitating it. The science-fiction streak running through both films is what puts The Long Walk at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 405774,
-      "title": "Bird Box",
-      "year": 2018,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "The thriller appeal of The Running Man — that dark edge, the horror — translates cleanly into Bird Box (2018). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "thriller",
-        "horror",
-        "drama"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 227156,
-      "title": "The Giver",
-      "year": 2014,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The filmmakers behind The Giver (2014) clearly understood what makes science-fiction work — the same quality that keeps The Running Man rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "science-fiction",
-        "drama"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 726209,
-      "title": "Leave the World Behind",
-      "year": 2023,
+      "tmdbId": 253,
+      "title": "Live and Let Die",
+      "year": 1973,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Leave the World Behind (2023) is the kind of film The Running Man fans discover and immediately send to their group chat. The thriller overlap is real, but it's the tense emotional pull that seals the recommendation.",
+      "whyYoullLoveIt": "If The Running Man clicked for you, Live and Let Die (1973) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
+        "action",
         "thriller",
-        "drama",
-        "mystery"
+        "adventure"
       ],
       "mood": "tense"
     }
@@ -154,7 +156,7 @@
   "faq": [
     {
       "question": "What should I watch after The Running Man?",
-      "answer": "Try In Time, The Book of Eli, The Running Man—each shares DNA with The Running Man while changing the setting enough to feel fresh."
+      "answer": "Try The Terminator, In Time, Minority Report—each shares DNA with The Running Man while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Running Man?",

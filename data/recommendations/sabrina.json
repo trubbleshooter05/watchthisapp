@@ -19,11 +19,24 @@
   },
   "recommendations": [
     {
+      "tmdbId": 164,
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Breakfast at Tiffany's (1961) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
       "tmdbId": 1064213,
       "title": "Anora",
       "year": 2024,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Anora shares Sabrina's gift for romance — the 2024 film delivers drama without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Anora (2024) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
@@ -35,8 +48,8 @@
       "tmdbId": 8051,
       "title": "Punch-Drunk Love",
       "year": 2002,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Sabrina compelling — the romance, the drama — shows up in Punch-Drunk Love (2002) in a slightly different form. Both films understand that funny storytelling works best when it trusts the audience.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Punch-Drunk Love (2002) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
@@ -48,21 +61,8 @@
       "tmdbId": 718032,
       "title": "Licorice Pizza",
       "year": 2021,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The romance energy of Sabrina is alive in Licorice Pizza (2021), filtered through a different story but the same emotional register. It earns its place on this list with a funny payoff that rivals the original pick.",
-      "sharedVibes": [
-        "romance",
-        "drama",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 6620,
-      "title": "Sabrina",
-      "year": 1954,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "Sabrina (1954) operates in the same romance as Sabrina, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "whyYoullLoveIt": "If Sabrina clicked for you, Licorice Pizza (2021) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
@@ -75,7 +75,7 @@
       "title": "Moonstruck",
       "year": 1987,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "Moonstruck (1987) belongs to the same conversation as Sabrina — both anchor their romance in drama emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "whyYoullLoveIt": "If Sabrina clicked for you, Moonstruck (1987) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
@@ -84,11 +84,11 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 3573,
-      "title": "Emma",
-      "year": 1996,
+      "tmdbId": 255,
+      "title": "Stolen Kisses",
+      "year": 1968,
       "matchPercentage": 86,
-      "whyYoullLoveIt": "If Sabrina's romance stayed with you, Emma (1996) delivers the same sensation through an entirely different story. The drama through-line is the real common thread between them.",
+      "whyYoullLoveIt": "If Sabrina clicked for you, Stolen Kisses (1968) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
@@ -97,16 +97,40 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 4043,
-      "title": "Law of Desire",
-      "year": 1987,
+      "tmdbId": 258,
+      "title": "Bed and Board",
+      "year": 1970,
       "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Sabrina excels in romance, Law of Desire (1987) doubles down on drama to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "whyYoullLoveIt": "If Sabrina clicked for you, Bed and Board (1970) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
-        "comedy",
-        "thriller"
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 256,
+      "title": "Antoine and Colette",
+      "year": 1962,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Antoine and Colette (1962) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 114,
+      "title": "Pretty Woman",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Pretty Woman (1990) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
       ],
       "mood": "funny"
     },
@@ -114,44 +138,20 @@
       "tmdbId": 88,
       "title": "Dirty Dancing",
       "year": 1987,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Dirty Dancing (1987) is the natural next step after Sabrina: same romance DNA, different perspective. The bittersweet streak and drama elevate it well above a simple genre exercise.",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sabrina clicked for you, Dirty Dancing (1987) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "romance",
         "drama",
         "music"
       ],
       "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 796,
-      "title": "Cruel Intentions",
-      "year": 1999,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Sabrina who respond to its romance will find Cruel Intentions (1999) immediately familiar. Both films share a drama sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "romance",
-        "drama"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 6557,
-      "title": "27 Dresses",
-      "year": 2008,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Sabrina fans keep landing on 27 Dresses (2008) — the romance is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "romance",
-        "comedy"
-      ],
-      "mood": "funny"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Sabrina?",
-      "answer": "Try Anora, Punch-Drunk Love, Licorice Pizza—each shares DNA with Sabrina while changing the setting enough to feel fresh."
+      "answer": "Try Breakfast at Tiffany's, Anora, Punch-Drunk Love—each shares DNA with Sabrina while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Sabrina?",

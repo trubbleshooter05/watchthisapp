@@ -21,50 +21,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 8328,
-      "title": "Step Up 2: The Streets",
-      "year": 2008,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "The filmmakers behind Step Up 2: The Streets (2008) clearly understood what makes music work — the same quality that keeps Step Up rewatchable. Expect the same bittersweet rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "music",
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 85446,
-      "title": "Step Up Revolution",
-      "year": 2012,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Step Up Revolution (2012) is the kind of film Step Up fans discover and immediately send to their group chat. The music overlap is real, but it's the bittersweet emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "music",
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 243683,
-      "title": "Step Up All In",
-      "year": 2014,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Step Up All In shares Step Up's gift for music — the 2014 film delivers drama without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "music",
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
       "tmdbId": 68817,
       "title": "Footloose",
       "year": 2011,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Much of what makes Step Up compelling — the music, the drama — shows up in Footloose (2011) in a slightly different form. Both films understand that bittersweet storytelling works best when it trusts the audience.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Step Up clicked for you, Footloose (2011) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -76,8 +37,8 @@
       "tmdbId": 9816,
       "title": "Save the Last Dance",
       "year": 2001,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The music energy of Step Up is alive in Save the Last Dance (2001), filtered through a different story but the same emotional register. It earns its place on this list with a bittersweet payoff that rivals the original pick.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Step Up clicked for you, Save the Last Dance (2001) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -90,8 +51,8 @@
       "tmdbId": 382399,
       "title": "High Strung",
       "year": 2016,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "High Strung (2016) operates in the same music as Step Up, but with its own distinct voice and pacing. The bittersweet payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Step Up clicked for you, High Strung (2016) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -103,8 +64,8 @@
       "tmdbId": 41592,
       "title": "StreetDance 3D",
       "year": 2010,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "StreetDance 3D (2010) belongs to the same conversation as Step Up — both anchor their music in drama emotion that doesn't let go. The bittersweet undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Step Up clicked for you, StreetDance 3D (2010) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -116,8 +77,8 @@
       "tmdbId": 85373,
       "title": "StreetDance 2",
       "year": 2012,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Step Up's music stayed with you, StreetDance 2 (2012) delivers the same sensation through an entirely different story. The drama through-line is the real common thread between them.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Step Up clicked for you, StreetDance 2 (2012) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "music",
         "drama",
@@ -126,11 +87,23 @@
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 2976,
-      "title": "Hairspray",
-      "year": 2007,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Where Step Up excels in drama, Hairspray (2007) doubles down on romance to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "tmdbId": 103,
+      "title": "Taxi Driver",
+      "year": 1976,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Step Up clicked for you, Taxi Driver (1976) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 153,
+      "title": "Lost in Translation",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Step Up clicked for you, Lost in Translation (2003) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance",
@@ -139,11 +112,37 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 901,
-      "title": "City Lights",
-      "year": 1931,
+      "tmdbId": 164,
+      "title": "Breakfast at Tiffany's",
+      "year": 1961,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Step Up clicked for you, Breakfast at Tiffany's (1961) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 71,
+      "title": "Billy Elliot",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Step Up clicked for you, Billy Elliot (2000) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2976,
+      "title": "Hairspray",
+      "year": 2007,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "City Lights (1931) is the natural next step after Step Up: same drama DNA, different perspective. The funny streak and romance elevate it well above a simple genre exercise.",
+      "whyYoullLoveIt": "If Step Up clicked for you, Hairspray (2007) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "romance",
@@ -155,7 +154,7 @@
   "faq": [
     {
       "question": "What should I watch after Step Up?",
-      "answer": "Try Step Up 2: The Streets, Step Up Revolution, Step Up All In—each shares DNA with Step Up while changing the setting enough to feel fresh."
+      "answer": "Try Footloose, Save the Last Dance, High Strung—each shares DNA with Step Up while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Step Up?",

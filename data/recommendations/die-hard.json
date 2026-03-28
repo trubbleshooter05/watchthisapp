@@ -17,51 +17,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 218,
-      "title": "The Terminator",
-      "year": 1984,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "The Terminator shares Die Hard's gift for action — the 1984 film delivers thriller without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 180,
-      "title": "Minority Report",
-      "year": 2002,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Much of what makes Die Hard compelling — the action, the thriller — shows up in Minority Report (2002) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "science-fiction"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 106,
-      "title": "Predator",
-      "year": 1987,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The action energy of Die Hard is alive in Predator (1987), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
-      "sharedVibes": [
-        "action",
-        "thriller",
-        "science-fiction",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
       "tmdbId": 615457,
       "title": "Nobody",
       "year": 2021,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Nobody (2021) operates in the same action as Die Hard, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Nobody (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller"
@@ -72,8 +32,8 @@
       "tmdbId": 39514,
       "title": "RED",
       "year": 2010,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "RED (2010) belongs to the same conversation as Die Hard — both anchor their action in thriller emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Die Hard clicked for you, RED (2010) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -84,23 +44,24 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 1573,
-      "title": "Die Hard 2",
-      "year": 1990,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If Die Hard's action stayed with you, Die Hard 2 (1990) delivers the same sensation through an entirely different story. The thriller through-line is the real common thread between them.",
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Die Hard clicked for you, The Transporter (2002) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
-        "thriller"
+        "thriller",
+        "crime"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
       "tmdbId": 941,
       "title": "Lethal Weapon",
       "year": 1987,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Where Die Hard excels in action, Lethal Weapon (1987) doubles down on thriller to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Lethal Weapon (1987) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -112,8 +73,8 @@
       "tmdbId": 82682,
       "title": "Gangster Squad",
       "year": 2013,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Gangster Squad (2013) is the natural next step after Die Hard: same action DNA, different perspective. The dark streak and thriller elevate it well above a simple genre exercise.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Gangster Squad (2013) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -126,8 +87,8 @@
       "tmdbId": 395990,
       "title": "Death Wish",
       "year": 2018,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Fans of Die Hard who respond to its action will find Death Wish (2018) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Death Wish (2018) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
@@ -137,23 +98,65 @@
       "mood": "dark"
     },
     {
-      "tmdbId": 104,
-      "title": "Run Lola Run",
-      "year": 1998,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "There's a reason Die Hard fans keep landing on Run Lola Run (1998) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "tmdbId": 4141,
+      "title": "Shoot 'Em Up",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Shoot 'Em Up (2007) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "thriller",
-        "drama"
+        "comedy",
+        "crime"
       ],
-      "mood": "tense"
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1197306,
+      "title": "A Working Man",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Die Hard clicked for you, A Working Man (2025) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Die Hard clicked for you, Smokin' Aces (2006) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11412,
+      "title": "The Long Kiss Goodnight",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Die Hard clicked for you, The Long Kiss Goodnight (1996) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after Die Hard?",
-      "answer": "Try The Terminator, Minority Report, Predator—each shares DNA with Die Hard while changing the setting enough to feel fresh."
+      "answer": "Try Nobody, RED, The Transporter—each shares DNA with Die Hard while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Die Hard?",

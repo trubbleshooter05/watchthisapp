@@ -4,130 +4,172 @@
     "title": "Avatar",
     "slug": "avatar",
     "year": 2009,
-    "genres": ["Action", "Adventure", "Fantasy", "Science Fiction"],
-    "whyPeopleLoveIt": "James Cameron sold the planet on a feeling: you’re not watching Pandora—you’re *there*, thanks to 3D and world-building that treats ecology like a character. People return for the immersion (bioluminescent forests, floating mountains, banshee rides) and the blunt but effective clash between corporate extraction and Indigenous defense. It’s big-movie spectacle with a clear moral spine, which is why it stayed a cultural bookmark for a decade before the sequels arrived.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Avatar (2009) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "sci-fi-epic",
-      "worldbuilding",
-      "spectacle",
-      "eco-fable",
-      "immersive-VFX",
-      "blockbuster"
+      "action",
+      "adventure",
+      "science-fiction",
+      "rewatchable"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 76600,
-      "title": "Avatar: The Way of Water",
-      "year": 2022,
-      "matchPercentage": 98,
-      "whyYoullLoveIt": "Same director, same obsession with underwater and forest ecosystems as living sets—more family saga, even richer environments. If Avatar hooked you on ‘I want to live in that frame,’ this is the direct continuation.",
-      "sharedVibes": ["sci-fi-epic", "worldbuilding", "spectacle", "immersive-VFX"],
+      "tmdbId": 330459,
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Avatar clicked for you, Rogue One: A Star Wars Story (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
       "mood": "tense"
     },
     {
-      "tmdbId": 438631,
-      "title": "Dune",
-      "year": 2021,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Desert instead of jungle, but the same appetite for scale: politics, prophecy, and a planet that fights back against outsiders who want what’s under the sand. Great if you liked Avatar’s ‘colonial greed vs. native world’ tension.",
-      "sharedVibes": ["sci-fi-epic", "worldbuilding", "spectacle", "eco-fable"],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 157336,
-      "title": "Interstellar",
-      "year": 2014,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Another love-letter to awe—cosmic vistas, clock-ticking stakes, and emotion played at IMAX volume. Less ‘alien paradise,’ more physics and parentage, but the ‘sit forward in your seat’ blockbuster DNA matches.",
-      "sharedVibes": ["sci-fi-epic", "spectacle", "blockbuster"],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 335984,
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Slower and more noir than Avatar, but every shot is a world-building flex—color, weather, and ruin as storytelling. If your favorite part of Pandora was *atmosphere*, Villeneuve’s future is a mood-heavy cousin.",
-      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 76341,
-      "title": "Mad Max: Fury Road",
-      "year": 2015,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Different palette (dust and chrome), same commitment to practical-feeling mayhem and geography you can read in one glance. If Avatar’s third-act battle energy is what you crave, this is lean, mean spectacle.",
-      "sharedVibes": ["spectacle", "blockbuster", "eco-fable"],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 137113,
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Sci-fi war loop with crisp VFX and a propulsive sense of ‘one more run’—less mystical forest, more exosuit carnage, but the same tight marriage of humor, stakes, and set pieces.",
-      "sharedVibes": ["sci-fi-epic", "spectacle", "blockbuster"],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 70981,
-      "title": "Prometheus",
-      "year": 2012,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "A lavish, uneasy prequel about explorers poking creation myths—gorgeous ship design and alien landscapes, with horror creeping in at the edges. Pandora fans who like ‘big questions + pretty nightmares’ tend to vibe with this.",
-      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 68726,
-      "title": "Pacific Rim",
+      "tmdbId": 49521,
+      "title": "Man of Steel",
       "year": 2013,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Del Toro’s giant-robot vs. kaiju love letter—earnest, colorful, and built for cheering crowds. Less philosophical than Avatar, but the same joy in impossible scale and tactile monster design.",
-      "sharedVibes": ["spectacle", "blockbuster", "immersive-VFX"],
-      "mood": "uplifting"
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Avatar clicked for you, Man of Steel (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Avatar clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 602,
       "title": "Independence Day",
       "year": 1996,
-      "matchPercentage": 76,
-      "whyYoullLoveIt": "The 90s template for ‘event movie’ alien invasion—crowd scenes, speeches, and city-scale destruction before CGI saturation. If you like Cameron’s blunt populist clarity, Emmerich’s playbook is a fun time capsule.",
-      "sharedVibes": ["spectacle", "blockbuster", "sci-fi-epic"],
-      "mood": "uplifting"
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Avatar clicked for you, Independence Day (1996) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 399579,
       "title": "Alita: Battle Angel",
       "year": 2019,
-      "matchPercentage": 74,
-      "whyYoullLoveIt": "A cyberpunk scrapyard metropolis with a sympathetic cyborg lead and fights staged like an anime brought to photoreal life. Strong pick if Avatar’s draw was ‘new body, new world, underdog vs. the powerful.’",
-      "sharedVibes": ["sci-fi-epic", "worldbuilding", "immersive-VFX"],
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Avatar clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 54138,
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Avatar clicked for you, Star Trek Into Darkness (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Avatar clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49529,
+      "title": "John Carter",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Avatar clicked for you, John Carter (2012) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 617126,
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Avatar clicked for you, The Fantastic 4: First Steps (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 848326,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Avatar clicked for you, Rebel Moon - Part One: A Child of Fire (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
       "mood": "tense"
     }
   ],
   "faq": [
     {
-      "question": "What should I watch after Avatar if I loved the world-building?",
-      "answer": "Try Dune (2021) for political sci-fi on a hostile planet, Blade Runner 2049 for mood-drenched future cities, or Avatar: The Way of Water for more of Cameron’s ecosystem-as-spectacle approach."
+      "question": "What should I watch after Avatar?",
+      "answer": "Try Rogue One: A Star Wars Story, Man of Steel, Star Wars: The Rise of Skywalker—each shares DNA with Avatar while changing the setting enough to feel fresh."
     },
     {
-      "question": "Is Avatar mostly CGI?",
-      "answer": "Yes—Pandora, creatures, and much of the action are digital, blended with performance capture and live-action where it helps. The design goal was immersion: you’re meant to feel the place, not count the pixels."
+      "question": "What genre is Avatar?",
+      "answer": "Avatar (2009) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
     },
     {
-      "question": "Do I need to watch Avatar before The Way of Water?",
-      "answer": "The sequel catches you up on basics, but the first film establishes Jake and Neytiri’s bond and why Pandora matters. Watching Avatar first makes the family and territorial stakes in the sequel land harder."
+      "question": "Is Avatar part of a franchise?",
+      "answer": "Yes—it's part of the \"Avatar Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "dune",
-    "interstellar",
-    "inception",
-    "oppenheimer",
-    "top-gun-maverick",
-    "everything-everywhere-all-at-once",
-    "the-dark-knight"
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp",
+    "ant-man-and-the-wasp-quantumania",
+    "armageddon"
   ]
 }

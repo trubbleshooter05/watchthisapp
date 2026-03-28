@@ -19,24 +19,11 @@
   },
   "recommendations": [
     {
-      "tmdbId": 928,
-      "title": "Gremlins 2: The New Batch",
-      "year": 1990,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Gremlins 2: The New Batch (1990) is the kind of film Gremlins fans discover and immediately send to their group chat. The fantasy overlap is real, but it's the dark emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "fantasy",
-        "horror",
-        "comedy"
-      ],
-      "mood": "dark"
-    },
-    {
       "tmdbId": 287903,
       "title": "Krampus",
       "year": 2015,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Krampus shares Gremlins's gift for fantasy — the 2015 film delivers horror without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Krampus (2015) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "horror",
@@ -48,8 +35,8 @@
       "tmdbId": 1547,
       "title": "The Lost Boys",
       "year": 1987,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Much of what makes Gremlins compelling — the horror, the comedy — shows up in The Lost Boys (1987) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gremlins clicked for you, The Lost Boys (1987) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "comedy",
@@ -63,8 +50,8 @@
       "tmdbId": 16281,
       "title": "Creepshow",
       "year": 1982,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The horror energy of Gremlins is alive in Creepshow (1982), filtered through a different story but the same emotional register. It earns its place on this list with a dark payoff that rivals the original pick.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Creepshow (1982) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "comedy"
@@ -75,8 +62,8 @@
       "tmdbId": 3980,
       "title": "Critters",
       "year": 1986,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Critters (1986) operates in the same horror as Gremlins, but with its own distinct voice and pacing. The dark payoff will feel satisfyingly familiar without retreading the same ground.",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Critters (1986) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "comedy",
@@ -88,8 +75,8 @@
       "tmdbId": 13509,
       "title": "The Monster Squad",
       "year": 1987,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The Monster Squad (1987) belongs to the same conversation as Gremlins — both anchor their fantasy in comedy emotion that doesn't let go. The funny undercurrent connects them more than any plot summary would suggest.",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gremlins clicked for you, The Monster Squad (1987) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "comedy",
@@ -101,8 +88,8 @@
       "tmdbId": 20481,
       "title": "Nightbreed",
       "year": 1990,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If Gremlins's fantasy stayed with you, Nightbreed (1990) delivers the same sensation through an entirely different story. The horror through-line is the real common thread between them.",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Nightbreed (1990) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "horror"
@@ -113,8 +100,8 @@
       "tmdbId": 18086,
       "title": "Fright Night Part 2",
       "year": 1988,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Where Gremlins excels in horror, Fright Night Part 2 (1988) doubles down on comedy to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Fright Night Part 2 (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "comedy"
@@ -125,8 +112,8 @@
       "tmdbId": 4232,
       "title": "Scream",
       "year": 1996,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Scream (1996) is the natural next step after Gremlins: same horror DNA, different perspective. The dark streak and crime elevate it well above a simple genre exercise.",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "horror",
         "crime",
@@ -138,12 +125,25 @@
       "tmdbId": 3989,
       "title": "Team America: World Police",
       "year": 2004,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Fans of Gremlins who respond to its comedy will find Team America: World Police (2004) immediately familiar. Both films share a adventure sensibility without ever feeling like carbon copies of each other.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gremlins clicked for you, Team America: World Police (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "comedy",
         "adventure",
         "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3638,
+      "title": "No Reservations",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gremlins clicked for you, No Reservations (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
       ],
       "mood": "funny"
     }
@@ -151,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after Gremlins?",
-      "answer": "Try Gremlins 2: The New Batch, Krampus, The Lost Boys—each shares DNA with Gremlins while changing the setting enough to feel fresh."
+      "answer": "Try Krampus, The Lost Boys, Creepshow—each shares DNA with Gremlins while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Gremlins?",
