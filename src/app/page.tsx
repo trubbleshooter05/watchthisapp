@@ -44,22 +44,28 @@ async function getGenreSpotlights(): Promise<GenreSpotlight[]> {
     { genre: "Animation", query: "animation", matcher: ["Animation"] },
   ] as const;
 
+  const usedSlugs = new Set<string>();
   const picks = targets
     .map((target) => {
-      const hit = bundles.find((bundle) => {
+      const matches = bundles.filter((bundle) => {
         const genres = bundle.sourceMovie.genres;
         if (target.query === "romcom") {
           return genres.includes("Romance") && genres.includes("Comedy");
         }
         return target.matcher.some((candidate) => genres.includes(candidate));
       });
-      if (!hit) return null;
+
+      const uniquePick =
+        matches.find((bundle) => !usedSlugs.has(bundle.sourceMovie.slug)) ?? matches[0] ?? null;
+      if (!uniquePick) return null;
+      usedSlugs.add(uniquePick.sourceMovie.slug);
+
       return {
         genre: target.genre,
         query: target.query,
-        movieTitle: hit.sourceMovie.title,
-        slug: hit.sourceMovie.slug,
-        tmdbId: hit.sourceMovie.tmdbId,
+        movieTitle: uniquePick.sourceMovie.title,
+        slug: uniquePick.sourceMovie.slug,
+        tmdbId: uniquePick.sourceMovie.tmdbId,
       };
     })
     .filter((entry): entry is NonNullable<typeof entry> => Boolean(entry));
