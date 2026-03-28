@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10947,
+    "title": "High School Musical",
+    "slug": "high-school-musical",
+    "year": 2006,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Music",
+      "Romance",
+      "TV Movie"
+    ],
+    "whyPeopleLoveIt": "High School Musical works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "family",
+      "music",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13655,
+      "title": "Camp Rock",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Camp Rock (2008) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "family",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 74018,
+      "title": "A Cinderella Story: Once Upon a Song",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If High School Musical clicked for you, A Cinderella Story: Once Upon a Song (2011) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13497,
+      "title": "Drumline",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Drumline (2002) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4951,
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If High School Musical clicked for you, 10 Things I Hate About You (1999) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 114150,
+      "title": "Pitch Perfect",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Pitch Perfect (2012) is a strong next stop: both trade in comedy and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "School of Rock",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If High School Musical clicked for you, School of Rock (2003) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 136799,
+      "title": "Trolls",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Trolls (2016) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "music",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 625450,
+      "title": "Tall Girl",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Tall Girl (2019) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2028,
+      "title": "Say Anything...",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Say Anything... (1989) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10269,
+      "title": "Yentl",
+      "year": 1983,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If High School Musical clicked for you, Yentl (1983) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after High School Musical?",
+      "answer": "Try Camp Rock, A Cinderella Story: Once Upon a Song, Drumline—each shares DNA with High School Musical while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is High School Musical?",
+      "answer": "High School Musical (2006) is best described as Comedy, Drama, Family, Music, Romance, TV Movie. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is High School Musical part of a franchise?",
+      "answer": "Yes—it's part of the \"High School Musical Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "hannah-montana-the-movie",
+    "coyote-ugly",
+    "love-dont-co-t-a-thing",
+    "soul",
+    "the-sound-of-music",
+    "10-things-i-hate-about-you",
+    "17-again"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 340102,
+    "title": "The New Mutants",
+    "slug": "the-new-mutants",
+    "year": 2020,
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The New Mutants (2020) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "horror",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Resident Evil (2002) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Extinction (2015) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Iron Man (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 263115,
+      "title": "Logan",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, Logan (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, X-Men: Days of Future Past (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 246655,
+      "title": "X-Men: Apocalypse",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, X-Men: Apocalypse (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76170,
+      "title": "The Wolverine",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The New Mutants clicked for you, The Wolverine (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The New Mutants?",
+      "answer": "Try Resident Evil, Resident Evil: Apocalypse, Extinction—each shares DNA with The New Mutants while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The New Mutants?",
+      "answer": "The New Mutants (2020) is best described as Science Fiction, Horror, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The New Mutants part of a franchise?",
+      "answer": "Yes—it's part of the \"X-Anthology\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alien-resurrection",
+    "alive",
+    "attack-on-titan",
+    "godzilla-minus-one",
+    "lifeforce",
+    "meg-2-the-trench",
+    "resident-evil"
+  ]
+}

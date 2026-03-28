@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 38410,
+    "title": "The Poughkeepsie Tapes",
+    "slug": "the-poughkeepsie-tapes",
+    "year": 2007,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Poughkeepsie Tapes (2007) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "crime",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8090,
+      "title": "Untraceable",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Untraceable (2008) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 176,
+      "title": "Saw",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Saw (2004) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 65754,
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, The Girl with the Dragon Tattoo (2011) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 398173,
+      "title": "The House That Jack Built",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, The House That Jack Built (2018) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1248,
+      "title": "Hannibal Rising",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Hannibal Rising (2007) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1632,
+      "title": "Mississippi Burning",
+      "year": 1988,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Mississippi Burning (1988) is a strong next stop: both trade in mystery and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 101669,
+      "title": "Mother's Day",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, Mother's Day (2010) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 756999,
+      "title": "The Black Phone",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Poughkeepsie Tapes clicked for you, The Black Phone (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Poughkeepsie Tapes?",
+      "answer": "Try Untraceable, Saw, The Girl with the Dragon Tattoo—each shares DNA with The Poughkeepsie Tapes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Poughkeepsie Tapes?",
+      "answer": "The Poughkeepsie Tapes (2007) is best described as Horror, Mystery, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Poughkeepsie Tapes worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "8mm",
+    "a-walk-among-the-tombstones",
+    "after-life",
+    "along-came-a-spider",
+    "anatomy-of-a-fall",
+    "awake",
+    "blue-velvet"
+  ]
+}

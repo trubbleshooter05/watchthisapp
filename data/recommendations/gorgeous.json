@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10951,
+    "title": "Gorgeous",
+    "slug": "gorgeous",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Gorgeous (1999) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "comedy",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1727,
+      "title": "Bird on a Wire",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Bird on a Wire (1990) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13345,
+      "title": "A Chinese Odyssey Part One: Pandora's Box",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, A Chinese Odyssey Part One: Pandora's Box (1995) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21835,
+      "title": "A Chinese Odyssey Part Two: Cinderella",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, A Chinese Odyssey Part Two: Cinderella (1995) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9470,
+      "title": "Kung Fu Hustle",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Kung Fu Hustle (2004) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Die Hard: With a Vengeance (1995) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1571,
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Live Free or Die Hard (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gorgeous clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gorgeous?",
+      "answer": "Try Bird on a Wire, A Chinese Odyssey Part One: Pandora's Box, A Chinese Odyssey Part Two: Cinderella—each shares DNA with Gorgeous while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gorgeous?",
+      "answer": "Gorgeous (1999) is best described as Adventure, Action, Comedy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gorgeous worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "city-hunter",
+    "a-knights-tale",
+    "armour-of-god",
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "charlies-angels",
+    "crouching-tiger-hidden-dragon"
+  ]
+}

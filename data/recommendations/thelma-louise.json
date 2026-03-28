@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1541,
+    "title": "Thelma & Louise",
+    "slug": "thelma-louise",
+    "year": 1991,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Thelma & Louise works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "crime",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 475,
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Bonnie and Clyde (1967) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3133,
+      "title": "Badlands",
+      "year": 1974,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Badlands (1974) is a strong next stop: both trade in drama and crime, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2163,
+      "title": "Breakdown",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Breakdown (1997) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11676,
+      "title": "Nothing to Lose",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Nothing to Lose (1997) is a strong next stop: both trade in crime and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8348,
+      "title": "Thunderbolt and Lightfoot",
+      "year": 1974,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Thunderbolt and Lightfoot (1974) is a strong next stop: both trade in drama and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 546,
+      "title": "Transamerica",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Transamerica (2005) is a strong next stop: both trade in drama and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1047020,
+      "title": "The Last Stop in Yuma County",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, The Last Stop in Yuma County (2024) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 339403,
+      "title": "Baby Driver",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, Baby Driver (2017) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12106,
+      "title": "The Quick and the Dead",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, The Quick and the Dead (1995) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "action",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4421,
+      "title": "G.I. Jane",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Thelma & Louise clicked for you, G.I. Jane (1997) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Thelma & Louise?",
+      "answer": "Try Bonnie and Clyde, Badlands, Breakdown—each shares DNA with Thelma & Louise while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Thelma & Louise?",
+      "answer": "Thelma & Louise (1991) is best described as Drama, Crime, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Thelma & Louise worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "127-hours",
+    "21",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
+    "a-brighter-summer-day",
+    "a-bronx-tale",
+    "a-history-of-violence"
+  ]
+}

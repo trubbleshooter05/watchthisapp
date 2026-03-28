@@ -1,0 +1,192 @@
+{
+  "sourceMovie": {
+    "tmdbId": 506574,
+    "title": "Descendants 3",
+    "slug": "descendants-3",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "TV Movie",
+      "Adventure",
+      "Fantasy",
+      "Music"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Descendants 3 (2019) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and tv movie blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "tv-movie",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 277217,
+      "title": "Descendants",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Descendants (2015) is a strong next stop: both trade in family and tv movie, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "tv-movie",
+        "adventure",
+        "fantasy",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 417320,
+      "title": "Descendants 2",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Descendants 2 (2017) is a strong next stop: both trade in family and tv movie, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "tv-movie",
+        "adventure",
+        "fantasy",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 901362,
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Trolls Band Together (2023) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "music",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in family and tv movie, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "tv-movie",
+        "music",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Labyrinth (1986) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 302429,
+      "title": "Strange Magic",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Strange Magic (2015) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "music",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 974262,
+      "title": "Descendants: The Rise of Red",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Descendants: The Rise of Red (2024) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, The House of Magic (2013) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Spellbound (2024) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9816,
+      "title": "Save the Last Dance",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Descendants 3 clicked for you, Save the Last Dance (2001) is a strong next stop: both trade in family and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "music",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Descendants 3?",
+      "answer": "Try Descendants, Descendants 2, Trolls Band Together—each shares DNA with Descendants 3 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Descendants 3?",
+      "answer": "Descendants 3 (2019) is best described as Family, TV Movie, Adventure, Fantasy, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Descendants 3 part of a franchise?",
+      "answer": "Yes—it's part of the \"Descendants Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "descendants",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "aladdin"
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "sourceMovie": {
+    "tmdbId": 3558,
+    "title": "Girl, Interrupted",
+    "slug": "girl-interrupted",
+    "year": 1999,
+    "genres": [
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Girl, Interrupted (1999) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. James Mangold's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 510,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, One Flew Over the Cuckoo's Nest (1975) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, Pride & Prejudice (2005) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1700,
+      "title": "Misery",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, Misery (1990) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, Atonement (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1443,
+      "title": "The Virgin Suicides",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, The Virgin Suicides (2000) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10312,
+      "title": "Patch Adams",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, Patch Adams (1998) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 43923,
+      "title": "It's Kind of a Funny Story",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, It's Kind of a Funny Story (2010) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 48231,
+      "title": "A Dangerous Method",
+      "year": 2011,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, A Dangerous Method (2011) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4688,
+      "title": "Across the Universe",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Girl, Interrupted clicked for you, Across the Universe (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Girl, Interrupted?",
+      "answer": "Try One Flew Over the Cuckoo's Nest, Pride & Prejudice, Misery—each shares DNA with Girl, Interrupted while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Girl, Interrupted?",
+      "answer": "Girl, Interrupted (1999) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Girl, Interrupted worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "12-angry-men",
+    "12-years-a-slave",
+    "127-hours",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "17-again"
+  ]
+}

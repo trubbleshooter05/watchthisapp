@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 5680,
+    "title": "Elvira: Mistress of the Dark",
+    "slug": "elvira-mistress-of-the-dark",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Elvira: Mistress of the Dark (1988) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "fantasy",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9374,
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Death Becomes Her (1992) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6069,
+      "title": "The Witches of Eastwick",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, The Witches of Eastwick (1987) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1153714,
+      "title": "Death of a Unicorn",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Death of a Unicorn (2025) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6552,
+      "title": "Idle Hands",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Idle Hands (1999) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6435,
+      "title": "Practical Magic",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Practical Magic (1998) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 836225,
+      "title": "The Exorcism of God",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, The Exorcism of God (2022) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4241,
+      "title": "Visitor Q",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Visitor Q (2001) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10210,
+      "title": "A Midsummer Night's Dream",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, A Midsummer Night's Dream (1999) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 26255,
+      "title": "Love Potion No. 9",
+      "year": 1992,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Love Potion No. 9 (1992) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Elvira: Mistress of the Dark clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Elvira: Mistress of the Dark?",
+      "answer": "Try Death Becomes Her, The Witches of Eastwick, Death of a Unicorn—each shares DNA with Elvira: Mistress of the Dark while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Elvira: Mistress of the Dark?",
+      "answer": "Elvira: Mistress of the Dark (1988) is best described as Comedy, Fantasy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Elvira: Mistress of the Dark part of a franchise?",
+      "answer": "Yes—it's part of the \"Elvira Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "army-of-darkness",
+    "beetlejuice-beetlejuice",
+    "death-becomes-her",
+    "death-of-a-unicorn",
+    "el-conde",
+    "gremlins",
+    "roald-dahls-the-witches"
+  ]
+}

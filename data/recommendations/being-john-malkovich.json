@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 492,
+    "title": "Being John Malkovich",
+    "slug": "being-john-malkovich",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Being John Malkovich works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1417,
+      "title": "Pan's Labyrinth",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Pan's Labyrinth (2006) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 854,
+      "title": "The Mask",
+      "year": 1994,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, The Mask (1994) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36685,
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, The Rocky Horror Picture Show (1975) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6069,
+      "title": "The Witches of Eastwick",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, The Witches of Eastwick (1987) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Inland Empire (2006) is a strong next stop: both trade in drama and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1494,
+      "title": "Curse of the Golden Flower",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Curse of the Golden Flower (2006) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 976720,
+      "title": "Vesper",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Vesper (2022) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1675,
+      "title": "Day for Night",
+      "year": 1973,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Day for Night (1973) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 276844,
+      "title": "The Little Death",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, The Little Death (2014) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1420,
+      "title": "Breakfast on Pluto",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Being John Malkovich clicked for you, Breakfast on Pluto (2005) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Being John Malkovich?",
+      "answer": "Try Pan's Labyrinth, The Mask, The Rocky Horror Picture Show—each shares DNA with Being John Malkovich while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Being John Malkovich?",
+      "answer": "Being John Malkovich (1999) is best described as Comedy, Drama, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Being John Malkovich worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "17-again",
+    "babe",
+    "big",
+    "click",
+    "luca",
+    "soul",
+    "stranger-than-fiction"
+  ]
+}

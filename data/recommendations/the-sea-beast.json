@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 560057,
+    "title": "The Sea Beast",
+    "slug": "the-sea-beast",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Action",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Sea Beast for the same reason it broke through in 2022: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Chris Williams keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "action",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 14411,
+      "title": "Sinbad: Legend of the Seven Seas",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Sinbad: Legend of the Seven Seas (2003) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1241982,
+      "title": "Moana 2",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Moana 2 (2024) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Tinker Bell and the Lost Treasure (2009) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1865,
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Pirates of the Caribbean: On Stranger Tides (2011) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 508943,
+      "title": "Luca",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Luca (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16523,
+      "title": "Where the Wild Things Are",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Where the Wild Things Are (2009) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 72197,
+      "title": "The Pirates! In an Adventure with Scientists!",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Sea Beast clicked for you, The Pirates! In an Adventure with Scientists! (2012) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Sea Beast?",
+      "answer": "Try Sinbad: Legend of the Seven Seas, Moana 2, Tinker Bell and the Lost Treasure—each shares DNA with The Sea Beast while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Sea Beast?",
+      "answer": "The Sea Beast (2022) is best described as Animation, Adventure, Action, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Sea Beast part of a franchise?",
+      "answer": "Yes—it's part of the \"The Sea Beast Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "castle-in-the-sky",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "pok-mon-the-first-movie",
+    "pok-mon-the-movie-hoopa-and-the-clash-of-ages",
+    "raya-and-the-last-dragon",
+    "rise-of-the-guardians"
+  ]
+}

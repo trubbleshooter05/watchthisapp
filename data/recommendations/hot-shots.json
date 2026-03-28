@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9595,
+    "title": "Hot Shots!",
+    "slug": "hot-shots",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit Hot Shots! for the same reason it broke through in 1991: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Jim Abrahams keeps the ensemble pointed in one direction. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "war",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 935,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) is a strong next stop: both trade in comedy and war, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 463272,
+      "title": "Johnny English Strikes Again",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Johnny English Strikes Again (2018) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4421,
+      "title": "G.I. Jane",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, G.I. Jane (1997) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9394,
+      "title": "They Call Me Trinity",
+      "year": 1970,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, They Call Me Trinity (1970) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "western"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1212855,
+      "title": "Fight or Flight",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Fight or Flight (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4247,
+      "title": "Scary Movie",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Scary Movie (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 813,
+      "title": "Airplane!",
+      "year": 1980,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Airplane! (1980) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 817,
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Austin Powers: The Spy Who Shagged Me (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 957,
+      "title": "Spaceballs",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hot Shots! clicked for you, Spaceballs (1987) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hot Shots!?",
+      "answer": "Try Hot Fuzz, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Johnny English Strikes Again—each shares DNA with Hot Shots! while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hot Shots!?",
+      "answer": "Hot Shots! (1991) is best described as Action, Comedy, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hot Shots! part of a franchise?",
+      "answer": "Yes—it's part of the \"Hot Shots! Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "the-ministry-of-ungentlemanly-warfare",
+    "tropic-thunder",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "21-jump-street",
+    "22-jump-street",
+    "300",
+    "300-rise-of-an-empire"
+  ]
+}

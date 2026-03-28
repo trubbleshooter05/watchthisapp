@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 487558,
+    "title": "BlacKkKlansman",
+    "slug": "blackkklansman",
+    "year": 2018,
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Drama",
+      "History"
+    ],
+    "whyPeopleLoveIt": "People revisit BlacKkKlansman for the same reason it broke through in 2018: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Spike Lee keeps the ensemble pointed in one direction. The crime and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "crime",
+      "comedy",
+      "drama",
+      "history",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9040,
+      "title": "Serpico",
+      "year": 1973,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, Serpico (1973) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1013601,
+      "title": "The Alto Knights",
+      "year": 2025,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, The Alto Knights (2025) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9366,
+      "title": "Donnie Brasco",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, Donnie Brasco (1997) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 556984,
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, The Trial of the Chicago 7 (2020) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 470044,
+      "title": "The Hate U Give",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, The Hate U Give (2018) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1266,
+      "title": "Street Kings",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, Street Kings (2008) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 502425,
+      "title": "Escape from Pretoria",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, Escape from Pretoria (2020) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1165,
+      "title": "The Queen",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If BlacKkKlansman clicked for you, The Queen (2006) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after BlacKkKlansman?",
+      "answer": "Try Serpico, The Alto Knights, American Psycho—each shares DNA with BlacKkKlansman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is BlacKkKlansman?",
+      "answer": "BlacKkKlansman (2018) is best described as Crime, Comedy, Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is BlacKkKlansman worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this crime lane."
+    }
+  ],
+  "relatedPages": [
+    "american-made",
+    "black-mass",
+    "chicago",
+    "gangs-of-new-york",
+    "green-book",
+    "hustlers",
+    "i-care-a-lot"
+  ]
+}

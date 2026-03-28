@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8584,
+    "title": "Shanghai Noon",
+    "slug": "shanghai-noon",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy",
+      "Western"
+    ],
+    "whyPeopleLoveIt": "People revisit Shanghai Noon for the same reason it broke through in 2000: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Tom Dey keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "comedy",
+      "western",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 44896,
+      "title": "Rango",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, Rango (2011) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "western",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 333484,
+      "title": "The Magnificent Seven",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, The Magnificent Seven (2016) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 966,
+      "title": "The Magnificent Seven",
+      "year": 1960,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, The Magnificent Seven (1960) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11967,
+      "title": "Young Guns",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, Young Guns (1988) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11040,
+      "title": "Little Big Man",
+      "year": 1970,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, Little Big Man (1970) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "western",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 512200,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, Jumanji: The Next Level (2019) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12106,
+      "title": "The Quick and the Dead",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, The Quick and the Dead (1995) is a strong next stop: both trade in action and western, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "western",
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 581032,
+      "title": "News of the World",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, News of the World (2020) is a strong next stop: both trade in adventure and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "western",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1492,
+      "title": "1492: Conquest of Paradise",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shanghai Noon clicked for you, 1492: Conquest of Paradise (1992) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Shanghai Noon?",
+      "answer": "Try Rango, The Magnificent Seven, The Magnificent Seven—each shares DNA with Shanghai Noon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shanghai Noon?",
+      "answer": "Shanghai Noon (2000) is best described as Adventure, Action, Comedy, Western. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shanghai Noon part of a franchise?",
+      "answer": "Yes—it's part of the \"Shanghai Noon Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armour-of-god",
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "charlies-angels",
+    "city-hunter",
+    "deadpool",
+    "deadpool-2"
+  ]
+}

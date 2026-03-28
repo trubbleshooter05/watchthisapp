@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 929204,
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "slug": "wallace-gromit-vengeance-most-fowl",
+    "year": 2024,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Wallace & Gromit: Vengeance Most Fowl works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 80321,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Madagascar 3: Europe's Most Wanted (2012) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 270946,
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Penguins of Madagascar (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Hoppers (2026) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9928,
+      "title": "Robots",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Robots (2005) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 531,
+      "title": "The Wrong Trousers",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, The Wrong Trousers (1993) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1634,
+      "title": "Free Willy",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wallace & Gromit: Vengeance Most Fowl clicked for you, Free Willy (1993) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wallace & Gromit: Vengeance Most Fowl?",
+      "answer": "Try Madagascar 3: Europe's Most Wanted, Penguins of Madagascar, The Secret Life of Pets 2—each shares DNA with Wallace & Gromit: Vengeance Most Fowl while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wallace & Gromit: Vengeance Most Fowl?",
+      "answer": "Wallace & Gromit: Vengeance Most Fowl (2024) is best described as Family, Comedy, Adventure, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wallace & Gromit: Vengeance Most Fowl worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2",
+    "cars-3"
+  ]
+}

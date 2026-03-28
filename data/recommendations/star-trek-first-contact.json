@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 199,
+    "title": "Star Trek: First Contact",
+    "slug": "star-trek-first-contact",
+    "year": 1996,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Star Trek: First Contact works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "adventure",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 201,
+      "title": "Star Trek: Nemesis",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek: Nemesis (2002) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157,
+      "title": "Star Trek III: The Search for Spock",
+      "year": 1984,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek III: The Search for Spock (1984) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 193,
+      "title": "Star Trek: Generations",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek: Generations (1994) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 174,
+      "title": "Star Trek VI: The Undiscovered Country",
+      "year": 1991,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek VI: The Undiscovered Country (1991) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 200,
+      "title": "Star Trek: Insurrection",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek: Insurrection (1998) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek (2009) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 54138,
+      "title": "Star Trek Into Darkness",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Star Trek Into Darkness (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348350,
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Star Trek: First Contact clicked for you, Solo: A Star Wars Story (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Star Trek: First Contact?",
+      "answer": "Try Star Trek: Nemesis, Star Trek III: The Search for Spock, Star Trek: Generations—each shares DNA with Star Trek: First Contact while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Star Trek: First Contact?",
+      "answer": "Star Trek: First Contact (1996) is best described as Science Fiction, Action, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Star Trek: First Contact part of a franchise?",
+      "answer": "Yes—it's part of the \"Star Trek: The Next Generation Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "greenland",
+    "jurassic-world",
+    "jurassic-world-fallen-kingdom",
+    "mad-max",
+    "maze-runner-the-death-cure",
+    "maze-runner-the-scorch-trials"
+  ]
+}

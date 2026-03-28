@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 228326,
+    "title": "The Book of Life",
+    "slug": "the-book-of-life",
+    "year": 2014,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Book of Life for the same reason it broke through in 2014: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Jorge R. Gutierrez keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "comedy",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11688,
+      "title": "The Emperor's New Groove",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, The Emperor's New Groove (2000) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 778855,
+      "title": "Chickenhare and the Hamster of Darkness",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Chickenhare and the Hamster of Darkness (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76492,
+      "title": "Hotel Transylvania",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Hotel Transylvania (2012) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 159824,
+      "title": "Hotel Transylvania 2",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Hotel Transylvania 2 (2015) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585511,
+      "title": "Luck",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Luck (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, The Willoughbys (2020) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Wendell & Wild (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425909,
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Ghostbusters: Afterlife (2021) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 668461,
+      "title": "Slumberland",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Slumberland (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354857,
+      "title": "Regular Show: The Movie",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Book of Life clicked for you, Regular Show: The Movie (2015) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Book of Life?",
+      "answer": "Try The Emperor's New Groove, Chickenhare and the Hamster of Darkness, Hotel Transylvania—each shares DNA with The Book of Life while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Book of Life?",
+      "answer": "The Book of Life (2014) is best described as Animation, Adventure, Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Book of Life worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania",
+    "klaus",
+    "kung-fu-panda-4",
+    "minions-the-rise-of-gru"
+  ]
+}

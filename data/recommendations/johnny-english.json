@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9486,
+    "title": "Johnny English",
+    "slug": "johnny-english",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Johnny English (2003) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Peter Howitt's control of tone keeps the ride coherent. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37724,
+      "title": "Skyfall",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Skyfall (2012) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10764,
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Quantum of Solace (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 37834,
+      "title": "Knight and Day",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Knight and Day (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 146216,
+      "title": "RED 2",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Johnny English clicked for you, RED 2 (2013) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11665,
+      "title": "Get Smart",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Get Smart (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 817,
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Austin Powers: The Spy Who Shagged Me (1999) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 746036,
+      "title": "The Fall Guy",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Johnny English clicked for you, The Fall Guy (2024) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1035259,
+      "title": "The Naked Gun",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Johnny English clicked for you, The Naked Gun (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 993710,
+      "title": "Back in Action",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Johnny English clicked for you, Back in Action (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Johnny English?",
+      "answer": "Try Spies in Disguise, Skyfall, Quantum of Solace—each shares DNA with Johnny English while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Johnny English?",
+      "answer": "Johnny English (2003) is best described as Adventure, Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Johnny English part of a franchise?",
+      "answer": "Yes—it's part of the \"Johnny English Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armour-of-god",
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "charlies-angels",
+    "city-hunter",
+    "deadpool",
+    "deadpool-2"
+  ]
+}

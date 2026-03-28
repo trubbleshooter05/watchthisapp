@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11205,
+    "title": "Wheels on Meals",
+    "slug": "wheels-on-meals",
+    "year": 1984,
+    "genres": [
+      "Romance",
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Wheels on Meals (1984) as a romance theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The romance and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "romance",
+      "action",
+      "comedy",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1493,
+      "title": "Miss Congeniality",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, Miss Congeniality (2000) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11198,
+      "title": "City Hunter",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, City Hunter (1993) is a strong next stop: both trade in romance and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9679,
+      "title": "Gone in Sixty Seconds",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, Gone in Sixty Seconds (2000) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1280,
+      "title": "3-Iron",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, 3-Iron (2004) is a strong next stop: both trade in romance and crime, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "crime",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 450001,
+      "title": "Master Z: Ip Man Legacy",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, Master Z: Ip Man Legacy (2018) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, The Enforcer (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24163,
+      "title": "As Tears Go By",
+      "year": 1988,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, As Tears Go By (1988) is a strong next stop: both trade in romance and crime, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "crime",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 18305,
+      "title": "A Better Tomorrow II",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, A Better Tomorrow II (1987) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wheels on Meals clicked for you, Escape from New York (1981) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Wheels on Meals?",
+      "answer": "Try Miss Congeniality, City Hunter, Gone in Sixty Seconds—each shares DNA with Wheels on Meals while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wheels on Meals?",
+      "answer": "Wheels on Meals (1984) is best described as Romance, Action, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wheels on Meals worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this romance lane."
+    }
+  ],
+  "relatedPages": [
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "american-made",
+    "bad-boys",
+    "bad-boys-ii",
+    "bad-boys-ride-or-die"
+  ]
+}
