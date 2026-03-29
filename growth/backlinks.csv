@@ -1,0 +1,21 @@
+site,url,category,priority,requires_login,captcha_likely,submission_type,status,submitted_at,followup_at,live_link,domain_rating,notes
+Product Hunt,https://www.producthunt.com/,Launch/high-traffic,high,yes,yes,product_launch,not_started,,,,Create launch assets before posting
+BetaList,https://betalist.com/,Startup directory,high,yes,yes,submission_form,not_started,,,,Needs concise startup-focused copy
+Uneed,https://www.uneed.best/,Product showcase,medium,yes,medium,submission_form,not_started,,,,Good for early discovery traffic
+Tiny Startups,https://tinystartups.com/,Indie showcase,medium,no,low,submission_form,not_started,,,,Fast approval in many cases
+Microlaunch,https://microlaunch.net/,Product launch list,medium,yes,medium,submission_form,not_started,,,,Use social proof in description
+SaaSHub,https://www.saashub.com/,Software directory,high,yes,low,listing_submission,not_started,,,,Strong backlink authority
+Alternative.me,https://alternative.me/,Alternatives directory,medium,yes,medium,listing_submission,not_started,,,,Position as TasteDive alternative
+Toolify,https://www.toolify.ai/,AI tools directory,high,yes,medium,listing_submission,not_started,,,,Add AI + recommendation tags
+Futurepedia,https://www.futurepedia.io/,AI tools directory,high,yes,medium,listing_submission,not_started,,,,Requires polished value proposition
+There’s An AI For That,https://theresanaiforthat.com/,AI tools directory,high,yes,medium,listing_submission,not_started,,,,Include practical use cases
+AI Tools Directory,https://aitoolsdirectory.com/,AI tools directory,medium,yes,medium,listing_submission,not_started,,,,Use 1-2 line short pitch
+Startup Stash,https://startupstash.com/,Startup resources,medium,no,low,resource_pitch,not_started,,,,Pitch as a useful discovery tool
+Indie Hackers,https://www.indiehackers.com/,Community,high,yes,low,build_in_public_post,not_started,,,,Share traffic + build metrics
+Hacker News Show HN,https://news.ycombinator.com/show,Community launch,high,no,low,show_hn_post,not_started,,,,Post with technical story
+Reddit r/MovieSuggestions,https://www.reddit.com/r/MovieSuggestions/,Community,high,yes,low,value_post,not_started,,,,Lead with value, not links
+Reddit r/movies,https://www.reddit.com/r/movies/,Community,medium,yes,low,comment_reply,not_started,,,,Use comments before top-level post
+Reddit r/Letterboxd,https://www.reddit.com/r/Letterboxd/,Community,medium,yes,low,value_post,not_started,,,,Frame as companion tool
+Quora,https://www.quora.com/,Q&A,medium,yes,low,answer_seeding,not_started,,,,Answer relevant long-tail questions
+Medium,https://medium.com/,Content platform,low,yes,low,article,not_started,,,,Publish comparison + workflow post
+Dev.to,https://dev.to/,Content platform,medium,yes,low,build_story_post,not_started,,,,Good for technical founder story
