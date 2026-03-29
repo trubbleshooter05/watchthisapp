@@ -8,145 +8,151 @@
       "Comedy",
       "Romance"
     ],
-    "whyPeopleLoveIt": "50 First Dates works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences love '50 First Dates' for its quirky yet heartfelt exploration of love through the lens of amnesia, with Adam Sandler's character, Henry, going to hilarious and touching lengths to win over Drew Barrymore's Lucy every single day. The film perfectly balances comedy and romance, featuring memorable scenes like the daily re-introduction and the heartfelt moments that reveal Lucy's struggles, all set against the beautiful backdrop of Hawaii and enhanced by a charming soundtrack.",
     "vibes": [
-      "comedy",
-      "romance",
-      "rewatchable"
+      "romantic-comedy",
+      "quirky-love",
+      "heartwarming",
+      "hilarious",
+      "feel-good"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 8488,
-      "title": "Hitch",
-      "year": 2005,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "There's a reason 50 First Dates fans keep landing on Hitch (2005) — the comedy is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "comedy",
-        "romance",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 50546,
-      "title": "Just Go with It",
-      "year": 2011,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Just Go with It draws from the same comedy well as 50 First Dates, channeling romance in ways that feel unmistakably related. The 2011 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 3981,
-      "title": "What Women Want",
-      "year": 2000,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "What Women Want (2000) captures the comedy appeal of 50 First Dates without simply imitating it. The romance streak running through both films is what puts What Women Want at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 4380,
-      "title": "Shall We Dance?",
+      "tmdbId": 38,
+      "title": "Eternal Sunshine of the Spotless Mind",
       "year": 2004,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The comedy appeal of 50 First Dates — that funny edge, the romance — translates cleanly into Shall We Dance? (2004). Different setting, same essential satisfaction.",
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "The exploration of memory and love in this film parallels the emotional stakes in 50 First Dates, where the characters grapple with the fragility of relationships. As Joel and Clementine navigate their memories, you’ll find a similar mixture of humor and heartbreak that resonates deeply with Henry and Lucy's story.",
       "sharedVibes": [
-        "comedy",
-        "romance",
-        "drama"
+        "memory",
+        "identity",
+        "love"
       ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 10780,
-      "title": "Overboard",
-      "year": 1987,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The filmmakers behind Overboard (1987) clearly understood what makes comedy work — the same quality that keeps 50 First Dates rewatchable. Expect the same funny rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "comedy",
-        "romance"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 3784,
-      "title": "Frankie and Johnny",
-      "year": 1991,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Frankie and Johnny (1991) is the kind of film 50 First Dates fans discover and immediately send to their group chat. The comedy overlap is real, but it's the funny emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "comedy",
-        "romance",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1034716,
-      "title": "People We Meet on Vacation",
-      "year": 2026,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "People We Meet on Vacation shares 50 First Dates's gift for comedy — the 2026 film delivers romance without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "comedy",
-        "romance",
-        "drama"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 3933,
-      "title": "Corpse Bride",
-      "year": 2005,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Much of what makes 50 First Dates compelling — the romance, the fantasy — shows up in Corpse Bride (2005) in a slightly different form. Both films understand that uplifting storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "romance",
-        "fantasy",
-        "animation"
-      ],
-      "mood": "uplifting"
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 72570,
       "title": "The Vow",
       "year": 2012,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The romance energy of 50 First Dates is alive in The Vow (2012), filtered through a different story but the same emotional register. It earns its place on this list with a bittersweet payoff that rivals the original pick.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "In both films, the struggle to maintain a romantic connection despite memory loss serves as a poignant backdrop, highlighting the power of love. The dedication of Leo to reclaim his love for Paige mirrors Henry’s relentless pursuit of Lucy every day.",
       "sharedVibes": [
+        "love",
+        "memory",
+        "commitment"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 40807,
+      "title": "50/50",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The blend of humor and serious themes of health and mortality in 50/50 reflects the way 50 First Dates balances comedy with deeper emotional moments. Just as Henry confronts the challenges of Lucy's condition, Adam learns to navigate his life-threatening diagnosis with wit and warmth.",
+      "sharedVibes": [
+        "friendship",
+        "health",
+        "humor"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137,
+      "title": "Groundhog Day",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The concept of reliving the same day repeatedly echoes the daily effort Henry puts into winning Lucy's heart in 50 First Dates. Both films cleverly explore the idea of personal growth and the lengths one will go for love, with humor woven throughout.",
+      "sharedVibes": [
+        "time",
+        "love",
+        "transformation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 194,
+      "title": "Amélie",
+      "year": 2001,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Both films celebrate quirky romance, with a whimsical approach to love that invites viewers to root for the characters’ happiness. Amélie's imaginative quest to improve the lives of those around her channels the same heartfelt determination that drives Henry in his pursuit of Lucy.",
+      "sharedVibes": [
+        "quirky",
         "romance",
-        "drama"
+        "dreams"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 122906,
+      "title": "About Time",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The heartfelt exploration of love and the importance of treasuring everyday moments resonates with the themes of 50 First Dates, where each day is a new chance. Tim's journey through time to enhance his relationships mirrors Henry's dedication to making every moment with Lucy count.",
+      "sharedVibes": [
+        "time",
+        "love",
+        "family"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 4174,
-      "title": "Spellbound",
-      "year": 1945,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Spellbound (1945) operates in the same romance as 50 First Dates, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "tmdbId": 11036,
+      "title": "The Notebook",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Like Henry's persistent efforts to win Lucy's affection, Noah's unwavering devotion in The Notebook showcases the lengths one will go for true love, even when faced with obstacles. The emotional depth and romantic moments will remind you of the heartfelt connection between the leads in 50 First Dates.",
       "sharedVibes": [
         "romance",
-        "thriller",
-        "mystery"
+        "devotion",
+        "memory"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 391713,
+      "title": "Lady Bird",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The coming-of-age journey in Lady Bird shares thematic elements of identity and desire, much like Henry's quest to understand Lucy and their love. With its mix of humor and poignant moments, the film evokes a similar emotional response to the struggles of young love found in 50 First Dates.",
+      "sharedVibes": [
+        "identity",
+        "growth",
+        "family"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The charming blend of romance and comedy in The Princess Bride reflects the delightful and heartfelt dynamics found between Henry and Lucy. With its iconic characters and adventures, it captures the essence of enduring love that transcends challenges, just like in 50 First Dates.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13668,
+      "title": "Catch and Release",
+      "year": 2006,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Catch and Release as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after 50 First Dates?",
-      "answer": "Try Hitch, Just Go with It, What Women Want—each shares DNA with 50 First Dates while changing the setting enough to feel fresh."
+      "answer": "Try Eternal Sunshine of the Spotless Mind, The Vow, 50/50—each shares DNA with 50 First Dates while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 50 First Dates?",
@@ -160,10 +166,10 @@
   "relatedPages": [
     "10-things-i-hate-about-you",
     "13-going-on-30",
+    "17-again",
     "27-dresses",
     "500-days-of-summer",
-    "a-cinderella-story",
-    "am-lie",
-    "american-pie"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella"
   ]
 }

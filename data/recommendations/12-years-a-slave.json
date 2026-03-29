@@ -8,145 +8,151 @@
       "Drama",
       "History"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto 12 Years a Slave (2013) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to '12 Years a Slave' for its raw and unflinching depiction of Solomon Northup's harrowing journey from freedom to enslavement, where moments like his heartbreaking separation from family resonate deeply. Director Steve McQueen's choice to linger on the brutal realities of slavery, especially in scenes like Solomon's relentless struggle for survival, forces viewers to confront uncomfortable truths about humanity and resilience.",
     "vibes": [
-      "drama",
-      "history",
-      "crowd-favorite"
+      "historical-drama",
+      "emotional-journey",
+      "social-justice",
+      "resilience",
+      "brutal-honesty"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 292011,
-      "title": "Richard Jewell",
-      "year": 2019,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Richard Jewell (2019) operates in the same drama as 12 Years a Slave, but with its own distinct voice and pacing. The tense payoff will feel satisfyingly familiar without retreading the same ground.",
+      "tmdbId": 423,
+      "title": "The Pianist",
+      "year": 2002,
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The harrowing battle for survival in a hostile world mirrors Solomon's own struggle against the brutalities of slavery in 12 Years a Slave. Both films capture the raw essence of resilience amidst despair, particularly through intimate moments of a character’s unyielding spirit against dehumanization.",
       "sharedVibes": [
-        "drama",
-        "history"
+        "resilience",
+        "trauma",
+        "historical"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 873,
-      "title": "The Color Purple",
-      "year": 1985,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "The Color Purple (1985) belongs to the same conversation as 12 Years a Slave — both anchor their drama in history emotion that doesn't let go. The tense undercurrent connects them more than any plot summary would suggest.",
+      "tmdbId": 273895,
+      "title": "Selma",
+      "year": 2014,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Just as Solomon's journey reveals the depths of human suffering and the quest for dignity, Selma powerfully depicts the struggle for civil rights with a focus on leadership and sacrifice. The dynamic between Martin Luther King Jr. and his followers reflects the same sense of urgency and hope found in Solomon’s fight for freedom.",
       "sharedVibes": [
-        "drama",
-        "history"
+        "resilience",
+        "historical",
+        "leadership"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 715931,
-      "title": "Emancipation",
-      "year": 2022,
+      "tmdbId": 127302,
+      "title": "Roots Rock Reggae: Inside The Jamaican Music Scene",
+      "year": 1977,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "If 12 Years a Slave's drama stayed with you, Emancipation (2022) delivers the same sensation through an entirely different story. The history through-line is the real common thread between them.",
+      "whyYoullLoveIt": "The generational saga of Kunta Kinte embodies the same historical gravity and personal struggle showcased in 12 Years a Slave. Their shared themes of family, identity, and the brutal realities of slavery resonate deeply throughout both narratives.",
       "sharedVibes": [
-        "drama",
-        "history",
-        "war"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 506528,
-      "title": "Harriet",
-      "year": 2019,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Where 12 Years a Slave excels in drama, Harriet (2019) doubles down on history to comparable effect. The tonal similarities run deep enough that watching both back-to-back feels intentional.",
-      "sharedVibes": [
-        "drama",
-        "history"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 127560,
-      "title": "The Railway Man",
-      "year": 2013,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The Railway Man (2013) is the natural next step after 12 Years a Slave: same drama DNA, different perspective. The tense streak and history elevate it well above a simple genre exercise.",
-      "sharedVibes": [
-        "drama",
-        "history"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 998846,
-      "title": "Back to Black",
-      "year": 2024,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Fans of 12 Years a Slave who respond to its drama will find Back to Black (2024) immediately familiar. Both films share a history sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "drama",
-        "history",
-        "music"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 4415,
-      "title": "Les Misérables",
-      "year": 1998,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "There's a reason 12 Years a Slave fans keep landing on Les Misérables (1998) — the drama is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "drama",
-        "history",
-        "crime",
-        "romance"
+        "identity",
+        "family",
+        "historical"
       ],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 239566,
-      "title": "Get On Up",
-      "year": 2014,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Get On Up draws from the same drama well as 12 Years a Slave, channeling history in ways that feel unmistakably related. The 2014 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "tmdbId": 50014,
+      "title": "The Help",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The powerful dynamics between the African American maids and their employers in The Help evoke a similar exploration of racial injustice and the fight for dignity, much like Solomon's plight in 12 Years a Slave. The film’s blend of humor and pathos allows for a nuanced portrayal of relationships underpinned by systemic oppression.",
       "sharedVibes": [
-        "drama",
-        "history",
-        "music"
+        "identity",
+        "struggle",
+        "racial"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 205,
+      "title": "Hotel Rwanda",
+      "year": 2004,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The moral complexities and the fight for humanity in the face of genocide reflect the profound ethical dilemmas faced by Solomon Northup. Both films intricately weave personal stories with large-scale historical tragedies, leaving a lasting emotional impact on the viewer.",
+      "sharedVibes": [
+        "moral-dilemma",
+        "historical",
+        "resilience"
       ],
       "mood": "tense"
+    },
+    {
+      "tmdbId": 64720,
+      "title": "Take Shelter",
+      "year": 2011,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The psychological turmoil that plagues the protagonist as he grapples with impending disaster resonates with Solomon's own emotional and physical struggles against an uncertain fate. Both films explore the depths of fear and anxiety, highlighting how these feelings shape one's identity and choices.",
+      "sharedVibes": [
+        "psychological",
+        "tension",
+        "identity"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339408,
+      "title": "The Birth of a Nation",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Nat Turner's rebellion captures the visceral fight against oppression, echoing Solomon's own desperate quest for freedom and dignity in 12 Years a Slave. Both films convey the urgency of civil rights and the transformative power of resistance in the face of brutality.",
+      "sharedVibes": [
+        "rebellion",
+        "historical",
+        "freedom"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 522212,
+      "title": "Just Mercy",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The story of Walter McMillian's wrongful conviction and the quest for justice resonates with the themes of systemic injustice and the fight for human dignity seen in 12 Years a Slave. Both narratives inspire a deep emotional connection to the characters’ struggles against an oppressive system.",
+      "sharedVibes": [
+        "justice",
+        "systemic-injustice",
+        "resilience"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 491480,
+      "title": "The Boy Who Harnessed the Wind",
+      "year": 2019,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "This inspiring tale of ingenuity against adversity showcases the same indomitable spirit seen in Solomon’s journey for survival and freedom. The bond between the young protagonist and his community reflects the collective struggle for empowerment, much like the relationships portrayed in 12 Years a Slave.",
+      "sharedVibes": [
+        "community",
+        "empowerment",
+        "hope"
+      ],
+      "mood": "uplifting"
     },
     {
       "tmdbId": 13435,
       "title": "Antwone Fisher",
       "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Antwone Fisher (2002) captures the drama appeal of 12 Years a Slave without simply imitating it. The history streak running through both films is what puts Antwone Fisher at the top of any \"if you liked…\" shortlist.",
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Consider Antwone Fisher as a lateral move: new story, similar “who’s performing for whom?” energy that made that one stick.",
       "sharedVibes": [
         "drama",
         "history",
         "romance"
       ],
       "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 458131,
-      "title": "The Best of Enemies",
-      "year": 2019,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The drama appeal of 12 Years a Slave — that tense edge, the history — translates cleanly into The Best of Enemies (2019). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "drama",
-        "history"
-      ],
-      "mood": "tense"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after 12 Years a Slave?",
-      "answer": "Try Richard Jewell, The Color Purple, Emancipation—each shares DNA with 12 Years a Slave while changing the setting enough to feel fresh."
+      "answer": "Try The Pianist, Selma, Roots Rock Reggae: Inside The Jamaican Music Scene—each shares DNA with 12 Years a Slave while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 12 Years a Slave?",
@@ -158,12 +164,12 @@
     }
   ],
   "relatedPages": [
+    "12-strong",
     "13-hours-the-secret-soldiers-of-benghazi",
+    "a-beautiful-day-in-the-neighborhood",
+    "a-bridge-too-far",
+    "a-taxi-driver",
     "against-the-ice",
-    "amadeus",
-    "apocalypto",
-    "apollo-13",
-    "barry-lyndon",
-    "ben-hur"
+    "air"
   ]
 }

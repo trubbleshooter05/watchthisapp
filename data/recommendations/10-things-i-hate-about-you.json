@@ -9,150 +9,151 @@
       "Romance",
       "Drama"
     ],
-    "whyPeopleLoveIt": "Audiences adore '10 Things I Hate About You' for its clever blend of Shakespearean wit and modern teen angst, perfectly embodied in Kat's fierce independence and Patrick's charmingly reckless pursuit of love. The iconic scene where Kat reads her heart-wrenching poem at the end truly encapsulates the raw vulnerability and emotional depth that resonates with anyone who's ever felt deeply for someone, making it a timeless exploration of love and identity.",
+    "whyPeopleLoveIt": "Audiences are drawn to '10 Things I Hate About You' because of its sharp, witty dialogue and the magnetic chemistry between Heath Ledger and Julia Stiles, especially in the iconic scene where he serenades her on the bleachers. The film cleverly weaves Shakespeare's 'The Taming of the Shrew' into a modern high school setting, exploring themes of authenticity and the complexities of teenage love in such a relatable and humorous way.",
     "vibes": [
-      "teen-romance",
-      "rebellious-spirit",
-      "emotional-vulnerability",
-      "classic-teen-comedy"
+      "romantic-comedy",
+      "teenage-rebellion",
+      "shakespearean-influence",
+      "heartfelt-humor",
+      "coming-of-age"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 9603,
-      "title": "Clueless",
-      "year": 1995,
-      "matchPercentage": 98,
-      "whyYoullLoveIt": "The sharp wit and romantic entanglements in Clueless mirror the playful banter and layered relationships found in 10 Things I Hate About You. Cher's journey of self-discovery and love amidst social hierarchies resonates with Kat's fierce independence and evolving understanding of romance.",
-      "sharedVibes": [
-        "self-discovery",
-        "class-anxiety",
-        "romance"
-      ],
-      "mood": "uplifting"
-    },
-    {
       "tmdbId": 10314,
       "title": "She's All That",
       "year": 1999,
-      "matchPercentage": 95,
-      "whyYoullLoveIt": "Just like Patrick's heartfelt serenade to Kat, the transformation of Laney in She's All That highlights the power of love to reveal true beauty beneath the surface. The stakes of high school popularity and acceptance will remind you of the emotional currents that grip the characters in 10 Things.",
+      "matchPercentage": 98,
+      "whyYoullLoveIt": "The transformation of Laney from an outsider to the prom queen mirrors Kat's journey of self-discovery and acceptance, showcasing the pressures of social conformity. Both films encapsulate the bittersweet vulnerability of first love, much like Kat's powerful poetry that lays bare her emotions.",
       "sharedVibes": [
-        "romance",
+        "teen-romance",
+        "self-discovery",
+        "vulnerability"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 796,
+      "title": "Cruel Intentions",
+      "year": 1999,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The underlying themes of manipulation and the complexity of teenage love echo Kat and Patrick's rebellious romance while diving deeper into darker emotional territories. The intense scenes of emotional vulnerability resonate with Kat's powerful moments of honesty in her poetry.",
+      "sharedVibes": [
+        "rebellious-spirit",
+        "emotional-vulnerability",
+        "class-anxiety"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9603,
+      "title": "Clueless",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Cher’s journey of navigating love and friendship parallels Kat’s fierce independence and her struggle to express her true self amidst societal expectations. The witty banter and character dynamics will remind you of the sharp dialogue and charming chemistry found in Kat and Patrick's relationship.",
+      "sharedVibes": [
+        "teen-romance",
         "identity",
-        "transformation"
+        "class-anxiety"
       ],
       "mood": "uplifting"
     },
     {
-      "tmdbId": 37735,
-      "title": "Easy A",
-      "year": 2010,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "The razor-sharp dialogue and witty commentary on high school dynamics in Easy A echo the cleverness of 10 Things I Hate About You, while also embracing the complexities of reputation and love. Olive's unapologetic spirit parallels Kat’s fierce independence, making for a delightful exploration of self-acceptance.",
+      "tmdbId": 376660,
+      "title": "The Edge of Seventeen",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Nadine's raw and relatable struggles with love and friendship evoke the same emotional depth that Kat experiences as she navigates her turbulent feelings for Patrick. Both films beautifully capture the essence of adolescent angst and the often painful journey toward self-acceptance.",
       "sharedVibes": [
-        "self-acceptance",
-        "reputation",
-        "humor"
+        "teen-romance",
+        "emotional-vulnerability",
+        "identity"
       ],
-      "mood": "funny"
+      "mood": "bittersweet"
     },
     {
       "tmdbId": 272693,
       "title": "The DUFF",
       "year": 2015,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "The unexpected friendship that blossoms into romance in The Duff mirrors the fiery tension and eventual connection between Kat and Patrick. Its exploration of identity and social labels will resonate with viewers who appreciate the nuances of love found in 10 Things.",
+      "whyYoullLoveIt": "Bianca's quest to redefine herself and navigate high school social dynamics resonates with Kat's fierce individuality and journey towards love. The humorous yet poignant moments in their search for identity and acceptance echo the heartwarming themes present in Kat's powerful poetry.",
       "sharedVibes": [
-        "friendship",
-        "self-discovery",
-        "romance"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 466282,
-      "title": "To All the Boys I've Loved Before",
-      "year": 2018,
-      "matchPercentage": 85,
-      "whyYoullLoveIt": "The tender and awkward moments of blossoming romance in To All the Boys I've Loved Before capture the spirit of youthful love and the importance of communication, akin to the heartfelt exchanges between Kat and Patrick. Lara Jean's journey of navigating her feelings speaks to the emotional authenticity that fans cherish in 10 Things.",
-      "sharedVibes": [
-        "first-love",
-        "communication",
-        "growing-up"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 342470,
-      "title": "All the Bright Places",
-      "year": 2020,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The deep emotional undercurrents and the exploration of love in the face of personal struggles in All the Bright Places echo the intensity found within Kat and Patrick's relationship. The film’s poignant moments of vulnerability provide a bittersweet counterpoint to the romantic comedy elements of 10 Things.",
-      "sharedVibes": [
-        "mental-health",
-        "romance",
-        "bittersweet"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 597219,
-      "title": "The Half of It",
-      "year": 2020,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The intricate triangle of relationships in The Half of It reflects the emotional stakes and depth found in Kat and Patrick's story, blending friendship and romance seamlessly. A focus on self-identity and unrequited love allows for a rich emotional experience reminiscent of the themes in 10 Things.",
-      "sharedVibes": [
-        "unrequited-love",
         "identity",
-        "friendship"
+        "teen-romance",
+        "vulnerability"
       ],
-      "mood": "bittersweet"
+      "mood": "funny"
     },
     {
-      "tmdbId": 2028,
-      "title": "Say Anything...",
-      "year": 1989,
-      "matchPercentage": 76,
-      "whyYoullLoveIt": "The iconic boombox scene in Say Anything... captures the heartfelt gestures of love that mirror Patrick's own romantic pursuits. This classic film encapsulates the struggles between social expectations and genuine connection, evoking similar emotional stakes as seen in 10 Things.",
+      "tmdbId": 37735,
+      "title": "Easy A",
+      "year": 2010,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Olive's witty and fierce independence draws parallels to Kat’s bold character as she navigates the complexities of high school reputation and love. The emotional honesty in Olive's journey reflects the raw vulnerability found in Kat's iconic poem.",
       "sharedVibes": [
-        "romance",
-        "social-pressures",
-        "heartfelt"
+        "rebellious-spirit",
+        "identity",
+        "humor"
       ],
       "mood": "uplifting"
     },
     {
-      "tmdbId": 200727,
-      "title": "Love, Rosie",
-      "year": 2014,
-      "matchPercentage": 75,
-      "whyYoullLoveIt": "The endless ups and downs of Rosie and Alex's relationship reflect the engaging romantic rhythm that is a hallmark of 10 Things I Hate About You. Their journey through miscommunication and missed opportunities evokes a familiar tension that keeps viewers invested.",
+      "tmdbId": 449176,
+      "title": "Love, Simon",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Simon’s journey of coming out and seeking acceptance will resonate deeply with anyone who appreciates Kat’s fight for authenticity and love. The heartfelt moments and vulnerability in both films highlight the universal struggles of love and identity.",
       "sharedVibes": [
-        "miscommunication",
-        "romance",
-        "friendship"
+        "teen-romance",
+        "emotional-vulnerability",
+        "identity"
       ],
-      "mood": "bittersweet"
+      "mood": "uplifting"
     },
     {
       "tmdbId": 157386,
       "title": "The Spectacular Now",
       "year": 2013,
-      "matchPercentage": 70,
-      "whyYoullLoveIt": "The raw and authentic portrayal of young love and personal struggles in The Spectacular Now resonates with the honesty and emotional stakes present in 10 Things I Hate About You. The dynamic between Sutter and Aimee captures the complexity of relationships as they navigate their individual challenges.",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The raw exploration of young love and personal struggles in Sutter and Aimee's relationship echoes the emotional depth present in Kat and Patrick's dynamic. Both films tackle the complexities of identity and vulnerability within the context of teenage romance.",
       "sharedVibes": [
-        "young-love",
-        "self-discovery",
-        "complexity"
+        "emotional-vulnerability",
+        "identity",
+        "teen-romance"
       ],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 84199,
+      "title": "The First Time",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Dave and Aubrey's honest dialogue and exploration of first love capture the tender yet awkward moments that echo Kat and Patrick’s growing connection. The film’s focus on vulnerability and the excitement of young romance mirrors the emotional beats found in Kat’s heartfelt poetry.",
+      "sharedVibes": [
+        "teen-romance",
+        "emotional-vulnerability",
+        "identity"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11355,
+      "title": "Never Been Kissed",
+      "year": 1999,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Josie’s journey of rediscovery and her struggle to fit in will resonate with Kat’s fierce independence and her fight against societal expectations. The film’s emotional moments and comedy echo the heartfelt vulnerability present in Kat's poetic expression.",
+      "sharedVibes": [
+        "identity",
+        "teen-romance",
+        "vulnerability"
+      ],
+      "mood": "funny"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after 10 Things I Hate About You?",
-      "answer": "Try Clueless, She's All That, Easy A—each shares DNA with 10 Things I Hate About You while changing the setting enough to feel fresh."
+      "answer": "Try She's All That, Cruel Intentions, Clueless—each shares DNA with 10 Things I Hate About You while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 10 Things I Hate About You?",
@@ -164,12 +165,12 @@
     }
   ],
   "relatedPages": [
-    "la-la-land",
-    "after",
-    "bridesmaids",
-    "fifty-shades-of-grey",
-    "parasite",
-    "pride-and-prejudice",
-    "saltburn"
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past",
+    "breakfast-at-tiffanys"
   ]
 }

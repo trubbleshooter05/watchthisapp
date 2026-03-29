@@ -24,6 +24,8 @@ const tmdbCachePath = path.join(cacheDir, "tmdb-script-cache.json");
 
 const MOODS = new Set(["dark", "uplifting", "tense", "funny", "bittersweet"]);
 const OPENAI_MODEL = "gpt-4o-mini";
+const CHRONOLOGY_RULE =
+  "IMPORTANT: When describing why a recommended movie is similar to the source movie, always respect chronology. If the recommended movie was released BEFORE the source movie, frame it as an influence or predecessor (e.g., 'This laid the groundwork for films like [source]' or 'You can see where [source] drew inspiration'). If the recommended movie was released AFTER the source movie, frame it as carrying the torch (e.g., 'Takes the [theme] from [source] and runs with it'). NEVER say an older film 'captures' or 'imitates' a newer film.";
 
 function loadEnvLocal() {
   const p = path.join(root, ".env.local");
@@ -368,7 +370,7 @@ async function regenerateOne(slug) {
   const title = detail.title || src.title;
   const year = yearFromDate(detail.release_date) || src.year;
 
-  const system = `You are a film critic with encyclopedic knowledge and strong opinions. You recommend movies based on FEELING and EXPERIENCE, not just genre tags. Output valid JSON only.`;
+  const system = `You are a film critic with encyclopedic knowledge and strong opinions. You recommend movies based on FEELING and EXPERIENCE, not just genre tags. ${CHRONOLOGY_RULE} Output valid JSON only.`;
   const userRec = buildRecPrompt({
     title,
     year,

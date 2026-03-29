@@ -8,149 +8,142 @@
       "Thriller",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto 2010 (1984) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are drawn to '2010' for its intriguing exploration of humanity's relationship with technology, particularly through the character of Dr. Heywood Floyd, who navigates the tension between scientific ambition and ethical responsibility. The haunting depiction of HAL's transformation and the film's philosophical ponderings about communication and understanding beyond our world resonate deeply, making it a captivating sequel that expands on the legacy of '2001: A Space Odyssey.'",
     "vibes": [
-      "thriller",
-      "science-fiction",
-      "divisive"
+      "thoughtful-exploration",
+      "sci-fi-mystique",
+      "existential-pondering",
+      "human-connection"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 95,
-      "title": "Armageddon",
-      "year": 1998,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "Armageddon draws from the same thriller well as 2010, channeling science-fiction in ways that feel unmistakably related. The 1998 film makes a natural companion watch — similar in spirit but distinctly its own.",
+      "whyYoullLoveIt": "The intricate character dynamics in '2010' showcase how ambition can lead to a moral abyss, much like Tom Ripley's descent into identity theft. The film's tense moments, particularly the scenes of manipulation and deception, resonate with the psychological stakes present in '2010'.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
+        "obsession",
+        "class",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 593,
+      "title": "Solaris",
+      "year": 1972,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "'2010' explores the haunting effects of isolation and the quest for understanding, themes that are at the core of Tarkovsky's 'Solaris'. Both films delve into the psychological turmoil of their characters, particularly during moments of intense introspection that challenge their perceptions of reality.",
+      "sharedVibes": [
+        "existential",
+        "isolation",
+        "psychological"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 154,
-      "title": "Star Trek II: The Wrath of Khan",
+      "tmdbId": 78,
+      "title": "Blade Runner",
       "year": 1982,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Star Trek II: The Wrath of Khan (1982) captures the thriller appeal of 2010 without simply imitating it. The science-fiction streak running through both films is what puts Star Trek II: The Wrath of Khan at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 199,
-      "title": "Star Trek: First Contact",
-      "year": 1996,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "The thriller appeal of 2010 — that tense edge, the science-fiction — translates cleanly into Star Trek: First Contact (1996). Different setting, same essential satisfaction.",
+      "whyYoullLoveIt": "In '2010', the exploration of human consciousness and the ethics of artificial intelligence provides a thrilling backdrop, similar to the existential themes found in 'Blade Runner'. The film's vivid portrayal of a dystopian future complements the tension and moral questions raised in '2010'.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
+        "identity",
+        "existential",
+        "dystopia"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 201,
-      "title": "Star Trek: Nemesis",
-      "year": 2002,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The filmmakers behind Star Trek: Nemesis (2002) clearly understood what makes thriller work — the same quality that keeps 2010 rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 157,
-      "title": "Star Trek III: The Search for Spock",
-      "year": 1984,
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "Star Trek III: The Search for Spock (1984) is the kind of film 2010 fans discover and immediately send to their group chat. The thriller overlap is real, but it's the tense emotional pull that seals the recommendation.",
+      "whyYoullLoveIt": "The chilling atmosphere of '2010' heightens the suspense surrounding space exploration, much like the horrifying journey through the unknown in 'Event Horizon'. Both films masterfully maintain an unsettling tension, pushing characters to confront their deepest fears in the vastness of space.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
+        "horror",
+        "isolation",
+        "psychological"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 193,
-      "title": "Star Trek: Generations",
-      "year": 1994,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Star Trek: Generations shares 2010's gift for thriller — the 1994 film delivers science-fiction without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "tmdbId": 686,
+      "title": "Contact",
+      "year": 1997,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The scientific curiosity and emotional stakes of '2010' resonate with the profound themes explored in 'Contact', especially the pursuit of understanding the cosmos and our place within it. Both films feature compelling character arcs that challenge and develop as they confront the unknown.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
+        "faith",
+        "discovery",
+        "isolation"
       ],
-      "mood": "tense"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 174,
-      "title": "Star Trek VI: The Undiscovered Country",
-      "year": 1991,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "Much of what makes 2010 compelling — the thriller, the science-fiction — shows up in Star Trek VI: The Undiscovered Country (1991) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 200,
-      "title": "Star Trek: Insurrection",
-      "year": 1998,
+      "tmdbId": 782,
+      "title": "Gattaca",
+      "year": 1997,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "The thriller energy of 2010 is alive in Star Trek: Insurrection (1998), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
+      "whyYoullLoveIt": "In '2010', the tension stemming from human ambition and identity parallels the ethical dilemmas faced in 'Gattaca', where society's genetic engineering shapes destinies. Both films reveal how characters navigate oppressive systems while striving for personal meaning and freedom.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "action",
-        "adventure"
+        "identity",
+        "ambition",
+        "societal"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 17431,
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The isolation and existential questioning in '2010' can be felt strongly in 'Moon', where the protagonist grapples with identity and purpose in solitude. Both films use their settings to amplify the psychological tension, making the audience ponder the nature of humanity.",
+      "sharedVibes": [
+        "identity",
+        "isolation",
+        "existential"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 165,
-      "title": "Back to the Future Part II",
-      "year": 1989,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Back to the Future Part II (1989) operates in the same science-fiction as 2010, but with its own distinct voice and pacing. The funny payoff will feel satisfyingly familiar without retreading the same ground.",
+      "tmdbId": 2666,
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Just as '2010' blends thriller elements with profound themes of identity and perception, 'Dark City' challenges the very fabric of reality through the lens of its protagonist's journey. Both films feature a richly crafted atmosphere that keeps viewers questioning what is real.",
       "sharedVibes": [
-        "science-fiction",
-        "adventure",
-        "comedy"
+        "identity",
+        "mystery",
+        "psychological"
       ],
-      "mood": "funny"
+      "mood": "dark"
     },
     {
-      "tmdbId": 62,
-      "title": "2001: A Space Odyssey",
-      "year": 1968,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "2001: A Space Odyssey (1968) belongs to the same conversation as 2010 — both anchor their science-fiction in mystery emotion that doesn't let go. The tense undercurrent connects them more than any plot summary would suggest.",
+      "tmdbId": 13363,
+      "title": "The Man from Earth",
+      "year": 2007,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The philosophical debates and emotional reverberations in '2010' echo through the thought-provoking conversations of 'The Man From Earth', where characters confront profound truths. Both films create an intimate setting that allows for deep character exploration amidst suspenseful revelations.",
       "sharedVibes": [
-        "science-fiction",
-        "mystery",
-        "adventure"
+        "philosophical",
+        "identity",
+        "dialogue"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10514,
+      "title": "The Andromeda Strain",
+      "year": 1971,
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "In '2010', a sense of urgency and impending danger drives the narrative, a feeling echoed in 'The Andromeda Strain' as scientists race against time to solve a biological crisis. Both films present complex character interactions and moral dilemmas, enhancing their respective thrills.",
+      "sharedVibes": [
+        "science",
+        "urgency",
+        "thriller"
       ],
       "mood": "tense"
     }
@@ -158,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after 2010?",
-      "answer": "Try Armageddon, Star Trek II: The Wrath of Khan, Star Trek: First Contact—each shares DNA with 2010 while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Solaris, Blade Runner—each shares DNA with 2010 while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 2010?",
@@ -171,11 +164,11 @@
   ],
   "relatedPages": [
     "10-cloverfield-lane",
+    "24-hours-to-live",
     "28-days-later",
     "28-weeks-later",
     "28-years-later",
     "28-years-later-the-bone-temple",
-    "a-quiet-place-day-one",
-    "a-quiet-place-part-ii"
+    "40-acres"
   ]
 }

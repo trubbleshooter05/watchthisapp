@@ -10,91 +10,130 @@
       "Drama",
       "Horror"
     ],
-    "whyPeopleLoveIt": "10 Cloverfield Lane (2016) stuck because it commits to its thriller premise without apologizing—viewers remember set pieces and momentum as much as plot. Dan Trachtenberg's control of tone keeps the ride coherent. The thriller and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences are hooked by the tense psychological game between Michelle and Howard, where every interaction crackles with uncertainty and dread, especially in that nail-biting moment when she discovers the truth about the outside world. The film masterfully builds suspense with its claustrophobic setting and the eerie unpredictability of John Goodman’s character, leaving viewers questioning who the real monster is, making it an unforgettable ride of paranoia and survival.",
     "vibes": [
-      "thriller",
-      "science-fiction",
-      "drama",
-      "horror",
-      "rewatchable"
+      "claustrophobic",
+      "suspenseful",
+      "psychological-thriller",
+      "survival",
+      "unpredictable"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 405774,
-      "title": "Bird Box",
-      "year": 2018,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "There's a reason 10 Cloverfield Lane fans keep landing on Bird Box (2018) — the thriller is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "whyYoullLoveIt": "The psychological tension in the character dynamics echoes the way Michelle navigates her precarious situation in 10 Cloverfield Lane. Ripley’s obsession with identity and superiority leads to a chilling exploration of moral ambiguity that will keep you on edge.",
       "sharedVibes": [
-        "thriller",
-        "drama",
-        "horror"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 1100988,
-      "title": "28 Years Later",
-      "year": 2025,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "28 Years Later draws from the same thriller well as 10 Cloverfield Lane, channeling science-fiction in ways that feel unmistakably related. The 2025 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 11683,
-      "title": "Land of the Dead",
-      "year": 2005,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Land of the Dead (2005) captures the thriller appeal of 10 Cloverfield Lane without simply imitating it. The science-fiction streak running through both films is what puts Land of the Dead at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 411143,
-      "title": "Tau",
-      "year": 2018,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The thriller appeal of 10 Cloverfield Lane — that dark edge, the science-fiction — translates cleanly into Tau (2018). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 599281,
-      "title": "Fear of Rain",
-      "year": 2021,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The filmmakers behind Fear of Rain (2021) clearly understood what makes thriller work — the same quality that keeps 10 Cloverfield Lane rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "thriller",
-        "drama",
-        "horror"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 329004,
-      "title": "The Survivalist",
+      "tmdbId": 264644,
+      "title": "Room",
       "year": 2015,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The Survivalist (2015) is the kind of film 10 Cloverfield Lane fans discover and immediately send to their group chat. The thriller overlap is real, but it's the tense emotional pull that seals the recommendation.",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The intense focus on survival and the complex relationship between Ma and Jack mirrors the claustrophobic tension and emotional stakes found in 10 Cloverfield Lane. Both films depict the struggle against an overwhelming external threat while exploring profound human connection.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction",
-        "drama"
+        "trauma",
+        "survival",
+        "psychological"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 306947,
+      "title": "The Invitation",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The unsettling sense of dread that builds throughout The Invitation resonates with the paranoia and mistrust found in 10 Cloverfield Lane. As the dinner party spirals into psychological horror, the film expertly plays with your emotions, leaving you questioning every character’s intentions.",
+      "sharedVibes": [
+        "mistrust",
+        "psychological",
+        "suspense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 220289,
+      "title": "Coherence",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The surreal unfolding of events during a dinner party in Coherence brings a similar mix of tension and existential dread that those trapped in 10 Cloverfield Lane experience. The film plays with reality and relationships in a way that continually keeps you guessing.",
+      "sharedVibes": [
+        "tension",
+        "relationships",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 242090,
+      "title": "The One I Love",
+      "year": 2014,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The exploration of a couple's relationship under strange circumstances resonates with Michelle's evolving psyche in 10 Cloverfield Lane. The film’s blend of emotional depth and sci-fi elements provides a unique twist, keeping the viewer intrigued and unsettled.",
+      "sharedVibes": [
+        "identity",
+        "relationships",
+        "sci-fi"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 5876,
+      "title": "The Mist",
+      "year": 2007,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The characters' struggle for survival against a terrifying unknown mirrors Michelle's fight for agency in 10 Cloverfield Lane. The claustrophobic atmosphere and moral dilemmas faced by the group underline the thin line between humanity and horror.",
+      "sharedVibes": [
+        "survival",
+        "fear",
+        "psychological"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 698232,
+      "title": "Under the Skin",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Like 10 Cloverfield Lane, Under the Skin weaves a sense of existential dread with a strong performance at its center, driving the emotional stakes higher. Scarlett Johansson's enigmatic portrayal creates an atmosphere that captivates and unsettles in a way that feels hauntingly similar.",
+      "sharedVibes": [
+        "identity",
+        "alienation",
+        "sci-fi"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 447332,
+      "title": "A Quiet Place",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The tension of a family facing an unseen threat draws parallels to the psychological intensity in 10 Cloverfield Lane as both films utilize silence and suspense masterfully. The stakes of survival in a world turned hostile deepen the emotional connections among the characters.",
+      "sharedVibes": [
+        "survival",
+        "family",
+        "suspense"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14139,
+      "title": "Timecrimes",
+      "year": 2007,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "You’ll find the looping narrative and the characters’ moral dilemmas in Timecrimes echo the psychological complexity of 10 Cloverfield Lane. The film’s clever use of time and consequence creates a suffocating atmosphere that keeps you on your toes.",
+      "sharedVibes": [
+        "consequence",
+        "psychological",
+        "sci-fi"
       ],
       "mood": "tense"
     },
@@ -102,58 +141,20 @@
       "tmdbId": 505948,
       "title": "I Am Mother",
       "year": 2019,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "I Am Mother shares 10 Cloverfield Lane's gift for thriller — the 2019 film delivers science-fiction without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
+      "matchPercentage": 70,
+      "whyYoullLoveIt": "The film's exploration of trust and control within a confined space resonates with the dynamics between characters in 10 Cloverfield Lane. As the story unfolds, the unsettling atmosphere and sense of questioning reality draw you into an emotional and thought-provoking experience.",
       "sharedVibes": [
-        "thriller",
-        "science-fiction"
+        "trust",
+        "identity",
+        "sci-fi"
       ],
       "mood": "tense"
-    },
-    {
-      "tmdbId": 375366,
-      "title": "The Girl with All the Gifts",
-      "year": 2016,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Much of what makes 10 Cloverfield Lane compelling — the science-fiction, the horror — shows up in The Girl with All the Gifts (2016) in a slightly different form. Both films understand that dark storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "science-fiction",
-        "horror",
-        "action"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 4689,
-      "title": "Sympathy for Mr. Vengeance",
-      "year": 2002,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The thriller energy of 10 Cloverfield Lane is alive in Sympathy for Mr. Vengeance (2002), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
-      "sharedVibes": [
-        "thriller",
-        "drama",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 162215,
-      "title": "How I Live Now",
-      "year": 2013,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "How I Live Now (2013) operates in the same science-fiction as 10 Cloverfield Lane, but with its own distinct voice and pacing. The bittersweet payoff will feel satisfyingly familiar without retreading the same ground.",
-      "sharedVibes": [
-        "science-fiction",
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after 10 Cloverfield Lane?",
-      "answer": "Try Bird Box, 28 Years Later, Land of the Dead—each shares DNA with 10 Cloverfield Lane while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Room, The Invitation—each shares DNA with 10 Cloverfield Lane while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 10 Cloverfield Lane?",
@@ -169,8 +170,8 @@
     "28-weeks-later",
     "28-years-later",
     "28-years-later-the-bone-temple",
+    "40-acres",
     "a-quiet-place",
-    "a-quiet-place-day-one",
-    "a-quiet-place-part-ii"
+    "a-quiet-place-day-one"
   ]
 }

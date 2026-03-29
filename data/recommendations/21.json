@@ -8,24 +8,25 @@
       "Drama",
       "Crime"
     ],
-    "whyPeopleLoveIt": "Audiences latched onto 21 (2008) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences love '21' for its thrilling portrayal of an Ivy League students' transformation into high-stakes gamblers, particularly through the character of Ben Campbell as he navigates the allure of fast money and the ethical dilemmas that come with it. The intense scenes of card counting in Vegas, combined with the tension of being chased by casino security, create an exhilarating experience that keeps viewers on the edge of their seats, all while exploring deeper themes of ambition and the cost of success.",
     "vibes": [
-      "drama",
-      "crime",
-      "divisive"
+      "high-stakes",
+      "ambition",
+      "thriller",
+      "moral-dilemma"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 597208,
-      "title": "Nightmare Alley",
-      "year": 2021,
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "There's a reason 21 fans keep landing on Nightmare Alley (2021) — the drama is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "whyYoullLoveIt": "The intense character dynamics in '21,' particularly the way ambition intertwines with deception, resonate strongly with Ripley's relentless pursuit of a life he envies. This film explores how obsession can distort identity and moral boundaries, creating a psychological tension that is captivating and chilling.",
       "sharedVibes": [
-        "drama",
-        "crime",
-        "thriller"
+        "obsession",
+        "class",
+        "psychological"
       ],
       "mood": "dark"
     },
@@ -33,111 +34,116 @@
       "tmdbId": 10220,
       "title": "Rounders",
       "year": 1998,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Rounders draws from the same drama well as 21, channeling crime in ways that feel unmistakably related. The 1998 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "drama",
-        "crime"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 11562,
-      "title": "Crimes and Misdemeanors",
-      "year": 1989,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "Crimes and Misdemeanors (1989) captures the drama appeal of 21 without simply imitating it. The crime streak running through both films is what puts Crimes and Misdemeanors at the top of any \"if you liked…\" shortlist.",
+      "whyYoullLoveIt": "The high-stakes poker scenes in 'Rounders' mirror the adrenaline-fueled tension of the blackjack tables in '21,' showcasing how gambling becomes a battleground for self-identity. Both films delve into the allure and danger of obsession, revealing the thin line between triumph and disaster.",
       "sharedVibes": [
-        "drama",
-        "crime",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 10337,
-      "title": "Bugsy",
-      "year": 1991,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The drama appeal of 21 — that tense edge, the crime — translates cleanly into Bugsy (1991). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "mystery"
+        "gambling",
+        "identity",
+        "risk"
       ],
       "mood": "tense"
     },
     {
-      "tmdbId": 26719,
-      "title": "House of Games",
-      "year": 1987,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The filmmakers behind House of Games (1987) clearly understood what makes drama work — the same quality that keeps 21 rewatchable. Expect the same dark rhythm, executed with a fresh angle.",
+      "tmdbId": 37799,
+      "title": "The Social Network",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "In '21,' the thrill of intellectual conquest turns toxic, echoing the personal sacrifices made in 'The Social Network' as ambition drives a wedge between friends. Both films deftly explore the cost of success and the complexities of relationships in a competitive world.",
       "sharedVibes": [
-        "drama",
+        "ambition",
+        "betrayal",
+        "identity"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 161,
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The camaraderie and intricate planning among the characters in 'Ocean's Eleven' resonate with the teamwork displayed in '21' during their gambling escapades. Both films celebrate clever schemes while underscoring the tension that arises from the risks involved in their high-stakes worlds.",
+      "sharedVibes": [
+        "heist",
+        "teamwork",
+        "tension"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 396371,
+      "title": "Molly's Game",
+      "year": 2017,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Like '21,' 'Molly's Game' captures the relentless pursuit of success within a high-stakes gambling environment, exploring the personal costs associated with ambition and risk. The narrative intricacies and character struggles provide a thrilling experience that will resonate long after the credits roll.",
+      "sharedVibes": [
+        "ambition",
+        "gambling",
+        "risk"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 388,
+      "title": "Inside Man",
+      "year": 2006,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "The intellectual cat-and-mouse game in 'Inside Man' parallels the strategic depth of '21,' where every move could mean the difference between success and failure. Both films balance drama and crime in a way that keeps audiences guessing and engaged throughout.",
+      "sharedVibes": [
+        "strategy",
         "crime",
-        "thriller"
+        "tension"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284536,
+      "title": "The Gambler",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The protagonist's self-destructive obsession with gambling in 'The Gambler' echoes the reckless choices made by the lead in '21,' both films spotlighting the thin veil between thrill and despair. This dark exploration of addiction and ambition provides a gripping emotional experience.",
+      "sharedVibes": [
+        "addiction",
+        "despair",
+        "risk"
       ],
       "mood": "dark"
     },
     {
-      "tmdbId": 23954,
-      "title": "Atlantic City",
-      "year": 1980,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "Atlantic City (1980) is the kind of film 21 fans discover and immediately send to their group chat. The drama overlap is real, but it's the bittersweet emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 12573,
-      "title": "A Serious Man",
-      "year": 2009,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "A Serious Man shares 21's gift for drama — the 2009 film delivers comedy without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "drama",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 4032,
-      "title": "My Girl",
-      "year": 1991,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Much of what makes 21 compelling — the drama, the comedy — shows up in My Girl (1991) in a slightly different form. Both films understand that funny storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "drama",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 9769,
-      "title": "Lolita",
-      "year": 1997,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The drama energy of 21 is alive in Lolita (1997), filtered through a different story but the same emotional register. It earns its place on this list with a bittersweet payoff that rivals the original pick.",
-      "sharedVibes": [
-        "drama",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 4478,
-      "title": "Indecent Proposal",
-      "year": 1993,
+      "tmdbId": 5925,
+      "title": "The Great Escape",
+      "year": 1963,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Indecent Proposal (1993) operates in the same drama as 21, but with its own distinct voice and pacing. The bittersweet payoff will feel satisfyingly familiar without retreading the same ground.",
+      "whyYoullLoveIt": "The camaraderie and strategic planning among the prisoners in 'The Great Escape' reflect the teamwork and tension found in '21' as characters navigate high-stakes situations. Both films showcase the ingenuity and risks of those determined to break free from their confines.",
       "sharedVibes": [
-        "drama",
-        "romance"
+        "teamwork",
+        "strategy",
+        "freedom"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11371,
+      "title": "The Score",
+      "year": 2001,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The intricate heist planning in 'The Score' shares thematic ground with the calculated risk-taking seen in '21,' as both films delve into the psychological costs of crime. The tension between characters reveals how ambition can create devastating rifts.",
+      "sharedVibes": [
+        "heist",
+        "psychological",
+        "tension"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 301608,
+      "title": "The Trust",
+      "year": 2016,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "The dynamic between the two leads in 'The Trust' reflects the complicated friendships and betrayals found in '21,' ultimately showcasing how crime can warp personal relationships. Both films encapsulate the thrill and danger of pursuing illicit endeavors.",
+      "sharedVibes": [
+        "crime",
+        "betrayal",
+        "friendship"
       ],
       "mood": "bittersweet"
     }
@@ -145,7 +151,7 @@
   "faq": [
     {
       "question": "What should I watch after 21?",
-      "answer": "Try Nightmare Alley, Rounders, Crimes and Misdemeanors—each shares DNA with 21 while changing the setting enough to feel fresh."
+      "answer": "Try The Talented Mr. Ripley, Rounders, The Social Network—each shares DNA with 21 while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 21?",
@@ -157,12 +163,12 @@
     }
   ],
   "relatedPages": [
+    "21-bridges",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
     "a-brighter-summer-day",
     "a-bronx-tale",
     "a-history-of-violence",
-    "a-touch-of-sin",
-    "a-walk-among-the-tombstones",
-    "american-gangster",
-    "american-gigolo"
+    "a-perfect-murder"
   ]
 }

@@ -9,149 +9,151 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "21 Jump Street works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Audiences love '21 Jump Street' for its hilarious buddy-cop dynamic between Jonah Hill and Channing Tatum, who bring a perfect mix of charm and awkwardness to their undercover high school assignment. The film's sharp humor, particularly in scenes like the absurd drug bust at the prom and the brilliant use of self-aware satire about teen culture, keeps you laughing while exploring themes of friendship and self-identity in a way that feels genuine and relatable.",
     "vibes": [
-      "action",
-      "comedy",
-      "crime",
-      "rewatchable"
+      "buddy-comedy",
+      "satirical",
+      "teen-culture",
+      "action-packed",
+      "friendship"
     ]
   },
   "recommendations": [
     {
-      "tmdbId": 187017,
-      "title": "22 Jump Street",
-      "year": 2014,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "22 Jump Street (2014) is the natural next step after 21 Jump Street: same action DNA, different perspective. The funny streak and comedy elevate it well above a simple genre exercise.",
+      "tmdbId": 8363,
+      "title": "Superbad",
+      "year": 2007,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "The friendship dynamics and coming-of-age humor in Superbad resonate with the buddy cop relationship of Schmidt and Jenko, capturing the awkwardness and desire to fit in during high school. The film's chaotic party scenes and heartfelt moments reflect the balance of action and comedy that makes 21 Jump Street so memorable.",
       "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
+        "friendship",
+        "identity",
+        "coming-of-age"
       ],
-      "mood": "funny"
+      "mood": "uplifting"
     },
     {
-      "tmdbId": 90,
-      "title": "Beverly Hills Cop",
-      "year": 1984,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "Fans of 21 Jump Street who respond to its action will find Beverly Hills Cop (1984) immediately familiar. Both films share a comedy sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 5175,
-      "title": "Rush Hour 2",
-      "year": 2001,
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "There's a reason 21 Jump Street fans keep landing on Rush Hour 2 (2001) — the action is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
+      "whyYoullLoveIt": "The over-the-top action and sharp comedy in Hot Fuzz mirrors the energetic style of 21 Jump Street, especially in its satirical take on crime and heroism. Both films cleverly subvert expectations while showcasing a buddy cop partnership that evolves through outrageous scenarios.",
       "sharedVibes": [
-        "action",
-        "comedy",
+        "satire",
+        "friendship",
         "crime"
       ],
       "mood": "funny"
+    },
+    {
+      "tmdbId": 10625,
+      "title": "Mean Girls",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Mean Girls explores high school hierarchies and social dynamics, themes that resonate with the undercover antics of 21 Jump Street's characters as they navigate a different kind of power struggle. The film's witty dialogue and memorable quotes add to its rewatchability, much like the comedic elements of your favorite buddy cop flick.",
+      "sharedVibes": [
+        "identity",
+        "social-dynamics",
+        "humor"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10189,
+      "title": "Pineapple Express",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The blend of action and absurd comedy in Pineapple Express resonates with the unpredictable nature of 21 Jump Street, particularly in its exploration of friendship under duress. The film's wild ride through crime and consequences provides a similar thrill with a unique stoner twist.",
+      "sharedVibes": [
+        "friendship",
+        "crime",
+        "action-comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 290250,
+      "title": "The Nice Guys",
+      "year": 2016,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The mismatched duo of private eyes in The Nice Guys echoes the comedic chemistry found in 21 Jump Street, delivering both humor and action in equal measure. As they unravel a mystery, the film captures the same sense of camaraderie and chaos experienced by Schmidt and Jenko.",
+      "sharedVibes": [
+        "friendship",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "While more serious in tone, In the Line of Fire shares a focus on the pressures of duty and survival, much like Schmidt and Jenko's evolution as they navigate their undercover mission. The high-stakes action and exploration of heroism provide a thrilling backdrop to the personal struggles that resonate with the emotional core of 21 Jump Street.",
+      "sharedVibes": [
+        "survival",
+        "pressure",
+        "heroism"
+      ],
+      "mood": "tense"
     },
     {
       "tmdbId": 136795,
       "title": "The Heat",
       "year": 2013,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "The Heat draws from the same action well as 21 Jump Street, channeling comedy in ways that feel unmistakably related. The 2013 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 5174,
-      "title": "Rush Hour 3",
-      "year": 2007,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "Rush Hour 3 (2007) captures the action appeal of 21 Jump Street without simply imitating it. The comedy streak running through both films is what puts Rush Hour 3 at the top of any \"if you liked…\" shortlist.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 573435,
-      "title": "Bad Boys: Ride or Die",
-      "year": 2024,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The action appeal of 21 Jump Street — that funny edge, the comedy — translates cleanly into Bad Boys: Ride or Die (2024). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1035259,
-      "title": "The Naked Gun",
-      "year": 2025,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The filmmakers behind The Naked Gun (2025) clearly understood what makes action work — the same quality that keeps 21 Jump Street rewatchable. Expect the same funny rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 1239193,
-      "title": "Deep Cover",
-      "year": 2025,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Deep Cover (2025) is the kind of film 21 Jump Street fans discover and immediately send to their group chat. The action overlap is real, but it's the funny emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 11384,
-      "title": "The Hard Way",
-      "year": 1991,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "The Hard Way shares 21 Jump Street's gift for action — the 1991 film delivers comedy without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "action",
-        "comedy",
-        "crime"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 23483,
-      "title": "Kick-Ass",
-      "year": 2010,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "Much of what makes 21 Jump Street compelling — the action, the crime — shows up in Kick-Ass (2010) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
+      "whyYoullLoveIt": "The dynamic between Sandra Bullock and Melissa McCarthy in The Heat showcases a comedic partnership that mirrors the buddy cop humor found in 21 Jump Street, especially as they tackle crime with their own unique styles. The film combines action and laughter as they confront both external and personal challenges, much like the undercover duo's journey.",
       "sharedVibes": [
-        "action",
-        "crime"
+        "friendship",
+        "crime",
+        "comedy"
       ],
-      "mood": "tense"
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27581,
+      "title": "The Other Guys",
+      "year": 2010,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "The absurdity of police work in The Other Guys parallels the wild situations faced by Schmidt and Jenko, bringing a fresh comedic perspective to crime-fighting. The film's hilarious take on buddy cop tropes delivers a similar blend of action and humor that keeps the energy high.",
+      "sharedVibes": [
+        "crime",
+        "absurdity",
+        "buddy-cop"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 187017,
+      "title": "22 Jump Street",
+      "year": 2014,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "While it may seem like a direct sequel, 22 Jump Street carries the torch of self-aware comedy and buddy cop dynamics, building upon the themes of friendship and identity introduced in the first film. The sequel's hilarious escalation of action and absurd situations makes it a worthy follow-up that amplifies the original's energy.",
+      "sharedVibes": [
+        "friendship",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005,
+      "matchPercentage": 72,
+      "whyYoullLoveIt": "Kiss Kiss Bang Bang's ironic take on crime and its self-referential humor aligns with the cleverness of 21 Jump Street, especially in how it explores identity amidst chaos. The film's unique blend of action and wit creates a captivating experience that echoes the buddy-cop genre's charm.",
+      "sharedVibes": [
+        "identity",
+        "crime",
+        "humor"
+      ],
+      "mood": "bittersweet"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after 21 Jump Street?",
-      "answer": "Try 22 Jump Street, Beverly Hills Cop, Rush Hour 2—each shares DNA with 21 Jump Street while changing the setting enough to feel fresh."
+      "answer": "Try Superbad, Hot Fuzz, Mean Girls—each shares DNA with 21 Jump Street while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is 21 Jump Street?",
@@ -163,12 +165,12 @@
     }
   ],
   "relatedPages": [
+    "2-guns",
     "22-jump-street",
     "48-hrs",
+    "almost-cops",
     "american-made",
-    "bad-boys",
-    "bad-boys-ii",
-    "bad-boys-ride-or-die",
-    "baywatch"
+    "army-of-thieves",
+    "bad-boys"
   ]
 }
