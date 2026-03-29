@@ -1,0 +1,34 @@
+{
+  "sourceMovie": {
+    "tmdbId": 481848,
+    "title": "The Call of the Wild",
+    "slug": "the-call-of-the-wild",
+    "year": 2020,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Call of the Wild?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

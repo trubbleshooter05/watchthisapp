@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8069,
+    "title": "Barbarella",
+    "slug": "barbarella",
+    "year": 1968,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Barbarella (1968) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Roger Vadim's control of tone keeps the ride coherent. The science fiction and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 412656,
+      "title": "Chaos Walking",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Chaos Walking (2021) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 848326,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Rebel Moon - Part One: A Child of Fire (2023) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14506,
+      "title": "The Adventures of Baron Munchausen",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Barbarella clicked for you, The Adventures of Baron Munchausen (1988) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 976720,
+      "title": "Vesper",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Vesper (2022) is a strong next stop: both trade in science fiction and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13820,
+      "title": "Repo Man",
+      "year": 1984,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Repo Man (1984) is a strong next stop: both trade in science fiction and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15239,
+      "title": "The Toxic Avenger",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Barbarella clicked for you, The Toxic Avenger (1984) is a strong next stop: both trade in science fiction and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14831,
+      "title": "Help!",
+      "year": 1965,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Help! (1965) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 679,
+      "title": "Aliens",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Barbarella clicked for you, Aliens (1986) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Barbarella?",
+      "answer": "Try Alita: Battle Angel, Valerian and the City of a Thousand Planets, Chaos Walking—each shares DNA with Barbarella while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Barbarella?",
+      "answer": "Barbarella (1968) is best described as Science Fiction, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Barbarella worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "back-to-the-future",
+    "back-to-the-future-part-ii",
+    "back-to-the-future-part-iii",
+    "bill-teds-excellent-adventure",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "elio",
+    "free-guy"
+  ]
+}

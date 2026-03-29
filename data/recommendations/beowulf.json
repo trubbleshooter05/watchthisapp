@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2310,
+    "title": "Beowulf",
+    "slug": "beowulf",
+    "year": 2007,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Beowulf (2007) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Robert Zemeckis's control of tone keeps the ride coherent. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Beowulf clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Beowulf clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Beowulf clicked for you, The Hobbit: An Unexpected Journey (2012) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10191,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Beowulf clicked for you, How to Train Your Dragon (2010) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Beowulf clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 639933,
+      "title": "The Northman",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Beowulf clicked for you, The Northman (2022) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 555604,
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Beowulf clicked for you, Guillermo del Toro's Pinocchio (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9477,
+      "title": "King Arthur",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Beowulf clicked for you, King Arthur (2004) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "war",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Beowulf clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1087192,
+      "title": "How to Train Your Dragon",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Beowulf clicked for you, How to Train Your Dragon (2025) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Beowulf?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Hobbit: An Unexpected Journey—each shares DNA with Beowulf while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Beowulf?",
+      "answer": "Beowulf (2007) is best described as Adventure, Action, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Beowulf worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "attack-on-titan-the-last-attack",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "big-hero-6",
+    "black-clover-sword-of-the-wizard-king",
+    "castle-in-the-sky"
+  ]
+}

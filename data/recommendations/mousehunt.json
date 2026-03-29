@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 6283,
+    "title": "MouseHunt",
+    "slug": "mousehunt",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "MouseHunt (1997) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Gore Verbinski's control of tone keeps the ride coherent. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 585,
+      "title": "Monsters, Inc.",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Monsters, Inc. (2001) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2062,
+      "title": "Ratatouille",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Ratatouille (2007) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Onward (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11774,
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Lemony Snicket's A Series of Unfortunate Events (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Willy Wonka & the Chocolate Factory (1971) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 481084,
+      "title": "The Addams Family",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, The Addams Family (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, An American Tail (1986) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38843,
+      "title": "Ramona and Beezus",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Ramona and Beezus (2010) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22582,
+      "title": "Tom and Jerry: The Movie",
+      "year": 1992,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Tom and Jerry: The Movie (1992) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10464,
+      "title": "Corrina, Corrina",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If MouseHunt clicked for you, Corrina, Corrina (1994) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after MouseHunt?",
+      "answer": "Try Monsters, Inc., Ratatouille, Onward—each shares DNA with MouseHunt while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is MouseHunt?",
+      "answer": "MouseHunt (1997) is best described as Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is MouseHunt worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "101-dalmatians",
+    "3-ninjas",
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie"
+  ]
+}

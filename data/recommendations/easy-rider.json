@@ -1,0 +1,168 @@
+{
+  "sourceMovie": {
+    "tmdbId": 624,
+    "title": "Easy Rider",
+    "slug": "easy-rider",
+    "year": 1969,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Easy Rider (1969) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Dennis Hopper's control of tone keeps the ride coherent. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1878,
+      "title": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Fear and Loathing in Las Vegas (1998) is a strong next stop: both trade in adventure and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1541,
+      "title": "Thelma & Louise",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Thelma & Louise (1991) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10081,
+      "title": "The Principal",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, The Principal (1987) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 77221,
+      "title": "Black Gold",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Black Gold (2011) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 641,
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Requiem for a Dream (2000) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 627,
+      "title": "Trainspotting",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Trainspotting (1996) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4982,
+      "title": "American Gangster",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, American Gangster (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 504172,
+      "title": "The Mule",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, The Mule (2018) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4133,
+      "title": "Blow",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Blow (2001) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Easy Rider clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Easy Rider?",
+      "answer": "Try Fear and Loathing in Las Vegas, Thelma & Louise, The Principal—each shares DNA with Easy Rider while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Easy Rider?",
+      "answer": "Easy Rider (1969) is best described as Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Easy Rider part of a franchise?",
+      "answer": "Yes—it's part of the \"Easy Rider Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "127-hours",
+    "13-assassins",
+    "a-dogs-purpose",
+    "a-i-artificial-intelligence",
+    "a-knights-tale",
+    "a-writers-odyssey",
+    "against-the-ice"
+  ]
+}

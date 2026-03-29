@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 398173,
+    "title": "The House That Jack Built",
+    "slug": "the-house-that-jack-built",
+    "year": 2018,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Crime",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The House That Jack Built?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

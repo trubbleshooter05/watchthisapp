@@ -1,0 +1,163 @@
+{
+  "sourceMovie": {
+    "tmdbId": 49520,
+    "title": "The Change-Up",
+    "slug": "the-change-up",
+    "year": 2011,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Change-Up for the same reason it broke through in 2011: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. David Dobkin keeps the ensemble pointed in one direction. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Night at the Museum (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 114150,
+      "title": "Pitch Perfect",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Pitch Perfect (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1624,
+      "title": "Liar Liar",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Liar Liar (1997) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1542,
+      "title": "Office Space",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Office Space (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1574,
+      "title": "Chicago",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Chicago (2002) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Dogma (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718032,
+      "title": "Licorice Pizza",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Licorice Pizza (2021) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15373,
+      "title": "Role Models",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Role Models (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Bill & Ted's Excellent Adventure (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1588,
+      "title": "Bring It On",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Change-Up clicked for you, Bring It On (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Change-Up?",
+      "answer": "Try Night at the Museum, Pitch Perfect, Liar Liar—each shares DNA with The Change-Up while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Change-Up?",
+      "answer": "The Change-Up (2011) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Change-Up worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street"
+  ]
+}

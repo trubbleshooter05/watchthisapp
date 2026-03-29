@@ -1,0 +1,34 @@
+{
+  "sourceMovie": {
+    "tmdbId": 333658,
+    "title": "Seeds of Yesterday",
+    "slug": "seeds-of-yesterday",
+    "year": 2015,
+    "genres": [
+      "TV Movie",
+      "Thriller",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Seeds of Yesterday?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

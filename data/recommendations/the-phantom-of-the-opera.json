@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9833,
+    "title": "The Phantom of the Opera",
+    "slug": "the-phantom-of-the-opera",
+    "year": 2004,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "People revisit The Phantom of the Opera for the same reason it broke through in 2004: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Joel Schumacher keeps the ensemble pointed in one direction. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, American Psycho (2000) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 454,
+      "title": "Romeo + Juliet",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Romeo + Juliet (1996) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 824,
+      "title": "Moulin Rouge!",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Moulin Rouge! (2001) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "music"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1278,
+      "title": "The Dreamers",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, The Dreamers (2003) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 68817,
+      "title": "Footloose",
+      "year": 2011,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Footloose (2011) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "music"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1280,
+      "title": "3-Iron",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, 3-Iron (2004) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "crime"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1259,
+      "title": "Notes on a Scandal",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Notes on a Scandal (2006) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 6003,
+      "title": "Romeo and Juliet",
+      "year": 1968,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Romeo and Juliet (1968) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1093,
+      "title": "Elevator to the Gallows",
+      "year": 1958,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Phantom of the Opera clicked for you, Elevator to the Gallows (1958) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Phantom of the Opera?",
+      "answer": "Try American Psycho, Romeo + Juliet, Moulin Rouge!—each shares DNA with The Phantom of the Opera while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Phantom of the Opera?",
+      "answer": "The Phantom of the Opera (2004) is best described as Thriller, Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Phantom of the Opera worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "allied",
+    "fifty-shades-of-grey",
+    "labor-day",
+    "lust-caution",
+    "match-point",
+    "millers-girl",
+    "my-fault"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 154,
+    "title": "Star Trek II: The Wrath of Khan",
+    "slug": "star-trek-ii-the-wrath-of-khan",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Star Trek II: The Wrath of Khan works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "science-fiction",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Guardians of the Galaxy (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 80274,
+      "title": "Ender's Game",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Ender's Game (2013) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87421,
+      "title": "Riddick",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Riddick (2013) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 848326,
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Rebel Moon - Part One: A Child of Fire (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, The Jackal (1997) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 522402,
+      "title": "Finch",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Finch (2021) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4349,
+      "title": "The Kingdom",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, The Kingdom (2007) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4689,
+      "title": "Sympathy for Mr. Vengeance",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, Sympathy for Mr. Vengeance (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4437,
+      "title": "2010",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Star Trek II: The Wrath of Khan clicked for you, 2010 (1984) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Star Trek II: The Wrath of Khan?",
+      "answer": "Try Guardians of the Galaxy, Star Wars: The Rise of Skywalker, Ender's Game—each shares DNA with Star Trek II: The Wrath of Khan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Star Trek II: The Wrath of Khan?",
+      "answer": "Star Trek II: The Wrath of Khan (1982) is best described as Action, Adventure, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Star Trek II: The Wrath of Khan part of a franchise?",
+      "answer": "Yes—it's part of the \"Star Trek: The Original Series Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "battleship",
+    "futureworld",
+    "gemini-man",
+    "greenland",
+    "i-am-number-four",
+    "jurassic-world"
+  ]
+}

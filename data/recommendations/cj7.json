@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 13688,
+    "title": "CJ7",
+    "slug": "cj7",
+    "year": 2008,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "CJ7 (2008) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Stephen Chow's control of tone keeps the ride coherent. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 228161,
+      "title": "Home",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Home (2015) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 150540,
+      "title": "Inside Out",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Inside Out (2015) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20352,
+      "title": "Despicable Me",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Despicable Me (2010) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "science-fiction",
+        "animation",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137106,
+      "title": "The Lego Movie",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If CJ7 clicked for you, The Lego Movie (2014) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If CJ7 clicked for you, The Iron Giant (1999) is a strong next stop: both trade in drama and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If CJ7 clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 877269,
+      "title": "Strange World",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Strange World (2022) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "science-fiction",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If CJ7 clicked for you, The Willoughbys (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21316,
+      "title": "Leroy & Stitch",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Leroy & Stitch (2006) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If CJ7 clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after CJ7?",
+      "answer": "Try Home, Inside Out, Despicable Me—each shares DNA with CJ7 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is CJ7?",
+      "answer": "CJ7 (2008) is best described as Comedy, Drama, Family, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is CJ7 worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "babe",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "home",
+    "luca"
+  ]
+}

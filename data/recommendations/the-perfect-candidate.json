@@ -1,0 +1,32 @@
+{
+  "sourceMovie": {
+    "tmdbId": 618214,
+    "title": "The Perfect Candidate",
+    "slug": "the-perfect-candidate",
+    "year": 2020,
+    "genres": [
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Perfect Candidate?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "sourceMovie": {
+    "tmdbId": 376659,
+    "title": "Bad Moms",
+    "slug": "bad-moms",
+    "year": 2016,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Bad Moms (2016) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 80271,
+      "title": "LOL",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, LOL (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9494,
+      "title": "Look Who's Talking",
+      "year": 1989,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Look Who's Talking (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 607259,
+      "title": "Fatherhood",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Fatherhood (2021) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13499,
+      "title": "Yours, Mine & Ours",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Yours, Mine & Ours (2005) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11592,
+      "title": "Serial Mom",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Serial Mom (1994) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14013,
+      "title": "BASEketball",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, BASEketball (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13446,
+      "title": "Withnail & I",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Withnail & I (1987) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5968,
+      "title": "The Woman in Red",
+      "year": 1984,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, The Woman in Red (1984) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14043,
+      "title": "Nancy Drew",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Nancy Drew (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 531509,
+      "title": "Otherhood",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Bad Moms clicked for you, Otherhood (2019) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Bad Moms?",
+      "answer": "Try LOL, Look Who's Talking, Fatherhood—each shares DNA with Bad Moms while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Bad Moms?",
+      "answer": "Bad Moms (2016) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Bad Moms part of a franchise?",
+      "answer": "Yes—it's part of the \"Bad Moms Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "1941",
+    "2-guns",
+    "21-jump-street"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 45772,
+    "title": "Gnomeo & Juliet",
+    "slug": "gnomeo-juliet",
+    "year": 2011,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Gnomeo & Juliet (2011) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Kelly Asbury's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8587,
+      "title": "The Lion King",
+      "year": 1994,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, The Lion King (1994) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "drama",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9502,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Kung Fu Panda (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 812,
+      "title": "Aladdin",
+      "year": 1992,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Aladdin (1992) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10020,
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Beauty and the Beast (1991) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9479,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, The Nightmare Before Christmas (1993) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, A Bug's Life (1998) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10340,
+      "title": "Lady and the Tramp",
+      "year": 1955,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Lady and the Tramp (1955) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "romance",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Anastasia (1997) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 7443,
+      "title": "Chicken Run",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gnomeo & Juliet clicked for you, Chicken Run (2000) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gnomeo & Juliet?",
+      "answer": "Try The Lion King, Kung Fu Panda, Aladdin—each shares DNA with Gnomeo & Juliet while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gnomeo & Juliet?",
+      "answer": "Gnomeo & Juliet (2011) is best described as Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gnomeo & Juliet part of a franchise?",
+      "answer": "Yes—it's part of the \"Gnomeo & Juliet Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-christmas-carol",
+    "a-goofy-movie",
+    "alvin-and-the-chipmunks",
+    "anastasia",
+    "arthur-and-the-invisibles",
+    "atlantis-the-lost-empire"
+  ]
+}

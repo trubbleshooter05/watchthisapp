@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 429300,
+    "title": "Adrift",
+    "slug": "adrift",
+    "year": 2018,
+    "genres": [
+      "Thriller",
+      "Romance",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Adrift works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "romance",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 551,
+      "title": "The Poseidon Adventure",
+      "year": 1972,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Adrift clicked for you, The Poseidon Adventure (1972) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10497,
+      "title": "Bitter Moon",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Adrift clicked for you, Bitter Moon (1992) is a strong next stop: both trade in thriller and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 597,
+      "title": "Titanic",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Adrift clicked for you, Titanic (1997) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8358,
+      "title": "Cast Away",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Adrift clicked for you, Cast Away (2000) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Adrift clicked for you, Bird Box (2018) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 109424,
+      "title": "Captain Phillips",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Adrift clicked for you, Captain Phillips (2013) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 664,
+      "title": "Twister",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Adrift clicked for you, Twister (1996) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 37950,
+      "title": "Charlie St. Cloud",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Adrift clicked for you, Charlie St. Cloud (2010) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Adrift clicked for you, Eden Lake (2008) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13855,
+      "title": "The Chaser",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Adrift clicked for you, The Chaser (2008) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Adrift?",
+      "answer": "Try The Poseidon Adventure, Bitter Moon, Titanic—each shares DNA with Adrift while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Adrift?",
+      "answer": "Adrift (2018) is best described as Thriller, Romance, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Adrift worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "the-beach",
+    "127-hours",
+    "16-blocks",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-goofy-movie",
+    "a-knights-tale"
+  ]
+}

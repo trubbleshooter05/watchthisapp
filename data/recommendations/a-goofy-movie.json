@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15789,
+    "title": "A Goofy Movie",
+    "slug": "a-goofy-movie",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Animation",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit A Goofy Movie for the same reason it broke through in 1995: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Kevin Lima keeps the ensemble pointed in one direction. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "romance",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in adventure and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "romance",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 136799,
+      "title": "Trolls",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Trolls (2016) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82703,
+      "title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Mr. Peabody & Sherman (2014) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 901362,
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Trolls Band Together (2023) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Spellbound (2024) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12242,
+      "title": "Mulan II",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Mulan II (2004) is a strong next stop: both trade in comedy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in comedy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 232672,
+      "title": "Blended",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Blended (2014) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4380,
+      "title": "Shall We Dance?",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Goofy Movie clicked for you, Shall We Dance? (2004) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Goofy Movie?",
+      "answer": "Try The Lion King II: Simba's Pride, Trolls, Mr. Peabody & Sherman—each shares DNA with A Goofy Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Goofy Movie?",
+      "answer": "A Goofy Movie (1995) is best described as Adventure, Comedy, Romance, Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Goofy Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"A Goofy Movie Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "hercules",
+    "lady-and-the-tramp",
+    "a-bugs-life",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1319951,
+    "title": "40 Acres",
+    "slug": "40-acres",
+    "year": 2025,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Drama",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "40 Acres works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "drama",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 848123,
+      "title": "Black Site",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Black Site (2022) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 216580,
+      "title": "Savaged",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Savaged (2014) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 17585,
+      "title": "Surviving the Game",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Surviving the Game (1994) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "adventure",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1387382,
+      "title": "Hunting Season",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Hunting Season (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 395458,
+      "title": "Suburbicon",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Suburbicon (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976720,
+      "title": "Vesper",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Vesper (2022) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 932420,
+      "title": "Code 8 Part II",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Code 8 Part II (2024) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2687,
+      "title": "Memoirs of an Invisible Man",
+      "year": 1992,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Memoirs of an Invisible Man (1992) is a strong next stop: both trade in thriller and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, The Killer (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 422619,
+      "title": "Jonathan",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If 40 Acres clicked for you, Jonathan (2018) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after 40 Acres?",
+      "answer": "Try Black Site, Savaged, Surviving the Game—each shares DNA with 40 Acres while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is 40 Acres?",
+      "answer": "40 Acres (2025) is best described as Action, Thriller, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is 40 Acres worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "dawn-of-the-planet-of-the-apes",
+    "elysium",
+    "extinction",
+    "gemini-man",
+    "illang-the-wolf-brigade",
+    "outbreak",
+    "rise-of-the-planet-of-the-apes"
+  ]
+}

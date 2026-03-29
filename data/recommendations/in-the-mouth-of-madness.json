@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2654,
+    "title": "In the Mouth of Madness",
+    "slug": "in-the-mouth-of-madness",
+    "year": 1995,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit In the Mouth of Madness for the same reason it broke through in 1995: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. John Carpenter keeps the ensemble pointed in one direction. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2668,
+      "title": "Sleepy Hollow",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, Sleepy Hollow (1999) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 433808,
+      "title": "The Ritual",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Ritual (2017) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1078605,
+      "title": "Weapons",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, Weapons (2025) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 417384,
+      "title": "Scary Stories to Tell in the Dark",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, Scary Stories to Tell in the Dark (2019) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 77949,
+      "title": "The Awakening",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Awakening (2011) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 547565,
+      "title": "The Night House",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Night House (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2637,
+      "title": "The Mothman Prophecies",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Mothman Prophecies (2002) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16372,
+      "title": "The Innocents",
+      "year": 1961,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Innocents (1961) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 758724,
+      "title": "The Cellar",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If In the Mouth of Madness clicked for you, The Cellar (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after In the Mouth of Madness?",
+      "answer": "Try Sleepy Hollow, The Ritual, Weapons—each shares DNA with In the Mouth of Madness while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is In the Mouth of Madness?",
+      "answer": "In the Mouth of Madness (1995) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is In the Mouth of Madness worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "1408",
+    "a-cure-for-wellness",
+    "a-tale-of-two-sisters",
+    "after-life",
+    "angel-heart",
+    "april-fools-day",
+    "barbarian"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 72559,
+    "title": "G.I. Joe: Retaliation",
+    "slug": "g-i-joe-retaliation",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "G.I. Joe: Retaliation (2013) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Jon M. Chu's control of tone keeps the ride coherent. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "adventure",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 56292,
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Mission: Impossible - Ghost Protocol (2011) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 138103,
+      "title": "The Expendables 3",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, The Expendables 3 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Escape from New York (1981) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2320,
+      "title": "Executive Decision",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Executive Decision (1996) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 46528,
+      "title": "The Warrior's Way",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, The Warrior's Way (2010) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "fantasy",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49040,
+      "title": "The Bourne Legacy",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, The Bourne Legacy (2012) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 754,
+      "title": "Face/Off",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Face/Off (1997) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 697843,
+      "title": "Extraction 2",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Extraction 2 (2023) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9331,
+      "title": "Clear and Present Danger",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If G.I. Joe: Retaliation clicked for you, Clear and Present Danger (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after G.I. Joe: Retaliation?",
+      "answer": "Try Mission: Impossible - Ghost Protocol, The Expendables 3, Escape from New York—each shares DNA with G.I. Joe: Retaliation while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is G.I. Joe: Retaliation?",
+      "answer": "G.I. Joe: Retaliation (2013) is best described as Action, Science Fiction, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is G.I. Joe: Retaliation part of a franchise?",
+      "answer": "Yes—it's part of the \"G.I. Joe (Live-Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "battleship",
+    "futureworld",
+    "g-i-joe-the-rise-of-cobra",
+    "gemini-man",
+    "greenland",
+    "i-am-number-four"
+  ]
+}

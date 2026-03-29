@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9825,
+    "title": "Lake Placid",
+    "slug": "lake-placid",
+    "year": 1999,
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Lake Placid works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "action",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Extinction (2015) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 766507,
+      "title": "Prey",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Prey (2022) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 443791,
+      "title": "Underwater",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Underwater (2020) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1694,
+      "title": "Re-Animator",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Re-Animator (1985) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1678,
+      "title": "Godzilla",
+      "year": 1954,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Godzilla (1954) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13022,
+      "title": "Rogue",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Rogue (2007) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, Megaboa (2021) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1994,
+      "title": "The Most Dangerous Game",
+      "year": 1932,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, The Most Dangerous Game (1932) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 474350,
+      "title": "It Chapter Two",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lake Placid clicked for you, It Chapter Two (2019) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lake Placid?",
+      "answer": "Try Extinction, Prey, Underwater—each shares DNA with Lake Placid while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Lake Placid?",
+      "answer": "Lake Placid (1999) is best described as Horror, Comedy, Action, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Lake Placid part of a franchise?",
+      "answer": "Yes—it's part of the \"Lake Placid Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "day-shift",
+    "naruto-shippuden-the-movie-blood-prison",
+    "project-silence",
+    "the-tuxedo",
+    "tremors",
+    "underworld-blood-wars",
+    "werewolves"
+  ]
+}

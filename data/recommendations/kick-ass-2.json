@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 59859,
+    "title": "Kick-Ass 2",
+    "slug": "kick-ass-2",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Kick-Ass 2 (2013) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Jeff Wadlow's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 293660,
+      "title": "Deadpool",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Deadpool (2016) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Iron Man (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Captain America: The Winter Soldier (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 383498,
+      "title": "Deadpool 2",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Deadpool 2 (2018) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, 300 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kick-Ass 2 clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kick-Ass 2?",
+      "answer": "Try The Dark Knight, Deadpool, Iron Man—each shares DNA with Kick-Ass 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kick-Ass 2?",
+      "answer": "Kick-Ass 2 (2013) is best described as Action, Adventure, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kick-Ass 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Kick-Ass Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "16-blocks",
+    "assassins",
+    "f9",
+    "into-the-blue",
+    "kingsman-the-golden-circle",
+    "kingsman-the-secret-service",
+    "kung-fu-jungle"
+  ]
+}

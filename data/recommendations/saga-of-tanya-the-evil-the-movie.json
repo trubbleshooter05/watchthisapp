@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 553839,
+    "title": "Saga of Tanya the Evil: The Movie",
+    "slug": "saga-of-tanya-the-evil-the-movie",
+    "year": 2019,
+    "genres": [
+      "Animation",
+      "Action",
+      "War",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Saga of Tanya the Evil: The Movie?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

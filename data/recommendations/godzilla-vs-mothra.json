@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 39465,
+    "title": "Godzilla vs. Mothra",
+    "slug": "godzilla-vs-mothra",
+    "year": 1992,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Godzilla vs. Mothra (1992) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Takao Okawara's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1680,
+      "title": "King Kong vs. Godzilla",
+      "year": 1962,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, King Kong vs. Godzilla (1962) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36243,
+      "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Star Wars: Episode III - Revenge of the Sith (2005) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10643,
+      "title": "Godzilla 2000: Millennium",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Godzilla 2000: Millennium (1999) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 18289,
+      "title": "Godzilla vs. Biollante",
+      "year": 1989,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Godzilla vs. Biollante (1989) is a strong next stop: both trade in action and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15766,
+      "title": "Ghidorah, the Three-Headed Monster",
+      "year": 1964,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Ghidorah, the Three-Headed Monster (1964) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 667,
+      "title": "You Only Live Twice",
+      "year": 1967,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, You Only Live Twice (1967) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 315011,
+      "title": "Shin Godzilla",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Shin Godzilla (2016) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 449574,
+      "title": "Godzilla: Planet of the Monsters",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Godzilla: Planet of the Monsters (2017) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1682,
+      "title": "Mothra vs. Godzilla",
+      "year": 1964,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Godzilla vs. Mothra clicked for you, Mothra vs. Godzilla (1964) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Godzilla vs. Mothra?",
+      "answer": "Try King Kong vs. Godzilla, Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack, Star Wars: Episode III - Revenge of the Sith—each shares DNA with Godzilla vs. Mothra while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Godzilla vs. Mothra?",
+      "answer": "Godzilla vs. Mothra (1992) is best described as Action, Adventure, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Godzilla vs. Mothra part of a franchise?",
+      "answer": "Yes—it's part of the \"Godzilla (Heisei) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alienoid",
+    "fullmetal-alchemist-the-sacred-star-of-milos",
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "pacific-rim-uprising",
+    "pok-mon-lucario-and-the-mystery-of-mew",
+    "pok-mon-the-movie-kyurem-vs-the-sword-of-justice",
+    "small-soldiers"
+  ]
+}

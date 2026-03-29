@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 347201,
+    "title": "Boruto: Naruto the Movie",
+    "slug": "boruto-naruto-the-movie",
+    "year": 2015,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Animation",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Boruto: Naruto the Movie (2015) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "animation",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 36728,
+      "title": "Naruto Shippuden the Movie: The Will of Fire",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto Shippuden the Movie: The Will of Fire (2009) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 433422,
+      "title": "Fairy Tail: Dragon Cry",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Fairy Tail: Dragon Cry (2017) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19576,
+      "title": "One Piece: The Movie",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, One Piece: The Movie (2000) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16907,
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto the Movie: Ninja Clash in the Land of Snow (2004) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1311031,
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 75624,
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto Shippuden the Movie: Blood Prison (2011) is a strong next stop: both trade in action and animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 17581,
+      "title": "Naruto Shippuden the Movie: Bonds",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto Shippuden the Movie: Bonds (2008) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 50723,
+      "title": "Naruto Shippuden the Movie: The Lost Tower",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto Shippuden the Movie: The Lost Tower (2010) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18861,
+      "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Boruto: Naruto the Movie clicked for you, Naruto the Movie: Guardians of the Crescent Moon Kingdom (2006) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Boruto: Naruto the Movie?",
+      "answer": "Try Naruto Shippuden the Movie: The Will of Fire, Fairy Tail: Dragon Cry, One Piece: The Movie—each shares DNA with Boruto: Naruto the Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Boruto: Naruto the Movie?",
+      "answer": "Boruto: Naruto the Movie (2015) is best described as Adventure, Action, Animation, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Boruto: Naruto the Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"Naruto Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion",
+    "kung-fu-panda-4",
+    "naruto-shippuden-the-movie-the-will-of-fire",
+    "nimona",
+    "one-piece-3d2y-overcome-aces-death-luffys-vow-to-his-friends",
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "one-piece-the-desert-princess-and-the-pirates-adventure-in-alabasta"
+  ]
+}

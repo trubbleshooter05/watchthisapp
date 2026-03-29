@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 796185,
+    "title": "The Three Musketeers: D'Artagnan",
+    "slug": "the-three-musketeers-dartagnan",
+    "year": 2023,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "whyPeopleLoveIt": "The Three Musketeers: D'Artagnan works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "drama",
+      "history",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1492,
+      "title": "1492: Conquest of Paradise",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, 1492: Conquest of Paradise (1992) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9664,
+      "title": "Flyboys",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Flyboys (2006) is a strong next stop: both trade in adventure and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 20662,
+      "title": "Robin Hood",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Robin Hood (2010) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9313,
+      "title": "The Man in the Iron Mask",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, The Man in the Iron Mask (1998) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 551271,
+      "title": "Medieval",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Medieval (2022) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Highlander (1986) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Hook (1991) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11878,
+      "title": "Yojimbo",
+      "year": 1961,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Yojimbo (1961) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11976,
+      "title": "Legend",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Three Musketeers: D'Artagnan clicked for you, Legend (1985) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Three Musketeers: D'Artagnan?",
+      "answer": "Try Kingdom of Heaven, 1492: Conquest of Paradise, Flyboys—each shares DNA with The Three Musketeers: D'Artagnan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Three Musketeers: D'Artagnan?",
+      "answer": "The Three Musketeers: D'Artagnan (2023) is best described as Adventure, Action, Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Three Musketeers: D'Artagnan part of a franchise?",
+      "answer": "Yes—it's part of the \"The Three Musketeers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "alexander",
+    "hero",
+    "king-arthur",
+    "kingdom-of-heaven",
+    "red-cliff",
+    "red-cliff-ii",
+    "rurouni-kenshin-the-final"
+  ]
+}

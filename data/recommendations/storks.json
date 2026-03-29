@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 332210,
+    "title": "Storks",
+    "slug": "storks",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Storks works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 400160,
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Storks clicked for you, The SpongeBob Movie: Sponge on the Run (2020) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 940551,
+      "title": "Migration",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Storks clicked for you, Migration (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 774825,
+      "title": "The Ice Age Adventures of Buck Wild",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Storks clicked for you, The Ice Age Adventures of Buck Wild (2022) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Storks clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Storks clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Storks clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 133931,
+      "title": "Zambezia",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Storks clicked for you, Zambezia (2012) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2062,
+      "title": "Ratatouille",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Storks clicked for you, Ratatouille (2007) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Storks clicked for you, Return to Never Land (2002) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13932,
+      "title": "Jack-Jack Attack",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Storks clicked for you, Jack-Jack Attack (2005) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Storks?",
+      "answer": "Try The SpongeBob Movie: Sponge on the Run, Migration, The Ice Age Adventures of Buck Wild—each shares DNA with Storks while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Storks?",
+      "answer": "Storks (2016) is best described as Adventure, Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Storks worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "bee-movie",
+    "big-hero-6",
+    "bolt",
+    "cars",
+    "cars-2"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1244531,
+    "title": "Beast of War",
+    "slug": "beast-of-war",
+    "year": 2025,
+    "genres": [
+      "Thriller",
+      "Action",
+      "War",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Beast of War works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "war",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 882569,
+      "title": "Guy Ritchie's The Covenant",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Guy Ritchie's The Covenant (2023) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 567189,
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Tom Clancy's Without Remorse (2021) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1257009,
+      "title": "Primitive War",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Primitive War (2025) is a strong next stop: both trade in action and war, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 578,
+      "title": "Jaws",
+      "year": 1975,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Jaws (1975) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 345940,
+      "title": "The Meg",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Beast of War clicked for you, The Meg (2018) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 615656,
+      "title": "Meg 2: The Trench",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Meg 2: The Trench (2023) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1251,
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Letters from Iwo Jima (2006) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1265609,
+      "title": "War Machine",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Beast of War clicked for you, War Machine (2026) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Lust, Caution (2007) is a strong next stop: both trade in thriller and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9102,
+      "title": "Screamers",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Beast of War clicked for you, Screamers (1995) is a strong next stop: both trade in war and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Beast of War?",
+      "answer": "Try Guy Ritchie's The Covenant, Tom Clancy's Without Remorse, Primitive War—each shares DNA with Beast of War while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Beast of War?",
+      "answer": "Beast of War (2025) is best described as Thriller, Action, War, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Beast of War worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "allied",
+    "arcadian",
+    "azrael",
+    "badland-hunters"
+  ]
+}

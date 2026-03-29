@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 2698,
+    "title": "Evan Almighty",
+    "slug": "evan-almighty",
+    "year": 2007,
+    "genres": [
+      "Fantasy",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Evan Almighty for the same reason it broke through in 2007: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Tom Shadyac keeps the ensemble pointed in one direction. The fantasy and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 976573,
+      "title": "Elemental",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, Elemental (2023) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "romance",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, Christopher Robin (2018) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, The Croods (2013) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 326215,
+      "title": "Ooops! Noah Is Gone...",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, Ooops! Noah Is Gone... (2015) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1094556,
+      "title": "The Thundermans Return",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, The Thundermans Return (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14317,
+      "title": "The Wild Thornberrys Movie",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, The Wild Thornberrys Movie (2002) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 260513,
+      "title": "Incredibles 2",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, Incredibles 2 (2018) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4951,
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Evan Almighty clicked for you, 10 Things I Hate About You (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Evan Almighty?",
+      "answer": "Try Elemental, Christopher Robin, The Boxtrolls—each shares DNA with Evan Almighty while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Evan Almighty?",
+      "answer": "Evan Almighty (2007) is best described as Fantasy, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Evan Almighty part of a franchise?",
+      "answer": "Yes—it's part of the \"Almighty Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "abominable",
+    "addams-family-values",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel",
+    "asterix-obelix-mission-cleopatra"
+  ]
+}

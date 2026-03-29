@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 933131,
+    "title": "Badland Hunters",
+    "slug": "badland-hunters",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Badland Hunters (2024) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "thriller",
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 396535,
+      "title": "Train to Busan",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Train to Busan (2016) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 581392,
+      "title": "Peninsula",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Peninsula (2020) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Beast (2022) is a strong next stop: both trade in action and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9659,
+      "title": "Mad Max",
+      "year": 1979,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Mad Max (1979) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8810,
+      "title": "Mad Max 2",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Mad Max 2 (1981) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7737,
+      "title": "Resident Evil: Extinction",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Resident Evil: Extinction (2007) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 429450,
+      "title": "Pandora",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Pandora (2016) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 433941,
+      "title": "Dave Made a Maze",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Dave Made a Maze (2017) is a strong next stop: both trade in adventure and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 428078,
+      "title": "Mortal Engines",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Badland Hunters clicked for you, Mortal Engines (2018) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Badland Hunters?",
+      "answer": "Try Train to Busan, Peninsula, Beast—each shares DNA with Badland Hunters while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Badland Hunters?",
+      "answer": "Badland Hunters (2024) is best described as Action, Adventure, Thriller, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Badland Hunters part of a franchise?",
+      "answer": "Yes—it's part of the \"Concrete Utopia Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "beast",
+    "peninsula",
+    "project-silence",
+    "train-to-busan",
+    "versus",
+    "16-blocks",
+    "a-view-to-a-kill"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 4442,
+    "title": "The Brothers Grimm",
+    "slug": "the-brothers-grimm",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "The Brothers Grimm works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Onward (2020) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Dogma (1999) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 489326,
+      "title": "Mortal",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Mortal (2020) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Iron Man (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1233413,
+      "title": "Sinners",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Sinners (2025) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 765,
+      "title": "Evil Dead II",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Evil Dead II (1987) is a strong next stop: both trade in fantasy and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10439,
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Hocus Pocus (1993) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1262,
+      "title": "Stranger Than Fiction",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Brothers Grimm clicked for you, Stranger Than Fiction (2006) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Brothers Grimm?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, Onward, Dogma—each shares DNA with The Brothers Grimm while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Brothers Grimm?",
+      "answer": "The Brothers Grimm (2005) is best described as Adventure, Fantasy, Action, Comedy, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Brothers Grimm worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "big-trouble-in-little-china",
+    "jumanji-welcome-to-the-jungle",
+    "kung-fu-panda-4"
+  ]
+}

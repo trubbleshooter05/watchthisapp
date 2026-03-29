@@ -1,0 +1,184 @@
+{
+  "sourceMovie": {
+    "tmdbId": 726139,
+    "title": "Project Silence",
+    "slug": "project-silence",
+    "year": 2024,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Horror",
+      "Science Fiction",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Project Silence works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "horror",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9659,
+      "title": "Mad Max",
+      "year": 1979,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Mad Max (1979) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 119450,
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Dawn of the Planet of the Apes (2014) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5876,
+      "title": "The Mist",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Project Silence clicked for you, The Mist (2007) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 615656,
+      "title": "Meg 2: The Trench",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Meg 2: The Trench (2023) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9619,
+      "title": "Dante's Peak",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Dante's Peak (1997) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7485,
+      "title": "Shooter",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Shooter (2007) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Project Silence clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4643,
+      "title": "The Guardian",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Project Silence clicked for you, The Guardian (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5919,
+      "title": "The Towering Inferno",
+      "year": 1974,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Project Silence clicked for you, The Towering Inferno (1974) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 354857,
+      "title": "Regular Show: The Movie",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Project Silence clicked for you, Regular Show: The Movie (2015) is a strong next stop: both trade in science fiction and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Project Silence?",
+      "answer": "Try Mad Max, Dawn of the Planet of the Apes, The Mist—each shares DNA with Project Silence while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Project Silence?",
+      "answer": "Project Silence (2024) is best described as Thriller, Action, Horror, Science Fiction, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Project Silence worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "avp-alien-vs-predator",
+    "badland-hunters",
+    "battleship",
+    "beast",
+    "futureworld",
+    "gemini-man"
+  ]
+}

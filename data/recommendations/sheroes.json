@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1130818,
+    "title": "Sheroes",
+    "slug": "sheroes",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Sheroes?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

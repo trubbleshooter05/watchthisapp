@@ -1,0 +1,34 @@
+{
+  "sourceMovie": {
+    "tmdbId": 27277,
+    "title": "The War Wagon",
+    "slug": "the-war-wagon",
+    "year": 1967,
+    "genres": [
+      "Western",
+      "Action",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The War Wagon?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

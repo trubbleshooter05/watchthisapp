@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10776,
+    "title": "Little Shop of Horrors",
+    "slug": "little-shop-of-horrors",
+    "year": 1986,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Little Shop of Horrors (1986) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Frank Oz's control of tone keeps the ride coherent. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 27327,
+      "title": "Phantom of the Paradise",
+      "year": 1974,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Phantom of the Paradise (1974) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24452,
+      "title": "The Little Shop of Horrors",
+      "year": 1960,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, The Little Shop of Horrors (1960) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13885,
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Sweeney Todd: The Demon Barber of Fleet Street (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "family",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 901,
+      "title": "City Lights",
+      "year": 1931,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, City Lights (1931) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13515,
+      "title": "Mirrors",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Mirrors (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 529962,
+      "title": "The Perfection",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, The Perfection (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 136,
+      "title": "Freaks",
+      "year": 1932,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Freaks (1932) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8491,
+      "title": "Weekend at Bernie's",
+      "year": 1989,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Little Shop of Horrors clicked for you, Weekend at Bernie's (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Little Shop of Horrors?",
+      "answer": "Try Phantom of the Paradise, The Little Shop of Horrors, Sweeney Todd: The Demon Barber of Fleet Street—each shares DNA with Little Shop of Horrors while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Little Shop of Horrors?",
+      "answer": "Little Shop of Horrors (1986) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Little Shop of Horrors worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "beetlejuice-beetlejuice"
+  ]
+}

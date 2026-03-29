@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1656,
+    "title": "The Legend of Zorro",
+    "slug": "the-legend-of-zorro",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "whyPeopleLoveIt": "People revisit The Legend of Zorro for the same reason it broke through in 2005: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Martin Campbell keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "western",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8584,
+      "title": "Shanghai Noon",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Shanghai Noon (2000) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "western",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9806,
+      "title": "The Incredibles",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, The Incredibles (2004) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 370172,
+      "title": "No Time to Die",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, No Time to Die (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436270,
+      "title": "Black Adam",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Black Adam (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9342,
+      "title": "The Mask of Zorro",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, The Mask of Zorro (1998) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 565770,
+      "title": "Blue Beetle",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Blue Beetle (2023) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9086,
+      "title": "Young Guns II",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Young Guns II (1990) is a strong next stop: both trade in adventure and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14011,
+      "title": "Justice League: The New Frontier",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Justice League: The New Frontier (2008) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5176,
+      "title": "3:10 to Yuma",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Legend of Zorro clicked for you, 3:10 to Yuma (2007) is a strong next stop: both trade in western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Legend of Zorro?",
+      "answer": "Try Shanghai Noon, The Incredibles, No Time to Die—each shares DNA with The Legend of Zorro while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Legend of Zorro?",
+      "answer": "The Legend of Zorro (2005) is best described as Action, Adventure, Western. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Legend of Zorro part of a franchise?",
+      "answer": "Yes—it's part of the \"Zorro Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "jeremiah-johnson",
+    "maverick",
+    "shanghai-noon",
+    "the-lone-ranger",
+    "the-magnificent-seven",
+    "the-professionals",
+    "13-assassins"
+  ]
+}

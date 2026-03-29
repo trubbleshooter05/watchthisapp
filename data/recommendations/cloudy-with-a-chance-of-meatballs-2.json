@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 109451,
+    "title": "Cloudy with a Chance of Meatballs 2",
+    "slug": "cloudy-with-a-chance-of-meatballs-2",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Cloudy with a Chance of Meatballs 2 (2013) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 93456,
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Despicable Me 2 (2013) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 211672,
+      "title": "Minions",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Minions (2015) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404368,
+      "title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Ralph Breaks the Internet (2018) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Megamind (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9928,
+      "title": "Robots",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Robots (2005) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Cloudy with a Chance of Meatballs 2 clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Cloudy with a Chance of Meatballs 2?",
+      "answer": "Try Despicable Me 2, Minions, Ice Age: Dawn of the Dinosaurs—each shares DNA with Cloudy with a Chance of Meatballs 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Cloudy with a Chance of Meatballs 2?",
+      "answer": "Cloudy with a Chance of Meatballs 2 (2013) is best described as Animation, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Cloudy with a Chance of Meatballs 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Cloudy with a Chance of Meatballs Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "alvin-and-the-chipmunks",
+    "barnyard",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}

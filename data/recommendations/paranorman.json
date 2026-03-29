@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 77174,
+    "title": "ParaNorman",
+    "slug": "paranorman",
+    "year": 2012,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to ParaNorman?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

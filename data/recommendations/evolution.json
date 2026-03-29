@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9397,
+    "title": "Evolution",
+    "slug": "evolution",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "People revisit Evolution for the same reason it broke through in 2001: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Ivan Reitman keeps the ensemble pointed in one direction. The comedy and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "science-fiction",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9362,
+      "title": "Tremors",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Evolution clicked for you, Tremors (1990) is a strong next stop: both trade in comedy and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18,
+      "title": "The Fifth Element",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Evolution clicked for you, The Fifth Element (1997) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7191,
+      "title": "Cloverfield",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Evolution clicked for you, Cloverfield (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Evolution clicked for you, Rampage (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 373571,
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Evolution clicked for you, Godzilla: King of the Monsters (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 590223,
+      "title": "Love and Monsters",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Evolution clicked for you, Love and Monsters (2020) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Evolution clicked for you, Titan A.E. (2000) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11069,
+      "title": "Tremors II: Aftershocks",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Evolution clicked for you, Tremors II: Aftershocks (1996) is a strong next stop: both trade in comedy and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 12889,
+      "title": "Futurama: The Beast with a Billion Backs",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Evolution clicked for you, Futurama: The Beast with a Billion Backs (2008) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15403,
+      "title": "Ben 10: Secret of the Omnitrix",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Evolution clicked for you, Ben 10: Secret of the Omnitrix (2007) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "animation",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Evolution?",
+      "answer": "Try Tremors, The Fifth Element, Cloverfield—each shares DNA with Evolution while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Evolution?",
+      "answer": "Evolution (2001) is best described as Comedy, Science Fiction, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Evolution worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "afterburn",
+    "borderlands",
+    "captain-underpants-the-first-epic-movie",
+    "deadpool-wolverine",
+    "despicable-me-4",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "gintama"
+  ]
+}

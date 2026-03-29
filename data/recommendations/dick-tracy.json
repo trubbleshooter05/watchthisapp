@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8592,
+    "title": "Dick Tracy",
+    "slug": "dick-tracy",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Dick Tracy works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2109,
+      "title": "Rush Hour",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Rush Hour (1998) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14919,
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Batman: Mask of the Phantasm (1993) is a strong next stop: both trade in adventure and crime, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "crime",
+        "animation",
+        "mystery",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 272,
+      "title": "Batman Begins",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Batman Begins (2005) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 414906,
+      "title": "The Batman",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, The Batman (2022) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 268,
+      "title": "Batman",
+      "year": 1989,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Batman (1989) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14011,
+      "title": "Justice League: The New Frontier",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Justice League: The New Frontier (2008) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dick Tracy clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dick Tracy?",
+      "answer": "Try Rush Hour, Rush Hour 2, Rush Hour 3—each shares DNA with Dick Tracy while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dick Tracy?",
+      "answer": "Dick Tracy (1990) is best described as Adventure, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dick Tracy worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "austin-powers-the-spy-who-shagged-me",
+    "babys-day-out",
+    "cruella",
+    "fanboys",
+    "kingsman-the-golden-circle",
+    "kingsman-the-secret-service",
+    "o-brother-where-art-thou"
+  ]
+}

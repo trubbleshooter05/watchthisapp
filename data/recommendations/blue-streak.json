@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11001,
+    "title": "Blue Streak",
+    "slug": "blue-streak",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Blue Streak works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 512195,
+      "title": "Red Notice",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Red Notice (2021) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 949,
+      "title": "Heat",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Heat (1995) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49527,
+      "title": "Man on a Ledge",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Man on a Ledge (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 763285,
+      "title": "Ambulance",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Ambulance (2022) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 604685,
+      "title": "Den of Thieves 2: Pantera",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Den of Thieves 2: Pantera (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11843,
+      "title": "The Return of the Pink Panther",
+      "year": 1975,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, The Return of the Pink Panther (1975) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4349,
+      "title": "The Kingdom",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, The Kingdom (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 425274,
+      "title": "Now You See Me: Now You Don't",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Blue Streak clicked for you, Now You See Me: Now You Don't (2025) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Blue Streak?",
+      "answer": "Try Hot Fuzz, Red Notice, Heat—each shares DNA with Blue Streak while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Blue Streak?",
+      "answer": "Blue Streak (1999) is best described as Action, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Blue Streak worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "almost-cops",
+    "american-made",
+    "army-of-thieves"
+  ]
+}

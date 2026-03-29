@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 338958,
+    "title": "Disenchanted",
+    "slug": "disenchanted",
+    "year": 2022,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Disenchanted works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Shrek 2 (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Enchanted (2007) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, The Princess Bride (1987) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 787699,
+      "title": "Wonka",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Wonka (2023) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Wish Dragon (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 662546,
+      "title": "Godmothered",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Godmothered (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 974262,
+      "title": "Descendants: The Rise of Red",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Descendants: The Rise of Red (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 354279,
+      "title": "Charming",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Charming (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Cinderella (2015) is a strong next stop: both trade in family and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 417320,
+      "title": "Descendants 2",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Disenchanted clicked for you, Descendants 2 (2017) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "tv-movie",
+        "adventure",
+        "music"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Disenchanted?",
+      "answer": "Try Shrek 2, Enchanted, The Princess Bride—each shares DNA with Disenchanted while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Disenchanted?",
+      "answer": "Disenchanted (2022) is best described as Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Disenchanted part of a franchise?",
+      "answer": "Yes—it's part of the \"Enchanted Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "abominable",
+    "addams-family-values",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel",
+    "asterix-obelix-mission-cleopatra"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1196067,
+    "title": "Worldbreaker",
+    "slug": "worldbreaker",
+    "year": 2025,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Worldbreaker?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

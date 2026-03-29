@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11212,
+    "title": "Baby's Day Out",
+    "slug": "babys-day-out",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Family",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Baby's Day Out works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "adventure",
+      "family",
+      "crime",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 772,
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Home Alone 2: Lost in New York (1992) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7518,
+      "title": "Over the Hedge",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Over the Hedge (2006) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9273,
+      "title": "Ace Ventura: When Nature Calls",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Ace Ventura: When Nature Calls (1995) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 639721,
+      "title": "The Addams Family 2",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, The Addams Family 2 (2021) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 495193,
+      "title": "Benji",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Benji (2018) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "crime",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Labyrinth (1986) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13673,
+      "title": "Christmas with the Kranks",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Christmas with the Kranks (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13932,
+      "title": "Jack-Jack Attack",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Jack-Jack Attack (2005) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9822,
+      "title": "Mighty Joe Young",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, Mighty Joe Young (1998) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508570,
+      "title": "The One and Only Ivan",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Baby's Day Out clicked for you, The One and Only Ivan (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Baby's Day Out?",
+      "answer": "Try Home Alone 2: Lost in New York, Over the Hedge, Ace Ventura: When Nature Calls—each shares DNA with Baby's Day Out while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Baby's Day Out?",
+      "answer": "Baby's Day Out (1994) is best described as Comedy, Adventure, Family, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Baby's Day Out worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "the-bad-guys-2",
+    "the-pink-panther",
+    "3-ninjas",
+    "a-bugs-life",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie"
+  ]
+}

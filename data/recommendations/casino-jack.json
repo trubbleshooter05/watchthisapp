@@ -1,0 +1,166 @@
+{
+  "sourceMovie": {
+    "tmdbId": 45324,
+    "title": "Casino Jack",
+    "slug": "casino-jack",
+    "year": 2010,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Casino Jack works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "crime",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 74306,
+      "title": "God Bless America",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, God Bless America (2012) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 489930,
+      "title": "Blindspotting",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, Blindspotting (2018) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 645886,
+      "title": "The Unforgivable",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, The Unforgivable (2021) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 41479,
+      "title": "The Joneses",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, The Joneses (2010) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1402,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, The Pursuit of Happyness (2006) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1578,
+      "title": "Raging Bull",
+      "year": 1980,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, Raging Bull (1980) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, RocknRolla (2008) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1523,
+      "title": "The Last King of Scotland",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, The Last King of Scotland (2006) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1360,
+      "title": "Frida",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, Frida (2002) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 41233,
+      "title": "Step Up 3D",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Casino Jack clicked for you, Step Up 3D (2010) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Casino Jack?",
+      "answer": "Try God Bless America, Blindspotting, The Unforgivable—each shares DNA with Casino Jack while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Casino Jack?",
+      "answer": "Casino Jack (2010) is best described as Comedy, Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Casino Jack worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "american-made",
+    "blackkklansman",
+    "chicago",
+    "el-infierno",
+    "fanboys",
+    "hail-caesar",
+    "hustlers"
+  ]
+}

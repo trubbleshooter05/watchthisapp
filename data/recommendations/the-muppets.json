@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 64328,
+    "title": "The Muppets",
+    "slug": "the-muppets",
+    "year": 2011,
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Muppets (2011) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Enchanted (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438695,
+      "title": "Sing 2",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Sing 2 (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "music",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 227973,
+      "title": "The Peanuts Movie",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Muppets clicked for you, The Peanuts Movie (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 65759,
+      "title": "Happy Feet Two",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Happy Feet Two (2011) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 901362,
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Trolls Band Together (2023) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "music",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15739,
+      "title": "Annie",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Annie (1982) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11176,
+      "title": "The Muppet Movie",
+      "year": 1979,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Muppets clicked for you, The Muppet Movie (1979) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 830784,
+      "title": "Lyle, Lyle, Crocodile",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Lyle, Lyle, Crocodile (2022) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454458,
+      "title": "UglyDolls",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Muppets clicked for you, UglyDolls (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10874,
+      "title": "Muppet Treasure Island",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Muppets clicked for you, Muppet Treasure Island (1996) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Muppets?",
+      "answer": "Try Enchanted, Sing 2, The Peanuts Movie—each shares DNA with The Muppets while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Muppets?",
+      "answer": "The Muppets (2011) is best described as Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Muppets part of a franchise?",
+      "answer": "Yes—it's part of the \"The Muppets Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "101-dalmatians",
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie",
+    "addams-family-values"
+  ]
+}

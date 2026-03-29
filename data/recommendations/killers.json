@@ -1,0 +1,186 @@
+{
+  "sourceMovie": {
+    "tmdbId": 37821,
+    "title": "Killers",
+    "slug": "killers",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Killers works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "thriller",
+      "romance",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9434,
+      "title": "Grosse Pointe Blank",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Killers clicked for you, Grosse Pointe Blank (1997) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11338,
+      "title": "Into the Night",
+      "year": 1985,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Killers clicked for you, Into the Night (1985) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller",
+        "romance",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252822,
+      "title": "In Order of Disappearance",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Killers clicked for you, In Order of Disappearance (2014) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9515,
+      "title": "The Matador",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Killers clicked for you, The Matador (2005) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Killers clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 597891,
+      "title": "Kate",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Killers clicked for you, Kate (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9691,
+      "title": "Assassins",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Killers clicked for you, Assassins (1995) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 333385,
+      "title": "Mr. Right",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Killers clicked for you, Mr. Right (2016) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Killers clicked for you, The International (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Killers clicked for you, The Killer (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Killers?",
+      "answer": "Try Grosse Pointe Blank, Into the Night, In Order of Disappearance—each shares DNA with Killers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Killers?",
+      "answer": "Killers (2010) is best described as Action, Comedy, Thriller, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Killers worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "6-underground",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "allied",
+    "bad-boys",
+    "bullet-train",
+    "city-hunter"
+  ]
+}

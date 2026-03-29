@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 365177,
+    "title": "Borderlands",
+    "slug": "borderlands",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Borderlands (2024) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Eli Roth's control of tone keeps the ride coherent. The action and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "science-fiction",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 41154,
+      "title": "Men in Black 3",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Men in Black 3 (2012) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 926670,
+      "title": "Henry Danger: The Movie",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Henry Danger: The Movie (2025) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Rampage (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7737,
+      "title": "Resident Evil: Extinction",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Resident Evil: Extinction (2007) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2789,
+      "title": "The Chronicles of Riddick",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Borderlands clicked for you, The Chronicles of Riddick (2004) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 461130,
+      "title": "Code 8",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Borderlands clicked for you, Code 8 (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Borderlands?",
+      "answer": "Try Men in Black 3, Secret Headquarters, Henry Danger: The Movie—each shares DNA with Borderlands while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Borderlands?",
+      "answer": "Borderlands (2024) is best described as Action, Science Fiction, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Borderlands worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "afterburn",
+    "captain-underpants-the-first-epic-movie",
+    "deadpool-wolverine",
+    "despicable-me-4",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "evolution",
+    "gintama"
+  ]
+}

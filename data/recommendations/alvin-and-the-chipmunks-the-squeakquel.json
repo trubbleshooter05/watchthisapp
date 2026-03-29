@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 23398,
+    "title": "Alvin and the Chipmunks: The Squeakquel",
+    "slug": "alvin-and-the-chipmunks-the-squeakquel",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music"
+    ],
+    "whyPeopleLoveIt": "Alvin and the Chipmunks: The Squeakquel (2009) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Betty Thomas's control of tone keeps the ride coherent. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "animation",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 901362,
+      "title": "Trolls Band Together",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Trolls Band Together (2023) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20421,
+      "title": "Rock-A-Doodle",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Rock-A-Doodle (1991) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13682,
+      "title": "Pooh's Heffalump Movie",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Pooh's Heffalump Movie (2005) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Night at the Museum (2006) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 422803,
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, A Shaun the Sheep Movie: Farmageddon (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 892153,
+      "title": "Tom and Jerry Cowboy Up!",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Alvin and the Chipmunks: The Squeakquel clicked for you, Tom and Jerry Cowboy Up! (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "western"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Alvin and the Chipmunks: The Squeakquel?",
+      "answer": "Try Trolls Band Together, Rock-A-Doodle, The Boxtrolls—each shares DNA with Alvin and the Chipmunks: The Squeakquel while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Alvin and the Chipmunks: The Squeakquel?",
+      "answer": "Alvin and the Chipmunks: The Squeakquel (2009) is best described as Comedy, Family, Animation, Fantasy, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Alvin and the Chipmunks: The Squeakquel part of a franchise?",
+      "answer": "Yes—it's part of the \"Alvin and the Chipmunks Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "soul",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour",
+    "abominable",
+    "alvin-and-the-chipmunks",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels"
+  ]
+}

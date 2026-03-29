@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 431580,
+    "title": "Abominable",
+    "slug": "abominable",
+    "year": 2019,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Abominable works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "adventure",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 330457,
+      "title": "Frozen II",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Abominable clicked for you, Frozen II (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Abominable clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Abominable clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Abominable clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Abominable clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Abominable clicked for you, Christopher Robin (2018) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Abominable clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 446894,
+      "title": "Smallfoot",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Abominable clicked for you, Smallfoot (2018) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Abominable clicked for you, An American Tail (1986) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 75258,
+      "title": "Secret of the Wings",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Abominable clicked for you, Secret of the Wings (2012) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Abominable?",
+      "answer": "Try Frozen II, Puss in Boots: The Last Wish, Shrek Forever After—each shares DNA with Abominable while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Abominable?",
+      "answer": "Abominable (2019) is best described as Family, Animation, Adventure, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Abominable worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who",
+    "hotel-transylvania-transformania"
+  ]
+}

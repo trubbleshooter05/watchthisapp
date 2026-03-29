@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 16577,
+    "title": "Astro Boy",
+    "slug": "astro-boy",
+    "year": 2009,
+    "genres": [
+      "Animation",
+      "Action",
+      "Family",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Astro Boy (2009) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "family",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14613,
+      "title": "Next Avengers: Heroes of Tomorrow",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Next Avengers: Heroes of Tomorrow (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 484862,
+      "title": "Scooby-Doo! & Batman: The Brave and the Bold",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Scooby-Doo! & Batman: The Brave and the Bold (2018) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 251768,
+      "title": "JLA Adventures: Trapped in Time",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, JLA Adventures: Trapped in Time (2014) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 324849,
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, The Lego Batman Movie (2017) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 482321,
+      "title": "Ron's Gone Wrong",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Ron's Gone Wrong (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13640,
+      "title": "Superman: Doomsday",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Superman: Doomsday (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Astro Boy clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Astro Boy?",
+      "answer": "Try Titan A.E., Next Avengers: Heroes of Tomorrow, Scooby-Doo! & Batman: The Brave and the Bold—each shares DNA with Astro Boy while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Astro Boy?",
+      "answer": "Astro Boy (2009) is best described as Animation, Action, Family, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Astro Boy worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "captain-underpants-the-first-epic-movie",
+    "despicable-me-4",
+    "megamind",
+    "pok-mon-lucario-and-the-mystery-of-mew",
+    "pok-mon-the-movie-kyurem-vs-the-sword-of-justice",
+    "titan-a-e",
+    "akira"
+  ]
+}

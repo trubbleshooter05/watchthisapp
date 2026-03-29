@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 442062,
+    "title": "Goosebumps 2: Haunted Halloween",
+    "slug": "goosebumps-2-haunted-halloween",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Goosebumps 2: Haunted Halloween (2018) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Ari Sandel's control of tone keeps the ride coherent. The comedy and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "fantasy",
+      "horror",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 531219,
+      "title": "Roald Dahl's The Witches",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, Roald Dahl's The Witches (2020) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 463821,
+      "title": "The House with a Clock in Its Walls",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, The House with a Clock in Its Walls (2018) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror",
+        "family",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8839,
+      "title": "Casper",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, Casper (1995) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9297,
+      "title": "Monster House",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, Monster House (2006) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13465,
+      "title": "The Adventures of Ichabod and Mr. Toad",
+      "year": 1949,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, The Adventures of Ichabod and Mr. Toad (1949) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror",
+        "family",
+        "animation"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 34204,
+      "title": "Return to Halloweentown",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, Return to Halloweentown (2006) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "tv-movie",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "family",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24100,
+      "title": "The Little Vampire",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Goosebumps 2: Haunted Halloween clicked for you, The Little Vampire (2000) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Goosebumps 2: Haunted Halloween?",
+      "answer": "Try Roald Dahl's The Witches, The House with a Clock in Its Walls, Shrek Forever After—each shares DNA with Goosebumps 2: Haunted Halloween while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Goosebumps 2: Haunted Halloween?",
+      "answer": "Goosebumps 2: Haunted Halloween (2018) is best described as Comedy, Fantasy, Horror, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Goosebumps 2: Haunted Halloween part of a franchise?",
+      "answer": "Yes—it's part of the \"Goosebumps Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "roald-dahls-the-witches",
+    "the-house-with-a-clock-in-its-walls",
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "abominable",
+    "addams-family-values",
+    "alvin-and-the-chipmunks"
+  ]
+}

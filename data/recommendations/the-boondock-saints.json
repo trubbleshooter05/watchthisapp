@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8374,
+    "title": "The Boondock Saints",
+    "slug": "the-boondock-saints",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "The Boondock Saints works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, The Jackal (1997) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10431,
+      "title": "War",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, War (2007) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1266,
+      "title": "Street Kings",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, Street Kings (2008) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, The International (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 668489,
+      "title": "Havoc",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, Havoc (2025) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 438674,
+      "title": "Dragged Across Concrete",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, Dragged Across Concrete (2019) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 738652,
+      "title": "Copshop",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, Copshop (2021) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 252822,
+      "title": "In Order of Disappearance",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, In Order of Disappearance (2014) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, The Departed (2006) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Boondock Saints clicked for you, Die Hard: With a Vengeance (1995) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Boondock Saints?",
+      "answer": "Try The Jackal, War, Street Kings—each shares DNA with The Boondock Saints while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Boondock Saints?",
+      "answer": "The Boondock Saints (1999) is best described as Action, Thriller, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Boondock Saints part of a franchise?",
+      "answer": "Yes—it's part of the \"The Boondock Saints Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "16-blocks",
+    "a-working-man",
+    "absolution",
+    "along-came-a-spider",
+    "assassins",
+    "ava",
+    "avengement"
+  ]
+}

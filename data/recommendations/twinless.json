@@ -1,0 +1,33 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1245347,
+    "title": "Twinless",
+    "slug": "twinless",
+    "year": 2025,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Twinless?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

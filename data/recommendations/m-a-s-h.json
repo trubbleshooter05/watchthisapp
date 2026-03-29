@@ -1,0 +1,172 @@
+{
+  "sourceMovie": {
+    "tmdbId": 651,
+    "title": "M*A*S*H",
+    "slug": "m-a-s-h",
+    "year": 1970,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto M*A*S*H (1970) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "war",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 801,
+      "title": "Good Morning, Vietnam",
+      "year": 1987,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Good Morning, Vietnam (1987) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 935,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) is a strong next stop: both trade in comedy and war, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10288,
+      "title": "Fido",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Fido (2006) is a strong next stop: both trade in comedy and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "horror",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10364,
+      "title": "Catch-22",
+      "year": 1970,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Catch-22 (1970) is a strong next stop: both trade in comedy and war, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4772,
+      "title": "Cul-de-sac",
+      "year": 1966,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Cul-de-sac (1966) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4379,
+      "title": "Monster-in-Law",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Monster-in-Law (2005) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4688,
+      "title": "Across the Universe",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Across the Universe (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 457332,
+      "title": "Hidden Strike",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Hidden Strike (2023) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4929,
+      "title": "Hang 'em High",
+      "year": 1968,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Hang 'em High (1968) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4710,
+      "title": "Masculin Féminin",
+      "year": 1966,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If M*A*S*H clicked for you, Masculin Féminin (1966) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after M*A*S*H?",
+      "answer": "Try Good Morning, Vietnam, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Fido—each shares DNA with M*A*S*H while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is M*A*S*H?",
+      "answer": "M*A*S*H (1970) is best described as Comedy, Drama, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is M*A*S*H worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "jojo-rabbit",
+    "10-things-i-hate-about-you",
+    "12-strong",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "17-again",
+    "1941",
+    "3-idiots"
+  ]
+}

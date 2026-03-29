@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 567604,
+    "title": "Once Upon a Deadpool",
+    "slug": "once-upon-a-deadpool",
+    "year": 2018,
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Once Upon a Deadpool?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

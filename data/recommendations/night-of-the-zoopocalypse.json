@@ -1,0 +1,37 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1205229,
+    "title": "Night of the Zoopocalypse",
+    "slug": "night-of-the-zoopocalypse",
+    "year": 2025,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Horror",
+      "Adventure",
+      "Science Fiction",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Night of the Zoopocalypse?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 68883,
+    "title": "Rouge",
+    "slug": "rouge",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Rouge?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 17581,
+    "title": "Naruto Shippuden the Movie: Bonds",
+    "slug": "naruto-shippuden-the-movie-bonds",
+    "year": 2008,
+    "genres": [
+      "Fantasy",
+      "Animation",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Naruto Shippuden the Movie: Bonds works as a fantasy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The fantasy and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "animation",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 347201,
+      "title": "Boruto: Naruto the Movie",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Boruto: Naruto the Movie (2015) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 118406,
+      "title": "Road to Ninja: Naruto the Movie",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Road to Ninja: Naruto the Movie (2012) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 568012,
+      "title": "One Piece: Stampede",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, One Piece: Stampede (2019) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 36728,
+      "title": "Naruto Shippuden the Movie: The Will of Fire",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Naruto Shippuden the Movie: The Will of Fire (2009) is a strong next stop: both trade in fantasy and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 317442,
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, The Last: Naruto the Movie (2014) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 75624,
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "year": 2011,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Naruto Shippuden the Movie: Blood Prison (2011) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "thriller",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16907,
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Naruto the Movie: Ninja Clash in the Land of Snow (2004) is a strong next stop: both trade in animation and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9463,
+      "title": "Vampire Hunter D",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Vampire Hunter D (1985) is a strong next stop: both trade in fantasy and animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 50723,
+      "title": "Naruto Shippuden the Movie: The Lost Tower",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Naruto Shippuden the Movie: The Lost Tower (2010) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18861,
+      "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Naruto Shippuden the Movie: Bonds clicked for you, Naruto the Movie: Guardians of the Crescent Moon Kingdom (2006) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Naruto Shippuden the Movie: Bonds?",
+      "answer": "Try Boruto: Naruto the Movie, Road to Ninja: Naruto the Movie, One Piece: Stampede—each shares DNA with Naruto Shippuden the Movie: Bonds while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Naruto Shippuden the Movie: Bonds?",
+      "answer": "Naruto Shippuden the Movie: Bonds (2008) is best described as Fantasy, Animation, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Naruto Shippuden the Movie: Bonds part of a franchise?",
+      "answer": "Yes—it's part of the \"Naruto Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "baki-hanma-vs-kengan-ashura",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "black-clover-sword-of-the-wizard-king",
+    "castle-in-the-sky",
+    "chainsaw-man-the-movie-reze-arc"
+  ]
+}

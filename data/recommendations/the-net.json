@@ -1,0 +1,36 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1642,
+    "title": "The Net",
+    "slug": "the-net",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Net?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

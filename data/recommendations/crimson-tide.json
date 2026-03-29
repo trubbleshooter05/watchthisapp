@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8963,
+    "title": "Crimson Tide",
+    "slug": "crimson-tide",
+    "year": 1995,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "whyPeopleLoveIt": "People revisit Crimson Tide for the same reason it broke through in 1995: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Tony Scott keeps the ensemble pointed in one direction. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "drama",
+      "war",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 516486,
+      "title": "Greyhound",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Greyhound (2020) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 567189,
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Tom Clancy's Without Remorse (2021) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 75674,
+      "title": "Act of Valor",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Act of Valor (2012) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8665,
+      "title": "K-19: The Widowmaker",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, K-19: The Widowmaker (2002) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "war",
+        "history",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 811592,
+      "title": "One Shot",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, One Shot (2021) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "war",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 337339,
+      "title": "The Fate of the Furious",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, The Fate of the Furious (2017) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 361743,
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Top Gun: Maverick (2022) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1637,
+      "title": "Speed",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Speed (1994) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1592,
+      "title": "Primal Fear",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Crimson Tide clicked for you, Primal Fear (1996) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Crimson Tide?",
+      "answer": "Try Greyhound, Tom Clancy's Without Remorse, Act of Valor—each shares DNA with Crimson Tide while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Crimson Tide?",
+      "answer": "Crimson Tide (1995) is best described as Thriller, Action, Drama, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Crimson Tide worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "allied",
+    "missing-in-action",
+    "12-strong",
+    "13-days-13-nights",
+    "300-rise-of-an-empire"
+  ]
+}

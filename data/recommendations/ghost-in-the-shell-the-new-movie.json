@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 334376,
+    "title": "Ghost in the Shell: The New Movie",
+    "slug": "ghost-in-the-shell-the-new-movie",
+    "year": 2015,
+    "genres": [
+      "Science Fiction",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Ghost in the Shell: The New Movie works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in science fiction and animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "action",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11633,
+      "title": "Appleseed",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Appleseed (2004) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 296917,
+      "title": "PSYCHO-PASS: The Movie",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, PSYCHO-PASS: The Movie (2015) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13981,
+      "title": "Appleseed: Ex Machina",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Appleseed: Ex Machina (2007) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "action",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14711,
+      "title": "Afro Samurai: Resurrection",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Afro Samurai: Resurrection (2009) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13391,
+      "title": "Vexille",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Vexille (2007) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 50388,
+      "title": "King of Thorn",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, King of Thorn (2010) is a strong next stop: both trade in science fiction and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 860,
+      "title": "WarGames",
+      "year": 1983,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, WarGames (1983) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13980,
+      "title": "Sword of the Stranger",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ghost in the Shell: The New Movie clicked for you, Sword of the Stranger (2007) is a strong next stop: both trade in animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "history"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ghost in the Shell: The New Movie?",
+      "answer": "Try Resident Evil: Degeneration, Batman: Gotham Knight, Appleseed—each shares DNA with Ghost in the Shell: The New Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ghost in the Shell: The New Movie?",
+      "answer": "Ghost in the Shell: The New Movie (2015) is best described as Science Fiction, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ghost in the Shell: The New Movie part of a franchise?",
+      "answer": "Yes—it's part of the \"Ghost in the Shell: Arise Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "akira",
+    "atlantis-the-lost-empire",
+    "batman-ninja",
+    "batman-ninja-vs-yakuza-league",
+    "cowboy-bebop-the-movie",
+    "despicable-me",
+    "despicable-me-4"
+  ]
+}

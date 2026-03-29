@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 14869,
+    "title": "G.I. Joe: The Rise of Cobra",
+    "slug": "g-i-joe-the-rise-of-cobra",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "G.I. Joe: The Rise of Cobra (2009) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Stephen Sommers's control of tone keeps the ride coherent. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 453405,
+      "title": "Gemini Man",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, Gemini Man (2019) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 775996,
+      "title": "Outside the Wire",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, Outside the Wire (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1071585,
+      "title": "M3GAN 2.0",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, M3GAN 2.0 (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10447,
+      "title": "No Escape",
+      "year": 1994,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, No Escape (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1100988,
+      "title": "28 Years Later",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, 28 Years Later (2025) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4349,
+      "title": "The Kingdom",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, The Kingdom (2007) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4689,
+      "title": "Sympathy for Mr. Vengeance",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, Sympathy for Mr. Vengeance (2002) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 733317,
+      "title": "Monsters of Man",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If G.I. Joe: The Rise of Cobra clicked for you, Monsters of Man (2020) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after G.I. Joe: The Rise of Cobra?",
+      "answer": "Try Gemini Man, Outside the Wire, M3GAN 2.0—each shares DNA with G.I. Joe: The Rise of Cobra while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is G.I. Joe: The Rise of Cobra?",
+      "answer": "G.I. Joe: The Rise of Cobra (2009) is best described as Adventure, Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is G.I. Joe: The Rise of Cobra part of a franchise?",
+      "answer": "Yes—it's part of the \"G.I. Joe (Live-Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "armageddon",
+    "battleship",
+    "futureworld",
+    "g-i-joe-retaliation",
+    "gemini-man",
+    "greenland",
+    "i-am-number-four"
+  ]
+}

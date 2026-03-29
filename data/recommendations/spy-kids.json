@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10054,
+    "title": "Spy Kids",
+    "slug": "spy-kids",
+    "year": 2001,
+    "genres": [
+      "Family",
+      "Action",
+      "Comedy",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Spy Kids (2001) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "action",
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 71689,
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Phineas and Ferb The Movie: Across the 2nd Dimension (2011) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 76600,
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Avatar: The Way of Water (2022) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Onward (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Transformers One (2024) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14444,
+      "title": "The Rugrats Movie",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, The Rugrats Movie (1998) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 93456,
+      "title": "Despicable Me 2",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Despicable Me 2 (2013) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 39254,
+      "title": "Real Steel",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spy Kids clicked for you, Real Steel (2011) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Spy Kids?",
+      "answer": "Try Phineas and Ferb The Movie: Across the 2nd Dimension, Secret Headquarters, Big Hero 6—each shares DNA with Spy Kids while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Spy Kids?",
+      "answer": "Spy Kids (2001) is best described as Family, Action, Comedy, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Spy Kids part of a franchise?",
+      "answer": "Yes—it's part of the \"Spy Kids Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "teenage-mutant-ninja-turtles-out-of-the-shadows",
+    "big-hero-6",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "elio"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 666154,
+    "title": "Kayara",
+    "slug": "kayara",
+    "year": 2025,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Kayara for the same reason it broke through in 2025: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Cesar Zelada keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 11688,
+      "title": "The Emperor's New Groove",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kayara clicked for you, The Emperor's New Groove (2000) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13179,
+      "title": "Tinker Bell",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kayara clicked for you, Tinker Bell (2008) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kayara clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 552095,
+      "title": "PAW Patrol: Mighty Pups",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kayara clicked for you, PAW Patrol: Mighty Pups (2018) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25913,
+      "title": "Balto: Wolf Quest",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kayara clicked for you, Balto: Wolf Quest (2002) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 573164,
+      "title": "An Egg Rescue",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kayara clicked for you, An Egg Rescue (2021) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 730840,
+      "title": "Trollhunters: Rise of the Titans",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kayara clicked for you, Trollhunters: Rise of the Titans (2021) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kayara clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kayara clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 638134,
+      "title": "Pets United",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kayara clicked for you, Pets United (2019) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kayara?",
+      "answer": "Try The Emperor's New Groove, Tinker Bell, Smurfs: The Lost Village—each shares DNA with Kayara while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kayara?",
+      "answer": "Kayara (2025) is best described as Animation, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kayara worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "atlantis-the-lost-empire"
+  ]
+}

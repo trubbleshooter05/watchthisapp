@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9078,
+    "title": "The Sword in the Stone",
+    "slug": "the-sword-in-the-stone",
+    "year": 1963,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Sword in the Stone for the same reason it broke through in 1963: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Wolfgang Reitherman keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Shrek (2001) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12092,
+      "title": "Alice in Wonderland",
+      "year": 1951,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Alice in Wonderland (1951) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10882,
+      "title": "Sleeping Beauty",
+      "year": 1959,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Sleeping Beauty (1959) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Nimona (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10150,
+      "title": "The Last Unicorn",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, The Last Unicorn (1982) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1362,
+      "title": "The Hobbit",
+      "year": 1977,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, The Hobbit (1977) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 321612,
+      "title": "Beauty and the Beast",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Beauty and the Beast (2017) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12155,
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Sword in the Stone clicked for you, Alice in Wonderland (2010) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Sword in the Stone?",
+      "answer": "Try Shrek, Shrek Forever After, Alice in Wonderland—each shares DNA with The Sword in the Stone while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Sword in the Stone?",
+      "answer": "The Sword in the Stone (1963) is best described as Animation, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Sword in the Stone worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-christmas-carol",
+    "alvin-and-the-chipmunks",
+    "anastasia",
+    "arthur-and-the-invisibles",
+    "barbie-fairytopia-mermaidia",
+    "beauty-and-the-beast-the-enchanted-christmas",
+    "brave"
+  ]
+}

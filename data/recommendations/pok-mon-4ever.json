@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12600,
+    "title": "Pokémon 4Ever",
+    "slug": "pok-mon-4ever",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Animation",
+      "Science Fiction",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Pokémon 4Ever (2001) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "animation",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12599,
+      "title": "Pokémon the Movie 2000",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Pokémon the Movie 2000 (1999) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Epic (2013) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 436931,
+      "title": "Pokémon the Movie: I Choose You!",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Pokémon the Movie: I Choose You! (2017) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 571891,
+      "title": "Pokémon the Movie: Mewtwo Strikes Back - Evolution",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Pokémon the Movie: Mewtwo Strikes Back - Evolution (2019) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39057,
+      "title": "Pokémon: Arceus and the Jewel of Life",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Pokémon: Arceus and the Jewel of Life (2009) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 172385,
+      "title": "Rio 2",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Rio 2 (2014) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, An American Tail (1986) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon 4Ever clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pokémon 4Ever?",
+      "answer": "Try Pokémon the Movie 2000, Epic, Pokémon the Movie: I Choose You!—each shares DNA with Pokémon 4Ever while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon 4Ever?",
+      "answer": "Pokémon 4Ever (2001) is best described as Adventure, Fantasy, Animation, Science Fiction, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon 4Ever part of a franchise?",
+      "answer": "Yes—it's part of the \"Pokémon Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "minions-the-rise-of-gru",
+    "pok-mon-the-movie-2000",
+    "treasure-planet",
+    "anastasia",
+    "arthur-and-the-invisibles",
+    "atlantis-the-lost-empire",
+    "barbie-fairytopia-mermaidia"
+  ]
+}

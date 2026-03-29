@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 50359,
+    "title": "Hop",
+    "slug": "hop",
+    "year": 2011,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Hop (2011) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hop clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9502,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hop clicked for you, Kung Fu Panda (2008) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hop clicked for you, A Bug's Life (1998) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 295693,
+      "title": "The Boss Baby",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hop clicked for you, The Boss Baby (2017) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hop clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hop clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1084242,
+      "title": "Zootopia 2",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hop clicked for you, Zootopia 2 (2025) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hop clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10715,
+      "title": "Looney Tunes: Back in Action",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hop clicked for you, Looney Tunes: Back in Action (2003) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51162,
+      "title": "Winnie the Pooh",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hop clicked for you, Winnie the Pooh (2011) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hop?",
+      "answer": "Try Toy Story 3, Kung Fu Panda, A Bug's Life—each shares DNA with Hop while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hop?",
+      "answer": "Hop (2011) is best described as Animation, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hop worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "abominable",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel",
+    "barbie-as-the-princess-the-pauper",
+    "barnyard"
+  ]
+}

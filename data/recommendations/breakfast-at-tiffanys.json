@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 164,
+    "title": "Breakfast at Tiffany's",
+    "slug": "breakfast-at-tiffanys",
+    "year": 1961,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Breakfast at Tiffany's (1961) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "romance",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 18240,
+      "title": "The Proposal",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, The Proposal (2009) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 703,
+      "title": "Annie Hall",
+      "year": 1977,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Annie Hall (1977) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10184,
+      "title": "He's Just Not That Into You",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, He's Just Not That Into You (2009) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 339397,
+      "title": "Café Society",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Café Society (2016) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284,
+      "title": "The Apartment",
+      "year": 1960,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, The Apartment (1960) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10025,
+      "title": "Just My Luck",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Just My Luck (2006) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 283350,
+      "title": "Before We Go",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Before We Go (2014) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10660,
+      "title": "It Could Happen to You",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, It Could Happen to You (1994) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4587,
+      "title": "Mermaids",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Mermaids (1990) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13665,
+      "title": "Arthur",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Breakfast at Tiffany's clicked for you, Arthur (1981) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Breakfast at Tiffany's?",
+      "answer": "Try The Proposal, Annie Hall, He's Just Not That Into You—each shares DNA with Breakfast at Tiffany's while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Breakfast at Tiffany's?",
+      "answer": "Breakfast at Tiffany's (1961) is best described as Comedy, Romance, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Breakfast at Tiffany's worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
+  ]
+}

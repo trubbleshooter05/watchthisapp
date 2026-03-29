@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15301,
+    "title": "Twilight Zone: The Movie",
+    "slug": "twilight-zone-the-movie",
+    "year": 1983,
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Twilight Zone: The Movie (1983) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "fantasy",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Resident Evil (2002) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9599,
+      "title": "The Blob",
+      "year": 1988,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, The Blob (1988) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Extinction (2015) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 716258,
+      "title": "Black Box",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Black Box (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Megaboa (2021) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 628866,
+      "title": "The Return",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, The Return (2022) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 696393,
+      "title": "Cold Storage",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Cold Storage (2026) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1257009,
+      "title": "Primitive War",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Primitive War (2025) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action",
+        "war"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Twilight Zone: The Movie clicked for you, Star Trek (2009) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Twilight Zone: The Movie?",
+      "answer": "Try Resident Evil, Resident Evil: Apocalypse, The Blob—each shares DNA with Twilight Zone: The Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Twilight Zone: The Movie?",
+      "answer": "Twilight Zone: The Movie (1983) is best described as Horror, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Twilight Zone: The Movie worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "the-bride",
+    "the-rocky-horror-picture-show",
+    "underworld-blood-wars",
+    "vampire-hunter-d-bloodlust",
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later"
+  ]
+}

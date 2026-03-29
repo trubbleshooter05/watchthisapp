@@ -1,0 +1,36 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10403,
+    "title": "The Player",
+    "slug": "the-player",
+    "year": 1992,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Thriller",
+      "Comedy",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Player?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

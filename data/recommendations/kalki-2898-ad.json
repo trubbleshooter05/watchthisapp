@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 801688,
+    "title": "Kalki 2898-AD",
+    "slug": "kalki-2898-ad",
+    "year": 2024,
+    "genres": [
+      "Drama",
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Kalki 2898-AD for the same reason it broke through in 2024: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Nag Ashwin keeps the ensemble pointed in one direction. The drama and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "action",
+      "fantasy",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, The Matrix (1999) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 70160,
+      "title": "The Hunger Games",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, The Hunger Games (2012) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 7299,
+      "title": "Equilibrium",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, Equilibrium (2002) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3604,
+      "title": "Flash Gordon",
+      "year": 1980,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, Flash Gordon (1980) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 839033,
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, The Lord of the Rings: The War of the Rohirrim (2024) is a strong next stop: both trade in action and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4917,
+      "title": "A Boy and His Dog",
+      "year": 1975,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kalki 2898-AD clicked for you, A Boy and His Dog (1975) is a strong next stop: both trade in drama and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kalki 2898-AD?",
+      "answer": "Try The Matrix, The Hunger Games, The Matrix Revolutions—each shares DNA with Kalki 2898-AD while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kalki 2898-AD?",
+      "answer": "Kalki 2898-AD (2024) is best described as Drama, Action, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kalki 2898-AD part of a franchise?",
+      "answer": "Yes—it's part of the \"Kalki Cinematic Universe\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "40-acres",
+    "47-ronin",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-two-worlds",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey"
+  ]
+}

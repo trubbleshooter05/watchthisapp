@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 508935,
+    "title": "The Eight Hundred",
+    "slug": "the-eight-hundred",
+    "year": 2020,
+    "genres": [
+      "War",
+      "History",
+      "Drama",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Eight Hundred?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

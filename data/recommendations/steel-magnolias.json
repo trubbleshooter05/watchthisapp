@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10860,
+    "title": "Steel Magnolias",
+    "slug": "steel-magnolias",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "Steel Magnolias (1989) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Herbert Ross's control of tone keeps the ride coherent. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "romance",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 4951,
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, 10 Things I Hate About You (1999) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6282,
+      "title": "Coyote Ugly",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Coyote Ugly (2000) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4564,
+      "title": "Sex and the City",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Sex and the City (2008) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519035,
+      "title": "Nappily Ever After",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Nappily Ever After (2018) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 382748,
+      "title": "Stargirl",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Stargirl (2020) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4587,
+      "title": "Mermaids",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Mermaids (1990) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1272149,
+      "title": "Bridget Jones: Mad About the Boy",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Bridget Jones: Mad About the Boy (2025) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9263,
+      "title": "Now and Then",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Now and Then (1995) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14736,
+      "title": "Love & Basketball",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Love & Basketball (2000) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Steel Magnolias clicked for you, Atonement (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Steel Magnolias?",
+      "answer": "Try 10 Things I Hate About You, Coyote Ugly, Sex and the City—each shares DNA with Steel Magnolias while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Steel Magnolias?",
+      "answer": "Steel Magnolias (1989) is best described as Comedy, Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Steel Magnolias worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
+  ]
+}

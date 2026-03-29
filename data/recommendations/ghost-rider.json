@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1250,
+    "title": "Ghost Rider",
+    "slug": "ghost-rider",
+    "year": 2007,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Ghost Rider (2007) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "action",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 561,
+      "title": "Constantine",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Constantine (2005) is a strong next stop: both trade in action and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1487,
+      "title": "Hellboy",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Hellboy (2004) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, First Blood (1982) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 251,
+      "title": "Ghost",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Ghost (1990) is a strong next stop: both trade in thriller and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Iron Man (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, 300 (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 310,
+      "title": "Bruce Almighty",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Bruce Almighty (2003) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 297,
+      "title": "Meet Joe Black",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ghost Rider clicked for you, Meet Joe Black (1998) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ghost Rider?",
+      "answer": "Try Constantine, Hellboy, First Blood—each shares DNA with Ghost Rider while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ghost Rider?",
+      "answer": "Ghost Rider (2007) is best described as Thriller, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ghost Rider part of a franchise?",
+      "answer": "Yes—it's part of the \"Ghost Rider Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "blade-ii",
+    "bright",
+    "day-shift",
+    "demon-city",
+    "demon-slayer-kimetsu-no-yaiba-siblings-bond"
+  ]
+}

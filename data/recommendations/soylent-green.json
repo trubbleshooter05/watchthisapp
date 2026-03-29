@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12101,
+    "title": "Soylent Green",
+    "slug": "soylent-green",
+    "year": 1973,
+    "genres": [
+      "Science Fiction",
+      "Thriller",
+      "Crime",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to Soylent Green?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

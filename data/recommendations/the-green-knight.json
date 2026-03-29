@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 559907,
+    "title": "The Green Knight",
+    "slug": "the-green-knight",
+    "year": 2021,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Green Knight (2021) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 274857,
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, King Arthur: Legend of the Sword (2017) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1495,
+      "title": "Kingdom of Heaven",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, Kingdom of Heaven (2005) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9476,
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, A Knight's Tale (2001) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "romance",
+        "action"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, Dogma (1999) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11527,
+      "title": "Excalibur",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, Excalibur (1981) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 123,
+      "title": "The Lord of the Rings",
+      "year": 1978,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, The Lord of the Rings (1978) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 413658,
+      "title": "The Warriors Gate",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, The Warriors Gate (2016) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Green Knight clicked for you, Iron Man (2008) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Green Knight?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, King Arthur: Legend of the Sword, Kingdom of Heaven—each shares DNA with The Green Knight while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Green Knight?",
+      "answer": "The Green Knight (2021) is best described as Adventure, Drama, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Green Knight worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-writers-odyssey",
+    "along-with-the-gods-the-two-worlds",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "big-fish"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 432985,
+    "title": "Gintama",
+    "slug": "gintama",
+    "year": 2017,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "People revisit Gintama for the same reason it broke through in 2017: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Yuichi Fukuda keeps the ensemble pointed in one direction. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "science-fiction",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1680,
+      "title": "King Kong vs. Godzilla",
+      "year": 1962,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Gintama clicked for you, King Kong vs. Godzilla (1962) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1682,
+      "title": "Mothra vs. Godzilla",
+      "year": 1964,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Gintama clicked for you, Mothra vs. Godzilla (1964) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1679,
+      "title": "Godzilla Raids Again",
+      "year": 1955,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Gintama clicked for you, Godzilla Raids Again (1955) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 257346,
+      "title": "Avengers Confidential: Black Widow & Punisher",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Gintama clicked for you, Avengers Confidential: Black Widow & Punisher (2014) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 3107,
+      "title": "Destroy All Monsters",
+      "year": 1968,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Gintama clicked for you, Destroy All Monsters (1968) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 44729,
+      "title": "One Piece: Baron Omatsuri and the Secret Island",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Gintama clicked for you, One Piece: Baron Omatsuri and the Secret Island (2005) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "animation",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 74135,
+      "title": "Gantz: Perfect Answer",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Gintama clicked for you, Gantz: Perfect Answer (2011) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3115,
+      "title": "Ebirah, Horror of the Deep",
+      "year": 1966,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Gintama clicked for you, Ebirah, Horror of the Deep (1966) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 282070,
+      "title": "Parasyte: Part 2",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Gintama clicked for you, Parasyte: Part 2 (2015) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1159311,
+      "title": "My Hero Academia: You're Next",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Gintama clicked for you, My Hero Academia: You're Next (2024) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Gintama?",
+      "answer": "Try King Kong vs. Godzilla, Mothra vs. Godzilla, Godzilla Raids Again—each shares DNA with Gintama while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Gintama?",
+      "answer": "Gintama (2017) is best described as Action, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Gintama part of a franchise?",
+      "answer": "Yes—it's part of the \"Gintama (Live Action) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "afterburn",
+    "borderlands",
+    "captain-underpants-the-first-epic-movie",
+    "deadpool-wolverine",
+    "despicable-me-4",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "evolution"
+  ]
+}

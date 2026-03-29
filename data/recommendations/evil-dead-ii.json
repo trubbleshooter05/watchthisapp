@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 765,
+    "title": "Evil Dead II",
+    "slug": "evil-dead-ii",
+    "year": 1987,
+    "genres": [
+      "Horror",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Evil Dead II (1987) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Sam Raimi's control of tone keeps the ride coherent. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 766,
+      "title": "Army of Darkness",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Army of Darkness (1992) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 244458,
+      "title": "The Voices",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, The Voices (2014) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 20701,
+      "title": "Tales from the Darkside: The Movie",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Tales from the Darkside: The Movie (1990) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 433941,
+      "title": "Dave Made a Maze",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Dave Made a Maze (2017) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, The Cabin in the Woods (2012) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10925,
+      "title": "The Return of the Living Dead",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, The Return of the Living Dead (1985) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 23202,
+      "title": "Trick 'r Treat",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Trick 'r Treat (2007) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13688,
+      "title": "CJ7",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, CJ7 (2008) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "drama",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16288,
+      "title": "Creepshow 2",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Creepshow 2 (1987) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 26515,
+      "title": "Pumpkinhead",
+      "year": 1988,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Evil Dead II clicked for you, Pumpkinhead (1988) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Evil Dead II?",
+      "answer": "Try Army of Darkness, The Voices, Tales from the Darkside: The Movie—each shares DNA with Evil Dead II while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Evil Dead II?",
+      "answer": "Evil Dead II (1987) is best described as Horror, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Evil Dead II part of a franchise?",
+      "answer": "Yes—it's part of the \"Evil Dead Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "army-of-darkness",
+    "beetlejuice-beetlejuice",
+    "death-becomes-her",
+    "death-of-a-unicorn",
+    "el-conde",
+    "elvira-mistress-of-the-dark",
+    "goosebumps-2-haunted-halloween"
+  ]
+}

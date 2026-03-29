@@ -1,0 +1,35 @@
+{
+  "sourceMovie": {
+    "tmdbId": 77931,
+    "title": "The Smurfs 2",
+    "slug": "the-smurfs-2",
+    "year": 2013,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Comedy",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "vibes": [
+      "EDIT",
+      "ADD",
+      "3-5",
+      "TAGS"
+    ]
+  },
+  "recommendations": [],
+  "faq": [
+    {
+      "question": "EDIT: What movie is most similar to The Smurfs 2?",
+      "answer": "EDIT: Your original answer."
+    }
+  ],
+  "relatedPages": [
+    "interstellar",
+    "parasite",
+    "inception",
+    "fight-club",
+    "mean-girls"
+  ]
+}

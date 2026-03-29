@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 662638,
+    "title": "Detective Conan: The Scarlet Bullet",
+    "slug": "detective-conan-the-scarlet-bullet",
+    "year": 2021,
+    "genres": [
+      "Animation",
+      "Action",
+      "Crime",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Detective Conan: The Scarlet Bullet for the same reason it broke through in 2021: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Chika Nagaoka keeps the ensemble pointed in one direction. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "action",
+      "crime",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 32022,
+      "title": "Case Closed: Countdown to Heaven",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Case Closed: Countdown to Heaven (2001) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "crime",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 566555,
+      "title": "Case Closed: The Fist of Blue Sapphire",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Case Closed: The Fist of Blue Sapphire (2019) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "crime",
+        "mystery",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 438058,
+      "title": "Case Closed: The Crimson Love Letter",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Case Closed: The Crimson Love Letter (2017) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "crime",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "crime",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13937,
+      "title": "Raising Cain",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Raising Cain (1992) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13981,
+      "title": "Appleseed: Ex Machina",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Appleseed: Ex Machina (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14571,
+      "title": "Patlabor: The Movie",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Patlabor: The Movie (1989) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14043,
+      "title": "Nancy Drew",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Nancy Drew (2007) is a strong next stop: both trade in crime and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13980,
+      "title": "Sword of the Stranger",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Detective Conan: The Scarlet Bullet clicked for you, Sword of the Stranger (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "history"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Detective Conan: The Scarlet Bullet?",
+      "answer": "Try Case Closed: Countdown to Heaven, Case Closed: The Fist of Blue Sapphire, Case Closed: The Crimson Love Letter—each shares DNA with Detective Conan: The Scarlet Bullet while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Detective Conan: The Scarlet Bullet?",
+      "answer": "Detective Conan: The Scarlet Bullet (2021) is best described as Animation, Action, Crime, Mystery, Romance, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Detective Conan: The Scarlet Bullet part of a franchise?",
+      "answer": "Yes—it's part of the \"Detective Conan Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "absolution",
+    "along-came-a-spider",
+    "arkansas",
+    "case-closed-countdown-to-heaven",
+    "case-closed-the-crimson-love-letter",
+    "detective-conan-black-iron-submarine",
+    "detective-conan-full-score-of-fear"
+  ]
+}

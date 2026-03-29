@@ -1,0 +1,166 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11326,
+    "title": "Tommy",
+    "slug": "tommy",
+    "year": 1975,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "whyPeopleLoveIt": "Tommy works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and music blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "music",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 12104,
+      "title": "Pink Floyd: The Wall",
+      "year": 1982,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tommy clicked for you, Pink Floyd: The Wall (1982) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 327331,
+      "title": "The Dirt",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tommy clicked for you, The Dirt (2019) is a strong next stop: both trade in drama and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 799766,
+      "title": "Better Man",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tommy clicked for you, Better Man (2024) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 696157,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tommy clicked for you, Whitney Houston: I Wanna Dance with Somebody (2022) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15765,
+      "title": "What's Love Got to Do with It",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tommy clicked for you, What's Love Got to Do with It (1993) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 109417,
+      "title": "Battle of the Year",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tommy clicked for you, Battle of the Year (2013) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 345,
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tommy clicked for you, Eyes Wide Shut (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tommy clicked for you, Atonement (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4995,
+      "title": "Boogie Nights",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tommy clicked for you, Boogie Nights (1997) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2652,
+      "title": "Hard Candy",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tommy clicked for you, Hard Candy (2005) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Tommy?",
+      "answer": "Try Pink Floyd: The Wall, The Dirt, Better Man—each shares DNA with Tommy while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tommy?",
+      "answer": "Tommy (1975) is best described as Drama, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tommy worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "8-mile",
+    "a-complete-unknown",
+    "a-star-is-born",
+    "almost-famous",
+    "amadeus",
+    "august-rush",
+    "bohemian-rhapsody"
+  ]
+}
