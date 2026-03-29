@@ -8,26 +8,165 @@
       "Science Fiction",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Proximity for the same reason it broke through in 2020: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Eric Demeusy keeps the ensemble pointed in one direction. The science fiction and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 636706,
+      "title": "Spaceman",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Proximity clicked for you, Spaceman (2024) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 976720,
+      "title": "Vesper",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Proximity clicked for you, Vesper (2022) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 991,
+      "title": "The Man Who Fell to Earth",
+      "year": 1976,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Proximity clicked for you, The Man Who Fell to Earth (1976) is a strong next stop: both trade in science fiction and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Proximity clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Proximity clicked for you, The Fly (1986) is a strong next stop: both trade in science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16320,
+      "title": "Serenity",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Proximity clicked for you, Serenity (2005) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 846,
+      "title": "The X-Files",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Proximity clicked for you, The X-Files (1998) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9556,
+      "title": "Darkman",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Proximity clicked for you, Darkman (1990) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14510,
+      "title": "From Beyond",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Proximity clicked for you, From Beyond (1986) is a strong next stop: both trade in science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 716258,
+      "title": "Black Box",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Proximity clicked for you, Black Box (2020) is a strong next stop: both trade in science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Proximity?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Proximity?",
+      "answer": "Try Spaceman, Vesper, The Man Who Fell to Earth—each shares DNA with Proximity while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Proximity?",
+      "answer": "Proximity (2020) is best described as Science Fiction, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Proximity worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "2046",
+    "40-acres",
+    "a-i-artificial-intelligence",
+    "a-quiet-place",
+    "ad-astra",
+    "arrival"
   ]
 }

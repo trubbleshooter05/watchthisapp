@@ -9,26 +9,167 @@
       "Drama",
       "History"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Lost City of Z (2017) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "drama",
+      "history",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1492,
+      "title": "1492: Conquest of Paradise",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, 1492: Conquest of Paradise (1992) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9664,
+      "title": "Flyboys",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, Flyboys (2006) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 836009,
+      "title": "Against the Ice",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, Against the Ice (2022) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 390062,
+      "title": "Jungle",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, Jungle (2017) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1165,
+      "title": "The Queen",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, The Queen (2006) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10586,
+      "title": "The Ghost and the Darkness",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, The Ghost and the Darkness (1996) is a strong next stop: both trade in adventure and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11002,
+      "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+      "year": 1984,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, Greystoke: The Legend of Tarzan, Lord of the Apes (1984) is a strong next stop: both trade in adventure and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1162,
+      "title": "The Miracle Worker",
+      "year": 1962,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, The Miracle Worker (1962) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, American Psycho (2000) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1402,
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lost City of Z clicked for you, The Pursuit of Happyness (2006) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Lost City of Z?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Lost City of Z?",
+      "answer": "Try 1492: Conquest of Paradise, Flyboys, Against the Ice—each shares DNA with The Lost City of Z while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lost City of Z?",
+      "answer": "The Lost City of Z (2017) is best described as Adventure, Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lost City of Z worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "against-the-ice",
+    "alexander",
+    "ben-hur",
+    "everest",
+    "hero",
+    "hostiles",
+    "king-arthur"
   ]
 }

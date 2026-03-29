@@ -7,26 +7,158 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Ice Storm (1997) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4148,
+      "title": "Revolutionary Road",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Revolutionary Road (2008) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 258480,
+      "title": "Carol",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Carol (2015) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 696,
+      "title": "Manhattan",
+      "year": 1979,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Manhattan (1979) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 688,
+      "title": "The Bridges of Madison County",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, The Bridges of Madison County (1995) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 111969,
+      "title": "Stuck in Love",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Stuck in Love (2013) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 330483,
+      "title": "The Choice",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, The Choice (2016) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2251,
+      "title": "Unfaithful",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Unfaithful (2002) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, October Sky (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5143,
+      "title": "Hannah and Her Sisters",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Hannah and Her Sisters (1986) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1440,
+      "title": "Little Children",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Ice Storm clicked for you, Little Children (2006) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Ice Storm?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Ice Storm?",
+      "answer": "Try Revolutionary Road, Carol, Manhattan—each shares DNA with The Ice Storm while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Ice Storm?",
+      "answer": "The Ice Storm (1997) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Ice Storm worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "100-meters",
+    "10dance",
+    "12-angry-men",
+    "12-strong",
+    "12-years-a-slave"
   ]
 }

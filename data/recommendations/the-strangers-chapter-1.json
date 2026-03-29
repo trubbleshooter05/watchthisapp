@@ -8,26 +8,164 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Strangers: Chapter 1 (2024) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Renny Harlin's control of tone keeps the ride coherent. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 948,
+      "title": "Halloween",
+      "year": 1978,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Halloween (1978) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 934433,
+      "title": "Scream VI",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Scream VI (2023) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 949423,
+      "title": "Pearl",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Pearl (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1248,
+      "title": "Hannibal Rising",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Hannibal Rising (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1547,
+      "title": "The Lost Boys",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, The Lost Boys (1987) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11281,
+      "title": "Halloween II",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Halloween II (1981) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10225,
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Jason Lives - Friday the 13th Part VI (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1197137,
+      "title": "Black Phone 2",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Strangers: Chapter 1 clicked for you, Black Phone 2 (2025) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Strangers: Chapter 1?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Strangers: Chapter 1?",
+      "answer": "Try Halloween, The Hills Have Eyes, Scream VI—each shares DNA with The Strangers: Chapter 1 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Strangers: Chapter 1?",
+      "answer": "The Strangers: Chapter 1 (2024) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Strangers: Chapter 1 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Strangers (Remake) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

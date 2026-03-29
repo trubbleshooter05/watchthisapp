@@ -11,26 +11,168 @@
       "Science Fiction",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Paycheck (2003) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. John Woo's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "adventure",
+      "mystery",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Paycheck clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 280,
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Terminator 2: Judgment Day (1991) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Insurgent (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Minority Report (2002) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Paycheck clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Paycheck clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2666,
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Dark City (1998) is a strong next stop: both trade in mystery and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3509,
+      "title": "A Scanner Darkly",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Paycheck clicked for you, A Scanner Darkly (2006) is a strong next stop: both trade in science fiction and thriller, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 435615,
+      "title": "Possessor",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Paycheck clicked for you, Possessor (2020) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Paycheck?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Paycheck?",
+      "answer": "Try The Matrix Reloaded, Terminator 2: Judgment Day, Insurgent—each shares DNA with Paycheck while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Paycheck?",
+      "answer": "Paycheck (2003) is best described as Action, Adventure, Mystery, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Paycheck worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "24-hours-to-live",
+    "allegiant",
+    "armageddon",
+    "awareness",
+    "battleship",
+    "futureworld",
+    "g-i-joe-retaliation"
   ]
 }

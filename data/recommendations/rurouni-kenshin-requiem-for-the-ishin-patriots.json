@@ -9,26 +9,174 @@
       "Action",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Rurouni Kenshin: Requiem for the Ishin Patriots (1997) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "action",
+      "fantasy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 592350,
+      "title": "My Hero Academia: Heroes Rising",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, My Hero Academia: Heroes Rising (2019) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 505262,
+      "title": "My Hero Academia: Two Heroes",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, My Hero Academia: Two Heroes (2018) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 17581,
+      "title": "Naruto Shippuden the Movie: Bonds",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Naruto Shippuden the Movie: Bonds (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 317442,
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, The Last: Naruto the Movie (2014) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 127533,
+      "title": "Rurouni Kenshin Part I: Origins",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Rurouni Kenshin Part I: Origins (2012) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 221731,
+      "title": "Rurouni Kenshin Part II: Kyoto Inferno",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Rurouni Kenshin Part II: Kyoto Inferno (2014) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 221732,
+      "title": "Rurouni Kenshin Part III: The Legend Ends",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Rurouni Kenshin Part III: The Legend Ends (2014) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13980,
+      "title": "Sword of the Stranger",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rurouni Kenshin: Requiem for the Ishin Patriots clicked for you, Sword of the Stranger (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "history"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rurouni Kenshin: Requiem for the Ishin Patriots?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rurouni Kenshin: Requiem for the Ishin Patriots?",
+      "answer": "Try My Hero Academia: Heroes Rising, My Hero Academia: Two Heroes, Naruto Shippuden the Movie: Bonds—each shares DNA with Rurouni Kenshin: Requiem for the Ishin Patriots while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rurouni Kenshin: Requiem for the Ishin Patriots?",
+      "answer": "Rurouni Kenshin: Requiem for the Ishin Patriots (1997) is best described as Animation, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rurouni Kenshin: Requiem for the Ishin Patriots worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "aztec-batman-clash-of-empires",
+    "baki-hanma-vs-kengan-ashura",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "black-clover-sword-of-the-wizard-king",
+    "boruto-naruto-the-movie"
   ]
 }

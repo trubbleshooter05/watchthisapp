@@ -9,26 +9,175 @@
       "Drama",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Rustom works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "drama",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 395458,
+      "title": "Suburbicon",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rustom clicked for you, Suburbicon (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 190955,
+      "title": "Blood Ties",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rustom clicked for you, Blood Ties (2013) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 457962,
+      "title": "Shimmer Lake",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rustom clicked for you, Shimmer Lake (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 848123,
+      "title": "Black Site",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rustom clicked for you, Black Site (2022) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 172226,
+      "title": "In Secret",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rustom clicked for you, In Secret (2014) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 12623,
+      "title": "Suspect",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rustom clicked for you, Suspect (1987) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19092,
+      "title": "Above the Rim",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rustom clicked for you, Above the Rim (1994) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 17585,
+      "title": "Surviving the Game",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rustom clicked for you, Surviving the Game (1994) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "action",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 581361,
+      "title": "Badla",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rustom clicked for you, Badla (2019) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 323517,
+      "title": "Badlapur",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rustom clicked for you, Badlapur (2015) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rustom?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rustom?",
+      "answer": "Try Suburbicon, Blood Ties, Shimmer Lake—each shares DNA with Rustom while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rustom?",
+      "answer": "Rustom (2016) is best described as Thriller, Drama, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rustom worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-history-of-violence",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones",
+    "ambulance",
+    "american-psycho",
+    "blood-and-bone"
   ]
 }

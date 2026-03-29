@@ -8,26 +8,165 @@
       "Adventure",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Green Inferno (2013) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Beast (2022) is a strong next stop: both trade in adventure and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Predator (1987) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13885,
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Sweeney Todd: The Demon Barber of Fleet Street (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, The Hunt (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 314095,
+      "title": "The Lost City of Z",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, The Lost City of Z (2017) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2082,
+      "title": "Halloween",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Halloween (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 390062,
+      "title": "Jungle",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Jungle (2017) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2000,
+      "title": "Aguirre, the Wrath of God",
+      "year": 1972,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Aguirre, the Wrath of God (1972) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13022,
+      "title": "Rogue",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Rogue (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Green Inferno clicked for you, Megaboa (2021) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Green Inferno?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Green Inferno?",
+      "answer": "Try Beast, Predator, Sweeney Todd: The Demon Barber of Fleet Street—each shares DNA with The Green Inferno while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Green Inferno?",
+      "answer": "The Green Inferno (2013) is best described as Adventure, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Green Inferno worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "anaconda",
+    "avp-alien-vs-predator",
+    "badland-hunters",
+    "beast",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "brotherhood-of-the-wolf",
+    "goosebumps"
   ]
 }

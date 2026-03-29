@@ -8,26 +8,170 @@
       "Adventure",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Upon the Magic Roads for the same reason it broke through in 2021: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Oleg Pogodin keeps the ensemble pointed in one direction. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "fantasy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, Inkheart (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 123,
+      "title": "The Lord of the Rings",
+      "year": 1978,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, The Lord of the Rings (1978) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2897,
+      "title": "Around the World in 80 Days",
+      "year": 1956,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, Around the World in 80 Days (1956) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 47533,
+      "title": "Scooby-Doo! Curse of the Lake Monster",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, Scooby-Doo! Curse of the Lake Monster (2010) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19933,
+      "title": "The Brave Little Toaster",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, The Brave Little Toaster (1987) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 5915,
+      "title": "Into the Wild",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, Into the Wild (2007) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10865,
+      "title": "Atlantis: The Lost Empire",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Upon the Magic Roads clicked for you, Atlantis: The Lost Empire (2001) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Upon the Magic Roads?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Upon the Magic Roads?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King, The Lord of the Rings: The Two Towers—each shares DNA with Upon the Magic Roads while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Upon the Magic Roads?",
+      "answer": "Upon the Magic Roads (2021) is best described as Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Upon the Magic Roads worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-dogs-purpose",
+    "a-legend",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "a-writers-odyssey"
   ]
 }

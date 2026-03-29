@@ -8,26 +8,159 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Ruby & Quentin (2003) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Francis Veber's control of tone keeps the ride coherent. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 2069,
+      "title": "The Whole Nine Yards",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, The Whole Nine Yards (2000) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9013,
+      "title": "Midnight Run",
+      "year": 1988,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Midnight Run (1988) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3172,
+      "title": "Bandits",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Bandits (2001) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1554,
+      "title": "Down by Law",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Down by Law (1986) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11485,
+      "title": "Take the Money and Run",
+      "year": 1969,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Take the Money and Run (1969) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21629,
+      "title": "Stir Crazy",
+      "year": 1980,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Stir Crazy (1980) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 504603,
+      "title": "The World Is Yours",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, The World Is Yours (2018) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 769,
+      "title": "GoodFellas",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, GoodFellas (1990) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 621,
+      "title": "Grease",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Grease (1978) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 754,
+      "title": "Face/Off",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ruby & Quentin clicked for you, Face/Off (1997) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Ruby & Quentin?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Ruby & Quentin?",
+      "answer": "Try The Whole Nine Yards, Midnight Run, Bandits—each shares DNA with Ruby & Quentin while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ruby & Quentin?",
+      "answer": "Ruby & Quentin (2003) is best described as Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ruby & Quentin worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "ace-ventura-pet-detective",
+    "adaptation",
+    "almost-cops"
   ]
 }

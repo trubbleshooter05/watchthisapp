@@ -8,26 +8,166 @@
       "Romance",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Womb for the same reason it broke through in 2010: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Benedek Fliegauf keeps the ensemble pointed in one direction. The romance and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "romance",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 792307,
+      "title": "Poor Things",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Womb clicked for you, Poor Things (2023) is a strong next stop: both trade in romance and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9663,
+      "title": "Starman",
+      "year": 1984,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Womb clicked for you, Starman (1984) is a strong next stop: both trade in romance and science fiction, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 241855,
+      "title": "Spring",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Womb clicked for you, Spring (2014) is a strong next stop: both trade in romance and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 240832,
+      "title": "Lucy",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Womb clicked for you, Lucy (2014) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 78,
+      "title": "Blade Runner",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Womb clicked for you, Blade Runner (1982) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 17431,
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Womb clicked for you, Moon (2009) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Womb clicked for you, The Island (2005) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453405,
+      "title": "Gemini Man",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Womb clicked for you, Gemini Man (2019) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 796,
+      "title": "Cruel Intentions",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Womb clicked for you, Cruel Intentions (1999) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1725,
+      "title": "West Side Story",
+      "year": 1961,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Womb clicked for you, West Side Story (1961) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "crime",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Womb?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Womb?",
+      "answer": "Try Poor Things, Starman, Spring—each shares DNA with Womb while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Womb?",
+      "answer": "Womb (2010) is best described as Romance, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Womb worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this romance lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2046",
+    "attraction",
+    "eternal-sunshine-of-the-spotless-mind",
+    "gattaca",
+    "her",
+    "lost-in-starlight",
+    "mr-nobody"
   ]
 }

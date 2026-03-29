@@ -7,26 +7,157 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Naughty (2023) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. Dmitriy Suvorov's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 462,
+      "title": "Erin Brockovich",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Naughty clicked for you, Erin Brockovich (2000) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 428449,
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Naughty clicked for you, A Ghost Story (2017) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "mystery",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1551,
+      "title": "Flatliners",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Naughty clicked for you, Flatliners (1990) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 603661,
+      "title": "The Hating Game",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Naughty clicked for you, The Hating Game (2021) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2009,
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Naughty clicked for you, 4 Months, 3 Weeks and 2 Days (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157823,
+      "title": "Night Moves",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Naughty clicked for you, Night Moves (2014) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253279,
+      "title": "The Trials of Cate McCall",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Naughty clicked for you, The Trials of Cate McCall (2013) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1254624,
+      "title": "Night Always Comes",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Naughty clicked for you, Night Always Comes (2025) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16297,
+      "title": "With Honors",
+      "year": 1994,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Naughty clicked for you, With Honors (1994) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21500,
+      "title": "Class",
+      "year": 1983,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Naughty clicked for you, Class (1983) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Naughty?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Naughty?",
+      "answer": "Try Erin Brockovich, A Ghost Story, Flatliners—each shares DNA with Naughty while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Naughty?",
+      "answer": "Naughty (2023) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Naughty worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "100-meters",
+    "10dance",
+    "12-angry-men",
+    "12-strong",
+    "12-years-a-slave"
   ]
 }

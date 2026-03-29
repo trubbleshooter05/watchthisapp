@@ -9,26 +9,168 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Torrente 5: Operation Eurovegas (2014) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Santiago Segura's control of tone keeps the ride coherent. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 136400,
+      "title": "2 Guns",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, 2 Guns (2013) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 573435,
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Bad Boys: Ride or Die (2024) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 486131,
+      "title": "Shaft",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Shaft (2019) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Defendor (2009) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 647785,
+      "title": "Debt Collectors",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Debt Collectors (2020) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, RocknRolla (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 943,
+      "title": "Lethal Weapon 3",
+      "year": 1992,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Lethal Weapon 3 (1992) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 463272,
+      "title": "Johnny English Strikes Again",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Johnny English Strikes Again (2018) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13685,
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Torrente 5: Operation Eurovegas clicked for you, Bottle Rocket (1996) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Torrente 5: Operation Eurovegas?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Torrente 5: Operation Eurovegas?",
+      "answer": "Try 2 Guns, Bad Boys: Ride or Die, Shaft—each shares DNA with Torrente 5: Operation Eurovegas while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Torrente 5: Operation Eurovegas?",
+      "answer": "Torrente 5: Operation Eurovegas (2014) is best described as Action, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Torrente 5: Operation Eurovegas part of a franchise?",
+      "answer": "Yes—it's part of the \"Torrente Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "almost-cops",
+    "american-made",
+    "army-of-thieves"
   ]
 }

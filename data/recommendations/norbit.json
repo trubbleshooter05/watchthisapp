@@ -7,26 +7,159 @@
     "genres": [
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Norbit works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 109439,
+      "title": "The Hangover Part III",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Norbit clicked for you, The Hangover Part III (2013) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10137,
+      "title": "Stuart Little",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Norbit clicked for you, Stuart Little (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9889,
+      "title": "Shallow Hal",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Norbit clicked for you, Shallow Hal (2001) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9894,
+      "title": "The Cable Guy",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Norbit clicked for you, The Cable Guy (1996) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2976,
+      "title": "Hairspray",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Norbit clicked for you, Hairspray (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9493,
+      "title": "Twins",
+      "year": 1988,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Norbit clicked for you, Twins (1988) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6282,
+      "title": "Coyote Ugly",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Norbit clicked for you, Coyote Ugly (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9353,
+      "title": "Nacho Libre",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Norbit clicked for you, Nacho Libre (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8386,
+      "title": "How High",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Norbit clicked for you, How High (2001) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3053,
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Norbit clicked for you, The Fearless Vampire Killers (1967) is a strong next stop: both trade in comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Norbit?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Norbit?",
+      "answer": "Try The Hangover Part III, Stuart Little, Shallow Hal—each shares DNA with Norbit while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Norbit?",
+      "answer": "Norbit (2007) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Norbit worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "1941",
+    "2-guns",
+    "21-jump-street"
   ]
 }

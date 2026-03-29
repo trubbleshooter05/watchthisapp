@@ -9,26 +9,165 @@
       "Drama",
       "Music"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Testament of Ann Lee works as a history movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The history and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "history",
+      "drama",
+      "music",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 696157,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Whitney Houston: I Wanna Dance with Somebody (2022) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14299,
+      "title": "Cadillac Records",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Cadillac Records (2008) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1038263,
+      "title": "Maria",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Maria (2024) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in drama and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 245168,
+      "title": "Suffragette",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Suffragette (2015) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 209451,
+      "title": "Jersey Boys",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Jersey Boys (2014) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13435,
+      "title": "Antwone Fisher",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Antwone Fisher (2002) is a strong next stop: both trade in history and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 31767,
+      "title": "The Devils",
+      "year": 1971,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, The Devils (1971) is a strong next stop: both trade in history and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 109417,
+      "title": "Battle of the Year",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Battle of the Year (2013) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15300,
+      "title": "Newsies",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Testament of Ann Lee clicked for you, Newsies (1992) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Testament of Ann Lee?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Testament of Ann Lee?",
+      "answer": "Try Whitney Houston: I Wanna Dance with Somebody, Cadillac Records, Maria—each shares DNA with The Testament of Ann Lee while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Testament of Ann Lee?",
+      "answer": "The Testament of Ann Lee (2025) is best described as History, Drama, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Testament of Ann Lee worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this history lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "amadeus",
+    "elvis",
+    "judy",
+    "maria",
+    "straight-outta-compton",
+    "the-doors",
+    "12-strong"
   ]
 }

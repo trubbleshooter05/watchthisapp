@@ -12,26 +12,187 @@
       "Science Fiction",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Night of the Zoopocalypse (2025) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Ricardo Curtis's control of tone keeps the ride coherent. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "comedy",
+      "horror",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 539681,
+      "title": "DC League of Super-Pets",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, DC League of Super-Pets (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1327819,
+      "title": "Hoppers",
+      "year": 2026,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Hoppers (2026) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15512,
+      "title": "Monsters vs Aliens",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Monsters vs Aliens (2009) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "science-fiction",
+        "family",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585083,
+      "title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Hotel Transylvania: Transformania (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 581997,
+      "title": "Batman vs Teenage Mutant Ninja Turtles",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Batman vs Teenage Mutant Ninja Turtles (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 17710,
+      "title": "Hey Arnold! The Movie",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Hey Arnold! The Movie (2002) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 472983,
+      "title": "Invader Zim: Enter the Florpus",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Invader Zim: Enter the Florpus (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "science-fiction",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 721656,
+      "title": "Happy Halloween, Scooby-Doo!",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Night of the Zoopocalypse clicked for you, Happy Halloween, Scooby-Doo! (2020) is a strong next stop: both trade in animation and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "horror",
+        "family",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Night of the Zoopocalypse?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Night of the Zoopocalypse?",
+      "answer": "Try Minions: The Rise of Gru, DC League of Super-Pets, Hoppers—each shares DNA with Night of the Zoopocalypse while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Night of the Zoopocalypse?",
+      "answer": "Night of the Zoopocalypse (2025) is best described as Animation, Comedy, Horror, Adventure, Science Fiction, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Night of the Zoopocalypse worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "elio",
+    "hoppers",
+    "ice-age-collision-course",
+    "meet-the-robinsons"
   ]
 }

@@ -9,26 +9,168 @@
       "Thriller",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Black Dahlia for the same reason it broke through in 2006: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Brian De Palma keeps the ensemble pointed in one direction. The crime and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "thriller",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9437,
+      "title": "Kiss the Girls",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Kiss the Girls (1997) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14373,
+      "title": "Death Wish II",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Death Wish II (1982) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14807,
+      "title": "The Long Good Friday",
+      "year": 1980,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, The Long Good Friday (1980) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Kiss Kiss Bang Bang (2005) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8224,
+      "title": "8MM",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, 8MM (1999) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11507,
+      "title": "Body Double",
+      "year": 1984,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Body Double (1984) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14375,
+      "title": "Romanzo Criminale",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Romanzo Criminale (2005) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 21610,
+      "title": "Nighthawks",
+      "year": 1981,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Nighthawks (1981) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13703,
+      "title": "Less Than Zero",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, Less Than Zero (1987) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14864,
+      "title": "The Hot Spot",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Black Dahlia clicked for you, The Hot Spot (1990) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "romance"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Black Dahlia?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Black Dahlia?",
+      "answer": "Try Kiss the Girls, Death Wish II, The Long Good Friday—each shares DNA with The Black Dahlia while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Black Dahlia?",
+      "answer": "The Black Dahlia (2006) is best described as Crime, Thriller, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Black Dahlia worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-history-of-violence",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones",
+    "ambulance",
+    "american-psycho",
+    "blood-and-bone"
   ]
 }

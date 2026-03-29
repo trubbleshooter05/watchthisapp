@@ -8,26 +8,159 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Silent Night, Deadly Night works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 694,
+      "title": "The Shining",
+      "year": 1980,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, The Shining (1980) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 424139,
+      "title": "Halloween",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Halloween (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4513,
+      "title": "30 Days of Night",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, 30 Days of Night (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1034541,
+      "title": "Terrifier 3",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Terrifier 3 (2024) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5072,
+      "title": "Severance",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Severance (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Kiss Kiss Bang Bang (2005) is a strong next stop: both trade in thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1071215,
+      "title": "Thanksgiving",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Thanksgiving (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4520,
+      "title": "Sleuth",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Silent Night, Deadly Night clicked for you, Sleuth (2007) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Silent Night, Deadly Night?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Silent Night, Deadly Night?",
+      "answer": "Try The Shining, Halloween, The Hills Have Eyes—each shares DNA with Silent Night, Deadly Night while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Silent Night, Deadly Night?",
+      "answer": "Silent Night, Deadly Night (2025) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Silent Night, Deadly Night worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

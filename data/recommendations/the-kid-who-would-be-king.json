@@ -10,26 +10,171 @@
       "Fantasy",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Kid Who Would Be King works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "adventure",
+      "fantasy",
+      "family",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, Warcraft (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11639,
+      "title": "The Dark Crystal",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, The Dark Crystal (1982) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10150,
+      "title": "The Last Unicorn",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, The Last Unicorn (1982) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 274857,
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, King Arthur: Legend of the Sword (2017) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Kid Who Would Be King clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Kid Who Would Be King?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Kid Who Would Be King?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: Dead Man's Chest—each shares DNA with The Kid Who Would Be King while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Kid Who Would Be King?",
+      "answer": "The Kid Who Would Be King (2019) is best described as Action, Adventure, Fantasy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Kid Who Would Be King worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "castle-in-the-sky",
+    "dragonkeeper",
+    "how-to-train-your-dragon",
+    "how-to-train-your-dragon-2",
+    "immortal-demon-slayer",
+    "iron-mask",
+    "kung-fu-panda-4"
   ]
 }

@@ -11,26 +11,183 @@
       "Fantasy",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Addams Family 2 (2021) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "comedy",
+      "fantasy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 417859,
+      "title": "Puss in Boots",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Puss in Boots (2011) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7518,
+      "title": "Over the Hedge",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Over the Hedge (2006) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 17710,
+      "title": "Hey Arnold! The Movie",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Hey Arnold! The Movie (2002) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14317,
+      "title": "The Wild Thornberrys Movie",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, The Wild Thornberrys Movie (2002) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8326,
+      "title": "Holes",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Holes (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11212,
+      "title": "Baby's Day Out",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Addams Family 2 clicked for you, Baby's Day Out (1994) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Addams Family 2?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Addams Family 2?",
+      "answer": "Try Puss in Boots, The Monkey King, Rugrats Go Wild—each shares DNA with The Addams Family 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Addams Family 2?",
+      "answer": "The Addams Family 2 (2021) is best described as Animation, Family, Comedy, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Addams Family 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"The Addams Family (Animated) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
   ]
 }

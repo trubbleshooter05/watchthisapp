@@ -9,26 +9,169 @@
       "Crime",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Project Gutenberg works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "mystery",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, The International (2009) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 974453,
+      "title": "Absolution",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, Absolution (2024) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 93828,
+      "title": "Welcome to the Punch",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, Welcome to the Punch (2013) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13127,
+      "title": "SPL: Kill Zone",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, SPL: Kill Zone (2005) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 809314,
+      "title": "Trigger Point",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, Trigger Point (2021) is a strong next stop: both trade in action and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 45408,
+      "title": "The Protector",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, The Protector (1985) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 45871,
+      "title": "The Mission",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, The Mission (1999) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 222216,
+      "title": "Special ID",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, Special ID (2013) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 18725,
+      "title": "The Enforcer",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, The Enforcer (1995) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 559974,
+      "title": "Shock Wave 2",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Project Gutenberg clicked for you, Shock Wave 2 (2020) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Project Gutenberg?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Project Gutenberg?",
+      "answer": "Try The International, Absolution, Welcome to the Punch—each shares DNA with Project Gutenberg while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Project Gutenberg?",
+      "answer": "Project Gutenberg (2018) is best described as Action, Crime, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Project Gutenberg worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "absolution",
+    "almost-cops",
+    "along-came-a-spider",
+    "arkansas",
+    "case-closed-countdown-to-heaven",
+    "case-closed-the-crimson-love-letter",
+    "detective-conan-black-iron-submarine"
   ]
 }

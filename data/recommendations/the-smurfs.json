@@ -11,26 +11,184 @@
       "Comedy",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Smurfs for the same reason it broke through in 2011: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Raja Gosnell keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "adventure",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 502356,
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, The Super Mario Bros. Movie (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, Puss in Boots: The Last Wish (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 976573,
+      "title": "Elemental",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, Elemental (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4978,
+      "title": "An American Tail",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, An American Tail (1986) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14787,
+      "title": "Tom and Jerry: The Magic Ring",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, Tom and Jerry: The Magic Ring (2002) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Smurfs clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Smurfs?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Smurfs?",
+      "answer": "Try The Super Mario Bros. Movie, Puss in Boots: The Last Wish, The Monkey King—each shares DNA with The Smurfs while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Smurfs?",
+      "answer": "The Smurfs (2011) is best described as Animation, Family, Adventure, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Smurfs part of a franchise?",
+      "answer": "Yes—it's part of the \"The Smurfs (Theatrical) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
   ]
 }

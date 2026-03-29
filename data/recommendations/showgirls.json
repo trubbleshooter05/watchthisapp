@@ -7,26 +7,164 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Showgirls works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 44214,
+      "title": "Black Swan",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Black Swan (2010) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4771,
+      "title": "Gone Baby Gone",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Gone Baby Gone (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4538,
+      "title": "The Darjeeling Limited",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Showgirls clicked for you, The Darjeeling Limited (2007) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 540901,
+      "title": "Hustlers",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Hustlers (2019) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1064213,
+      "title": "Anora",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Anora (2024) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4476,
+      "title": "Legends of the Fall",
+      "year": 1994,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Legends of the Fall (1994) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "western",
+        "romance",
+        "war"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 86825,
+      "title": "Stoker",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Stoker (2013) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Layer Cake (2004) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11009,
+      "title": "Saturday Night Fever",
+      "year": 1977,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Saturday Night Fever (1977) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 451,
+      "title": "Leaving Las Vegas",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Showgirls clicked for you, Leaving Las Vegas (1995) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Showgirls?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Showgirls?",
+      "answer": "Try Black Swan, Gone Baby Gone, The Darjeeling Limited—each shares DNA with Showgirls while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Showgirls?",
+      "answer": "Showgirls (1995) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Showgirls part of a franchise?",
+      "answer": "Yes—it's part of the \"Showgirls Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "100-meters",
+    "10dance",
+    "12-angry-men",
+    "12-strong",
+    "12-years-a-slave"
   ]
 }

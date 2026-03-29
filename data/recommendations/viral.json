@@ -9,26 +9,164 @@
       "Horror",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Viral works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "horror",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Viral clicked for you, 28 Days Later (2002) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 39538,
+      "title": "Contagion",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Viral clicked for you, Contagion (2011) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Viral clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10331,
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Viral clicked for you, Night of the Living Dead (1968) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1100988,
+      "title": "28 Years Later",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Viral clicked for you, 28 Years Later (2025) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 425972,
+      "title": "Cargo",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Viral clicked for you, Cargo (2017) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9599,
+      "title": "The Blob",
+      "year": 1988,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Viral clicked for you, The Blob (1988) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15301,
+      "title": "Twilight Zone: The Movie",
+      "year": 1983,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Viral clicked for you, Twilight Zone: The Movie (1983) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 441183,
+      "title": "Light of My Life",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Viral clicked for you, Light of My Life (2019) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 138843,
+      "title": "The Conjuring",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Viral clicked for you, The Conjuring (2013) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Viral?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Viral?",
+      "answer": "Try 28 Days Later, Contagion, 28 Weeks Later—each shares DNA with Viral while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Viral?",
+      "answer": "Viral (2016) is best described as Drama, Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Viral worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "a-quiet-place",
+    "the-host",
+    "2046",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later"
   ]
 }

@@ -9,26 +9,165 @@
       "Adventure",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Sex Drive works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "adventure",
+      "romance",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 88005,
+      "title": "Seeking a Friend for the End of the World",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Seeking a Friend for the End of the World (2012) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 417870,
+      "title": "Girls Trip",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Girls Trip (2017) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2105,
+      "title": "American Pie",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, American Pie (1999) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 84199,
+      "title": "The First Time",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, The First Time (2012) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9285,
+      "title": "Road Trip",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Road Trip (2000) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13342,
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Fast Times at Ridgemont High (1982) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4380,
+      "title": "Shall We Dance?",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Shall We Dance? (2004) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37725,
+      "title": "It's a Boy Girl Thing",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, It's a Boy Girl Thing (2006) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 762968,
+      "title": "Do Revenge",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Do Revenge (2022) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4587,
+      "title": "Mermaids",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sex Drive clicked for you, Mermaids (1990) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sex Drive?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sex Drive?",
+      "answer": "Try Seeking a Friend for the End of the World, Girls Trip, American Pie—each shares DNA with Sex Drive while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sex Drive?",
+      "answer": "Sex Drive (2008) is best described as Comedy, Adventure, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sex Drive worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-goofy-movie",
+    "city-hunter",
+    "girls-trip",
+    "gorgeous",
+    "herbie-fully-loaded"
   ]
 }

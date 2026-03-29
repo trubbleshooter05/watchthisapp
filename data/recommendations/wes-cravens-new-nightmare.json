@@ -9,26 +9,165 @@
       "Mystery",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Wes Craven's New Nightmare for the same reason it broke through in 1994: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. Wes Craven keeps the ensemble pointed in one direction. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "mystery",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "fantasy",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, The Conjuring: The Devil Made Me Do It (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 913290,
+      "title": "Barbarian",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Barbarian (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 460885,
+      "title": "Mandy",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Mandy (2018) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 938614,
+      "title": "Late Night with the Devil",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Late Night with the Devil (2024) is a strong next stop: both trade in horror and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13515,
+      "title": "Mirrors",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Mirrors (2008) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1586,
+      "title": "Secret Window",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Secret Window (2004) is a strong next stop: both trade in mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1262,
+      "title": "Stranger Than Fiction",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Stranger Than Fiction (2006) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1248,
+      "title": "Hannibal Rising",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wes Craven's New Nightmare clicked for you, Hannibal Rising (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wes Craven's New Nightmare?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wes Craven's New Nightmare?",
+      "answer": "Try Inland Empire, The Conjuring: The Devil Made Me Do It, Scream 4—each shares DNA with Wes Craven's New Nightmare while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wes Craven's New Nightmare?",
+      "answer": "Wes Craven's New Nightmare (1994) is best described as Horror, Mystery, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wes Craven's New Nightmare part of a franchise?",
+      "answer": "Yes—it's part of the \"A Nightmare on Elm Street Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "inland-empire",
+    "red-riding-hood",
+    "sleepy-hollow",
+    "the-house-with-a-clock-in-its-walls",
+    "the-watchers",
+    "1408",
+    "a-cure-for-wellness"
   ]
 }

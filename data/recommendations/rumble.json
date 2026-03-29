@@ -8,26 +8,175 @@
       "Animation",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Rumble (2021) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rumble clicked for you, Anastasia (1997) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rumble clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rumble clicked for you, Nimona (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9385,
+      "title": "The Twelve Tasks of Asterix",
+      "year": 1976,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rumble clicked for you, The Twelve Tasks of Asterix (1976) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9369,
+      "title": "Asterix Conquers America",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rumble clicked for you, Asterix Conquers America (1994) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 59387,
+      "title": "The Powerpuff Girls Movie",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rumble clicked for you, The Powerpuff Girls Movie (2002) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "School of Rock",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rumble clicked for you, School of Rock (2003) is a strong next stop: both trade in family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1585,
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rumble clicked for you, It's a Wonderful Life (1946) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 258230,
+      "title": "A Monster Calls",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rumble clicked for you, A Monster Calls (2016) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rumble clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rumble?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rumble?",
+      "answer": "Try Anastasia, Meet the Robinsons, Nimona—each shares DNA with Rumble while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rumble?",
+      "answer": "Rumble (2021) is best described as Animation, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rumble worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-bugs-life",
+    "a-christmas-carol",
+    "a-goofy-movie",
+    "abominable",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel",
+    "anastasia"
   ]
 }

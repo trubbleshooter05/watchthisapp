@@ -9,26 +9,170 @@
       "Crime",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Wild Card works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "crime",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 156022,
+      "title": "The Equalizer",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wild Card clicked for you, The Equalizer (2014) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9679,
+      "title": "Gone in Sixty Seconds",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Gone in Sixty Seconds (2000) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241554,
+      "title": "Run All Night",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Run All Night (2015) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 522931,
+      "title": "Hitman's Wife's Bodyguard",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Hitman's Wife's Bodyguard (2021) is a strong next stop: both trade in thriller and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wild Card clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 818397,
+      "title": "Memory",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Memory (2022) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wild Card clicked for you, The International (2009) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14576,
+      "title": "Shade",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Shade (2003) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wild Card clicked for you, The Departed (2006) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 161,
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wild Card clicked for you, Ocean's Eleven (2001) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wild Card?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wild Card?",
+      "answer": "Try The Equalizer, Gone in Sixty Seconds, Run All Night—each shares DNA with Wild Card while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wild Card?",
+      "answer": "Wild Card (2015) is best described as Thriller, Crime, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wild Card worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "16-blocks",
+    "a-working-man",
+    "absolution",
+    "alarum",
+    "along-came-a-spider",
+    "ambulance",
+    "americana"
   ]
 }

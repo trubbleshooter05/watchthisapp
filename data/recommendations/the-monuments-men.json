@@ -10,26 +10,169 @@
       "History",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Monuments Men (2014) as a war theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The war and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "war",
+      "drama",
+      "history",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13813,
+      "title": "Defiance",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Defiance (2008) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 424,
+      "title": "Schindler's List",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Schindler's List (1993) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 661231,
+      "title": "Operation Mincemeat",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Operation Mincemeat (2022) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 491926,
+      "title": "Resistance",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Resistance (2020) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489245,
+      "title": "The Kill Team",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, The Kill Team (2019) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13922,
+      "title": "The Great Raid",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, The Great Raid (2005) is a strong next stop: both trade in war and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "history",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13614,
+      "title": "Katyn",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Katyn (2007) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13752,
+      "title": "Max Manus: Man of War",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Max Manus: Man of War (2008) is a strong next stop: both trade in war and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "history",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, October Sky (1999) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271674,
+      "title": "Suite Française",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Monuments Men clicked for you, Suite Française (2015) is a strong next stop: both trade in war and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Monuments Men?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Monuments Men?",
+      "answer": "Try Defiance, Schindler's List, Operation Mincemeat—each shares DNA with The Monuments Men while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Monuments Men?",
+      "answer": "The Monuments Men (2014) is best described as War, Drama, History, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Monuments Men worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this war lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "alexander",
+    "braveheart",
+    "hansan-rising-dragon",
+    "kagemusha",
+    "king-arthur"
   ]
 }

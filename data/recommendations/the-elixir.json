@@ -8,26 +8,167 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Elixir works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Bird Box (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Hereditary (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Elixir clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10331,
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Night of the Living Dead (1968) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 530385,
+      "title": "Midsommar",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Midsommar (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 310131,
+      "title": "The Witch",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Elixir clicked for you, The Witch (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Resident Evil (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Elixir clicked for you, First Blood (1982) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1637,
+      "title": "Speed",
+      "year": 1994,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Elixir clicked for you, Speed (1994) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Elixir clicked for you, The Island (2005) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Elixir?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Elixir?",
+      "answer": "Try Bird Box, Hereditary, 28 Weeks Later—each shares DNA with The Elixir while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Elixir?",
+      "answer": "The Elixir (2025) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Elixir worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

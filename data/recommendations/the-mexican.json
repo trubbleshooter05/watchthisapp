@@ -10,26 +10,176 @@
       "Crime",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Mexican works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "crime",
+      "romance",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 319,
+      "title": "True Romance",
+      "year": 1993,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Mexican clicked for you, True Romance (1993) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4912,
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Confessions of a Dangerous Mind (2002) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "romance",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11676,
+      "title": "Nothing to Lose",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Nothing to Lose (1997) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9515,
+      "title": "The Matador",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Mexican clicked for you, The Matador (2005) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1106289,
+      "title": "The Pickup",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Mexican clicked for you, The Pickup (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11300,
+      "title": "Something Wild",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Something Wild (1986) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 680,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Pulp Fiction (1994) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4564,
+      "title": "Sex and the City",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Sex and the City (2008) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2163,
+      "title": "Breakdown",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Mexican clicked for you, Breakdown (1997) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1619,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Mexican clicked for you, The Way of the Gun (2000) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Mexican?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Mexican?",
+      "answer": "Try True Romance, Confessions of a Dangerous Mind, Nothing to Lose—each shares DNA with The Mexican while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Mexican?",
+      "answer": "The Mexican (2001) is best described as Action, Comedy, Crime, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Mexican worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "wheels-on-meals",
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella"
   ]
 }

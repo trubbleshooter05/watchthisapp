@@ -8,26 +8,159 @@
       "Comedy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Upside (2019) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 937278,
+      "title": "A Man Called Otto",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Upside clicked for you, A Man Called Otto (2022) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 318121,
+      "title": "The Fundamentals of Caring",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Upside clicked for you, The Fundamentals of Caring (2016) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267905,
+      "title": "The Roses",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Upside clicked for you, The Roses (2025) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10247,
+      "title": "He Was a Quiet Man",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Upside clicked for you, He Was a Quiet Man (2007) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 399725,
+      "title": "Ideal Home",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Upside clicked for you, Ideal Home (2018) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 296096,
+      "title": "Me Before You",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Upside clicked for you, Me Before You (2016) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Upside clicked for you, October Sky (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10497,
+      "title": "Bitter Moon",
+      "year": 1992,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Upside clicked for you, Bitter Moon (1992) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 407445,
+      "title": "Breathe",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Upside clicked for you, Breathe (2017) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13435,
+      "title": "Antwone Fisher",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Upside clicked for you, Antwone Fisher (2002) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Upside?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Upside?",
+      "answer": "Try A Man Called Otto, The Fundamentals of Caring, The Roses—each shares DNA with The Upside while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Upside?",
+      "answer": "The Upside (2019) is best described as Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Upside worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "3-idiots",
+    "500-days-of-summer",
+    "53-sundays",
+    "a-different-man",
+    "a-dogs-purpose"
   ]
 }

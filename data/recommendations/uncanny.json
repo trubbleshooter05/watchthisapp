@@ -8,26 +8,166 @@
       "Science Fiction",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Uncanny (2015) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Matthew Leutwyler's control of tone keeps the ride coherent. The science fiction and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 605,
+      "title": "The Matrix Revolutions",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Uncanny clicked for you, The Matrix Revolutions (2003) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 500664,
+      "title": "Upgrade",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Upgrade (2018) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 505948,
+      "title": "I Am Mother",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Uncanny clicked for you, I Am Mother (2019) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1084199,
+      "title": "Companion",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Companion (2025) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1064028,
+      "title": "Subservience",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Subservience (2024) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1236153,
+      "title": "Mercy",
+      "year": 2026,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Mercy (2026) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 606234,
+      "title": "Archive",
+      "year": 2020,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Archive (2020) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1001835,
+      "title": "Wifelike",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Wifelike (2022) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 983282,
+      "title": "The Artifice Girl",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Uncanny clicked for you, The Artifice Girl (2023) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14801,
+      "title": "Colossus: The Forbin Project",
+      "year": 1970,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Uncanny clicked for you, Colossus: The Forbin Project (1970) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Uncanny?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Uncanny?",
+      "answer": "Try The Matrix Revolutions, Upgrade, I Am Mother—each shares DNA with Uncanny while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Uncanny?",
+      "answer": "Uncanny (2015) is best described as Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Uncanny worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "2010",
+    "24-hours-to-live",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple"
   ]
 }

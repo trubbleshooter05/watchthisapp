@@ -11,26 +11,172 @@
       "Adventure",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "One Piece: Episode of Skypiea works as a tv movie movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The tv movie and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "tv-movie",
+      "animation",
+      "action",
+      "adventure",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13523,
+      "title": "Sex Drive",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Sex Drive (2008) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1216221,
+      "title": "Demon Slayer: Kimetsu no Yaiba -To the Hashira Training-",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Demon Slayer: Kimetsu no Yaiba -To the Hashira Training- (2024) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13980,
+      "title": "Sword of the Stranger",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Sword of the Stranger (2007) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "history"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1067282,
+      "title": "Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village-",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Demon Slayer: Kimetsu no Yaiba -To the Swordsmith Village- (2023) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877957,
+      "title": "Drifting Home",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Drifting Home (2022) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39145,
+      "title": "Dragon Ball: Sleeping Princess in Devil's Castle",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Dragon Ball: Sleeping Princess in Devil's Castle (1987) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 811948,
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Demon Slayer: Kimetsu no Yaiba - The Hashira Meeting Arc (2021) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13691,
+      "title": "Piglet's Big Movie",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If One Piece: Episode of Skypiea clicked for you, Piglet's Big Movie (2003) is a strong next stop: both trade in animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to One Piece: Episode of Skypiea?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after One Piece: Episode of Skypiea?",
+      "answer": "Try Tekkonkinkreet, Fullmetal Alchemist the Movie: Conqueror of Shamballa, Sex Drive—each shares DNA with One Piece: Episode of Skypiea while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is One Piece: Episode of Skypiea?",
+      "answer": "One Piece: Episode of Skypiea (2018) is best described as TV Movie, Animation, Action, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is One Piece: Episode of Skypiea worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this tv movie lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "big-hero-6",
+    "boruto-naruto-the-movie",
+    "despicable-me-3",
+    "dog-man",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion",
+    "kung-fu-panda-3"
   ]
 }

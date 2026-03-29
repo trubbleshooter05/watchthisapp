@@ -12,26 +12,182 @@
       "Fantasy",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Pokémon the Movie: Kyurem vs. the Sword of Justice (2012) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Kunihiko Yuyama's control of tone keeps the ride coherent. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "family",
+      "animation",
+      "action",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 34067,
+      "title": "Pokémon: Lucario and the Mystery of Mew",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Pokémon: Lucario and the Mystery of Mew (2005) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 382190,
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Pokémon the Movie: Volcanion and the Mechanical Marvel (2016) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 782054,
+      "title": "Doraemon the Movie: Nobita's Little Star Wars 2021",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Doraemon the Movie: Nobita's Little Star Wars 2021 (2022) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 285812,
+      "title": "Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Doraemon: New Nobita's Great Demon - Peko and the Exploration Party of Five (2014) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 303903,
+      "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Pokémon the Movie: Diancie and the Cocoon of Destruction (2014) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 227679,
+      "title": "Pokémon the Movie: Genesect and the Legend Awakened",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Pokémon the Movie: Genesect and the Legend Awakened (2013) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 409421,
+      "title": "BLAME!",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, BLAME! (2017) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 428142,
+      "title": "Fate/Grand Order: First Order",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Fate/Grand Order: First Order (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4977,
+      "title": "Paprika",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon the Movie: Kyurem vs. the Sword of Justice clicked for you, Paprika (2006) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Pokémon the Movie: Kyurem vs. the Sword of Justice?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Pokémon the Movie: Kyurem vs. the Sword of Justice?",
+      "answer": "Try Pokémon: Lucario and the Mystery of Mew, Pokémon the Movie: Hoopa and the Clash of Ages, Pokémon the Movie: Volcanion and the Mechanical Marvel—each shares DNA with Pokémon the Movie: Kyurem vs. the Sword of Justice while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon the Movie: Kyurem vs. the Sword of Justice?",
+      "answer": "Pokémon the Movie: Kyurem vs. the Sword of Justice (2012) is best described as Family, Animation, Action, Adventure, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon the Movie: Kyurem vs. the Sword of Justice part of a franchise?",
+      "answer": "Yes—it's part of the \"Pokémon: Best Wishes! Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "pok-mon-lucario-and-the-mystery-of-mew",
+    "arco",
+    "castle-in-the-sky",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-dinosaur",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021"
   ]
 }

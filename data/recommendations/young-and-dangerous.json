@@ -8,26 +8,167 @@
       "Action",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Young and Dangerous for the same reason it broke through in 1996: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Andrew Lau Wai-Keung keeps the ensemble pointed in one direction. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 450001,
+      "title": "Master Z: Ip Man Legacy",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Master Z: Ip Man Legacy (2018) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 974453,
+      "title": "Absolution",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Absolution (2024) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, The Enforcer (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13807,
+      "title": "Exiled",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Exiled (2006) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 628847,
+      "title": "Trap House",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Trap House (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 45408,
+      "title": "The Protector",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, The Protector (1985) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 25074,
+      "title": "Miracles: The Canton Godfather",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Miracles: The Canton Godfather (1989) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 921360,
+      "title": "Wire Room",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Wire Room (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1130818,
+      "title": "Sheroes",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, Sheroes (2023) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 34421,
+      "title": "The Perfect Weapon",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Young and Dangerous clicked for you, The Perfect Weapon (1991) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Young and Dangerous?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Young and Dangerous?",
+      "answer": "Try Master Z: Ip Man Legacy, Absolution, The Enforcer—each shares DNA with Young and Dangerous while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Young and Dangerous?",
+      "answer": "Young and Dangerous (1996) is best described as Action, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Young and Dangerous part of a franchise?",
+      "answer": "Yes—it's part of the \"Young and Dangerous Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "16-blocks",
+    "2-guns",
+    "21-bridges",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "a-better-tomorrow"
   ]
 }

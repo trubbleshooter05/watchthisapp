@@ -8,26 +8,160 @@
       "Drama",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Tree of Life works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 12159,
+      "title": "What Dreams May Come",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, What Dreams May Come (1998) is a strong next stop: both trade in drama and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13688,
+      "title": "CJ7",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, CJ7 (2008) is a strong next stop: both trade in drama and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, Labyrinth (1986) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 747188,
+      "title": "Asteroid City",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, Asteroid City (2023) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 345938,
+      "title": "The Shack",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, The Shack (2017) is a strong next stop: both trade in drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 655,
+      "title": "Paris, Texas",
+      "year": 1984,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, Paris, Texas (1984) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2196,
+      "title": "Death at a Funeral",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, Death at a Funeral (2007) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404,
+      "title": "The Straight Story",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, The Straight Story (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 702,
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, A Streetcar Named Desire (1951) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Tree of Life clicked for you, October Sky (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Tree of Life?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Tree of Life?",
+      "answer": "Try What Dreams May Come, CJ7, Labyrinth—each shares DNA with The Tree of Life while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Tree of Life?",
+      "answer": "The Tree of Life (2011) is best described as Drama, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Tree of Life worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "17-again",
+    "47-ronin",
+    "a-big-bold-beautiful-journey",
+    "a-christmas-carol",
+    "a-dogs-purpose",
+    "a-dogs-will",
+    "a-whisker-away"
   ]
 }

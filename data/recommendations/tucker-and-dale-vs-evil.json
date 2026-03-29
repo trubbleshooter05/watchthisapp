@@ -8,26 +8,155 @@
       "Comedy",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Tucker and Dale vs. Evil works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, The Cabin in the Woods (2012) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9374,
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Death Becomes Her (1992) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 293970,
+      "title": "The Final Girls",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, The Final Girls (2015) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9377,
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Ferris Bueller's Day Off (1986) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8922,
+      "title": "Jeepers Creepers",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Jeepers Creepers (2001) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1268,
+      "title": "Mr. Bean's Holiday",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Mr. Bean's Holiday (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9902,
+      "title": "Wrong Turn",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Wrong Turn (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10331,
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tucker and Dale vs. Evil clicked for you, Night of the Living Dead (1968) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Tucker and Dale vs. Evil?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Tucker and Dale vs. Evil?",
+      "answer": "Try The Cabin in the Woods, Death Becomes Her, The Final Girls—each shares DNA with Tucker and Dale vs. Evil while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tucker and Dale vs. Evil?",
+      "answer": "Tucker and Dale vs. Evil (2010) is best described as Comedy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tucker and Dale vs. Evil worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "beetlejuice-beetlejuice"
   ]
 }

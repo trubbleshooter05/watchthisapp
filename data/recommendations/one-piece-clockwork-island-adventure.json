@@ -73,10 +73,37 @@
       "mood": "uplifting"
     },
     {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
       "tmdbId": 19576,
       "title": "One Piece: The Movie",
       "year": 2000,
-      "matchPercentage": 88,
+      "matchPercentage": 84,
       "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, One Piece: The Movie (2000) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
@@ -88,69 +115,45 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 9804,
-      "title": "Waterworld",
-      "year": 1995,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Waterworld (1995) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in action and animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
-        "adventure",
+        "animation",
+        "horror",
         "science-fiction"
       ],
-      "mood": "tense"
+      "mood": "dark"
     },
     {
-      "tmdbId": 1311031,
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "year": 2025,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "action",
         "animation",
-        "fantasy"
+        "science-fiction",
+        "crime"
       ],
       "mood": "uplifting"
     },
     {
-      "tmdbId": 16910,
-      "title": "Naruto the Movie: Legend of the Stone of Gelel",
-      "year": 2005,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Naruto the Movie: Legend of the Stone of Gelel (2005) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "animation",
-        "adventure",
-        "fantasy"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 41498,
-      "title": "One Piece Film: Strong World",
-      "year": 2009,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, One Piece Film: Strong World (2009) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "animation",
-        "adventure",
-        "fantasy"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 9340,
-      "title": "The Goonies",
-      "year": 1985,
+      "tmdbId": 13980,
+      "title": "Sword of the Stranger",
+      "year": 2007,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, The Goonies (1985) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "If One Piece: Clockwork Island Adventure clicked for you, Sword of the Stranger (2007) is a strong next stop: both trade in action and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "adventure",
-        "comedy",
-        "family"
+        "action",
+        "animation",
+        "history"
       ],
-      "mood": "funny"
+      "mood": "uplifting"
     }
   ],
   "faq": [
@@ -169,11 +172,11 @@
   ],
   "relatedPages": [
     "attack-on-titan-the-last-attack",
+    "aztec-batman-clash-of-empires",
     "beowulf",
     "berserk-the-golden-age-arc-i-the-egg-of-the-king",
     "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
     "berserk-the-golden-age-arc-iii-the-advent",
-    "big-hero-6",
-    "black-clover-sword-of-the-wizard-king"
+    "big-hero-6"
   ]
 }

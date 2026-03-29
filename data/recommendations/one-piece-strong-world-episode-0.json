@@ -9,26 +9,175 @@
       "Animation",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "One Piece: Strong World Episode 0 (2010) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Takashi Hashimoto's control of tone keeps the ride coherent. The action and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "animation",
+      "comedy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 81003,
+      "title": "Kung Fu Panda: Secrets of the Masters",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, Kung Fu Panda: Secrets of the Masters (2011) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 353595,
+      "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom! (2015) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 913205,
+      "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse (2022) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 513736,
+      "title": "LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, LEGO DC Comics Super Heroes: Aquaman - Rage of Atlantis (2018) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 308447,
+      "title": "The Flintstones and WWE: Stone Age SmackDown!",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, The Flintstones and WWE: Stone Age SmackDown! (2015) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24884,
+      "title": "B.O.B.'s Big Break",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, B.O.B.'s Big Break (2009) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 404250,
+      "title": "Zatch Bell! 101st Devil",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, Zatch Bell! 101st Devil (2004) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592316,
+      "title": "My Little Pony: Equestria Girls - Spring Breakdown",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, My Little Pony: Equestria Girls - Spring Breakdown (2019) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 609197,
+      "title": "Naruto OVA 7: Naruto, the Genie, and the Three Wishes, Believe It!",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, Naruto OVA 7: Naruto, the Genie, and the Three Wishes, Believe It! (2010) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 357405,
+      "title": "Girls und Panzer der Film",
+      "year": 2015,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If One Piece: Strong World Episode 0 clicked for you, Girls und Panzer der Film (2015) is a strong next stop: both trade in action and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to One Piece: Strong World Episode 0?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after One Piece: Strong World Episode 0?",
+      "answer": "Try Kung Fu Panda: Secrets of the Masters, LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!, Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse—each shares DNA with One Piece: Strong World Episode 0 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is One Piece: Strong World Episode 0?",
+      "answer": "One Piece: Strong World Episode 0 (2010) is best described as Action, Animation, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is One Piece: Strong World Episode 0 worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "big-hero-6",
+    "boruto-naruto-the-movie",
+    "captain-underpants-the-first-epic-movie",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man",
+    "dragon-ball-yo-son-goku-and-his-friends-return"
   ]
 }

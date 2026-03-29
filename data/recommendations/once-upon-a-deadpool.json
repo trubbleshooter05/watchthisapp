@@ -10,26 +10,175 @@
       "Adventure",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Once Upon a Deadpool (2018) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. David Leitch's control of tone keeps the ride coherent. The comedy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "action",
+      "adventure",
+      "science-fiction",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "adventure",
+        "science-fiction",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Iron Man (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 774752,
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, The Guardians of the Galaxy Holiday Special (2022) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 366924,
+      "title": "Batman: Bad Blood",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Batman: Bad Blood (2016) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "animation",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 15359,
+      "title": "Wonder Woman",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Wonder Woman (2009) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14011,
+      "title": "Justice League: The New Frontier",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Justice League: The New Frontier (2008) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, 300 (2007) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 845781,
+      "title": "Red One",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Once Upon a Deadpool clicked for you, Red One (2024) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Once Upon a Deadpool?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Once Upon a Deadpool?",
+      "answer": "Try Teenage Mutant Ninja Turtles, Iron Man, Captain America: The First Avenger—each shares DNA with Once Upon a Deadpool while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Once Upon a Deadpool?",
+      "answer": "Once Upon a Deadpool (2018) is best described as Comedy, Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Once Upon a Deadpool worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "men-in-black",
+    "men-in-black-international",
+    "one-piece-giant-mecha-soldier-of-karakuri-castle",
+    "small-soldiers",
+    "spy-kids",
+    "teenage-mutant-ninja-turtles"
   ]
 }

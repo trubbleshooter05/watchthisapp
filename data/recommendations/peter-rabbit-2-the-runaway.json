@@ -9,26 +9,176 @@
       "Comedy",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Peter Rabbit 2: The Runaway (2021) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Will Gluck's control of tone keeps the ride coherent. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "family",
+      "comedy",
+      "adventure",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 137116,
+      "title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Smurfs: The Lost Village (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 826510,
+      "title": "Harold and the Purple Crayon",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Harold and the Purple Crayon (2024) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Night at the Museum (2006) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9598,
+      "title": "Babe",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Babe (1995) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 482321,
+      "title": "Ron's Gone Wrong",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Ron's Gone Wrong (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 297270,
+      "title": "Tinker Bell and the Legend of the NeverBeast",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Peter Rabbit 2: The Runaway clicked for you, Tinker Bell and the Legend of the NeverBeast (2014) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Peter Rabbit 2: The Runaway?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Peter Rabbit 2: The Runaway?",
+      "answer": "Try Smurfs: The Lost Village, Harold and the Purple Crayon, My Little Pony: A New Generation—each shares DNA with Peter Rabbit 2: The Runaway while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Peter Rabbit 2: The Runaway?",
+      "answer": "Peter Rabbit 2: The Runaway (2021) is best described as Family, Comedy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Peter Rabbit 2: The Runaway part of a franchise?",
+      "answer": "Yes—it's part of the \"Peter Rabbit Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "3-ninjas",
+    "a-bugs-life",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie",
+    "abominable",
+    "asterix-obelix-mission-cleopatra"
   ]
 }

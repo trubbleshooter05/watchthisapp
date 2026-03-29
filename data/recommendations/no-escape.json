@@ -8,26 +8,166 @@
       "Thriller",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "No Escape works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "action",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If No Escape clicked for you, Salt (2010) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 423204,
+      "title": "Angel Has Fallen",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If No Escape clicked for you, Angel Has Fallen (2019) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3176,
+      "title": "Battle Royale",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If No Escape clicked for you, Battle Royale (2000) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1620,
+      "title": "Hitman",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If No Escape clicked for you, Hitman (2007) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If No Escape clicked for you, Escape from New York (1981) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If No Escape clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1087891,
+      "title": "The Amateur",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If No Escape clicked for you, The Amateur (2025) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2086,
+      "title": "Nick of Time",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If No Escape clicked for you, Nick of Time (1995) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1619,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If No Escape clicked for you, The Way of the Gun (2000) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976734,
+      "title": "Canary Black",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If No Escape clicked for you, Canary Black (2024) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to No Escape?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after No Escape?",
+      "answer": "Try Salt, Angel Has Fallen, Battle Royale—each shares DNA with No Escape while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is No Escape?",
+      "answer": "No Escape (2015) is best described as Thriller, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is No Escape worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "16-blocks",
+    "24-hours-to-live",
+    "40-acres",
+    "6-underground",
+    "71"
   ]
 }

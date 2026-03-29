@@ -8,26 +8,166 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit We Bury the Dead for the same reason it broke through in 2026: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Zak Hilditch keeps the ensemble pointed in one direction. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, World War Z (2013) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, 28 Days Later (2002) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1992,
+      "title": "Planet Terror",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Planet Terror (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 285923,
+      "title": "Grindhouse",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Grindhouse (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Land of the Dead (2005) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 360784,
+      "title": "Hidden",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Hidden (2015) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Resident Evil (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, First Blood (1982) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1637,
+      "title": "Speed",
+      "year": 1994,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If We Bury the Dead clicked for you, Speed (1994) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to We Bury the Dead?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after We Bury the Dead?",
+      "answer": "Try World War Z, 28 Days Later, 28 Weeks Later—each shares DNA with We Bury the Dead while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is We Bury the Dead?",
+      "answer": "We Bury the Dead (2026) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is We Bury the Dead worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

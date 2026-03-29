@@ -8,26 +8,166 @@
       "Horror",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Slumber Party Massacre works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1547,
+      "title": "The Lost Boys",
+      "year": 1987,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, The Lost Boys (1987) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "thriller",
+        "drama",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11974,
+      "title": "The 'Burbs",
+      "year": 1989,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, The 'Burbs (1989) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18086,
+      "title": "Fright Night Part 2",
+      "year": 1988,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Fright Night Part 2 (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24924,
+      "title": "Night of the Demons",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Night of the Demons (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1581,
+      "title": "The Holiday",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, The Holiday (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 934433,
+      "title": "Scream VI",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Scream VI (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, Inland Empire (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 74306,
+      "title": "God Bless America",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Slumber Party Massacre clicked for you, God Bless America (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Slumber Party Massacre?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Slumber Party Massacre?",
+      "answer": "Try The Lost Boys, The 'Burbs, Fright Night Part 2—each shares DNA with The Slumber Party Massacre while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Slumber Party Massacre?",
+      "answer": "The Slumber Party Massacre (1982) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Slumber Party Massacre part of a franchise?",
+      "answer": "Yes—it's part of the \"The Slumber Party Massacre Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "beetlejuice-beetlejuice"
   ]
 }

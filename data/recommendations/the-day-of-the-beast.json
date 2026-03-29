@@ -9,26 +9,159 @@
       "Comedy",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Day of the Beast (1995) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Álex de la Iglesia's control of tone keeps the ride coherent. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "comedy",
+      "action",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 109414,
+      "title": "This Is the End",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, This Is the End (2013) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 567609,
+      "title": "Ready or Not",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, Ready or Not (2019) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 323373,
+      "title": "Deathgasm",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, Deathgasm (2015) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18086,
+      "title": "Fright Night Part 2",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, Fright Night Part 2 (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 991708,
+      "title": "El Conde",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, El Conde (2023) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 758323,
+      "title": "The Pope's Exorcist",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, The Pope's Exorcist (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 219,
+      "title": "Volver",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, Volver (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 441701,
+      "title": "Veronica",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, Veronica (2017) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4593,
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": 1972,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Day of the Beast clicked for you, The Discreet Charm of the Bourgeoisie (1972) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Day of the Beast?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Day of the Beast?",
+      "answer": "Try This Is the End, Ready or Not, Deathgasm—each shares DNA with The Day of the Beast while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Day of the Beast?",
+      "answer": "The Day of the Beast (1995) is best described as Horror, Comedy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Day of the Beast worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "day-shift",
+    "lake-placid",
+    "mr-vampire",
+    "naruto-shippuden-the-movie-blood-prison",
+    "ready-or-not-here-i-come",
+    "the-twins-effect",
+    "they-will-kill-you"
   ]
 }

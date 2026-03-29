@@ -10,26 +10,172 @@
       "Crime",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Soylent Green (1973) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "thriller",
+      "crime",
+      "mystery",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 406990,
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, What Happened to Monday (2017) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8338,
+      "title": "Blindness",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Blindness (2008) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 72190,
+      "title": "World War Z",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, World War Z (2013) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 294254,
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Maze Runner: The Scorch Trials (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Insurgent (2015) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Maze Runner: The Death Cure (2018) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9693,
+      "title": "Children of Men",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Children of Men (2006) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1635,
+      "title": "The Island",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, The Island (2005) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2666,
+      "title": "Dark City",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Dark City (1998) is a strong next stop: both trade in science fiction and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Soylent Green clicked for you, Layer Cake (2004) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Soylent Green?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Soylent Green?",
+      "answer": "Try What Happened to Monday, Blindness, World War Z—each shares DNA with Soylent Green while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Soylent Green?",
+      "answer": "Soylent Green (1973) is best described as Science Fiction, Thriller, Crime, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Soylent Green worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "24-hours-to-live",
+    "8mm",
+    "a-haunting-in-venice",
+    "a-walk-among-the-tombstones",
+    "absolution",
+    "along-came-a-spider",
+    "anatomy-of-a-fall"
   ]
 }

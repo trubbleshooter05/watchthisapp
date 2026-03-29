@@ -10,26 +10,168 @@
       "Mystery",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Skin I Live In works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "horror",
+      "mystery",
+      "thriller",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 76812,
+      "title": "Black Butterfly",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Black Butterfly (2017) is a strong next stop: both trade in drama and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10361,
+      "title": "Ginger Snaps 2: Unleashed",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Ginger Snaps 2: Unleashed (2004) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13448,
+      "title": "Angels & Demons",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Angels & Demons (2009) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Eden Lake (2008) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1902,
+      "title": "Open Your Eyes",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Open Your Eyes (1997) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 526051,
+      "title": "Look Away",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Look Away (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 267,
+      "title": "Live Flesh",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Live Flesh (1997) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8088,
+      "title": "Broken Embraces",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, Broken Embraces (2009) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 639798,
+      "title": "32 Malasana Street",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, 32 Malasana Street (2020) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Skin I Live In clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "family",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Skin I Live In?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Skin I Live In?",
+      "answer": "Try Black Butterfly, Ginger Snaps 2: Unleashed, Angels & Demons—each shares DNA with The Skin I Live In while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Skin I Live In?",
+      "answer": "The Skin I Live In (2011) is best described as Drama, Horror, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Skin I Live In worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "after-life",
+    "inland-empire",
+    "red-riding-hood",
+    "the-skeleton-key",
+    "what-lies-beneath",
+    "10-cloverfield-lane",
+    "a-tale-of-two-sisters"
   ]
 }

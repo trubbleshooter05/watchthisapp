@@ -8,26 +8,154 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Rule of Jenny Pen for the same reason it broke through in 2025: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. James Ashcroft keeps the ensemble pointed in one direction. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 694,
+      "title": "The Shining",
+      "year": 1980,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, The Shining (1980) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Eden Lake (2008) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1063877,
+      "title": "Don't Move",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Don't Move (2024) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 436387,
+      "title": "Cut Off",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Cut Off (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 377,
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, A Nightmare on Elm Street (1984) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 402,
+      "title": "Basic Instinct",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Basic Instinct (1992) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14001,
+      "title": "Dead Silence",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Dead Silence (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1151031,
+      "title": "Bring Her Back",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Bring Her Back (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 532408,
+      "title": "The Boogeyman",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, The Boogeyman (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 571384,
+      "title": "Come Play",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Rule of Jenny Pen clicked for you, Come Play (2020) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Rule of Jenny Pen?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Rule of Jenny Pen?",
+      "answer": "Try The Shining, Eden Lake, Don't Move—each shares DNA with The Rule of Jenny Pen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Rule of Jenny Pen?",
+      "answer": "The Rule of Jenny Pen (2025) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Rule of Jenny Pen worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

@@ -9,26 +9,159 @@
       "Drama",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Pillion (2025) as a romance theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The romance and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "romance",
+      "drama",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1016121,
+      "title": "Beautiful Disaster",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pillion clicked for you, Beautiful Disaster (2023) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 337167,
+      "title": "Fifty Shades Freed",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pillion clicked for you, Fifty Shades Freed (2018) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 341174,
+      "title": "Fifty Shades Darker",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pillion clicked for you, Fifty Shades Darker (2017) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 333385,
+      "title": "Mr. Right",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pillion clicked for you, Mr. Right (2016) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 744114,
+      "title": "My Policeman",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pillion clicked for you, My Policeman (2022) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13446,
+      "title": "Withnail & I",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pillion clicked for you, Withnail & I (1987) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 436459,
+      "title": "Almost Friends",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pillion clicked for you, Almost Friends (2017) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pillion clicked for you, October Sky (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13673,
+      "title": "Christmas with the Kranks",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pillion clicked for you, Christmas with the Kranks (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13696,
+      "title": "Angels with Dirty Faces",
+      "year": 1938,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pillion clicked for you, Angels with Dirty Faces (1938) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Pillion?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Pillion?",
+      "answer": "Try Beautiful Disaster, Fifty Shades Freed, Fifty Shades Darker—each shares DNA with Pillion while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pillion?",
+      "answer": "Pillion (2025) is best described as Romance, Drama, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pillion worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this romance lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
   ]
 }

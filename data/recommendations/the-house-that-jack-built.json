@@ -10,26 +10,170 @@
       "Crime",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The House That Jack Built (2018) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "horror",
+      "crime",
+      "thriller",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 18405,
+      "title": "The Last House on the Left",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, The Last House on the Left (2009) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 274,
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, The Silence of the Lambs (1991) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241,
+      "title": "Natural Born Killers",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Natural Born Killers (1994) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9411,
+      "title": "Fallen",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Fallen (1998) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 12149,
+      "title": "Frailty",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Frailty (2002) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 38410,
+      "title": "The Poughkeepsie Tapes",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, The Poughkeepsie Tapes (2007) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 116979,
+      "title": "Chained",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Chained (2012) is a strong next stop: both trade in drama and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 101669,
+      "title": "Mother's Day",
+      "year": 2010,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Mother's Day (2010) is a strong next stop: both trade in horror and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13715,
+      "title": "At Close Range",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, At Close Range (1986) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 807,
+      "title": "Se7en",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The House That Jack Built clicked for you, Se7en (1995) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The House That Jack Built?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The House That Jack Built?",
+      "answer": "Try The Last House on the Left, The Silence of the Lambs, Natural Born Killers—each shares DNA with The House That Jack Built while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The House That Jack Built?",
+      "answer": "The House That Jack Built (2018) is best described as Drama, Horror, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The House That Jack Built worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "the-exorcism-of-emily-rose",
+    "the-last-house-on-the-left",
+    "10-cloverfield-lane",
+    "a-history-of-violence",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones"
   ]
 }

@@ -9,26 +9,165 @@
       "Action",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Predator works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "action",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 766507,
+      "title": "Prey",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Predator clicked for you, Prey (2022) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 34851,
+      "title": "Predators",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Predator clicked for you, Predators (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 87421,
+      "title": "Riddick",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Predator clicked for you, Riddick (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Predator clicked for you, Predator 2 (1990) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324670,
+      "title": "Spectral",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Predator clicked for you, Spectral (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Predator clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Predator clicked for you, Die Hard: With a Vengeance (1995) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Predator clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1571,
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Predator clicked for you, Live Free or Die Hard (2007) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Predator clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Predator?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Predator?",
+      "answer": "Try Prey, Predators, Riddick—each shares DNA with The Predator while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Predator?",
+      "answer": "The Predator (2018) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Predator part of a franchise?",
+      "answer": "Yes—it's part of the \"Predator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "24-hours-to-live",
+    "40-acres",
+    "aliens",
+    "armageddon",
+    "awareness",
+    "battleship",
+    "boss-level"
   ]
 }

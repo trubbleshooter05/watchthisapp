@@ -9,26 +9,173 @@
       "Family",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Call of the Wild (2020) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "family",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 10948,
+      "title": "The Fox and the Hound",
+      "year": 1981,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, The Fox and the Hound (1981) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 21032,
+      "title": "Balto",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Balto (1995) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama",
+        "animation",
+        "history"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9036,
+      "title": "Eight Below",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Eight Below (2006) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508763,
+      "title": "A Dog's Way Home",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, A Dog's Way Home (2019) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 272878,
+      "title": "Max",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Max (2015) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12227,
+      "title": "White Fang",
+      "year": 1991,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, White Fang (1991) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 22660,
+      "title": "Old Yeller",
+      "year": 1957,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Old Yeller (1957) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "drama",
+        "western"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 606856,
+      "title": "Togo",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Togo (2019) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 6878,
+      "title": "Homeward Bound: The Incredible Journey",
+      "year": 1993,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Call of the Wild clicked for you, Homeward Bound: The Incredible Journey (1993) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Call of the Wild?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Call of the Wild?",
+      "answer": "Try The Fox and the Hound, Balto, Eight Below—each shares DNA with The Call of the Wild while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Call of the Wild?",
+      "answer": "The Call of the Wild (2020) is best described as Adventure, Family, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Call of the Wild worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-dogs-purpose",
+    "bridge-to-terabithia",
+    "cars-3",
+    "dinosaur",
+    "heidi",
+    "holes",
+    "hugo"
   ]
 }

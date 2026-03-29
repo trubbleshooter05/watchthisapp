@@ -10,26 +10,169 @@
       "Adventure",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Storm Riders (1998) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "action",
+      "adventure",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 611698,
+      "title": "A Writer's Odyssey",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, A Writer's Odyssey (2021) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5889,
+      "title": "Azumi",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Azumi (2003) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 611395,
+      "title": "Double World",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Double World (2020) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 455476,
+      "title": "Knights of the Zodiac",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Knights of the Zodiac (2023) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 391757,
+      "title": "Never Back Down: No Surrender",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Never Back Down: No Surrender (2016) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 70057,
+      "title": "Dragon",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Dragon (2011) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Atonement (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Storm Riders clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Storm Riders?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Storm Riders?",
+      "answer": "Try A Writer's Odyssey, Conan the Barbarian, Azumi—each shares DNA with The Storm Riders while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Storm Riders?",
+      "answer": "The Storm Riders (1998) is best described as Fantasy, Action, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Storm Riders part of a franchise?",
+      "answer": "Yes—it's part of the \"The Storm Riders Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-writers-odyssey",
+    "along-with-the-gods-the-two-worlds",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "dragonheart",
+    "jack-the-giant-slayer"
   ]
 }

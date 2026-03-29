@@ -7,26 +7,160 @@
     "genres": [
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Triangle works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Triangle clicked for you, Hereditary (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 458723,
+      "title": "Us",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Triangle clicked for you, Us (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 82507,
+      "title": "Sinister",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Triangle clicked for you, Sinister (2012) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 332567,
+      "title": "The Shallows",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Triangle clicked for you, The Shallows (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 631843,
+      "title": "Old",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Triangle clicked for you, Old (2021) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 256274,
+      "title": "As Above, So Below",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Triangle clicked for you, As Above, So Below (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Triangle clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Triangle clicked for you, Event Horizon (1997) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18405,
+      "title": "The Last House on the Left",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Triangle clicked for you, The Last House on the Left (2009) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 790,
+      "title": "The Fog",
+      "year": 1980,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Triangle clicked for you, The Fog (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Triangle?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Triangle?",
+      "answer": "Try Hereditary, Us, Sinister—each shares DNA with Triangle while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Triangle?",
+      "answer": "Triangle (2009) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Triangle worth revisiting?",
+      "answer": "Viewer scores sit around 6.9/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "1408",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night"
   ]
 }

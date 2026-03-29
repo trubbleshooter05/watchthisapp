@@ -9,26 +9,168 @@
       "Drama",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Snitch for the same reason it broke through in 2013: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Ric Roman Waugh keeps the ensemble pointed in one direction. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "drama",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 38700,
+      "title": "Bad Boys for Life",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Snitch clicked for you, Bad Boys for Life (2020) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Snitch clicked for you, First Blood (1982) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1538,
+      "title": "Collateral",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Snitch clicked for you, Collateral (2004) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Snitch clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1598,
+      "title": "Cape Fear",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Snitch clicked for you, Cape Fear (1991) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 204082,
+      "title": "Homefront",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Snitch clicked for you, Homefront (2013) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1900,
+      "title": "Traffic",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Snitch clicked for you, Traffic (2000) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1251,
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Snitch clicked for you, Letters from Iwo Jima (2006) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 339692,
+      "title": "Shot Caller",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Snitch clicked for you, Shot Caller (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 325789,
+      "title": "The Infiltrator",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Snitch clicked for you, The Infiltrator (2016) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Snitch?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Snitch?",
+      "answer": "Try Bad Boys for Life, First Blood, Collateral—each shares DNA with Snitch while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Snitch?",
+      "answer": "Snitch (2013) is best described as Thriller, Drama, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Snitch worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "40-acres",
+    "71",
+    "allied",
+    "along-with-the-gods-the-two-worlds",
+    "ambulance",
+    "assassination"
   ]
 }

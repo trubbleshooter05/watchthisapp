@@ -8,26 +8,165 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Whole Nine Yards for the same reason it broke through in 2000: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Jonathan Lynn keeps the ensemble pointed in one direction. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 522627,
+      "title": "The Gentlemen",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, The Gentlemen (2020) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9277,
+      "title": "The Sting",
+      "year": 1973,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, The Sting (1973) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9535,
+      "title": "Analyze This",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Analyze This (1999) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9366,
+      "title": "Donnie Brasco",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Donnie Brasco (1997) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, RocknRolla (2008) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 401469,
+      "title": "Widows",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Widows (2018) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 799876,
+      "title": "The Outfit",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, The Outfit (2022) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13673,
+      "title": "Christmas with the Kranks",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Christmas with the Kranks (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13635,
+      "title": "Mesrine: Killer Instinct",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Mesrine: Killer Instinct (2008) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13939,
+      "title": "Death Wish",
+      "year": 1974,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Whole Nine Yards clicked for you, Death Wish (1974) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Whole Nine Yards?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Whole Nine Yards?",
+      "answer": "Try The Gentlemen, The Sting, Analyze This—each shares DNA with The Whole Nine Yards while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Whole Nine Yards?",
+      "answer": "The Whole Nine Yards (2000) is best described as Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Whole Nine Yards part of a franchise?",
+      "answer": "Yes—it's part of the \"The Whole Nine/Ten Yards Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "ace-ventura-pet-detective",
+    "adaptation",
+    "almost-cops"
   ]
 }

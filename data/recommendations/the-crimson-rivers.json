@@ -9,26 +9,172 @@
       "Mystery",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Crimson Rivers (2000) as a crime theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The crime and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "mystery",
+      "thriller",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 800815,
+      "title": "The Pale Blue Eye",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, The Pale Blue Eye (2022) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 910,
+      "title": "The Big Sleep",
+      "year": 1946,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, The Big Sleep (1946) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 419835,
+      "title": "Crooked House",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Crooked House (2017) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4193,
+      "title": "Evil Under the Sun",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Evil Under the Sun (1982) is a strong next stop: both trade in crime and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 812583,
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Wake Up Dead Man: A Knives Out Mystery (2025) is a strong next stop: both trade in mystery and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9411,
+      "title": "Fallen",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Fallen (1998) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4912,
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Confessions of a Dangerous Mind (2002) is a strong next stop: both trade in crime and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15659,
+      "title": "Foul Play",
+      "year": 1978,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, Foul Play (1978) is a strong next stop: both trade in mystery and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Crimson Rivers clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Crimson Rivers?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Crimson Rivers?",
+      "answer": "Try A Walk Among the Tombstones, The Pale Blue Eye, The Big Sleep—each shares DNA with The Crimson Rivers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Crimson Rivers?",
+      "answer": "The Crimson Rivers (2000) is best described as Crime, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Crimson Rivers part of a franchise?",
+      "answer": "Yes—it's part of the \"The Crimson Rivers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "8mm",
+    "a-haunting-in-venice",
+    "a-walk-among-the-tombstones",
+    "absolution",
+    "along-came-a-spider",
+    "anatomy-of-a-fall",
+    "arkansas"
   ]
 }

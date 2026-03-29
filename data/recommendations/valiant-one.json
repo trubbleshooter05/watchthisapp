@@ -9,26 +9,167 @@
       "Thriller",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Valiant One for the same reason it broke through in 2025: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Steve Barnett keeps the ensemble pointed in one direction. The war and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "war",
+      "thriller",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 717930,
+      "title": "Kandahar",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Kandahar (2023) is a strong next stop: both trade in war and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 831946,
+      "title": "Interceptor",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Interceptor (2022) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Valiant One clicked for you, The Killer (2024) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 808023,
+      "title": "The Virtuoso",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Valiant One clicked for you, The Virtuoso (2021) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 808396,
+      "title": "God Is a Bullet",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Valiant One clicked for you, God Is a Bullet (2023) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1227816,
+      "title": "Red Right Hand",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Red Right Hand (2024) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 572751,
+      "title": "Seized",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Seized (2020) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1215162,
+      "title": "Kill 'em All 2",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Kill 'em All 2 (2024) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1387382,
+      "title": "Hunting Season",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Valiant One clicked for you, Hunting Season (2025) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Valiant One?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Valiant One?",
+      "answer": "Try Kandahar, Interceptor, The Killer—each shares DNA with Valiant One while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Valiant One?",
+      "answer": "Valiant One (2025) is best described as War, Thriller, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Valiant One worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this war lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "71",
+    "allied",
+    "beast-of-war",
+    "bullet-in-the-head",
+    "crimson-tide"
   ]
 }

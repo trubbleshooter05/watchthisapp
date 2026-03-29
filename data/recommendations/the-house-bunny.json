@@ -8,26 +8,162 @@
       "Romance",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The House Bunny for the same reason it broke through in 2008: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Fred Wolf keeps the ensemble pointed in one direction. The romance and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "romance",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 454983,
+      "title": "The Kissing Booth",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, The Kissing Booth (2018) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 583083,
+      "title": "The Kissing Booth 2",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, The Kissing Booth 2 (2020) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3082,
+      "title": "Modern Times",
+      "year": 1936,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Modern Times (1936) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9494,
+      "title": "Look Who's Talking",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Look Who's Talking (1989) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 727745,
+      "title": "The Kissing Booth 3",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, The Kissing Booth 3 (2021) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 625450,
+      "title": "Tall Girl",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Tall Girl (2019) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10860,
+      "title": "Steel Magnolias",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Steel Magnolias (1989) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1809,
+      "title": "The Rules of Attraction",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, The Rules of Attraction (2002) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1968,
+      "title": "Fools Rush In",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Fools Rush In (1997) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1272149,
+      "title": "Bridget Jones: Mad About the Boy",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The House Bunny clicked for you, Bridget Jones: Mad About the Boy (2025) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The House Bunny?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The House Bunny?",
+      "answer": "Try The Kissing Booth, The Kissing Booth 2, Modern Times—each shares DNA with The House Bunny while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The House Bunny?",
+      "answer": "The House Bunny (2008) is best described as Romance, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The House Bunny worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this romance lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "13-going-on-30",
+    "17-again",
+    "27-dresses",
+    "50-first-dates",
+    "500-days-of-summer",
+    "a-chinese-odyssey-part-one-pandoras-box"
   ]
 }

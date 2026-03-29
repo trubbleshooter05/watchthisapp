@@ -9,26 +9,168 @@
       "Drama",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Lincoln Lawyer (2011) stuck because it commits to its crime premise without apologizing—viewers remember set pieces and momentum as much as plot. Brad Furman's control of tone keeps the ride coherent. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "drama",
+      "thriller",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1592,
+      "title": "Primal Fear",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Primal Fear (1996) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1598,
+      "title": "Cape Fear",
+      "year": 1991,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Cape Fear (1991) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 413362,
+      "title": "Roman J. Israel, Esq.",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Roman J. Israel, Esq. (2017) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11560,
+      "title": "High Crimes",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, High Crimes (2002) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1574,
+      "title": "Chicago",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Chicago (2002) is a strong next stop: both trade in crime and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1537,
+      "title": "Changing Lanes",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Changing Lanes (2002) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11507,
+      "title": "Body Double",
+      "year": 1984,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Body Double (1984) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 466,
+      "title": "Klute",
+      "year": 1971,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lincoln Lawyer clicked for you, Klute (1971) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Lincoln Lawyer?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Lincoln Lawyer?",
+      "answer": "Try American Psycho, The Talented Mr. Ripley, Primal Fear—each shares DNA with The Lincoln Lawyer while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lincoln Lawyer?",
+      "answer": "The Lincoln Lawyer (2011) is best described as Crime, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lincoln Lawyer worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-history-of-violence",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones",
+    "ambulance",
+    "american-psycho",
+    "blood-and-bone"
   ]
 }

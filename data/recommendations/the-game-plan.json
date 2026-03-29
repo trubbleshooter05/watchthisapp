@@ -8,26 +8,164 @@
       "Comedy",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Game Plan works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "family",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9502,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, Kung Fu Panda (2008) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10947,
+      "title": "High School Musical",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, High School Musical (2006) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11247,
+      "title": "A Cinderella Story",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, A Cinderella Story (2004) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 382748,
+      "title": "Stargirl",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, Stargirl (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20726,
+      "title": "Little Giants",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, Little Giants (1994) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4951,
+      "title": "10 Things I Hate About You",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, 10 Things I Hate About You (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9472,
+      "title": "DodgeBall: A True Underdog Story",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, DodgeBall: A True Underdog Story (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9390,
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, Jerry Maguire (1996) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5825,
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, National Lampoon's Christmas Vacation (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9388,
+      "title": "Thank You for Smoking",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Game Plan clicked for you, Thank You for Smoking (2005) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Game Plan?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Game Plan?",
+      "answer": "Try Kung Fu Panda, High School Musical, A Cinderella Story—each shares DNA with The Game Plan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Game Plan?",
+      "answer": "The Game Plan (2007) is best described as Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Game Plan worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "101-dalmatians",
+    "3-ninjas",
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie"
   ]
 }

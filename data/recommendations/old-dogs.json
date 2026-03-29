@@ -8,26 +8,166 @@
       "Comedy",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Old Dogs (2009) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Walt Becker's control of tone keeps the ride coherent. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "family",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 587807,
+      "title": "Tom & Jerry",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Tom & Jerry (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13655,
+      "title": "Camp Rock",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Camp Rock (2008) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "music",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 82650,
+      "title": "Diary of a Wimpy Kid: Dog Days",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Diary of a Wimpy Kid: Dog Days (2012) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 425001,
+      "title": "The War with Grandpa",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, The War with Grandpa (2020) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38843,
+      "title": "Ramona and Beezus",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Ramona and Beezus (2010) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15653,
+      "title": "An Extremely Goofy Movie",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, An Extremely Goofy Movie (2000) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19186,
+      "title": "The Parent Trap",
+      "year": 1961,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, The Parent Trap (1961) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, Coraline (2009) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18240,
+      "title": "The Proposal",
+      "year": 2009,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Old Dogs clicked for you, The Proposal (2009) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Old Dogs?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Old Dogs?",
+      "answer": "Try Tom & Jerry, Camp Rock, Shaun the Sheep Movie—each shares DNA with Old Dogs while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Old Dogs?",
+      "answer": "Old Dogs (2009) is best described as Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Old Dogs worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "101-dalmatians",
+    "3-ninjas",
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-minecraft-movie"
   ]
 }

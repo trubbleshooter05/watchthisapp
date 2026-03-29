@@ -8,26 +8,172 @@
       "Animation",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Animatrix works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "science-fiction",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "action",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 703771,
+      "title": "Deathstroke: Knights & Dragons - The Movie",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Deathstroke: Knights & Dragons - The Movie (2020) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1190012,
+      "title": "South Park: Joining the Panderverse",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, South Park: Joining the Panderverse (2023) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "comedy",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 603,
+      "title": "The Matrix",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, The Matrix (1999) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 604,
+      "title": "The Matrix Reloaded",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, The Matrix Reloaded (2003) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Star Trek (2009) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 624860,
+      "title": "The Matrix Resurrections",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Animatrix clicked for you, The Matrix Resurrections (2021) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Animatrix?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Animatrix?",
+      "answer": "Try Resident Evil: Degeneration, Batman: Gotham Knight, Justice League: Gods and Monsters—each shares DNA with The Animatrix while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Animatrix?",
+      "answer": "The Animatrix (2003) is best described as Animation, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Animatrix worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "akira",
+    "arco",
+    "astro-boy",
+    "atlantis-the-lost-empire",
+    "batman-ninja",
+    "batman-ninja-vs-yakuza-league",
+    "captain-underpants-the-first-epic-movie"
   ]
 }

@@ -8,26 +8,166 @@
       "Drama",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Sliver for the same reason it broke through in 1993: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Phillip Noyce keeps the ensemble pointed in one direction. The drama and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 345,
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sliver clicked for you, Eyes Wide Shut (1999) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 805,
+      "title": "Rosemary's Baby",
+      "year": 1968,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sliver clicked for you, Rosemary's Baby (1968) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169917,
+      "title": "A Walk Among the Tombstones",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sliver clicked for you, A Walk Among the Tombstones (2014) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sliver clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2251,
+      "title": "Unfaithful",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sliver clicked for you, Unfaithful (2002) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4413,
+      "title": "The Brave One",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sliver clicked for you, The Brave One (2007) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sliver clicked for you, Lust, Caution (2007) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sliver clicked for you, Pride & Prejudice (2005) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sliver clicked for you, Atonement (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 793,
+      "title": "Blue Velvet",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sliver clicked for you, Blue Velvet (1986) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sliver?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sliver?",
+      "answer": "Try Eyes Wide Shut, Rosemary's Baby, A Walk Among the Tombstones—each shares DNA with Sliver while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sliver?",
+      "answer": "Sliver (1993) is best described as Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sliver worth revisiting?",
+      "answer": "Viewer scores sit around 5.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "127-hours",
+    "13",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "40-acres",
+    "71",
+    "a-history-of-violence"
   ]
 }

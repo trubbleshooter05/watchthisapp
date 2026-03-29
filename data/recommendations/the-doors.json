@@ -9,26 +9,162 @@
       "Drama",
       "History"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Doors (1991) stuck because it commits to its music premise without apologizing—viewers remember set pieces and momentum as much as plot. Oliver Stone's control of tone keeps the ride coherent. The music and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "music",
+      "drama",
+      "history",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 239566,
+      "title": "Get On Up",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Doors clicked for you, Get On Up (2014) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 504608,
+      "title": "Rocketman",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Doors clicked for you, Rocketman (2019) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 786,
+      "title": "Almost Famous",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Doors clicked for you, Almost Famous (2000) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Doors clicked for you, October Sky (1999) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 327331,
+      "title": "The Dirt",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Doors clicked for you, The Dirt (2019) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 25196,
+      "title": "Crazy Heart",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Doors clicked for you, Crazy Heart (2009) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 16620,
+      "title": "La Bamba",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Doors clicked for you, La Bamba (1987) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3902,
+      "title": "I'm Not There",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Doors clicked for you, I'm Not There (2007) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 319075,
+      "title": "Cobain: Montage of Heck",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Doors clicked for you, Cobain: Montage of Heck (2015) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13435,
+      "title": "Antwone Fisher",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Doors clicked for you, Antwone Fisher (2002) is a strong next stop: both trade in drama and history, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Doors?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Doors?",
+      "answer": "Try Get On Up, Rocketman, Almost Famous—each shares DNA with The Doors while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Doors?",
+      "answer": "The Doors (1991) is best described as Music, Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Doors worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this music lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "amadeus",
+    "elvis",
+    "judy",
+    "maria",
+    "straight-outta-compton",
+    "the-testament-of-ann-lee",
+    "12-strong"
   ]
 }

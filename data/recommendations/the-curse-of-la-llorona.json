@@ -7,26 +7,156 @@
     "genres": [
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Curse of La Llorona (2019) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Michael Chaves's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 138843,
+      "title": "The Conjuring",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, The Conjuring (2013) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 493922,
+      "title": "Hereditary",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Hereditary (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 755,
+      "title": "From Dusk Till Dawn",
+      "year": 1996,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, From Dusk Till Dawn (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 756999,
+      "title": "The Black Phone",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, The Black Phone (2022) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9358,
+      "title": "Final Destination 2",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Final Destination 2 (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 345911,
+      "title": "Lights Out",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Lights Out (2016) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 713704,
+      "title": "Evil Dead Rise",
+      "year": 2023,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Evil Dead Rise (2023) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 609,
+      "title": "Poltergeist",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Poltergeist (1982) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 157547,
+      "title": "Oculus",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Curse of La Llorona clicked for you, Oculus (2014) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Curse of La Llorona?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Curse of La Llorona?",
+      "answer": "Try The Conjuring, Hereditary, From Dusk Till Dawn—each shares DNA with The Curse of La Llorona while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Curse of La Llorona?",
+      "answer": "The Curse of La Llorona (2019) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Curse of La Llorona part of a franchise?",
+      "answer": "Yes—it's part of the \"La Llorona Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "1408",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night"
   ]
 }

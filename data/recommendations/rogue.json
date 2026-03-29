@@ -8,26 +8,169 @@
       "Action",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Rogue works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rogue clicked for you, Black Panther (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10999,
+      "title": "Commando",
+      "year": 1985,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rogue clicked for you, Commando (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1242898,
+      "title": "Predator: Badlands",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rogue clicked for you, Predator: Badlands (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1672,
+      "title": "The Professional",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rogue clicked for you, The Professional (1981) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 270938,
+      "title": "Falcon Rising",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rogue clicked for you, Falcon Rising (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11385,
+      "title": "Hatari!",
+      "year": 1962,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rogue clicked for you, Hatari! (1962) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 953,
+      "title": "Madagascar",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rogue clicked for you, Madagascar (2005) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1372,
+      "title": "Blood Diamond",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rogue clicked for you, Blood Diamond (2006) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rogue clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rogue clicked for you, The Lion King 1½ (2004) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rogue?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rogue?",
+      "answer": "Try Black Panther, Commando, Predator: Badlands—each shares DNA with Rogue while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rogue?",
+      "answer": "Rogue (2020) is best described as Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rogue worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-assassins",
+    "16-blocks",
+    "2012",
+    "3-ninjas",
+    "300",
+    "65",
+    "a-chinese-odyssey-part-one-pandoras-box"
   ]
 }

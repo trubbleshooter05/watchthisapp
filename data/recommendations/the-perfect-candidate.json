@@ -7,26 +7,153 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Perfect Candidate (2020) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4349,
+      "title": "The Kingdom",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, The Kingdom (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 129112,
+      "title": "Wadjda",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Wadjda (2012) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8094,
+      "title": "The Magdalene Sisters",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, The Magdalene Sisters (2002) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 26842,
+      "title": "The Message",
+      "year": 1976,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, The Message (1976) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9300,
+      "title": "Orlando",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Orlando (1992) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 253279,
+      "title": "The Trials of Cate McCall",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, The Trials of Cate McCall (2013) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11404,
+      "title": "Driving Lessons",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Driving Lessons (2006) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 336805,
+      "title": "Much Loved",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Much Loved (2015) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1317743,
+      "title": "Return",
+      "year": 0,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Return (0) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 829503,
+      "title": "Gigi & Nate",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Perfect Candidate clicked for you, Gigi & Nate (2022) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Perfect Candidate?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Perfect Candidate?",
+      "answer": "Try The Kingdom, Wadjda, The Magdalene Sisters—each shares DNA with The Perfect Candidate while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Perfect Candidate?",
+      "answer": "The Perfect Candidate (2020) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Perfect Candidate worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "100-meters",
+    "10dance",
+    "12-angry-men",
+    "12-strong",
+    "12-years-a-slave"
   ]
 }

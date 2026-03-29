@@ -9,26 +9,161 @@
       "Horror",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Silent Hill: Revelation 3D works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "horror",
+      "mystery",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, The Conjuring: The Devil Made Me Do It (2021) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24740,
+      "title": "The Entity",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, The Entity (1982) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 474350,
+      "title": "It Chapter Two",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, It Chapter Two (2019) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49018,
+      "title": "Insidious",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Insidious (2011) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 91586,
+      "title": "Insidious: Chapter 2",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Insidious: Chapter 2 (2013) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280092,
+      "title": "Insidious: Chapter 3",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Insidious: Chapter 3 (2015) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 406563,
+      "title": "Insidious: The Last Key",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Insidious: The Last Key (2018) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 760161,
+      "title": "Orphan: First Kill",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Orphan: First Kill (2022) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 614479,
+      "title": "Insidious: The Red Door",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Insidious: The Red Door (2023) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 526051,
+      "title": "Look Away",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Silent Hill: Revelation 3D clicked for you, Look Away (2018) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Silent Hill: Revelation 3D?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Silent Hill: Revelation 3D?",
+      "answer": "Try The Conjuring: The Devil Made Me Do It, The Entity, It Chapter Two—each shares DNA with Silent Hill: Revelation 3D while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Silent Hill: Revelation 3D?",
+      "answer": "Silent Hill: Revelation 3D (2012) is best described as Thriller, Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Silent Hill: Revelation 3D part of a franchise?",
+      "answer": "Yes—it's part of the \"Silent Hill Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "after-life",
+    "bone-lake",
+    "clown-in-a-cornfield",
+    "cure",
+    "devil",
+    "dressed-to-kill",
+    "escape-room"
   ]
 }

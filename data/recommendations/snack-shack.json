@@ -7,26 +7,166 @@
     "genres": [
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Snack Shack works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 2770,
+      "title": "American Pie 2",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, American Pie 2 (2001) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "family",
+        "music",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 225565,
+      "title": "That Awkward Moment",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, That Awkward Moment (2014) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13655,
+      "title": "Camp Rock",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, Camp Rock (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "drama",
+        "romance",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 502292,
+      "title": "The Last Summer",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, The Last Summer (2019) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 80585,
+      "title": "Rock of Ages",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, Rock of Ages (2012) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13532,
+      "title": "Fanboys",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, Fanboys (2009) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 277547,
+      "title": "Playing It Cool",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, Playing It Cool (2014) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 287,
+      "title": "Bull Durham",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, Bull Durham (1988) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11557,
+      "title": "St. Elmo's Fire",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Snack Shack clicked for you, St. Elmo's Fire (1985) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Snack Shack?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Snack Shack?",
+      "answer": "Try American Pie 2, High School Musical 2, That Awkward Moment—each shares DNA with Snack Shack while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Snack Shack?",
+      "answer": "Snack Shack (2024) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Snack Shack worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "1941",
+    "2-guns",
+    "21-jump-street"
   ]
 }

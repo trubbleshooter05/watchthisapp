@@ -10,26 +10,181 @@
       "Family",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Ron's Gone Wrong (2021) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "science-fiction",
+      "family",
+      "comedy",
+      "crowd-favorite"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Elio (2025) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 857702,
+      "title": "LEGO Star Wars Terrifying Tales",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, LEGO Star Wars Terrifying Tales (2021) is a strong next stop: both trade in animation and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 481084,
+      "title": "The Addams Family",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, The Addams Family (2019) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 698687,
+      "title": "Transformers One",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Transformers One (2024) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13682,
+      "title": "Pooh's Heffalump Movie",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Pooh's Heffalump Movie (2005) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ron's Gone Wrong clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Ron's Gone Wrong?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Ron's Gone Wrong?",
+      "answer": "Try Elio, Stitch! The Movie, Phineas and Ferb the Movie: Candace Against the Universe—each shares DNA with Ron's Gone Wrong while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ron's Gone Wrong?",
+      "answer": "Ron's Gone Wrong (2021) is best described as Animation, Science Fiction, Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ron's Gone Wrong worth revisiting?",
+      "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "captain-underpants-the-first-epic-movie",
+    "despicable-me",
+    "despicable-me-4",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "elio"
   ]
 }

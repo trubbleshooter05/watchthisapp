@@ -11,26 +11,173 @@
       "Thriller",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Net (1995) stuck because it commits to its crime premise without apologizing—viewers remember set pieces and momentum as much as plot. Irwin Winkler's control of tone keeps the ride coherent. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "drama",
+      "mystery",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 10428,
+      "title": "Hackers",
+      "year": 1995,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Net clicked for you, Hackers (1995) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8090,
+      "title": "Untraceable",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Net clicked for you, Untraceable (2008) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1619,
+      "title": "The Way of the Gun",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Net clicked for you, The Way of the Gun (2000) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11498,
+      "title": "Dead Again",
+      "year": 1991,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Net clicked for you, Dead Again (1991) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Net clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9705,
+      "title": "Swordfish",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Net clicked for you, Swordfish (2001) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Net clicked for you, Once Upon a Time in Mexico (2003) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 592,
+      "title": "The Conversation",
+      "year": 1974,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Net clicked for you, The Conversation (1974) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1571,
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Net clicked for you, Live Free or Die Hard (2007) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2832,
+      "title": "Identity",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Net clicked for you, Identity (2003) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Net?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Net?",
+      "answer": "Try Hackers, Untraceable, The Way of the Gun—each shares DNA with The Net while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Net?",
+      "answer": "The Net (1995) is best described as Crime, Drama, Mystery, Thriller, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Net part of a franchise?",
+      "answer": "Yes—it's part of the \"The Net Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "the-score",
+    "a-walk-among-the-tombstones",
+    "absolution",
+    "along-came-a-spider",
+    "ambulance"
   ]
 }

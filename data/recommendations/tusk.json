@@ -8,26 +8,159 @@
       "Comedy",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Tusk (2014) as a comedy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The comedy and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 3053,
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tusk clicked for you, The Fearless Vampire Killers (1967) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 75761,
+      "title": "John Dies at the End",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tusk clicked for you, John Dies at the End (2013) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1824,
+      "title": "50 First Dates",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tusk clicked for you, 50 First Dates (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1813,
+      "title": "The Devil's Advocate",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tusk clicked for you, The Devil's Advocate (1997) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tusk clicked for you, The Fly (1986) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9539,
+      "title": "Martyrs",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tusk clicked for you, Martyrs (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 837,
+      "title": "Videodrome",
+      "year": 1983,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tusk clicked for you, Videodrome (1983) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9725,
+      "title": "Friday the 13th Part 2",
+      "year": 1981,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tusk clicked for you, Friday the 13th Part 2 (1981) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9599,
+      "title": "The Blob",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tusk clicked for you, The Blob (1988) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 912908,
+      "title": "Strays",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tusk clicked for you, Strays (2023) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Tusk?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Tusk?",
+      "answer": "Try The Fearless Vampire Killers, John Dies at the End, 50 First Dates—each shares DNA with Tusk while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tusk?",
+      "answer": "Tusk (2014) is best described as Comedy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tusk worth revisiting?",
+      "answer": "Viewer scores sit around 5.5/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "beetlejuice-beetlejuice"
   ]
 }

@@ -9,26 +9,167 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Unbearable Weight of Massive Talent (2022) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 290250,
+      "title": "The Nice Guys",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, The Nice Guys (2016) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8961,
+      "title": "Bad Boys II",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, Bad Boys II (2003) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 337170,
+      "title": "American Made",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, American Made (2017) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 136795,
+      "title": "The Heat",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, The Heat (2013) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13672,
+      "title": "JCVD",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, JCVD (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 14195,
+      "title": "Cecil B. Demented",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, Cecil B. Demented (2000) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37834,
+      "title": "Knight and Day",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, Knight and Day (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 378,
+      "title": "Raising Arizona",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, Raising Arizona (1987) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 932420,
+      "title": "Code 8 Part II",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, Code 8 Part II (2024) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Unbearable Weight of Massive Talent clicked for you, The Enforcer (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Unbearable Weight of Massive Talent?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Unbearable Weight of Massive Talent?",
+      "answer": "Try The Nice Guys, Bad Boys II, American Made—each shares DNA with The Unbearable Weight of Massive Talent while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Unbearable Weight of Massive Talent?",
+      "answer": "The Unbearable Weight of Massive Talent (2022) is best described as Action, Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Unbearable Weight of Massive Talent worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "almost-cops",
+    "american-made",
+    "army-of-thieves"
   ]
 }

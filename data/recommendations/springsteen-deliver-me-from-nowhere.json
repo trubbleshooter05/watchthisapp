@@ -8,26 +8,162 @@
       "Drama",
       "Music"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Springsteen: Deliver Me from Nowhere for the same reason it broke through in 2025: clear stakes, memorable faces, and a music rhythm that doesn't stall in the middle. Scott Cooper keeps the ensemble pointed in one direction. The drama and music blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "music",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 504608,
+      "title": "Rocketman",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Rocketman (2019) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 614934,
+      "title": "Elvis",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Elvis (2022) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 661539,
+      "title": "A Complete Unknown",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, A Complete Unknown (2024) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 799766,
+      "title": "Better Man",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Better Man (2024) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271714,
+      "title": "Love & Mercy",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Love & Mercy (2015) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 209451,
+      "title": "Jersey Boys",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Jersey Boys (2014) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 998846,
+      "title": "Back to Black",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Back to Black (2024) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 696157,
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Whitney Houston: I Wanna Dance with Somebody (2022) is a strong next stop: both trade in drama and music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 209361,
+      "title": "One Chance",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, One Chance (2013) is a strong next stop: both trade in drama and music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10269,
+      "title": "Yentl",
+      "year": 1983,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Springsteen: Deliver Me from Nowhere clicked for you, Yentl (1983) is a strong next stop: both trade in drama and music, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Springsteen: Deliver Me from Nowhere?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Springsteen: Deliver Me from Nowhere?",
+      "answer": "Try Rocketman, Elvis, A Complete Unknown—each shares DNA with Springsteen: Deliver Me from Nowhere while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Springsteen: Deliver Me from Nowhere?",
+      "answer": "Springsteen: Deliver Me from Nowhere (2025) is best described as Drama, Music. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Springsteen: Deliver Me from Nowhere worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "8-mile",
+    "9-songs",
+    "a-complete-unknown",
+    "a-star-is-born",
+    "almost-famous",
+    "amadeus",
+    "august-rush"
   ]
 }

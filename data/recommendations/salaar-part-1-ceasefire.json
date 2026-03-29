@@ -9,26 +9,169 @@
       "Crime",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Salaar: Part 1 - Ceasefire works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Defendor (2009) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, The Enforcer (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 945937,
+      "title": "Fast Charlie",
+      "year": 2023,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Fast Charlie (2023) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 951470,
+      "title": "Silverton Siege",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Silverton Siege (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 34421,
+      "title": "The Perfect Weapon",
+      "year": 1991,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, The Perfect Weapon (1991) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 245527,
+      "title": "Convict",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Convict (2014) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, The Killer (2024) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 647785,
+      "title": "Debt Collectors",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Debt Collectors (2020) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 959092,
+      "title": "Mayhem!",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Mayhem! (2023) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 17186,
+      "title": "Supercross",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Salaar: Part 1 - Ceasefire clicked for you, Supercross (2005) is a strong next stop: both trade in action and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Salaar: Part 1 - Ceasefire?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Salaar: Part 1 - Ceasefire?",
+      "answer": "Try Defendor, The Enforcer, Fast Charlie—each shares DNA with Salaar: Part 1 - Ceasefire while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Salaar: Part 1 - Ceasefire?",
+      "answer": "Salaar: Part 1 - Ceasefire (2023) is best described as Action, Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Salaar: Part 1 - Ceasefire part of a franchise?",
+      "answer": "Yes—it's part of the \"Salaar Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "21-bridges",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
+    "ambulance",
+    "american-made",
+    "animal",
+    "batman-begins"
   ]
 }

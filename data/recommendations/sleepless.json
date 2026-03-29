@@ -9,26 +9,168 @@
       "Crime",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Sleepless (2017) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Baran bo Odar's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 926393,
+      "title": "The Equalizer 3",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sleepless clicked for you, The Equalizer 3 (2023) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sleepless clicked for you, RocknRolla (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1197306,
+      "title": "A Working Man",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sleepless clicked for you, A Working Man (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13855,
+      "title": "The Chaser",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sleepless clicked for you, The Chaser (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 668489,
+      "title": "Havoc",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sleepless clicked for you, Havoc (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 438674,
+      "title": "Dragged Across Concrete",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sleepless clicked for you, Dragged Across Concrete (2019) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 604685,
+      "title": "Den of Thieves 2: Pantera",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sleepless clicked for you, Den of Thieves 2: Pantera (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 534490,
+      "title": "Avengement",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sleepless clicked for you, Avengement (2019) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 325173,
+      "title": "Close Range",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sleepless clicked for you, Close Range (2015) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sleepless clicked for you, The Departed (2006) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sleepless?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sleepless?",
+      "answer": "Try The Equalizer 3, RocknRolla, A Working Man—each shares DNA with Sleepless while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sleepless?",
+      "answer": "Sleepless (2017) is best described as Action, Crime, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sleepless worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "16-blocks",
+    "a-working-man",
+    "absolution",
+    "alarum",
+    "along-came-a-spider",
+    "ambulance",
+    "americana"
   ]
 }

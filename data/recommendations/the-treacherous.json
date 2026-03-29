@@ -9,26 +9,165 @@
       "History",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Treacherous works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "history",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 645886,
+      "title": "The Unforgivable",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, The Unforgivable (2021) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1492,
+      "title": "1492: Conquest of Paradise",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, 1492: Conquest of Paradise (1992) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 492008,
+      "title": "The Swordsman",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, The Swordsman (2020) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1730,
+      "title": "Inland Empire",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Inland Empire (2006) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller",
+        "mystery",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 845222,
+      "title": "Kingdom: Ashin of the North",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Kingdom: Ashin of the North (2021) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11898,
+      "title": "Kind Hearts and Coronets",
+      "year": 1949,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Kind Hearts and Coronets (1949) is a strong next stop: both trade in crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1833,
+      "title": "Rent",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Rent (2005) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 261470,
+      "title": "Sorry If I Call You Love",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Sorry If I Call You Love (2014) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9442,
+      "title": "Dead Men Don't Wear Plaid",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Dead Men Don't Wear Plaid (1982) is a strong next stop: both trade in crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 846956,
+      "title": "Rogue Agent",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Treacherous clicked for you, Rogue Agent (2022) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Treacherous?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Treacherous?",
+      "answer": "Try The Unforgivable, 1492: Conquest of Paradise, The Swordsman—each shares DNA with The Treacherous while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Treacherous?",
+      "answer": "The Treacherous (2015) is best described as Drama, History, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Treacherous worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "black-mass",
+    "blackkklansman",
+    "gangs-of-new-york",
+    "hail-caesar",
+    "in-the-valley-of-elah",
+    "j-edgar",
+    "just-mercy"
   ]
 }

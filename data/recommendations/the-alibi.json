@@ -9,26 +9,168 @@
       "Comedy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Alibi works as a romance movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The romance and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "romance",
+      "comedy",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9962,
+      "title": "The Good Girl",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Alibi clicked for you, The Good Girl (2002) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 768520,
+      "title": "A California Christmas",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Alibi clicked for you, A California Christmas (2020) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 256591,
+      "title": "Focus",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Focus (2015) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2075,
+      "title": "Prizzi's Honor",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Prizzi's Honor (1985) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23210,
+      "title": "Six Degrees of Separation",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Six Degrees of Separation (1993) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13635,
+      "title": "Mesrine: Killer Instinct",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Mesrine: Killer Instinct (2008) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 436274,
+      "title": "Radius",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Radius (2017) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13528,
+      "title": "Gaslight",
+      "year": 1944,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Alibi clicked for you, Gaslight (1944) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13641,
+      "title": "The Air I Breathe",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Alibi clicked for you, The Air I Breathe (2007) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13573,
+      "title": "The United States of Leland",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Alibi clicked for you, The United States of Leland (2003) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Alibi?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Alibi?",
+      "answer": "Try The Good Girl, A California Christmas, Focus—each shares DNA with The Alibi while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Alibi?",
+      "answer": "The Alibi (2006) is best described as Romance, Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Alibi worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this romance lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
   ]
 }

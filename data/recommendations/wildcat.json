@@ -8,26 +8,170 @@
       "Action",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Wildcat (2025) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. James Nunn's control of tone keeps the ride coherent. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9618,
+      "title": "Tango & Cash",
+      "year": 1989,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Tango & Cash (1989) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "drama",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10428,
+      "title": "Hackers",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Hackers (1995) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1125899,
+      "title": "Cleaner",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Cleaner (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1151334,
+      "title": "Eenie Meanie",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Eenie Meanie (2025) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Pirates of the Caribbean: At World's End (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 564,
+      "title": "The Mummy",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wildcat clicked for you, The Mummy (1999) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9539,
+      "title": "Martyrs",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Martyrs (2008) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1547,
+      "title": "The Lost Boys",
+      "year": 1987,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wildcat clicked for you, The Lost Boys (1987) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6415,
+      "title": "Three Kings",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Three Kings (1999) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "war"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 379,
+      "title": "Miller's Crossing",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wildcat clicked for you, Miller's Crossing (1990) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wildcat?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wildcat?",
+      "answer": "Try Tango & Cash, Hackers, Cleaner—each shares DNA with Wildcat while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wildcat?",
+      "answer": "Wildcat (2025) is best described as Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wildcat worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "16-blocks",
+    "24-hours-to-live",
+    "40-acres",
+    "6-underground",
+    "71"
   ]
 }

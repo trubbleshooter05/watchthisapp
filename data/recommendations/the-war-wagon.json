@@ -9,26 +9,167 @@
       "Action",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The War Wagon (1967) as a western theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The western and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "western",
+      "action",
+      "crime",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1266,
+      "title": "Street Kings",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Street Kings (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2055,
+      "title": "Open Range",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Open Range (2003) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11509,
+      "title": "Silverado",
+      "year": 1985,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Silverado (1985) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, First Blood (1982) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Die Hard: With a Vengeance (1995) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1573,
+      "title": "Die Hard 2",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Die Hard 2 (1990) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1571,
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Live Free or Die Hard (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1598,
+      "title": "Cape Fear",
+      "year": 1991,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Cape Fear (1991) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The War Wagon clicked for you, Escape from New York (1981) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The War Wagon?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The War Wagon?",
+      "answer": "Try Street Kings, Open Range, Silverado—each shares DNA with The War Wagon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The War Wagon?",
+      "answer": "The War Wagon (1967) is best described as Western, Action, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The War Wagon worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this western lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "americana",
+    "el-infierno",
+    "16-blocks",
+    "2-guns",
+    "21-bridges",
+    "21-jump-street",
+    "22-jump-street"
   ]
 }

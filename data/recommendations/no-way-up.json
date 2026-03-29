@@ -9,26 +9,169 @@
       "Horror",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto No Way Up (2024) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "horror",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 578,
+      "title": "Jaws",
+      "year": 1975,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Jaws (1975) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 254128,
+      "title": "San Andreas",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If No Way Up clicked for you, San Andreas (2015) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9509,
+      "title": "Man on Fire",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Man on Fire (2004) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 332567,
+      "title": "The Shallows",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If No Way Up clicked for you, The Shallows (2016) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If No Way Up clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 430231,
+      "title": "The Endless",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If No Way Up clicked for you, The Endless (2017) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1151334,
+      "title": "Eenie Meanie",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Eenie Meanie (2025) is a strong next stop: both trade in thriller and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9804,
+      "title": "Waterworld",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Waterworld (1995) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9567,
+      "title": "Tears of the Sun",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If No Way Up clicked for you, Tears of the Sun (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to No Way Up?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after No Way Up?",
+      "answer": "Try Jaws, San Andreas, Man on Fire—each shares DNA with No Way Up while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is No Way Up?",
+      "answer": "No Way Up (2024) is best described as Thriller, Horror, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is No Way Up worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "arcadian",
+    "azrael",
+    "badland-hunters",
+    "beast",
+    "beast-of-war",
+    "blade-ii",
+    "day-shift"
   ]
 }

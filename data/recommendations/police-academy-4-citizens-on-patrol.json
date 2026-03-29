@@ -8,26 +8,168 @@
       "Comedy",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Police Academy 4: Citizens on Patrol works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9618,
+      "title": "Tango & Cash",
+      "year": 1989,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Tango & Cash (1989) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2332,
+      "title": "Taxi 2",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Taxi 2 (2000) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11001,
+      "title": "Blue Streak",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Blue Streak (1999) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1871,
+      "title": "Fantomas",
+      "year": 1964,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Fantomas (1964) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12268,
+      "title": "The Pink Panther Strikes Again",
+      "year": 1976,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, The Pink Panther Strikes Again (1976) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1870,
+      "title": "Fantomas Unleashed",
+      "year": 1965,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Fantomas Unleashed (1965) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1875,
+      "title": "Fantomas vs. Scotland Yard",
+      "year": 1967,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Fantomas vs. Scotland Yard (1967) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8273,
+      "title": "American Wedding",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, American Wedding (2003) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 168530,
+      "title": "Ride Along",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Ride Along (2014) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1900,
+      "title": "Traffic",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Police Academy 4: Citizens on Patrol clicked for you, Traffic (2000) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Police Academy 4: Citizens on Patrol?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Police Academy 4: Citizens on Patrol?",
+      "answer": "Try Tango & Cash, Taxi 2, Blue Streak—each shares DNA with Police Academy 4: Citizens on Patrol while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Police Academy 4: Citizens on Patrol?",
+      "answer": "Police Academy 4: Citizens on Patrol (1987) is best described as Comedy, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Police Academy 4: Citizens on Patrol part of a franchise?",
+      "answer": "Yes—it's part of the \"Police Academy Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "ace-ventura-pet-detective",
+    "adaptation",
+    "almost-cops"
   ]
 }

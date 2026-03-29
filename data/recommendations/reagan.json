@@ -8,26 +8,160 @@
       "History",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Reagan works as a history movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The history and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "history",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 152532,
+      "title": "Dallas Buyers Club",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Reagan clicked for you, Dallas Buyers Club (2013) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 88794,
+      "title": "J. Edgar",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Reagan clicked for you, J. Edgar (2011) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 501907,
+      "title": "A Beautiful Day in the Neighborhood",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Reagan clicked for you, A Beautiful Day in the Neighborhood (2019) is a strong next stop: both trade in history and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13466,
+      "title": "October Sky",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Reagan clicked for you, October Sky (1999) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 998846,
+      "title": "Back to Black",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Reagan clicked for you, Back to Black (2024) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 601470,
+      "title": "The Eyes of Tammy Faye",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Reagan clicked for you, The Eyes of Tammy Faye (2021) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 245700,
+      "title": "Mr. Turner",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Reagan clicked for you, Mr. Turner (2014) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13435,
+      "title": "Antwone Fisher",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Reagan clicked for you, Antwone Fisher (2002) is a strong next stop: both trade in history and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10858,
+      "title": "Nixon",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Reagan clicked for you, Nixon (1995) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 878361,
+      "title": "Big George Foreman",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Reagan clicked for you, Big George Foreman (2023) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Reagan?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Reagan?",
+      "answer": "Try Dallas Buyers Club, J. Edgar, A Beautiful Day in the Neighborhood—each shares DNA with Reagan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Reagan?",
+      "answer": "Reagan (2024) is best described as History, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Reagan worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this history lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "12-years-a-slave",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "a-beautiful-day-in-the-neighborhood",
+    "a-bridge-too-far",
+    "a-taxi-driver",
+    "against-the-ice"
   ]
 }

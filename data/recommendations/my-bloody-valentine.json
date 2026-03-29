@@ -8,26 +8,155 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit My Bloody Valentine for the same reason it broke through in 2009: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Patrick Lussier keeps the ensemble pointed in one direction. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9902,
+      "title": "Wrong Turn",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Wrong Turn (2003) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 663712,
+      "title": "Terrifier 2",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Terrifier 2 (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11281,
+      "title": "Halloween II",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Halloween II (1981) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 285923,
+      "title": "Grindhouse",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Grindhouse (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10225,
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Jason Lives - Friday the 13th Part VI (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 41446,
+      "title": "Scream 4",
+      "year": 2011,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Scream 4 (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2082,
+      "title": "Halloween",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Halloween (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13515,
+      "title": "Mirrors",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If My Bloody Valentine clicked for you, Mirrors (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to My Bloody Valentine?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after My Bloody Valentine?",
+      "answer": "Try The Hills Have Eyes, Wrong Turn, Terrifier 2—each shares DNA with My Bloody Valentine while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is My Bloody Valentine?",
+      "answer": "My Bloody Valentine (2009) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is My Bloody Valentine worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

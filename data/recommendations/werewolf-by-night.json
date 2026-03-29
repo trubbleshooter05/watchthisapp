@@ -9,26 +9,166 @@
       "Fantasy",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Werewolf by Night (2022) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Michael Giacchino's control of tone keeps the ride coherent. The action and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "fantasy",
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 38321,
+      "title": "Priest",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Priest (2011) is a strong next stop: both trade in action and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9945,
+      "title": "Vampires",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Vampires (1998) is a strong next stop: both trade in action and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 297761,
+      "title": "Suicide Squad",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Suicide Squad (2016) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Doctor Strange in the Multiverse of Madness (2022) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 340102,
+      "title": "The New Mutants",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, The New Mutants (2020) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 877703,
+      "title": "Teen Wolf: The Movie",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Teen Wolf: The Movie (2023) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "tv-movie"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20481,
+      "title": "Nightbreed",
+      "year": 1990,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Nightbreed (1990) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 290555,
+      "title": "Wolves",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, Wolves (2014) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 791348,
+      "title": "DC Showcase - Constantine: The House of Mystery",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Werewolf by Night clicked for you, DC Showcase - Constantine: The House of Mystery (2022) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "animation",
+        "adventure"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Werewolf by Night?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Werewolf by Night?",
+      "answer": "Try Priest, Vampires, Suicide Squad—each shares DNA with Werewolf by Night while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Werewolf by Night?",
+      "answer": "Werewolf by Night (2022) is best described as Action, Fantasy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Werewolf by Night worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abraham-lincoln-vampire-hunter",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "blade-ii",
+    "constantine",
+    "day-shift",
+    "dracula-untold",
+    "end-of-days"
   ]
 }

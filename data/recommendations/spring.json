@@ -9,26 +9,163 @@
       "Romance",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Spring (2014) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "romance",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1091,
+      "title": "The Thing",
+      "year": 1982,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spring clicked for you, The Thing (1982) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spring clicked for you, The Fly (1986) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 985,
+      "title": "Eraserhead",
+      "year": 1977,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spring clicked for you, Eraserhead (1977) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 837,
+      "title": "Videodrome",
+      "year": 1983,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spring clicked for you, Videodrome (1983) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1694,
+      "title": "Re-Animator",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spring clicked for you, Re-Animator (1985) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11850,
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spring clicked for you, Invasion of the Body Snatchers (1978) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 430231,
+      "title": "The Endless",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spring clicked for you, The Endless (2017) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9599,
+      "title": "The Blob",
+      "year": 1988,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spring clicked for you, The Blob (1988) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11542,
+      "title": "Altered States",
+      "year": 1980,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spring clicked for you, Altered States (1980) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11815,
+      "title": "The Fly",
+      "year": 1958,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spring clicked for you, The Fly (1958) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Spring?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Spring?",
+      "answer": "Try The Thing, The Fly, Eraserhead—each shares DNA with Spring while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Spring?",
+      "answer": "Spring (2014) is best described as Horror, Romance, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Spring worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "2046",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness"
   ]
 }

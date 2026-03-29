@@ -9,26 +9,167 @@
       "Action",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Superman Returns works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "action",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Avengers: Age of Ultron (2015) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Captain America: Civil War (2016) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Guardians of the Galaxy Vol. 2 (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10138,
+      "title": "Iron Man 2",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Iron Man 2 (2010) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49521,
+      "title": "Man of Steel",
+      "year": 2013,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Man of Steel (2013) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Eternals (2021) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 338762,
+      "title": "Bloodshot",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Bloodshot (2020) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1061474,
+      "title": "Superman",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Superman (2025) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1924,
+      "title": "Superman",
+      "year": 1978,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Superman Returns clicked for you, Superman (1978) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Superman Returns?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Superman Returns?",
+      "answer": "Try Avengers: Age of Ultron, Captain America: Civil War, Guardians of the Galaxy Vol. 2—each shares DNA with Superman Returns while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Superman Returns?",
+      "answer": "Superman Returns (2006) is best described as Science Fiction, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Superman Returns worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2012",
+    "65",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp"
   ]
 }

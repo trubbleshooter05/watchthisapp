@@ -9,26 +9,167 @@
       "Fantasy",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Space Sweepers works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "fantasy",
+      "science-fiction",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13688,
+      "title": "CJ7",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, CJ7 (2008) is a strong next stop: both trade in drama and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "science-fiction",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 991,
+      "title": "The Man Who Fell to Earth",
+      "year": 1976,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, The Man Who Fell to Earth (1976) is a strong next stop: both trade in drama and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 264660,
+      "title": "Ex Machina",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Ex Machina (2015) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 274870,
+      "title": "Passengers",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Passengers (2016) is a strong next stop: both trade in drama and science fiction, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 644,
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, A.I. Artificial Intelligence (2001) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2277,
+      "title": "Bicentennial Man",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Bicentennial Man (1999) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 775,
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, A Trip to the Moon (1902) is a strong next stop: both trade in fantasy and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 140607,
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Star Wars: The Force Awakens (2015) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 348,
+      "title": "Alien",
+      "year": 1979,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Alien (1979) is a strong next stop: both trade in science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 75612,
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Space Sweepers clicked for you, Oblivion (2013) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Space Sweepers?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Space Sweepers?",
+      "answer": "Try CJ7, The Man Who Fell to Earth, Ex Machina—each shares DNA with Space Sweepers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Space Sweepers?",
+      "answer": "Space Sweepers (2021) is best described as Drama, Fantasy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Space Sweepers worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "cj7",
+    "kalki-2898-ad",
+    "napping-princess",
+    "neon-genesis-evangelion-the-end-of-evangelion",
+    "the-girl-who-leapt-through-time",
+    "the-tunnel-to-summer-the-exit-of-goodbyes",
+    "vesper"
   ]
 }

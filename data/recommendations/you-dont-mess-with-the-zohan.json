@@ -8,26 +8,170 @@
       "Comedy",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "You Don't Mess with the Zohan works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Smokin' Aces (2006) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9515,
+      "title": "The Matador",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, The Matador (2005) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1726,
+      "title": "Iron Man",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Iron Man (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1771,
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Captain America: The First Avenger (2011) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1572,
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Die Hard: With a Vengeance (1995) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12153,
+      "title": "White Chicks",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, White Chicks (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1620,
+      "title": "Hitman",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If You Don't Mess with the Zohan clicked for you, Hitman (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to You Don't Mess with the Zohan?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after You Don't Mess with the Zohan?",
+      "answer": "Try Teenage Mutant Ninja Turtles, Smokin' Aces, The Matador—each shares DNA with You Don't Mess with the Zohan while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is You Don't Mess with the Zohan?",
+      "answer": "You Don't Mess with the Zohan (2008) is best described as Comedy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is You Don't Mess with the Zohan worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "3-ninjas",
+    "48-hrs",
+    "6-underground",
+    "a-chinese-odyssey-part-one-pandoras-box"
   ]
 }

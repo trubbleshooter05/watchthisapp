@@ -10,26 +10,177 @@
       "Comedy",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Sausage Party for the same reason it broke through in 2016: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Conrad Vernon keeps the ensemble pointed in one direction. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "animation",
+      "comedy",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 926899,
+      "title": "The House",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, The House (2022) is a strong next stop: both trade in animation and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "fantasy",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11827,
+      "title": "Heavy Metal",
+      "year": 1981,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Heavy Metal (1981) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "science-fiction",
+        "music"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 65215,
+      "title": "Stewie Griffin: The Untold Story",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Stewie Griffin: The Untold Story (2005) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13679,
+      "title": "Kirikou and the Wild Beasts",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Kirikou and the Wild Beasts (2005) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 854,
+      "title": "The Mask",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, The Mask (1994) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13465,
+      "title": "The Adventures of Ichabod and Mr. Toad",
+      "year": 1949,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, The Adventures of Ichabod and Mr. Toad (1949) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "horror",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 435129,
+      "title": "The Breadwinner",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, The Breadwinner (2017) is a strong next stop: both trade in animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "war",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14055,
+      "title": "Starter for 10",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sausage Party clicked for you, Starter for 10 (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sausage Party?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sausage Party?",
+      "answer": "Try The House, Heavy Metal, Stewie Griffin: The Untold Story—each shares DNA with Sausage Party while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sausage Party?",
+      "answer": "Sausage Party (2016) is best described as Adventure, Animation, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sausage Party worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "boruto-naruto-the-movie",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules"
   ]
 }

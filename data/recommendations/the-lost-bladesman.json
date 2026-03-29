@@ -10,26 +10,175 @@
       "Action",
       "War"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Lost Bladesman works as a history movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The history and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "history",
+      "drama",
+      "action",
+      "war",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 197,
+      "title": "Braveheart",
+      "year": 1995,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, Braveheart (1995) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14433,
+      "title": "Zulu",
+      "year": 1964,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, Zulu (1964) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15384,
+      "title": "Red Cliff II",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, Red Cliff II (2009) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "action",
+        "war",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 508935,
+      "title": "The Eight Hundred",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, The Eight Hundred (2020) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9361,
+      "title": "The Last of the Mohicans",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, The Last of the Mohicans (1992) is a strong next stop: both trade in history and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "action",
+        "war",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 551271,
+      "title": "Medieval",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, Medieval (2022) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489245,
+      "title": "The Kill Team",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, The Kill Team (2019) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 316042,
+      "title": "Hyena Road",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, Hyena Road (2015) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "war",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 597922,
+      "title": "The Greatest Beer Run Ever",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, The Greatest Beer Run Ever (2022) is a strong next stop: both trade in drama and war, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lost Bladesman clicked for you, American Psycho (2000) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Lost Bladesman?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Lost Bladesman?",
+      "answer": "Try Braveheart, Zulu, Red Cliff II—each shares DNA with The Lost Bladesman while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lost Bladesman?",
+      "answer": "The Lost Bladesman (2011) is best described as History, Drama, Action, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lost Bladesman worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this history lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "alexander",
+    "braveheart",
+    "hansan-rising-dragon",
+    "kagemusha",
+    "king-arthur"
   ]
 }

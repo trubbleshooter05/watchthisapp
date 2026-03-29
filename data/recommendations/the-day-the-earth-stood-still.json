@@ -9,26 +9,165 @@
       "Science Fiction",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Day the Earth Stood Still for the same reason it broke through in 2008: clear stakes, memorable faces, and a science fiction rhythm that doesn't stall in the middle. Scott Derrickson keeps the ensemble pointed in one direction. The drama and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "science-fiction",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, The Departed (2006) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 840,
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Close Encounters of the Third Kind (1977) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1598,
+      "title": "Cape Fear",
+      "year": 1991,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Cape Fear (1991) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 505948,
+      "title": "I Am Mother",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, I Am Mother (2019) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1398,
+      "title": "Stalker",
+      "year": 1979,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Stalker (1979) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 200,
+      "title": "Star Trek: Insurrection",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Star Trek: Insurrection (1998) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602,
+      "title": "Independence Day",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Independence Day (1996) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1571,
+      "title": "Live Free or Die Hard",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Live Free or Die Hard (2007) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 590223,
+      "title": "Love and Monsters",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Love and Monsters (2020) is a strong next stop: both trade in science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Day the Earth Stood Still clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Day the Earth Stood Still?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Day the Earth Stood Still?",
+      "answer": "Try The Departed, Close Encounters of the Third Kind, Cape Fear—each shares DNA with The Day the Earth Stood Still while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Day the Earth Stood Still?",
+      "answer": "The Day the Earth Stood Still (2008) is best described as Drama, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Day the Earth Stood Still worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "40-acres",
+    "blade-runner",
+    "blindness",
+    "chronicle",
+    "contagion",
+    "dawn-of-the-planet-of-the-apes"
   ]
 }

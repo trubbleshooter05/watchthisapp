@@ -9,26 +9,168 @@
       "Action",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Longest Day (1962) as a war theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The war and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "war",
+      "action",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 374720,
+      "title": "Dunkirk",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Dunkirk (2017) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 228150,
+      "title": "Fury",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Fury (2014) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 516486,
+      "title": "Greyhound",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Greyhound (2020) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1251,
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Letters from Iwo Jima (2006) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10839,
+      "title": "Cross of Iron",
+      "year": 1977,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Cross of Iron (1977) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489245,
+      "title": "The Kill Team",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, The Kill Team (2019) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 857,
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Saving Private Ryan (1998) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, 300 (2007) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in war and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "action",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 975,
+      "title": "Paths of Glory",
+      "year": 1957,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Longest Day clicked for you, Paths of Glory (1957) is a strong next stop: both trade in war and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "war",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Longest Day?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Longest Day?",
+      "answer": "Try Dunkirk, Fury, Greyhound—each shares DNA with The Longest Day while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Longest Day?",
+      "answer": "The Longest Day (1962) is best described as War, Action, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Longest Day worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this war lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "300-rise-of-an-empire",
+    "71",
+    "alexander",
+    "allied",
+    "amaran"
   ]
 }

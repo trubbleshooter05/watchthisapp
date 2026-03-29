@@ -9,26 +9,167 @@
       "History",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Tetris (2023) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "history",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 522241,
+      "title": "The Courier",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tetris clicked for you, The Courier (2020) is a strong next stop: both trade in thriller and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 136797,
+      "title": "Need for Speed",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tetris clicked for you, Need for Speed (2014) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 860,
+      "title": "WarGames",
+      "year": 1983,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tetris clicked for you, WarGames (1983) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tetris clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 333352,
+      "title": "Eye in the Sky",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tetris clicked for you, Eye in the Sky (2015) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4464,
+      "title": "Seabiscuit",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tetris clicked for you, Seabiscuit (2003) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 38363,
+      "title": "Fair Game",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tetris clicked for you, Fair Game (2010) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8289,
+      "title": "Gorky Park",
+      "year": 1983,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tetris clicked for you, Gorky Park (1983) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 520016,
+      "title": "Driven",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tetris clicked for you, Driven (2019) is a strong next stop: both trade in thriller and history, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "history",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 476669,
+      "title": "The King's Man",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tetris clicked for you, The King's Man (2021) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Tetris?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Tetris?",
+      "answer": "Try The Courier, Need for Speed, WarGames—each shares DNA with Tetris while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tetris?",
+      "answer": "Tetris (2023) is best described as Thriller, History, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tetris worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "in-the-valley-of-elah",
+    "jfk",
+    "legend-of-the-fist-the-return-of-chen-zhen",
+    "munich",
+    "original-sin",
+    "the-imitation-game"
   ]
 }

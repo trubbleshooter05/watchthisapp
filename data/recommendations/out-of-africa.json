@@ -9,26 +9,165 @@
       "Romance",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Out of Africa (1985) as a history theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The history and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "history",
+      "romance",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 12783,
+      "title": "The Duchess",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, The Duchess (2008) is a strong next stop: both trade in history and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 14061,
+      "title": "The Edge of Love",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, The Edge of Love (2008) is a strong next stop: both trade in history and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4476,
+      "title": "Legends of the Fall",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, Legends of the Fall (1994) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "western",
+        "war"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 688,
+      "title": "The Bridges of Madison County",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, The Bridges of Madison County (1995) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2289,
+      "title": "Cold Mountain",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, Cold Mountain (2003) is a strong next stop: both trade in history and romance, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "romance",
+        "war",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 250734,
+      "title": "Far from the Madding Crowd",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, Far from the Madding Crowd (2015) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 407445,
+      "title": "Breathe",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, Breathe (2017) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 347026,
+      "title": "A United Kingdom",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, A United Kingdom (2016) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 25673,
+      "title": "A Place in the Sun",
+      "year": 1951,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, A Place in the Sun (1951) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "crime"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4507,
+      "title": "Jamon Jamon",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Out of Africa clicked for you, Jamon Jamon (1992) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Out of Africa?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Out of Africa?",
+      "answer": "Try The Duchess, The Edge of Love, Legends of the Fall—each shares DNA with Out of Africa while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Out of Africa?",
+      "answer": "Out of Africa (1985) is best described as History, Romance, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Out of Africa worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this history lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "alexander",
+    "barry-lyndon",
+    "benedetta",
+    "cleopatra",
+    "emily",
+    "hamnet",
+    "memoirs-of-a-geisha"
   ]
 }

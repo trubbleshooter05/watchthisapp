@@ -9,26 +9,178 @@
       "Drama",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Suspect X (2008) as a crime theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "drama",
+      "mystery",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 20677,
+      "title": "Detective Conan: Captured in Her Eyes",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Detective Conan: Captured in Her Eyes (2000) is a strong next stop: both trade in crime and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4281,
+      "title": "Appointment with Death",
+      "year": 1988,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Appointment with Death (1988) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4415,
+      "title": "Les Misérables",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Les Misérables (1998) is a strong next stop: both trade in crime and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "history",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 21452,
+      "title": "Case Closed: The Fourteenth Target",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Case Closed: The Fourteenth Target (1998) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 380620,
+      "title": "Creepy",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Creepy (2016) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 32022,
+      "title": "Case Closed: Countdown to Heaven",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Case Closed: Countdown to Heaven (2001) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 566555,
+      "title": "Case Closed: The Fist of Blue Sapphire",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Case Closed: The Fist of Blue Sapphire (2019) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 39207,
+      "title": "Detective Conan: Full Score of Fear",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Detective Conan: Full Score of Fear (2008) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 77617,
+      "title": "Detective Conan: Quarter of Silence",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Detective Conan: Quarter of Silence (2011) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 97375,
+      "title": "Detective Conan: The Lost Ship in the Sky",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Suspect X clicked for you, Detective Conan: The Lost Ship in the Sky (2010) is a strong next stop: both trade in crime and mystery, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "mystery",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Suspect X?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Suspect X?",
+      "answer": "Try Detective Conan: Captured in Her Eyes, Appointment with Death, Les Misérables—each shares DNA with Suspect X while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Suspect X?",
+      "answer": "Suspect X (2008) is best described as Crime, Drama, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Suspect X part of a franchise?",
+      "answer": "Yes—it's part of the \"GALILEO collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-private-life",
+    "a-walk-among-the-tombstones",
+    "american-gigolo",
+    "chinatown",
+    "detective-conan-captured-in-her-eyes",
+    "detective-conan-the-last-wizard-of-the-century",
+    "edge-of-darkness"
   ]
 }

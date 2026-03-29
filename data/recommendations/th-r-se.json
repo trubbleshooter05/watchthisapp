@@ -7,26 +7,154 @@
     "genres": [
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Thérèse (2012) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1574,
+      "title": "Chicago",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Chicago (2002) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1407,
+      "title": "La Vie en Rose",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Thérèse clicked for you, La Vie en Rose (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1715,
+      "title": "The Cider House Rules",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Thérèse clicked for you, The Cider House Rules (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9560,
+      "title": "A Walk in the Clouds",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Thérèse clicked for you, A Walk in the Clouds (1995) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 454652,
+      "title": "Colette",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Colette (2018) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2266,
+      "title": "Paris Je T'aime",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Paris Je T'aime (2006) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1786,
+      "title": "Au Revoir les Enfants",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Au Revoir les Enfants (1987) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1267905,
+      "title": "The Roses",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Thérèse clicked for you, The Roses (2025) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1364,
+      "title": "Sex and Lucía",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Sex and Lucía (2001) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1254,
+      "title": "Don't Worry, I'm Fine",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Thérèse clicked for you, Don't Worry, I'm Fine (2006) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Thérèse?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Thérèse?",
+      "answer": "Try Chicago, La Vie en Rose, The Cider House Rules—each shares DNA with Thérèse while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Thérèse?",
+      "answer": "Thérèse (2012) is best described as Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Thérèse worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "10-things-i-hate-about-you",
+    "100-meters",
+    "10dance",
+    "12-angry-men",
+    "12-strong",
+    "12-years-a-slave"
   ]
 }

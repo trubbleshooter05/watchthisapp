@@ -81,10 +81,25 @@
       "mood": "uplifting"
     },
     {
+      "tmdbId": 475215,
+      "title": "Mirai",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Mirai (2018) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
       "tmdbId": 34065,
       "title": "Pokémon: Destiny Deoxys",
       "year": 2004,
-      "matchPercentage": 88,
+      "matchPercentage": 86,
       "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Pokémon: Destiny Deoxys (2004) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
@@ -98,7 +113,7 @@
       "tmdbId": 47292,
       "title": "Pokémon: Giratina and the Sky Warrior",
       "year": 2008,
-      "matchPercentage": 86,
+      "matchPercentage": 84,
       "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Pokémon: Giratina and the Sky Warrior (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
@@ -112,7 +127,7 @@
       "tmdbId": 1267,
       "title": "Meet the Robinsons",
       "year": 2007,
-      "matchPercentage": 84,
+      "matchPercentage": 82,
       "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
@@ -127,7 +142,7 @@
       "tmdbId": 110420,
       "title": "Wolf Children",
       "year": 2012,
-      "matchPercentage": 82,
+      "matchPercentage": 80,
       "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Wolf Children (2012) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
@@ -141,21 +156,8 @@
       "tmdbId": 118406,
       "title": "Road to Ninja: Naruto the Movie",
       "year": 2012,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Road to Ninja: Naruto the Movie (2012) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "fantasy",
-        "animation",
-        "action"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 1311031,
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "year": 2025,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "If Pokémon 3: The Movie clicked for you, Road to Ninja: Naruto the Movie (2012) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "fantasy",
         "animation",
@@ -184,7 +186,7 @@
     "how-to-train-your-dragon-2",
     "kung-fu-panda-4",
     "nimona",
-    "pok-mon-the-first-movie",
-    "pok-mon-the-movie-hoopa-and-the-clash-of-ages"
+    "pok-mon-lucario-and-the-mystery-of-mew",
+    "pok-mon-the-first-movie"
   ]
 }

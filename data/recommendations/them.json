@@ -8,26 +8,164 @@
       "Science Fiction",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Them! (1954) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 762504,
+      "title": "Nope",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Them! clicked for you, Nope (2022) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9362,
+      "title": "Tremors",
+      "year": 1990,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Them! clicked for you, Tremors (1990) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "action",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1255,
+      "title": "The Host",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Them! clicked for you, The Host (2006) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9035,
+      "title": "Slither",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Them! clicked for you, Slither (2006) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1678,
+      "title": "Godzilla",
+      "year": 1954,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Them! clicked for you, Godzilla (1954) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9077,
+      "title": "Tarantula",
+      "year": 1955,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Them! clicked for you, Tarantula (1955) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 59189,
+      "title": "Phase IV",
+      "year": 1974,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Them! clicked for you, Phase IV (1974) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 696393,
+      "title": "Cold Storage",
+      "year": 2026,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Them! clicked for you, Cold Storage (2026) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Them! clicked for you, Rampage (2018) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Them! clicked for you, Predator 2 (1990) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Them!?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Them!?",
+      "answer": "Try Nope, Tremors, The Host—each shares DNA with Them! while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Them!?",
+      "answer": "Them! (1954) is best described as Science Fiction, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Them! worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-quiet-place"
   ]
 }

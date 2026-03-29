@@ -9,26 +9,165 @@
       "Thriller",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Unhealer for the same reason it broke through in 2021: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Martin Guigui keeps the ensemble pointed in one direction. The fantasy and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "thriller",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 526051,
+      "title": "Look Away",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Look Away (2018) is a strong next stop: both trade in fantasy and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 675531,
+      "title": "Dark Harvest",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Dark Harvest (2023) is a strong next stop: both trade in fantasy and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 782936,
+      "title": "Nocebo",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Nocebo (2022) is a strong next stop: both trade in fantasy and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 20481,
+      "title": "Nightbreed",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Nightbreed (1990) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1083968,
+      "title": "Locked",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Locked (2025) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 489326,
+      "title": "Mortal",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Mortal (2020) is a strong next stop: both trade in fantasy and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14397,
+      "title": "Whisper",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Whisper (2007) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 132137,
+      "title": "Werewolf: The Beast Among Us",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Werewolf: The Beast Among Us (2012) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1043197,
+      "title": "Dust Bunny",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Dust Bunny (2025) is a strong next stop: both trade in fantasy and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 761563,
+      "title": "Medusa",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Unhealer clicked for you, Medusa (2020) is a strong next stop: both trade in fantasy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Unhealer?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Unhealer?",
+      "answer": "Try Look Away, Dark Harvest, Nocebo—each shares DNA with The Unhealer while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Unhealer?",
+      "answer": "The Unhealer (2021) is best described as Fantasy, Thriller, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Unhealer worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "blade-ii",
+    "day-shift",
+    "holy-night-demon-hunters",
+    "inland-empire",
+    "men",
+    "monster-island",
+    "red-riding-hood"
   ]
 }

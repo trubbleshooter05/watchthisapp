@@ -9,26 +9,167 @@
       "Thriller",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Muzzle: City of Wolves (2025) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "thriller",
+      "mystery",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 399035,
+      "title": "The Commuter",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, The Commuter (2018) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, The International (2009) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 860623,
+      "title": "Last Man Down",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Last Man Down (2021) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 562,
+      "title": "Die Hard",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Die Hard (1988) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1637,
+      "title": "Speed",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Speed (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 941,
+      "title": "Lethal Weapon",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Lethal Weapon (1987) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 942,
+      "title": "Lethal Weapon 2",
+      "year": 1989,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Lethal Weapon 2 (1989) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 943,
+      "title": "Lethal Weapon 3",
+      "year": 1992,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Lethal Weapon 3 (1992) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 944,
+      "title": "Lethal Weapon 4",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Lethal Weapon 4 (1998) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7873,
+      "title": "Harsh Times",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Muzzle: City of Wolves clicked for you, Harsh Times (2005) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Muzzle: City of Wolves?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Muzzle: City of Wolves?",
+      "answer": "Try The Commuter, The International, Last Man Down—each shares DNA with Muzzle: City of Wolves while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Muzzle: City of Wolves?",
+      "answer": "Muzzle: City of Wolves (2025) is best described as Action, Thriller, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Muzzle: City of Wolves part of a franchise?",
+      "answer": "Yes—it's part of the \"Muzzle Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "24-hours-to-live",
+    "abduction",
+    "absolution",
+    "along-came-a-spider",
+    "arkansas",
+    "awareness",
+    "detective-conan-the-scarlet-bullet"
   ]
 }

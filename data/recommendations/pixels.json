@@ -9,26 +9,176 @@
       "Comedy",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Pixels for the same reason it broke through in 2015: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Chris Columbus keeps the ensemble pointed in one direction. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pixels clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1497,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pixels clicked for you, Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 333339,
+      "title": "Ready Player One",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pixels clicked for you, Ready Player One (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 353486,
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pixels clicked for you, Jumanji: Welcome to the Jungle (2017) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pixels clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 181812,
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pixels clicked for you, Star Wars: The Rise of Skywalker (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602,
+      "title": "Independence Day",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pixels clicked for you, Independence Day (1996) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pixels clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12244,
+      "title": "9",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pixels clicked for you, 9 (2009) is a strong next stop: both trade in action and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "animation",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pixels clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in comedy and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "science-fiction",
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Pixels?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Pixels?",
+      "answer": "Try Teenage Mutant Ninja Turtles, Teenage Mutant Ninja Turtles II: The Secret of the Ooze, Ready Player One—each shares DNA with Pixels while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pixels?",
+      "answer": "Pixels (2015) is best described as Action, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pixels worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "afterburn",
+    "borderlands",
+    "captain-underpants-the-first-epic-movie",
+    "deadpool-wolverine",
+    "despicable-me-4",
+    "dragon-ball-yo-son-goku-and-his-friends-return",
+    "evolution"
   ]
 }

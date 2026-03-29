@@ -8,26 +8,161 @@
       "Comedy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Twinless for the same reason it broke through in 2025: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. James Sweeney keeps the ensemble pointed in one direction. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4507,
+      "title": "Jamon Jamon",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Twinless clicked for you, Jamon Jamon (1992) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 525183,
+      "title": "Paddleton",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Twinless clicked for you, Paddleton (2019) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15592,
+      "title": "Beaches",
+      "year": 1988,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Twinless clicked for you, Beaches (1988) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1124,
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Twinless clicked for you, The Prestige (2006) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Twinless clicked for you, Atonement (2007) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2288,
+      "title": "Closer",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Twinless clicked for you, Closer (2004) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 87492,
+      "title": "Foxcatcher",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Twinless clicked for you, Foxcatcher (2014) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10731,
+      "title": "The Client",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Twinless clicked for you, The Client (1994) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 850165,
+      "title": "The Iron Claw",
+      "year": 2023,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Twinless clicked for you, The Iron Claw (2023) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 630566,
+      "title": "Clouds",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Twinless clicked for you, Clouds (2020) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Twinless?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Twinless?",
+      "answer": "Try Jamon Jamon, Paddleton, Beaches—each shares DNA with Twinless while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Twinless?",
+      "answer": "Twinless (2025) is best described as Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Twinless worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "3-idiots",
+    "500-days-of-summer",
+    "53-sundays",
+    "a-different-man",
+    "a-dogs-purpose"
   ]
 }

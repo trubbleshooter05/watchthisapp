@@ -10,26 +10,169 @@
       "Romance",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Rouge works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "fantasy",
+      "romance",
+      "mystery",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 137321,
+      "title": "Winter's Tale",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rouge clicked for you, Winter's Tale (2014) is a strong next stop: both trade in drama and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "fantasy",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 353066,
+      "title": "The Vanishing of Sidney Hall",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rouge clicked for you, The Vanishing of Sidney Hall (2018) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "mystery"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1904,
+      "title": "Memoirs of a Geisha",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rouge clicked for you, Memoirs of a Geisha (2005) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "history"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9346,
+      "title": "Risky Business",
+      "year": 1983,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rouge clicked for you, Risky Business (1983) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11259,
+      "title": "Far and Away",
+      "year": 1992,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rouge clicked for you, Far and Away (1992) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "adventure",
+        "western"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 5879,
+      "title": "In the Realm of the Senses",
+      "year": 1976,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rouge clicked for you, In the Realm of the Senses (1976) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 18093,
+      "title": "Northanger Abbey",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rouge clicked for you, Northanger Abbey (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "tv-movie"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 25649,
+      "title": "Bad Guy",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rouge clicked for you, Bad Guy (2002) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rouge clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241855,
+      "title": "Spring",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rouge clicked for you, Spring (2014) is a strong next stop: both trade in romance, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rouge?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rouge?",
+      "answer": "Try Winter's Tale, The Vanishing of Sidney Hall, Memoirs of a Geisha—each shares DNA with Rouge while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rouge?",
+      "answer": "Rouge (1987) is best described as Drama, Fantasy, Romance, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rouge worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "red-riding-hood",
+    "the-lake-house",
+    "17-again",
+    "a-big-bold-beautiful-journey",
+    "a-dogs-will",
+    "a-whisker-away",
+    "about-time"
   ]
 }

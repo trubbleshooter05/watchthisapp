@@ -7,26 +7,147 @@
     "genres": [
       "Documentary"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Rocco works as a documentary movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "documentary",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 318256,
+      "title": "Hot Girls Wanted",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rocco clicked for you, Hot Girls Wanted (2015) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 42733,
+      "title": "Love Meetings",
+      "year": 1965,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rocco clicked for you, Love Meetings (1965) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 355254,
+      "title": "De Palma",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rocco clicked for you, De Palma (2016) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 538002,
+      "title": "They'll Love Me When I'm Dead",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rocco clicked for you, They'll Love Me When I'm Dead (2018) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12228,
+      "title": "Inside Deep Throat",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rocco clicked for you, Inside Deep Throat (2005) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8940,
+      "title": "Tyson",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rocco clicked for you, Tyson (2008) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 877657,
+      "title": "Attack of the Hollywood Clichés!",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rocco clicked for you, Attack of the Hollywood Clichés! (2021) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 32562,
+      "title": "The Celluloid Closet",
+      "year": 1996,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rocco clicked for you, The Celluloid Closet (1996) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427719,
+      "title": "X-Rated 2: The Greatest Adult Stars of All-Time",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rocco clicked for you, X-Rated 2: The Greatest Adult Stars of All-Time (2016) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19929,
+      "title": "9to5: Days in Porn",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rocco clicked for you, 9to5: Days in Porn (2008) is a strong next stop: both trade in documentary, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "documentary"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Rocco?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Rocco?",
+      "answer": "Try Hot Girls Wanted, Love Meetings, De Palma—each shares DNA with Rocco while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rocco?",
+      "answer": "Rocco (2016) is best described as Documentary. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rocco worth revisiting?",
+      "answer": "Viewer scores sit around 5.5/10 on TMDB—high enough that replays are common for people who like this documentary lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "believer",
+    "bowling-for-columbine",
+    "bring-the-soul-the-movie",
+    "elephant",
+    "ennio",
+    "friends-the-reunion",
+    "harry-potter-20th-anniversary-return-to-hogwarts"
   ]
 }

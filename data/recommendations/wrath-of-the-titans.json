@@ -9,26 +9,172 @@
       "Adventure",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Wrath of the Titans (2012) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "adventure",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14411,
+      "title": "Sinbad: Legend of the Seven Seas",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Sinbad: Legend of the Seven Seas (2003) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 616037,
+      "title": "Thor: Love and Thunder",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Thor: Love and Thunder (2022) is a strong next stop: both trade in fantasy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11970,
+      "title": "Hercules",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Hercules (1997) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 32657,
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Percy Jackson & the Olympians: The Lightning Thief (2010) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2059,
+      "title": "National Treasure",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, National Treasure (2004) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12437,
+      "title": "Underworld: Rise of the Lycans",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Underworld: Rise of the Lycans (2009) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11639,
+      "title": "The Dark Crystal",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, The Dark Crystal (1982) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14506,
+      "title": "The Adventures of Baron Munchausen",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, The Adventures of Baron Munchausen (1988) is a strong next stop: both trade in fantasy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11533,
+      "title": "Jason and the Argonauts",
+      "year": 1963,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wrath of the Titans clicked for you, Jason and the Argonauts (1963) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wrath of the Titans?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wrath of the Titans?",
+      "answer": "Try Conan the Barbarian, Sinbad: Legend of the Seven Seas, Thor: Love and Thunder—each shares DNA with Wrath of the Titans while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wrath of the Titans?",
+      "answer": "Wrath of the Titans (2012) is best described as Fantasy, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wrath of the Titans part of a franchise?",
+      "answer": "Yes—it's part of the \"Clash of the Titans Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds"
   ]
 }

@@ -8,26 +8,163 @@
       "Drama",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Noah works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 644,
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Noah clicked for you, A.I. Artificial Intelligence (2001) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2525,
+      "title": "The Bible: In the Beginning...",
+      "year": 1966,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Noah clicked for you, The Bible: In the Beginning... (1966) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Noah clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 330,
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Noah clicked for you, The Lost World: Jurassic Park (1997) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 693134,
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Noah clicked for you, Dune: Part Two (2024) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 785084,
+      "title": "The Whale",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Noah clicked for you, The Whale (2022) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 406759,
+      "title": "Moonfall",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Noah clicked for you, Moonfall (2022) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Noah clicked for you, Labyrinth (1986) is a strong next stop: both trade in adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 473,
+      "title": "Pi",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Noah clicked for you, Pi (1998) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15080,
+      "title": "Only Yesterday",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Noah clicked for you, Only Yesterday (1991) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "animation",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Noah?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Noah?",
+      "answer": "Try A.I. Artificial Intelligence, The Bible: In the Beginning..., The Chronicles of Narnia: The Lion, the Witch and the Wardrobe—each shares DNA with Noah while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Noah?",
+      "answer": "Noah (2014) is best described as Drama, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Noah worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "127-hours",
+    "13-assassins",
+    "a-dogs-purpose",
+    "a-i-artificial-intelligence",
+    "a-knights-tale",
+    "a-writers-odyssey",
+    "against-the-ice"
   ]
 }

@@ -9,26 +9,167 @@
       "Crime",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Thomas Crown Affair (1999) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "crime",
+      "romance",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, The Departed (2006) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 629,
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, The Usual Suspects (1995) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 949,
+      "title": "Heat",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Heat (1995) is a strong next stop: both trade in drama and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1389,
+      "title": "Out of Sight",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Out of Sight (1998) is a strong next stop: both trade in crime and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3001,
+      "title": "How to Steal a Million",
+      "year": 1966,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, How to Steal a Million (1966) is a strong next stop: both trade in crime and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1834,
+      "title": "Murder, My Sweet",
+      "year": 1944,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Murder, My Sweet (1944) is a strong next stop: both trade in drama and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 402900,
+      "title": "Ocean's Eight",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Ocean's Eight (2018) is a strong next stop: both trade in crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 163,
+      "title": "Ocean's Twelve",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Ocean's Twelve (2004) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 512195,
+      "title": "Red Notice",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, Red Notice (2021) is a strong next stop: both trade in crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 446791,
+      "title": "All the Money in the World",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Thomas Crown Affair clicked for you, All the Money in the World (2017) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "history",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Thomas Crown Affair?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Thomas Crown Affair?",
+      "answer": "Try The Departed, The Usual Suspects, Heat—each shares DNA with The Thomas Crown Affair while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Thomas Crown Affair?",
+      "answer": "The Thomas Crown Affair (1999) is best described as Drama, Crime, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Thomas Crown Affair worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-brighter-summer-day",
+    "badlands",
+    "beating-hearts",
+    "days-of-being-wild",
+    "step-up",
+    "west-side-story",
+    "10-things-i-hate-about-you"
   ]
 }

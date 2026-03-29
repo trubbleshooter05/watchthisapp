@@ -10,26 +10,174 @@
       "Adventure",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Tinker Bell and the Lost Treasure for the same reason it broke through in 2009: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Klay Hall keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "adventure",
+      "fantasy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 335360,
+      "title": "My Little Pony: The Movie",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, My Little Pony: The Movie (2017) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, My Little Pony: A New Generation (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14836,
+      "title": "Coraline",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, Coraline (2009) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 381719,
+      "title": "Peter Rabbit",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, Peter Rabbit (2018) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 826510,
+      "title": "Harold and the Purple Crayon",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, Harold and the Purple Crayon (2024) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1265,
+      "title": "Bridge to Terabithia",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, Bridge to Terabithia (2007) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 522478,
+      "title": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tinker Bell and the Lost Treasure clicked for you, Peter Rabbit 2: The Runaway (2021) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Tinker Bell and the Lost Treasure?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Tinker Bell and the Lost Treasure?",
+      "answer": "Try The Boy, the Mole, the Fox and the Horse, My Little Pony: The Movie, My Little Pony: A New Generation—each shares DNA with Tinker Bell and the Lost Treasure while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tinker Bell and the Lost Treasure?",
+      "answer": "Tinker Bell and the Lost Treasure (2009) is best described as Animation, Family, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tinker Bell and the Lost Treasure part of a franchise?",
+      "answer": "Yes—it's part of the \"Tinker Bell Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "barbie-fairytopia-mermaidia",
+    "brave",
+    "castle-in-the-sky"
   ]
 }

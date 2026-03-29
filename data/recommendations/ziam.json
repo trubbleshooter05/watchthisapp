@@ -9,26 +9,168 @@
       "Thriller",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Ziam for the same reason it broke through in 2025: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Kulp Kaljareuk keeps the ensemble pointed in one direction. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ziam clicked for you, The Hunt (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 285923,
+      "title": "Grindhouse",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ziam clicked for you, Grindhouse (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ziam clicked for you, Beast (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ziam clicked for you, Resident Evil (2002) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ziam clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ziam clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7737,
+      "title": "Resident Evil: Extinction",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ziam clicked for you, Resident Evil: Extinction (2007) is a strong next stop: both trade in horror and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 970347,
+      "title": "The Killer",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ziam clicked for you, The Killer (2024) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1151334,
+      "title": "Eenie Meanie",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ziam clicked for you, Eenie Meanie (2025) is a strong next stop: both trade in thriller and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ziam clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Ziam?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Ziam?",
+      "answer": "Try The Hunt, Grindhouse, Beast—each shares DNA with Ziam while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ziam?",
+      "answer": "Ziam (2025) is best described as Horror, Thriller, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ziam worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "arcadian",
+    "azrael",
+    "badland-hunters",
+    "beast",
+    "beast-of-war",
+    "blade-ii",
+    "day-shift"
   ]
 }

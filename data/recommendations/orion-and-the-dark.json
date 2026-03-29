@@ -11,26 +11,181 @@
       "Fantasy",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Orion and the Dark for the same reason it broke through in 2024: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Sean Charmatz keeps the ensemble pointed in one direction. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "comedy",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, Nimona (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 592983,
+      "title": "Spellbound",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, Spellbound (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10693,
+      "title": "Peter Pan",
+      "year": 1953,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, Peter Pan (1953) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9297,
+      "title": "Monster House",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, Monster House (2006) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13682,
+      "title": "Pooh's Heffalump Movie",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, Pooh's Heffalump Movie (2005) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 24100,
+      "title": "The Little Vampire",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, The Little Vampire (2000) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Orion and the Dark clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Orion and the Dark?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Orion and the Dark?",
+      "answer": "Try Nimona, The Monkey King, Spellbound—each shares DNA with Orion and the Dark while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Orion and the Dark?",
+      "answer": "Orion and the Dark (2024) is best described as Animation, Family, Comedy, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Orion and the Dark worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
   ]
 }

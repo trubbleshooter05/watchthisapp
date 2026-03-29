@@ -11,26 +11,183 @@
       "Animation",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Lego Ninjago Movie works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 280217,
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, The Lego Movie 2: The Second Part (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 260513,
+      "title": "Incredibles 2",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Incredibles 2 (2018) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 137106,
+      "title": "The Lego Movie",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, The Lego Movie (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324849,
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, The Lego Batman Movie (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1727,
+      "title": "Bird on a Wire",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, Bird on a Wire (1990) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "action",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "School of Rock",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lego Ninjago Movie clicked for you, School of Rock (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Lego Ninjago Movie?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Lego Ninjago Movie?",
+      "answer": "Try Big Hero 6, The Lego Movie 2: The Second Part, Incredibles 2—each shares DNA with The Lego Ninjago Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lego Ninjago Movie?",
+      "answer": "The Lego Ninjago Movie (2017) is best described as Family, Comedy, Adventure, Animation, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lego Ninjago Movie worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this family lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "big-hero-6",
+    "despicable-me-3",
+    "dog-man",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4",
+    "nimona",
+    "pok-mon-the-movie-diancie-and-the-cocoon-of-destruction"
   ]
 }

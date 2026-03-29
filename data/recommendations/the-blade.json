@@ -7,26 +7,160 @@
     "genres": [
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Blade for the same reason it broke through in 1995: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Tsui Hark keeps the ensemble pointed in one direction. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 945937,
+      "title": "Fast Charlie",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Blade clicked for you, Fast Charlie (2023) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 18899,
+      "title": "Vengeance",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Blade clicked for you, Vengeance (2009) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49291,
+      "title": "Time and Tide",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Blade clicked for you, Time and Tide (2000) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 445993,
+      "title": "The Marine 5: Battleground",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Blade clicked for you, The Marine 5: Battleground (2017) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 572751,
+      "title": "Seized",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Blade clicked for you, Seized (2020) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 45871,
+      "title": "The Mission",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Blade clicked for you, The Mission (1999) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19274,
+      "title": "Fearless Hyena",
+      "year": 1979,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Blade clicked for you, Fearless Hyena (1979) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 949484,
+      "title": "Hounds of War",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Blade clicked for you, Hounds of War (2024) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 931642,
+      "title": "Lights Out",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Blade clicked for you, Lights Out (2024) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 27073,
+      "title": "Full Contact",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Blade clicked for you, Full Contact (1992) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Blade?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Blade?",
+      "answer": "Try Fast Charlie, Vengeance, Time and Tide—each shares DNA with The Blade while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Blade?",
+      "answer": "The Blade (1995) is best described as Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Blade worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "13-assassins",
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "16-blocks",
+    "2-guns",
+    "2012"
   ]
 }

@@ -8,26 +8,160 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Hand That Rocks the Cradle (2025) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 21208,
+      "title": "Orphan",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Orphan (2009) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9378,
+      "title": "Thir13en Ghosts",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Thir13en Ghosts (2001) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1114513,
+      "title": "Speak No Evil",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Speak No Evil (2024) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1041613,
+      "title": "Immaculate",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Immaculate (2024) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 539649,
+      "title": "The Lie",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, The Lie (2018) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 814800,
+      "title": "Goodnight Mommy",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Goodnight Mommy (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14397,
+      "title": "Whisper",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Whisper (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 45964,
+      "title": "When a Stranger Calls",
+      "year": 1979,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, When a Stranger Calls (1979) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4547,
+      "title": "Panic Room",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, Panic Room (2002) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Hand That Rocks the Cradle clicked for you, The Fly (1986) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Hand That Rocks the Cradle?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Hand That Rocks the Cradle?",
+      "answer": "Try Orphan, Thir13en Ghosts, Speak No Evil—each shares DNA with The Hand That Rocks the Cradle while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Hand That Rocks the Cradle?",
+      "answer": "The Hand That Rocks the Cradle (2025) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Hand That Rocks the Cradle worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

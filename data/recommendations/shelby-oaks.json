@@ -8,26 +8,159 @@
       "Horror",
       "Mystery"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Shelby Oaks for the same reason it broke through in 2025: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. Chris Stuckmann keeps the ensemble pointed in one direction. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "mystery",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Scream (1996) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 270303,
+      "title": "It Follows",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, It Follows (2015) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2667,
+      "title": "The Blair Witch Project",
+      "year": 1999,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, The Blair Witch Project (1999) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 913290,
+      "title": "Barbarian",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Barbarian (2022) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 619778,
+      "title": "Malignant",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Malignant (2021) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 297608,
+      "title": "The Taking of Deborah Logan",
+      "year": 2014,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, The Taking of Deborah Logan (2014) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1232546,
+      "title": "Until Dawn",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Until Dawn (2025) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11601,
+      "title": "Stir of Echoes",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Stir of Echoes (1999) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1216191,
+      "title": "Oddity",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, Oddity (2024) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24740,
+      "title": "The Entity",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Shelby Oaks clicked for you, The Entity (1982) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Shelby Oaks?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Shelby Oaks?",
+      "answer": "Try Scream, It Follows, The Blair Witch Project—each shares DNA with Shelby Oaks while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Shelby Oaks?",
+      "answer": "Shelby Oaks (2025) is best described as Horror, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Shelby Oaks worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "1408",
+    "a-cure-for-wellness",
+    "a-tale-of-two-sisters",
+    "after-life",
+    "angel-heart",
+    "april-fools-day",
+    "barbarian"
   ]
 }

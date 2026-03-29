@@ -10,26 +10,168 @@
       "Fantasy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Red Sonja works as a adventure movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "action",
+      "fantasy",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122917,
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, The Hobbit: The Battle of the Five Armies (2014) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Warcraft (2016) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 290595,
+      "title": "The Huntsman: Winter's War",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, The Huntsman: Winter's War (2016) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 458576,
+      "title": "Monster Hunter",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Monster Hunter (2020) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 763215,
+      "title": "Damsel",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Damsel (2024) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 847,
+      "title": "Willow",
+      "year": 1988,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Willow (1988) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1494,
+      "title": "Curse of the Golden Flower",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Red Sonja clicked for you, Curse of the Golden Flower (2006) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Red Sonja?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Red Sonja?",
+      "answer": "Try The Lord of the Rings: The Two Towers, The Hobbit: The Battle of the Five Armies, Warcraft—each shares DNA with Red Sonja while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Red Sonja?",
+      "answer": "Red Sonja (2025) is best described as Adventure, Action, Fantasy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Red Sonja worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-writers-odyssey",
+    "along-with-the-gods-the-two-worlds",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "dragonheart",
+    "jack-the-giant-slayer"
   ]
 }

@@ -12,26 +12,183 @@
       "Action",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Pokémon: Lucario and the Mystery of Mew for the same reason it broke through in 2005: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Kunihiko Yuyama keeps the ensemble pointed in one direction. The family and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "family",
+      "adventure",
+      "animation",
+      "fantasy",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 25961,
+      "title": "Pokémon: The Rise of Darkrai",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon: The Rise of Darkrai (2007) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16808,
+      "title": "Pokémon Ranger and the Temple of the Sea",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon Ranger and the Temple of the Sea (2006) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 150213,
+      "title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+      "year": 2012,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon the Movie: Kyurem vs. the Sword of Justice (2012) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 265712,
+      "title": "Stand by Me Doraemon",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Stand by Me Doraemon (2014) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 382190,
+      "title": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon the Movie: Volcanion and the Mechanical Marvel (2016) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 34065,
+      "title": "Pokémon: Destiny Deoxys",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon: Destiny Deoxys (2004) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 47292,
+      "title": "Pokémon: Giratina and the Sky Warrior",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon: Giratina and the Sky Warrior (2008) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 662708,
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon the Movie: Secrets of the Jungle (2020) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 303903,
+      "title": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Pokémon the Movie: Diancie and the Cocoon of Destruction (2014) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pokémon: Lucario and the Mystery of Mew clicked for you, Rampage (2018) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Pokémon: Lucario and the Mystery of Mew?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Pokémon: Lucario and the Mystery of Mew?",
+      "answer": "Try Pokémon: The Rise of Darkrai, Pokémon Ranger and the Temple of the Sea, Pokémon the Movie: Kyurem vs. the Sword of Justice—each shares DNA with Pokémon: Lucario and the Mystery of Mew while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pokémon: Lucario and the Mystery of Mew?",
+      "answer": "Pokémon: Lucario and the Mystery of Mew (2005) is best described as Family, Adventure, Animation, Fantasy, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pokémon: Lucario and the Mystery of Mew part of a franchise?",
+      "answer": "Yes—it's part of the \"Pokémon: Advanced Generation Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "pok-mon-the-movie-kyurem-vs-the-sword-of-justice",
+    "arco",
+    "castle-in-the-sky",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-dinosaur",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021"
   ]
 }

@@ -8,26 +8,166 @@
       "Drama",
       "History"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Society of the Snow for the same reason it broke through in 2023: clear stakes, memorable faces, and a history rhythm that doesn't stall in the middle. J. A. Bayona keeps the ensemble pointed in one direction. The drama and history blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "history",
+      "crowd-favorite"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 7305,
+      "title": "Alive",
+      "year": 1993,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Alive (1993) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11416,
+      "title": "The Mission",
+      "year": 1986,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, The Mission (1986) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 698948,
+      "title": "Thirteen Lives",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Thirteen Lives (2022) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 293646,
+      "title": "The 33",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, The 33 (2015) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4415,
+      "title": "Les Misérables",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Les Misérables (1998) is a strong next stop: both trade in drama and history, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "crime",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 836009,
+      "title": "Against the Ice",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Against the Ice (2022) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 514575,
+      "title": "A Twelve-Year Night",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, A Twelve-Year Night (2018) is a strong next stop: both trade in drama and history, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Bird Box (2018) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, Pride & Prejudice (2005) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 44115,
+      "title": "127 Hours",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Society of the Snow clicked for you, 127 Hours (2010) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Society of the Snow?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Society of the Snow?",
+      "answer": "Try Alive, The Mission, Thirteen Lives—each shares DNA with Society of the Snow while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Society of the Snow?",
+      "answer": "Society of the Snow (2023) is best described as Drama, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Society of the Snow worth revisiting?",
+      "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "12-years-a-slave",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "a-beautiful-day-in-the-neighborhood",
+    "a-bridge-too-far",
+    "a-taxi-driver",
+    "against-the-ice"
   ]
 }

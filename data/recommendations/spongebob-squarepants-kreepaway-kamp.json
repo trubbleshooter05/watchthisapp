@@ -11,26 +11,185 @@
       "Horror",
       "Animation"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "SpongeBob Squarepants: Kreepaway Kamp works as a tv movie movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The tv movie and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "tv-movie",
+      "family",
+      "comedy",
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 53985,
+      "title": "Mutant Pumpkins from Outer Space",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Mutant Pumpkins from Outer Space (2009) is a strong next stop: both trade in tv movie and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 472983,
+      "title": "Invader Zim: Enter the Florpus",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Invader Zim: Enter the Florpus (2019) is a strong next stop: both trade in tv movie and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 439058,
+      "title": "Hey Arnold! The Jungle Movie",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Hey Arnold! The Jungle Movie (2018) is a strong next stop: both trade in tv movie and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284019,
+      "title": "Phineas and Ferb: Mission Marvel",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Phineas and Ferb: Mission Marvel (2013) is a strong next stop: both trade in tv movie and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 48874,
+      "title": "A Flintstones Christmas Carol",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, A Flintstones Christmas Carol (1994) is a strong next stop: both trade in tv movie and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57789,
+      "title": "Double, Double, Toil and Trouble",
+      "year": 1993,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Double, Double, Toil and Trouble (1993) is a strong next stop: both trade in tv movie and family, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "comedy",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 991494,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, The SpongeBob Movie: Search for SquarePants (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 410113,
+      "title": "The Loud House Movie",
+      "year": 2021,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, The Loud House Movie (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 789708,
+      "title": "Hilda and the Mountain King",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If SpongeBob Squarepants: Kreepaway Kamp clicked for you, Hilda and the Mountain King (2021) is a strong next stop: both trade in tv movie and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "family",
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to SpongeBob Squarepants: Kreepaway Kamp?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after SpongeBob Squarepants: Kreepaway Kamp?",
+      "answer": "Try Mutant Pumpkins from Outer Space, Invader Zim: Enter the Florpus, Hey Arnold! The Jungle Movie—each shares DNA with SpongeBob Squarepants: Kreepaway Kamp while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is SpongeBob Squarepants: Kreepaway Kamp?",
+      "answer": "SpongeBob Squarepants: Kreepaway Kamp (2024) is best described as TV Movie, Family, Comedy, Horror, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is SpongeBob Squarepants: Kreepaway Kamp worth revisiting?",
+      "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this tv movie lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "night-of-the-zoopocalypse",
+    "we-bare-bears-the-movie",
+    "a-bugs-life",
+    "a-goofy-movie",
+    "abominable",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel"
   ]
 }

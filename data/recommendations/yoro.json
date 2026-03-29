@@ -8,26 +8,167 @@
       "Adventure",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Yoroï (2025) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. David Tomaszewski's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 460465,
+      "title": "Mortal Kombat",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Yoroï clicked for you, Mortal Kombat (2021) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 458576,
+      "title": "Monster Hunter",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Yoroï clicked for you, Monster Hunter (2020) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Yoroï clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 561,
+      "title": "Constantine",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Yoroï clicked for you, Constantine (2005) is a strong next stop: both trade in fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1427,
+      "title": "Perfume: The Story of a Murderer",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Yoroï clicked for you, Perfume: The Story of a Murderer (2006) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 123553,
+      "title": "The Mortal Instruments: City of Bones",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Yoroï clicked for you, The Mortal Instruments: City of Bones (2013) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9495,
+      "title": "The Crow",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Yoroï clicked for you, The Crow (1994) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 666243,
+      "title": "The Witcher: Nightmare of the Wolf",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Yoroï clicked for you, The Witcher: Nightmare of the Wolf (2021) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1059,
+      "title": "The Hidden Fortress",
+      "year": 1958,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Yoroï clicked for you, The Hidden Fortress (1958) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 602063,
+      "title": "Rurouni Kenshin: The Final",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Yoroï clicked for you, Rurouni Kenshin: The Final (2021) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Yoroï?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Yoroï?",
+      "answer": "Try Mortal Kombat, Monster Hunter, The Forbidden Kingdom—each shares DNA with Yoroï while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Yoroï?",
+      "answer": "Yoroï (2025) is best described as Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Yoroï worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-dogs-purpose",
+    "a-legend",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "a-writers-odyssey"
   ]
 }

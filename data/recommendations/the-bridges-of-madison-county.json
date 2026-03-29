@@ -8,26 +8,159 @@
       "Drama",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Bridges of Madison County (1995) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "romance",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4348,
+      "title": "Pride & Prejudice",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Pride & Prejudice (2005) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Atonement (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4148,
+      "title": "Revolutionary Road",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Revolutionary Road (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 2288,
+      "title": "Closer",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Closer (2004) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 330483,
+      "title": "The Choice",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, The Choice (2016) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 606,
+      "title": "Out of Africa",
+      "year": 1985,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Out of Africa (1985) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "history"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1440,
+      "title": "Little Children",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Little Children (2006) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 631,
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Sunrise: A Song of Two Humans (1927) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Lust, Caution (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "action",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 353577,
+      "title": "Love at First Sight",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Bridges of Madison County clicked for you, Love at First Sight (2023) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Bridges of Madison County?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Bridges of Madison County?",
+      "answer": "Try Pride & Prejudice, Atonement, Revolutionary Road—each shares DNA with The Bridges of Madison County while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Bridges of Madison County?",
+      "answer": "The Bridges of Madison County (1995) is best described as Drama, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Bridges of Madison County worth revisiting?",
+      "answer": "Viewer scores sit around 7.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "10dance",
+    "17-again",
+    "2046",
+    "20th-century-girl",
+    "5-centimeters-per-second",
+    "500-days-of-summer"
   ]
 }

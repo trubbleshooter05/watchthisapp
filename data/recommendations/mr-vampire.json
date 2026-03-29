@@ -9,26 +9,171 @@
       "Comedy",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Mr. Vampire for the same reason it broke through in 1985: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Ricky Lau keeps the ensemble pointed in one direction. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "horror",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11770,
+      "title": "Shaolin Soccer",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, Shaolin Soccer (2001) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3053,
+      "title": "The Fearless Vampire Killers",
+      "year": 1967,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, The Fearless Vampire Killers (1967) is a strong next stop: both trade in comedy and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11198,
+      "title": "City Hunter",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, City Hunter (1993) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "adventure",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, 300 (2007) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1584,
+      "title": "School of Rock",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, School of Rock (2003) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9297,
+      "title": "Monster House",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, Monster House (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1267,
+      "title": "Meet the Robinsons",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, Meet the Robinsons (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1255,
+      "title": "The Host",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Mr. Vampire clicked for you, The Host (2006) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Mr. Vampire?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Mr. Vampire?",
+      "answer": "Try Resident Evil: Apocalypse, Shaolin Soccer, Teenage Mutant Ninja Turtles—each shares DNA with Mr. Vampire while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Mr. Vampire?",
+      "answer": "Mr. Vampire (1985) is best described as Action, Comedy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Mr. Vampire part of a franchise?",
+      "answer": "Yes—it's part of the \"Mr. Vampire Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "day-shift",
+    "lake-placid",
+    "naruto-shippuden-the-movie-blood-prison",
+    "ready-or-not-here-i-come",
+    "the-day-of-the-beast",
+    "the-twins-effect",
+    "they-will-kill-you"
   ]
 }

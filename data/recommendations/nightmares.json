@@ -8,26 +8,164 @@
       "Horror",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Nightmares works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1562,
+      "title": "28 Weeks Later",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Nightmares clicked for you, 28 Weeks Later (2007) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1255,
+      "title": "The Host",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Nightmares clicked for you, The Host (2006) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 716258,
+      "title": "Black Box",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Nightmares clicked for you, Black Box (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 608195,
+      "title": "Ghosts of War",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Nightmares clicked for you, Ghosts of War (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller",
+        "war"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 715123,
+      "title": "Books of Blood",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Nightmares clicked for you, Books of Blood (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Nightmares clicked for you, Megaboa (2021) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 528985,
+      "title": "Assimilate",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Nightmares clicked for you, Assimilate (2019) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 628866,
+      "title": "The Return",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Nightmares clicked for you, The Return (2022) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Nightmares clicked for you, The Incredible Hulk (2008) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Nightmares clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Nightmares?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Nightmares?",
+      "answer": "Try 28 Weeks Later, The Host, Black Box—each shares DNA with Nightmares while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Nightmares?",
+      "answer": "Nightmares (1983) is best described as Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Nightmares worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-cure-for-wellness",
+    "a-quiet-place"
   ]
 }

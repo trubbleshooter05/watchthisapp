@@ -8,26 +8,164 @@
       "Thriller",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Box works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and science fiction blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 180,
+      "title": "Minority Report",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Box clicked for you, Minority Report (2002) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 206487,
+      "title": "Predestination",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Box clicked for you, Predestination (2014) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 570670,
+      "title": "The Invisible Man",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Box clicked for you, The Invisible Man (2020) is a strong next stop: both trade in thriller and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13811,
+      "title": "Knowing",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Box clicked for you, Knowing (2009) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "action",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 536437,
+      "title": "Hypnotic",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Box clicked for you, Hypnotic (2023) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10514,
+      "title": "The Andromeda Strain",
+      "year": 1971,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Box clicked for you, The Andromeda Strain (1971) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14801,
+      "title": "Colossus: The Forbin Project",
+      "year": 1970,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Box clicked for you, Colossus: The Forbin Project (1970) is a strong next stop: both trade in thriller and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 263115,
+      "title": "Logan",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Box clicked for you, Logan (2017) is a strong next stop: both trade in science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 562,
+      "title": "Die Hard",
+      "year": 1988,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Box clicked for you, Die Hard (1988) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 787,
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Box clicked for you, Mr. & Mrs. Smith (2005) is a strong next stop: both trade in thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Box?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Box?",
+      "answer": "Try Minority Report, Predestination, The Invisible Man—each shares DNA with The Box while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Box?",
+      "answer": "The Box (2009) is best described as Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Box worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "2010",
+    "24-hours-to-live",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple"
   ]
 }

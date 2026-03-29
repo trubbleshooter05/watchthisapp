@@ -9,26 +9,164 @@
       "Comedy",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Hating Game works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "comedy",
+      "romance",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 18240,
+      "title": "The Proposal",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, The Proposal (2009) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284,
+      "title": "The Apartment",
+      "year": 1960,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, The Apartment (1960) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 696,
+      "title": "Manhattan",
+      "year": 1979,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, Manhattan (1979) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49022,
+      "title": "Something Borrowed",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, Something Borrowed (2011) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 3525,
+      "title": "Working Girl",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, Working Girl (1988) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 320588,
+      "title": "Hello, My Name Is Doris",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, Hello, My Name Is Doris (2015) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13665,
+      "title": "Arthur",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, Arthur (1981) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 613504,
+      "title": "After We Collided",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, After We Collided (2020) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 51828,
+      "title": "One Day",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, One Day (2011) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 259694,
+      "title": "How to Be Single",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Hating Game clicked for you, How to Be Single (2016) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Hating Game?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Hating Game?",
+      "answer": "Try The Proposal, The Apartment, Manhattan—each shares DNA with The Hating Game while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Hating Game?",
+      "answer": "The Hating Game (2021) is best described as Drama, Comedy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Hating Game worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
   ]
 }

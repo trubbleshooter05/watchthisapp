@@ -9,26 +9,164 @@
       "Comedy",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Good Heart works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "comedy",
+      "romance",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 283350,
+      "title": "Before We Go",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Before We Go (2014) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9410,
+      "title": "Great Expectations",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Great Expectations (1998) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9007,
+      "title": "Just Like Heaven",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Just Like Heaven (2005) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 795,
+      "title": "City of Angels",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, City of Angels (1998) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10843,
+      "title": "After Hours",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, After Hours (1985) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 29845,
+      "title": "A Woman Under the Influence",
+      "year": 1974,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, A Woman Under the Influence (1974) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 583903,
+      "title": "Our Friend",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Our Friend (2019) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 436459,
+      "title": "Almost Friends",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Almost Friends (2017) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4307,
+      "title": "The Flower of My Secret",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, The Flower of My Secret (1995) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 776305,
+      "title": "Belle",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Good Heart clicked for you, Belle (2021) is a strong next stop: both trade in drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "animation",
+        "science-fiction",
+        "music"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Good Heart?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Good Heart?",
+      "answer": "Try Before We Go, Great Expectations, Just Like Heaven—each shares DNA with The Good Heart while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Good Heart?",
+      "answer": "The Good Heart (2009) is best described as Drama, Comedy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Good Heart worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "anora",
+    "as-good-as-it-gets",
+    "blast-from-the-past"
   ]
 }

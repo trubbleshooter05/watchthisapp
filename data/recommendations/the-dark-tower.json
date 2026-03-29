@@ -9,26 +9,167 @@
       "Action",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Dark Tower (2017) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Nikolaj Arcel's control of tone keeps the ride coherent. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "action",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Black Panther (2018) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 218,
+      "title": "The Terminator",
+      "year": 1984,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, The Terminator (1984) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 157350,
+      "title": "Divergent",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Divergent (2014) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 262500,
+      "title": "Insurgent",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Insurgent (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 412656,
+      "title": "Chaos Walking",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Chaos Walking (2021) is a strong next stop: both trade in fantasy and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2135,
+      "title": "The Time Machine",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, The Time Machine (2002) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324670,
+      "title": "Spectral",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Spectral (2016) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 932420,
+      "title": "Code 8 Part II",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Code 8 Part II (2024) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489326,
+      "title": "Mortal",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Mortal (2020) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Dark Tower clicked for you, Megaboa (2021) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Dark Tower?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Dark Tower?",
+      "answer": "Try Black Panther, The Terminator, Divergent—each shares DNA with The Dark Tower while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Dark Tower?",
+      "answer": "The Dark Tower (2017) is best described as Fantasy, Action, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Dark Tower worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "alienoid",
+    "daybreakers",
+    "fantastic-four",
+    "fullmetal-alchemist-the-sacred-star-of-milos",
+    "godzilla-vs-biollante",
+    "godzilla-vs-mothra",
+    "kalki-2898-ad"
   ]
 }

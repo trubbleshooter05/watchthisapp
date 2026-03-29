@@ -8,26 +8,154 @@
       "Horror",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Seed of Chucky for the same reason it broke through in 2004: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Don Mancini keeps the ensemble pointed in one direction. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 184345,
+      "title": "A Haunted House 2",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, A Haunted House 2 (2014) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6069,
+      "title": "The Witches of Eastwick",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, The Witches of Eastwick (1987) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 948,
+      "title": "Halloween",
+      "year": 1978,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Halloween (1978) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 396422,
+      "title": "Annabelle: Creation",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Annabelle: Creation (2017) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 521029,
+      "title": "Annabelle Comes Home",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Annabelle Comes Home (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13515,
+      "title": "Mirrors",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Mirrors (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 607259,
+      "title": "Fatherhood",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Fatherhood (2021) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13567,
+      "title": "Sleepaway Camp",
+      "year": 1983,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Sleepaway Camp (1983) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24341,
+      "title": "Dolls",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Dolls (1986) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 34193,
+      "title": "Magic",
+      "year": 1978,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Seed of Chucky clicked for you, Magic (1978) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Seed of Chucky?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Seed of Chucky?",
+      "answer": "Try A Haunted House 2, The Witches of Eastwick, Halloween—each shares DNA with Seed of Chucky while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Seed of Chucky?",
+      "answer": "Seed of Chucky (2004) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Seed of Chucky part of a franchise?",
+      "answer": "Yes—it's part of the \"Child's Play Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "beetlejuice-beetlejuice"
   ]
 }

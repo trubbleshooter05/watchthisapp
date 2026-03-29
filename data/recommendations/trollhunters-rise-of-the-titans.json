@@ -11,26 +11,182 @@
       "Action",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Trollhunters: Rise of the Titans (2021) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Johane Matte's control of tone keeps the ride coherent. The animation and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "fantasy",
+      "family",
+      "action",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 11970,
+      "title": "Hercules",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, Hercules (1997) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 529203,
+      "title": "The Croods: A New Age",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, The Croods: A New Age (2020) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, The SpongeBob SquarePants Movie (2004) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 41216,
+      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, Legend of the Guardians: The Owls of Ga'Hoole (2010) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 839033,
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, The Lord of the Rings: The War of the Rohirrim (2024) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9502,
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, Kung Fu Panda (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, A Bug's Life (1998) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13053,
+      "title": "Bolt",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Trollhunters: Rise of the Titans clicked for you, Bolt (2008) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Trollhunters: Rise of the Titans?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Trollhunters: Rise of the Titans?",
+      "answer": "Try Hercules, The Croods: A New Age, The SpongeBob SquarePants Movie—each shares DNA with Trollhunters: Rise of the Titans while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Trollhunters: Rise of the Titans?",
+      "answer": "Trollhunters: Rise of the Titans (2021) is best described as Animation, Fantasy, Family, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Trollhunters: Rise of the Titans worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "castle-in-the-sky",
+    "dragonkeeper",
+    "how-to-train-your-dragon-2",
+    "kung-fu-panda-4",
+    "nimona",
+    "pok-mon-3-the-movie",
+    "pok-mon-lucario-and-the-mystery-of-mew"
   ]
 }

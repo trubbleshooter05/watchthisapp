@@ -7,26 +7,158 @@
     "genres": [
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Neon Demon (2016) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Nicolas Winding Refn's control of tone keeps the ride coherent. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 270303,
+      "title": "It Follows",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, It Follows (2015) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 933260,
+      "title": "The Substance",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, The Substance (2024) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 426063,
+      "title": "Nosferatu",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Nosferatu (2024) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 913290,
+      "title": "Barbarian",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Barbarian (2022) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9374,
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Death Becomes Her (1992) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 949423,
+      "title": "Pearl",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Pearl (2022) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11596,
+      "title": "Wes Craven's New Nightmare",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, Wes Craven's New Nightmare (1994) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1023922,
+      "title": "MaXXXine",
+      "year": 2024,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, MaXXXine (2024) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10242,
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Neon Demon clicked for you, What Ever Happened to Baby Jane? (1962) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Neon Demon?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Neon Demon?",
+      "answer": "Try It Follows, The Substance, Nosferatu—each shares DNA with The Neon Demon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Neon Demon?",
+      "answer": "The Neon Demon (2016) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Neon Demon worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "1408",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night"
   ]
 }

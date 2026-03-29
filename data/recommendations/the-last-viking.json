@@ -9,26 +9,164 @@
       "Crime",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Last Viking for the same reason it broke through in 2025: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Anders Thomas Jensen keeps the ensemble pointed in one direction. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "crime",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1574,
+      "title": "Chicago",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, Chicago (2002) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13685,
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, Bottle Rocket (1996) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, American Psycho (2000) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 522627,
+      "title": "The Gentlemen",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, The Gentlemen (2020) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1592,
+      "title": "Primal Fear",
+      "year": 1996,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, Primal Fear (1996) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 645886,
+      "title": "The Unforgivable",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, The Unforgivable (2021) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3172,
+      "title": "Bandits",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, Bandits (2001) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252822,
+      "title": "In Order of Disappearance",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, In Order of Disappearance (2014) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 171337,
+      "title": "Siberian Education",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, Siberian Education (2013) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 16958,
+      "title": "The Asphalt Jungle",
+      "year": 1950,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Last Viking clicked for you, The Asphalt Jungle (1950) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Last Viking?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Last Viking?",
+      "answer": "Try Chicago, Bottle Rocket, American Psycho—each shares DNA with The Last Viking while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Last Viking?",
+      "answer": "The Last Viking (2025) is best described as Comedy, Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Last Viking worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "adaptation",
+    "american-made",
+    "blackkklansman",
+    "casino-jack",
+    "chicago",
+    "el-infierno",
+    "fanboys"
   ]
 }

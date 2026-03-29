@@ -10,26 +10,169 @@
       "Mystery",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Survivor (2015) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. James McTeigue's control of tone keeps the ride coherent. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "mystery",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Survivor clicked for you, Salt (2010) is a strong next stop: both trade in action and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 18487,
+      "title": "The Taking of Pelham 1 2 3",
+      "year": 2009,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Survivor clicked for you, The Taking of Pelham 1 2 3 (2009) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13809,
+      "title": "RocknRolla",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Survivor clicked for you, RocknRolla (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49527,
+      "title": "Man on a Ledge",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Survivor clicked for you, Man on a Ledge (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8834,
+      "title": "Conspiracy Theory",
+      "year": 1997,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Survivor clicked for you, Conspiracy Theory (1997) is a strong next stop: both trade in action and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9882,
+      "title": "The Siege",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Survivor clicked for you, The Siege (1998) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976734,
+      "title": "Canary Black",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Survivor clicked for you, Canary Black (2024) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 535292,
+      "title": "21 Bridges",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Survivor clicked for you, 21 Bridges (2019) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2142,
+      "title": "Cop Land",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Survivor clicked for you, Cop Land (1997) is a strong next stop: both trade in crime and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 574,
+      "title": "The Man Who Knew Too Much",
+      "year": 1956,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Survivor clicked for you, The Man Who Knew Too Much (1956) is a strong next stop: both trade in mystery and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Survivor?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Survivor?",
+      "answer": "Try Salt, The Taking of Pelham 1 2 3, RocknRolla—each shares DNA with Survivor while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Survivor?",
+      "answer": "Survivor (2015) is best described as Action, Crime, Mystery, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Survivor worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "absolution",
+    "along-came-a-spider",
+    "arkansas",
+    "detective-conan-the-scarlet-bullet",
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "raging-fire"
   ]
 }

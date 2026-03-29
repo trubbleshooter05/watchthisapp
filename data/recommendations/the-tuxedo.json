@@ -10,26 +10,175 @@
       "Comedy",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Tuxedo works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "thriller",
+      "action",
+      "comedy",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 607,
+      "title": "Men in Black",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Men in Black (1997) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 39514,
+      "title": "RED",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, RED (2010) is a strong next stop: both trade in thriller and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "comedy",
+        "adventure",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 453405,
+      "title": "Gemini Man",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Gemini Man (2019) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1103,
+      "title": "Escape from New York",
+      "year": 1981,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Escape from New York (1981) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1946,
+      "title": "eXistenZ",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, eXistenZ (1999) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 754,
+      "title": "Face/Off",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Face/Off (1997) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 993710,
+      "title": "Back in Action",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Back in Action (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9882,
+      "title": "The Siege",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, The Siege (1998) is a strong next stop: both trade in thriller and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4912,
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Tuxedo clicked for you, Confessions of a Dangerous Mind (2002) is a strong next stop: both trade in thriller and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "comedy",
+        "crime",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Tuxedo?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Tuxedo?",
+      "answer": "Try Men in Black, RED, Gemini Man—each shares DNA with The Tuxedo while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Tuxedo?",
+      "answer": "The Tuxedo (2002) is best described as Thriller, Action, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Tuxedo worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this thriller lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "lake-placid",
+    "24-hours-to-live",
+    "40-acres",
+    "6-underground",
+    "afterburn",
+    "aliens",
+    "armageddon"
   ]
 }

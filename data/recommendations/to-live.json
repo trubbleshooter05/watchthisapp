@@ -9,26 +9,161 @@
       "Romance",
       "War"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto To Live (1994) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and romance blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "romance",
+      "war",
+      "crowd-favorite"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 4922,
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If To Live clicked for you, The Curious Case of Benjamin Button (2008) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4478,
+      "title": "Indecent Proposal",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If To Live clicked for you, Indecent Proposal (1993) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4688,
+      "title": "Across the Universe",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If To Live clicked for you, Across the Universe (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If To Live clicked for you, Lust, Caution (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "action",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4587,
+      "title": "Mermaids",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If To Live clicked for you, Mermaids (1990) is a strong next stop: both trade in drama and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 18093,
+      "title": "Northanger Abbey",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If To Live clicked for you, Northanger Abbey (2007) is a strong next stop: both trade in drama and romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance",
+        "tv-movie"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4982,
+      "title": "American Gangster",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If To Live clicked for you, American Gangster (2007) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5336,
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1976,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If To Live clicked for you, Salò, or the 120 Days of Sodom (1976) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 255709,
+      "title": "Hope",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If To Live clicked for you, Hope (2013) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10404,
+      "title": "Raise the Red Lantern",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If To Live clicked for you, Raise the Red Lantern (1991) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to To Live?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after To Live?",
+      "answer": "Try The Curious Case of Benjamin Button, Indecent Proposal, Across the Universe—each shares DNA with To Live while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is To Live?",
+      "answer": "To Live (1994) is best described as Drama, Romance, War. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is To Live worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "alexander",
+    "all-things-fair",
+    "allied",
+    "barry-lyndon",
+    "legends-of-the-fall",
+    "the-english-patient",
+    "10-things-i-hate-about-you"
   ]
 }

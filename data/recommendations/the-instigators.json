@@ -8,26 +8,162 @@
       "Crime",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Instigators (2024) stuck because it commits to its crime premise without apologizing—viewers remember set pieces and momentum as much as plot. Doug Liman's control of tone keeps the ride coherent. The crime and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 512195,
+      "title": "Red Notice",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Red Notice (2021) is a strong next stop: both trade in crime and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 134374,
+      "title": "Pain & Gain",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Pain & Gain (2013) is a strong next stop: both trade in crime and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21629,
+      "title": "Stir Crazy",
+      "year": 1980,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Stir Crazy (1980) is a strong next stop: both trade in crime and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1106289,
+      "title": "The Pickup",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Instigators clicked for you, The Pickup (2025) is a strong next stop: both trade in crime and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 339403,
+      "title": "Baby Driver",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Baby Driver (2017) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1422,
+      "title": "The Departed",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Instigators clicked for you, The Departed (2006) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 500,
+      "title": "Reservoir Dogs",
+      "year": 1992,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Reservoir Dogs (1992) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 629,
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Instigators clicked for you, The Usual Suspects (1995) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 949,
+      "title": "Heat",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Instigators clicked for you, Heat (1995) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 168672,
+      "title": "American Hustle",
+      "year": 2013,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Instigators clicked for you, American Hustle (2013) is a strong next stop: both trade in crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Instigators?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Instigators?",
+      "answer": "Try Red Notice, Pain & Gain, Stir Crazy—each shares DNA with The Instigators while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Instigators?",
+      "answer": "The Instigators (2024) is best described as Crime, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Instigators worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "ace-ventura-pet-detective",
+    "adaptation",
+    "almost-cops"
   ]
 }

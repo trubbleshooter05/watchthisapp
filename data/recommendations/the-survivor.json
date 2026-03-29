@@ -9,26 +9,170 @@
       "Action",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Survivor for the same reason it broke through in 2022: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Barry Levinson keeps the ensemble pointed in one direction. The history and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "history",
+      "action",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13813,
+      "title": "Defiance",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Defiance (2008) is a strong next stop: both trade in history and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10839,
+      "title": "Cross of Iron",
+      "year": 1977,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Cross of Iron (1977) is a strong next stop: both trade in history and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11358,
+      "title": "Walking Tall",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Walking Tall (2004) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15070,
+      "title": "Undisputed",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Undisputed (2002) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10413,
+      "title": "Nowhere to Run",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Nowhere to Run (1993) is a strong next stop: both trade in action and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 127560,
+      "title": "The Railway Man",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Survivor clicked for you, The Railway Man (2013) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19277,
+      "title": "In Hell",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Survivor clicked for you, In Hell (2003) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 491926,
+      "title": "Resistance",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Survivor clicked for you, Resistance (2020) is a strong next stop: both trade in history and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489245,
+      "title": "The Kill Team",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Survivor clicked for you, The Kill Team (2019) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13922,
+      "title": "The Great Raid",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Survivor clicked for you, The Great Raid (2005) is a strong next stop: both trade in history and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "history",
+        "action",
+        "war"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Survivor?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Survivor?",
+      "answer": "Try Defiance, Cross of Iron, Walking Tall—each shares DNA with The Survivor while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Survivor?",
+      "answer": "The Survivor (2022) is best described as History, Action, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Survivor worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this history lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "12-strong",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "a-taxi-driver",
+    "alexander",
+    "apocalypto",
+    "braveheart",
+    "chernobyl-abyss"
   ]
 }

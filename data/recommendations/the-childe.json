@@ -9,26 +9,170 @@
       "Thriller",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Childe works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "thriller",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 111,
+      "title": "Scarface",
+      "year": 1983,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Childe clicked for you, Scarface (1983) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4836,
+      "title": "Layer Cake",
+      "year": 2004,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Childe clicked for you, Layer Cake (2004) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2085,
+      "title": "Romeo Must Die",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Childe clicked for you, Romeo Must Die (2000) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10651,
+      "title": "The Dead Pool",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Childe clicked for you, The Dead Pool (1988) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 974453,
+      "title": "Absolution",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Childe clicked for you, Absolution (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13641,
+      "title": "The Air I Breathe",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Childe clicked for you, The Air I Breathe (2007) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1017163,
+      "title": "The Roundup 4: Punishment",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Childe clicked for you, The Roundup 4: Punishment (2024) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23538,
+      "title": "A Dirty Carnival",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Childe clicked for you, A Dirty Carnival (2006) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 554972,
+      "title": "Unstoppable",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Childe clicked for you, Unstoppable (2018) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 28410,
+      "title": "Tuff Turf",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Childe clicked for you, Tuff Turf (1985) is a strong next stop: both trade in action and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Childe?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Childe?",
+      "answer": "Try Scarface, Layer Cake, Romeo Must Die—each shares DNA with The Childe while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Childe?",
+      "answer": "The Childe (2023) is best described as Action, Thriller, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Childe worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "40-acres",
+    "71",
+    "allied",
+    "along-with-the-gods-the-two-worlds",
+    "ambulance",
+    "assassination"
   ]
 }

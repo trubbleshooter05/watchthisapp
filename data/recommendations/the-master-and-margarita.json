@@ -8,26 +8,162 @@
       "Fantasy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Master and Margarita (2024) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Michael Lockshin's control of tone keeps the ride coherent. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 497,
+      "title": "The Green Mile",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, The Green Mile (1999) is a strong next stop: both trade in fantasy and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 311,
+      "title": "Once Upon a Time in America",
+      "year": 1984,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Once Upon a Time in America (1984) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15121,
+      "title": "The Sound of Music",
+      "year": 1965,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, The Sound of Music (1965) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "family",
+        "music",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 294016,
+      "title": "Trumbo",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Trumbo (2015) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 445,
+      "title": "Caché",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Caché (2005) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11086,
+      "title": "The Majestic",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, The Majestic (2001) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 267192,
+      "title": "Genius",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Genius (2016) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 18254,
+      "title": "Reds",
+      "year": 1981,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Reds (1981) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13573,
+      "title": "The United States of Leland",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, The United States of Leland (2003) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8289,
+      "title": "Gorky Park",
+      "year": 1983,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Master and Margarita clicked for you, Gorky Park (1983) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Master and Margarita?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Master and Margarita?",
+      "answer": "Try The Green Mile, Once Upon a Time in America, The Sound of Music—each shares DNA with The Master and Margarita while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Master and Margarita?",
+      "answer": "The Master and Margarita (2024) is best described as Fantasy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Master and Margarita worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "17-again",
+    "47-ronin",
+    "a-big-bold-beautiful-journey",
+    "a-christmas-carol",
+    "a-dogs-purpose",
+    "a-dogs-will",
+    "a-whisker-away"
   ]
 }

@@ -9,26 +9,165 @@
       "Crime",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Untold Story (1993) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Herman Yau's control of tone keeps the ride coherent. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "crime",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 5236,
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Kiss Kiss Bang Bang (2005) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 74306,
+      "title": "God Bless America",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, God Bless America (2012) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 27004,
+      "title": "Ca$h",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Ca$h (2010) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5052,
+      "title": "Topkapi",
+      "year": 1964,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Topkapi (1964) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 367462,
+      "title": "68 Kill",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, 68 Kill (2017) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9725,
+      "title": "Friday the 13th Part 2",
+      "year": 1981,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Friday the 13th Part 2 (1981) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 395458,
+      "title": "Suburbicon",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Suburbicon (2017) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9728,
+      "title": "Friday the 13th Part III",
+      "year": 1982,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Friday the 13th Part III (1982) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9411,
+      "title": "Fallen",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Untold Story clicked for you, Fallen (1998) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Untold Story?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Untold Story?",
+      "answer": "Try Kiss Kiss Bang Bang, God Bless America, Ca$h—each shares DNA with The Untold Story while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Untold Story?",
+      "answer": "The Untold Story (1993) is best described as Comedy, Crime, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Untold Story part of a franchise?",
+      "answer": "Yes—it's part of the \"The Untold Story Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "ebola-syndrome",
+    "the-voices",
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "a-fantastic-fear-of-everything"
   ]
 }

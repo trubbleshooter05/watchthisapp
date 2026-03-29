@@ -11,26 +11,178 @@
       "Drama",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The King of Kings (2025) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "family",
+      "fantasy",
+      "drama",
+      "crowd-favorite"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in animation and family, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "drama",
+        "adventure",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 995133,
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, The Boy, the Mole, the Fox and the Horse (2022) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 645757,
+      "title": "That Christmas",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, That Christmas (2024) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9325,
+      "title": "The Jungle Book",
+      "year": 1967,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, The Jungle Book (1967) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10530,
+      "title": "Pocahontas",
+      "year": 1995,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, Pocahontas (1995) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, Christopher Robin (2018) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 170687,
+      "title": "The Boxtrolls",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, The Boxtrolls (2014) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13313,
+      "title": "Beauty and the Beast: The Enchanted Christmas",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The King of Kings clicked for you, Beauty and the Beast: The Enchanted Christmas (1997) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The King of Kings?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The King of Kings?",
+      "answer": "Try The Lion King II: Simba's Pride, The Boy, the Mole, the Fox and the Horse, That Christmas—each shares DNA with The King of Kings while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The King of Kings?",
+      "answer": "The King of Kings (2025) is best described as Animation, Family, Fantasy, Drama, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The King of Kings worth revisiting?",
+      "answer": "Viewer scores sit around 8.3/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "mirai",
+    "pok-mon-the-movie-white-victini-and-zekrom",
+    "the-boy-and-the-beast",
+    "the-boy-and-the-heron",
+    "the-cat-returns",
+    "a-christmas-carol",
+    "a-dogs-purpose"
   ]
 }

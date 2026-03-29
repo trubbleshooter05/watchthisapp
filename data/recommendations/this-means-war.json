@@ -9,26 +9,161 @@
       "Comedy",
       "Romance"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "This Means War works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "romance",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 8488,
+      "title": "Hitch",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If This Means War clicked for you, Hitch (2005) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4379,
+      "title": "Monster-in-Law",
+      "year": 2005,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If This Means War clicked for you, Monster-in-Law (2005) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 209263,
+      "title": "Enough Said",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If This Means War clicked for you, Enough Said (2013) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 523773,
+      "title": "Little Italy",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If This Means War clicked for you, Little Italy (2018) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4587,
+      "title": "Mermaids",
+      "year": 1990,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If This Means War clicked for you, Mermaids (1990) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9688,
+      "title": "Melinda and Melinda",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If This Means War clicked for you, Melinda and Melinda (2004) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 860159,
+      "title": "Crush",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If This Means War clicked for you, Crush (2022) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1321439,
+      "title": "The Wrong Paris",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If This Means War clicked for you, The Wrong Paris (2025) is a strong next stop: both trade in comedy and romance, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4944,
+      "title": "Burn After Reading",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If This Means War clicked for you, Burn After Reading (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 762975,
+      "title": "Purple Hearts",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If This Means War clicked for you, Purple Hearts (2022) is a strong next stop: both trade in romance, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to This Means War?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after This Means War?",
+      "answer": "Try Hitch, Monster-in-Law, Enough Said—each shares DNA with This Means War while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is This Means War?",
+      "answer": "This Means War (2012) is best described as Action, Comedy, Romance. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is This Means War worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "city-hunter",
+    "dragons-forever",
+    "ghosted",
+    "gorgeous",
+    "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
   ]
 }

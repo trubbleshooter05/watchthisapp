@@ -9,26 +9,175 @@
       "Fantasy",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Vampire Hunter D works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "fantasy",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 919,
+      "title": "Blood: The Last Vampire",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Blood: The Last Vampire (2000) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 39145,
+      "title": "Dragon Ball: Sleeping Princess in Devil's Castle",
+      "year": 1987,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Dragon Ball: Sleeping Princess in Devil's Castle (1987) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13204,
+      "title": "Hellboy Animated: Blood and Iron",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Hellboy Animated: Blood and Iron (2007) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "horror",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 48624,
+      "title": "Urotsukidōji: Legend of the Overfiend",
+      "year": 1989,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Urotsukidōji: Legend of the Overfiend (1989) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "horror",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Wendell & Wild (2022) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 357786,
+      "title": "Kizumonogatari Part 1: Tekketsu",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Kizumonogatari Part 1: Tekketsu (2016) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "drama",
+        "mystery",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1203329,
+      "title": "The Witcher: Sirens of the Deep",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, The Witcher: Sirens of the Deep (2025) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 362585,
+      "title": "Kizumonogatari Part 3: Reiketsu",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Kizumonogatari Part 3: Reiketsu (2017) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 362584,
+      "title": "Kizumonogatari Part 2: Nekketsu",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, Kizumonogatari Part 2: Nekketsu (2016) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 791348,
+      "title": "DC Showcase - Constantine: The House of Mystery",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Vampire Hunter D clicked for you, DC Showcase - Constantine: The House of Mystery (2022) is a strong next stop: both trade in animation and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "horror",
+        "action",
+        "adventure"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Vampire Hunter D?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Vampire Hunter D?",
+      "answer": "Try Blood: The Last Vampire, Dragon Ball: Sleeping Princess in Devil's Castle, Hellboy Animated: Blood and Iron—each shares DNA with Vampire Hunter D while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Vampire Hunter D?",
+      "answer": "Vampire Hunter D (1985) is best described as Animation, Fantasy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Vampire Hunter D part of a franchise?",
+      "answer": "Yes—it's part of the \"Vampire Hunter D Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "urotsukid-ji-legend-of-the-overfiend",
+    "vampire-hunter-d-bloodlust",
+    "a-christmas-carol",
+    "a-whisker-away",
+    "abominable",
+    "abraham-lincoln-vampire-hunter"
   ]
 }

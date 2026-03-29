@@ -11,26 +11,172 @@
       "Adventure",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Pink Panther for the same reason it broke through in 2006: clear stakes, memorable faces, and a mystery rhythm that doesn't stall in the middle. Shawn Levy keeps the ensemble pointed in one direction. The comedy and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "mystery",
+      "crime",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 638974,
+      "title": "Murder Mystery 2",
+      "year": 2023,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Murder Mystery 2 (2023) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11843,
+      "title": "The Return of the Pink Panther",
+      "year": 1975,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, The Return of the Pink Panther (1975) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1594,
+      "title": "A Shot in the Dark",
+      "year": 1964,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, A Shot in the Dark (1964) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36568,
+      "title": "Paulie",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Paulie (1998) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16340,
+      "title": "Rugrats in Paris: The Movie",
+      "year": 2000,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Rugrats in Paris: The Movie (2000) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6081,
+      "title": "Revenge of the Pink Panther",
+      "year": 1978,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Revenge of the Pink Panther (1978) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 32916,
+      "title": "Scooby-Doo! Abracadabra-Doo",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Scooby-Doo! Abracadabra-Doo (2010) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 514999,
+      "title": "Murder Mystery",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Murder Mystery (2019) is a strong next stop: both trade in comedy and mystery, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11001,
+      "title": "Blue Streak",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Blue Streak (1999) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13685,
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Pink Panther clicked for you, Bottle Rocket (1996) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Pink Panther?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Pink Panther?",
+      "answer": "Try Murder Mystery 2, The Return of the Pink Panther, A Shot in the Dark—each shares DNA with The Pink Panther while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Pink Panther?",
+      "answer": "The Pink Panther (2006) is best described as Comedy, Mystery, Crime, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Pink Panther part of a franchise?",
+      "answer": "Yes—it's part of the \"The Pink Panther (Steve Martin) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "babys-day-out",
+    "chip-n-dale-rescue-rangers",
+    "hoodwinked",
+    "the-bad-guys-2",
+    "zootopia-2",
+    "3-ninjas",
+    "a-bugs-life"
   ]
 }

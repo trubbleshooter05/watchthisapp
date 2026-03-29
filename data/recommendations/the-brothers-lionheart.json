@@ -9,26 +9,174 @@
       "Fantasy",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Brothers Lionheart (1977) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Olle Hellbom's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "fantasy",
+      "family",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, Miss Peregrine's Home for Peculiar Children (2016) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 82702,
+      "title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, How to Train Your Dragon 2 (2014) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "action",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2454,
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "year": 2008,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, The Chronicles of Narnia: Prince Caspian (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, Onward (2020) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, Tinker Bell and the Lost Treasure (2009) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Brothers Lionheart clicked for you, Night at the Museum (2006) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Brothers Lionheart?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Brothers Lionheart?",
+      "answer": "Try The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Miss Peregrine's Home for Peculiar Children, How to Train Your Dragon 2—each shares DNA with The Brothers Lionheart while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Brothers Lionheart?",
+      "answer": "The Brothers Lionheart (1977) is best described as Adventure, Fantasy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Brothers Lionheart worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "abominable",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass"
   ]
 }

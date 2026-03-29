@@ -11,26 +11,171 @@
       "Drama",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Napping Princess (2017) stuck because it commits to its fantasy premise without apologizing—viewers remember set pieces and momentum as much as plot. Kenji Kamiyama's control of tone keeps the ride coherent. The fantasy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "adventure",
+      "animation",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 265712,
+      "title": "Stand by Me Doraemon",
+      "year": 2014,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, Stand by Me Doraemon (2014) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 604605,
+      "title": "Hello World",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, Hello World (2019) is a strong next stop: both trade in animation and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "drama",
+        "science-fiction",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1362,
+      "title": "The Hobbit",
+      "year": 1977,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, The Hobbit (1977) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877957,
+      "title": "Drifting Home",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, Drifting Home (2022) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1124,
+      "title": "The Prestige",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, The Prestige (2006) is a strong next stop: both trade in drama and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1491,
+      "title": "The Illusionist",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, The Illusionist (2006) is a strong next stop: both trade in fantasy and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 3509,
+      "title": "A Scanner Darkly",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, A Scanner Darkly (2006) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 28874,
+      "title": "Summer Wars",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, Summer Wars (2009) is a strong next stop: both trade in animation and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1429,
+      "title": "25th Hour",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, 25th Hour (2002) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1788,
+      "title": "Footloose",
+      "year": 1984,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Napping Princess clicked for you, Footloose (1984) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Napping Princess?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Napping Princess?",
+      "answer": "Try Stand by Me Doraemon, Hello World, The Hobbit—each shares DNA with Napping Princess while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Napping Princess?",
+      "answer": "Napping Princess (2017) is best described as Fantasy, Adventure, Animation, Drama, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Napping Princess worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "arco",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "deep-sea",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-dinosaur"
   ]
 }

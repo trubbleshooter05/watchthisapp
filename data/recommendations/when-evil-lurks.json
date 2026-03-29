@@ -8,26 +8,167 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto When Evil Lurks (2023) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 760104,
+      "title": "X",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, X (2022) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10331,
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, Night of the Living Dead (1968) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 83899,
+      "title": "You're Next",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, You're Next (2013) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1248,
+      "title": "Hannibal Rising",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, Hannibal Rising (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1547,
+      "title": "The Lost Boys",
+      "year": 1987,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, The Lost Boys (1987) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 601844,
+      "title": "Becky",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, Becky (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 630392,
+      "title": "The Cursed",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, The Cursed (2021) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 759902,
+      "title": "Hunter Hunter",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, Hunter Hunter (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24655,
+      "title": "The Car",
+      "year": 1977,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, The Car (1977) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14397,
+      "title": "Whisper",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If When Evil Lurks clicked for you, Whisper (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to When Evil Lurks?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after When Evil Lurks?",
+      "answer": "Try X, Night of the Living Dead, You're Next—each shares DNA with When Evil Lurks while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is When Evil Lurks?",
+      "answer": "When Evil Lurks (2023) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is When Evil Lurks part of a franchise?",
+      "answer": "Yes—it's part of the \"When Evil Lurks Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

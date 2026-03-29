@@ -10,26 +10,176 @@
       "War",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Saga of Tanya the Evil: The Movie works as a animation movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "action",
+      "war",
+      "fantasy",
+      "crowd-favorite"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 390634,
+      "title": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, Fate/stay night: Heaven's Feel II. Lost Butterfly (2019) is a strong next stop: both trade in animation and action, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1271,
+      "title": "300",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, 300 (2007) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1734,
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, The Mummy Returns (2001) is a strong next stop: both trade in action and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1369,
+      "title": "Rambo: First Blood Part II",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, Rambo: First Blood Part II (1985) is a strong next stop: both trade in action and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "war",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 390734,
+      "title": "Kingsglaive: Final Fantasy XV",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, Kingsglaive: Final Fantasy XV (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 532067,
+      "title": "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, KONOSUBA – God's blessing on this wonderful world! Legend of Crimson (2019) is a strong next stop: both trade in animation and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 843241,
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, The Seven Deadly Sins: Cursed by Light (2021) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 445030,
+      "title": "No Game, No Life: Zero",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, No Game, No Life: Zero (2017) is a strong next stop: both trade in animation and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1362,
+      "title": "The Hobbit",
+      "year": 1977,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Saga of Tanya the Evil: The Movie clicked for you, The Hobbit (1977) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "family",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Saga of Tanya the Evil: The Movie?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Saga of Tanya the Evil: The Movie?",
+      "answer": "Try Fate/stay night: Heaven's Feel II. Lost Butterfly, 300, The Mummy Returns—each shares DNA with Saga of Tanya the Evil: The Movie while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Saga of Tanya the Evil: The Movie?",
+      "answer": "Saga of Tanya the Evil: The Movie (2019) is best described as Animation, Action, War, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Saga of Tanya the Evil: The Movie worth revisiting?",
+      "answer": "Viewer scores sit around 8.1/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "aztec-batman-clash-of-empires",
+    "baki-hanma-vs-kengan-ashura",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "black-clover-sword-of-the-wizard-king",
+    "boruto-naruto-the-movie"
   ]
 }

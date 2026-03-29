@@ -10,26 +10,175 @@
       "Thriller",
       "Crime"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Patriot Games (1992) stuck because it commits to its drama premise without apologizing—viewers remember set pieces and momentum as much as plot. Phillip Noyce's control of tone keeps the ride coherent. The drama and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "action",
+      "thriller",
+      "crime",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 2112,
+      "title": "Payback",
+      "year": 1999,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, Payback (1999) is a strong next stop: both trade in drama and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in drama and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 51209,
+      "title": "Kill the Irishman",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, Kill the Irishman (2011) is a strong next stop: both trade in drama and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2503,
+      "title": "The Bourne Ultimatum",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, The Bourne Ultimatum (2007) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 379149,
+      "title": "The Foreigner",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, The Foreigner (2017) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, The Jackal (1997) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4614,
+      "title": "The Sum of All Fears",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, The Sum of All Fears (2002) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9331,
+      "title": "Clear and Present Danger",
+      "year": 1994,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, Clear and Present Danger (1994) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4169,
+      "title": "Breach",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, Breach (2007) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime",
+        "history"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 976734,
+      "title": "Canary Black",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Patriot Games clicked for you, Canary Black (2024) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Patriot Games?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Patriot Games?",
+      "answer": "Try Payback, In the Line of Fire, Kill the Irishman—each shares DNA with Patriot Games while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Patriot Games?",
+      "answer": "Patriot Games (1992) is best described as Drama, Action, Thriller, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Patriot Games part of a franchise?",
+      "answer": "Yes—it's part of the \"The Jack Ryan Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "ambulance",
+    "blood-and-bone",
+    "boyka-undisputed-iv",
+    "bullet-train-explosion",
+    "cellular",
+    "code-of-silence",
+    "colombiana"
   ]
 }

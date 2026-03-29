@@ -9,26 +9,171 @@
       "Action",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit The Mummy: Tomb of the Dragon Emperor for the same reason it broke through in 2008: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Rob Cohen keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "action",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 564,
+      "title": "The Mummy",
+      "year": 1999,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Mummy (1999) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1734,
+      "title": "The Mummy Returns",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Mummy Returns (2001) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, Highlander (1986) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8840,
+      "title": "DragonHeart",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, DragonHeart (1996) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 839033,
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Lord of the Rings: The War of the Rohirrim (2024) is a strong next stop: both trade in adventure and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11688,
+      "title": "The Emperor's New Groove",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, The Emperor's New Groove (2000) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7131,
+      "title": "Van Helsing",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Mummy: Tomb of the Dragon Emperor clicked for you, Van Helsing (2004) is a strong next stop: both trade in adventure and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Mummy: Tomb of the Dragon Emperor?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Mummy: Tomb of the Dragon Emperor?",
+      "answer": "Try The Lord of the Rings: The Return of the King, The Mummy, The Mummy Returns—each shares DNA with The Mummy: Tomb of the Dragon Emperor while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Mummy: Tomb of the Dragon Emperor?",
+      "answer": "The Mummy: Tomb of the Dragon Emperor (2008) is best described as Adventure, Action, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Mummy: Tomb of the Dragon Emperor part of a franchise?",
+      "answer": "Yes—it's part of the \"The Mummy Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds"
   ]
 }

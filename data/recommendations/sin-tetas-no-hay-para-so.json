@@ -8,26 +8,164 @@
       "Crime",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Sin tetas no hay paraíso for the same reason it broke through in 2010: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Gustavo Bolívar keeps the ensemble pointed in one direction. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 171337,
+      "title": "Siberian Education",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Siberian Education (2013) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, The Enforcer (2022) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8284,
+      "title": "The Limits of Control",
+      "year": 2009,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, The Limits of Control (2009) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 172226,
+      "title": "In Secret",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, In Secret (2014) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19092,
+      "title": "Above the Rim",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Above the Rim (1994) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 95755,
+      "title": "Small Apartments",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Small Apartments (2012) is a strong next stop: both trade in crime and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12888,
+      "title": "Belly",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Belly (1998) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 16056,
+      "title": "Winged Creatures",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Winged Creatures (2009) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20637,
+      "title": "Panic",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Panic (2000) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13369,
+      "title": "Empire",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sin tetas no hay paraíso clicked for you, Empire (2002) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sin tetas no hay paraíso?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sin tetas no hay paraíso?",
+      "answer": "Try Siberian Education, The Enforcer, The Limits of Control—each shares DNA with Sin tetas no hay paraíso while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sin tetas no hay paraíso?",
+      "answer": "Sin tetas no hay paraíso (2010) is best described as Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sin tetas no hay paraíso worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "21",
+    "21-bridges",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
+    "a-brighter-summer-day",
+    "a-bronx-tale",
+    "a-history-of-violence"
   ]
 }

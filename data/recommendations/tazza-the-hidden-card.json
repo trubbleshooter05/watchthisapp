@@ -8,26 +8,159 @@
       "Crime",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Tazza: The Hidden Card (2014) as a crime theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The crime and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "crime",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 13641,
+      "title": "The Air I Breathe",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, The Air I Breathe (2007) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 541,
+      "title": "The Man with the Golden Arm",
+      "year": 1955,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, The Man with the Golden Arm (1955) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 19092,
+      "title": "Above the Rim",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Above the Rim (1994) is a strong next stop: both trade in crime and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 12888,
+      "title": "Belly",
+      "year": 1998,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Belly (1998) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31850,
+      "title": "Breathless",
+      "year": 2009,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Breathless (2009) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31863,
+      "title": "True Believer",
+      "year": 1989,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, True Believer (1989) is a strong next stop: both trade in crime and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13804,
+      "title": "Fast & Furious",
+      "year": 2009,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Fast & Furious (2009) is a strong next stop: both trade in crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14291,
+      "title": "Searching for Bobby Fischer",
+      "year": 1993,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Searching for Bobby Fischer (1993) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20857,
+      "title": "Hardball",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, Hardball (2001) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 955555,
+      "title": "The Roundup 3: No Way Out",
+      "year": 2023,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Tazza: The Hidden Card clicked for you, The Roundup 3: No Way Out (2023) is a strong next stop: both trade in crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "crime",
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Tazza: The Hidden Card?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Tazza: The Hidden Card?",
+      "answer": "Try The Air I Breathe, The Man with the Golden Arm, Above the Rim—each shares DNA with Tazza: The Hidden Card while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Tazza: The Hidden Card?",
+      "answer": "Tazza: The Hidden Card (2014) is best described as Crime, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Tazza: The Hidden Card part of a franchise?",
+      "answer": "Yes—it's part of the \"Tazza Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "21",
+    "21-bridges",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
+    "a-brighter-summer-day",
+    "a-bronx-tale",
+    "a-history-of-violence"
   ]
 }

@@ -9,26 +9,171 @@
       "Adventure",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Dukes of Hazzard works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "adventure",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 463272,
+      "title": "Johnny English Strikes Again",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Johnny English Strikes Again (2018) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1368,
+      "title": "First Blood",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, First Blood (1982) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9394,
+      "title": "They Call Me Trinity",
+      "year": 1970,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, They Call Me Trinity (1970) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "western"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11967,
+      "title": "Young Guns",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Young Guns (1988) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1013860,
+      "title": "R.I.P.D. 2: Rise of the Damned",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, R.I.P.D. 2: Rise of the Damned (2022) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Defendor (2009) is a strong next stop: both trade in comedy and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 65215,
+      "title": "Stewie Griffin: The Untold Story",
+      "year": 2005,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Stewie Griffin: The Untold Story (2005) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5172,
+      "title": "The Astronaut Farmer",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, The Astronaut Farmer (2007) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7443,
+      "title": "Chicken Run",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Chicken Run (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9598,
+      "title": "Babe",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Dukes of Hazzard clicked for you, Babe (1995) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "drama",
+        "family"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Dukes of Hazzard?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Dukes of Hazzard?",
+      "answer": "Try Johnny English Strikes Again, First Blood, They Call Me Trinity—each shares DNA with The Dukes of Hazzard while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Dukes of Hazzard?",
+      "answer": "The Dukes of Hazzard (2005) is best described as Comedy, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Dukes of Hazzard part of a franchise?",
+      "answer": "Yes—it's part of the \"The Dukes of Hazzard (Reboot) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "3-ninjas",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "argylle",
+    "armour-of-god",
+    "around-the-world-in-80-days",
+    "big-hero-6"
   ]
 }

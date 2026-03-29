@@ -9,26 +9,166 @@
       "Adventure",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Timeline (2003) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "adventure",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 49529,
+      "title": "John Carter",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Timeline clicked for you, John Carter (2012) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2135,
+      "title": "The Time Machine",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Timeline clicked for you, The Time Machine (2002) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12914,
+      "title": "Stargate: Continuum",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Timeline clicked for you, Stargate: Continuum (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 41154,
+      "title": "Men in Black 3",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Timeline clicked for you, Men in Black 3 (2012) is a strong next stop: both trade in action and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1576,
+      "title": "Resident Evil",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Timeline clicked for you, Resident Evil (2002) is a strong next stop: both trade in action and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 696806,
+      "title": "The Adam Project",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Timeline clicked for you, The Adam Project (2022) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2789,
+      "title": "The Chronicles of Riddick",
+      "year": 2004,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Timeline clicked for you, The Chronicles of Riddick (2004) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9476,
+      "title": "A Knight's Tale",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Timeline clicked for you, A Knight's Tale (2001) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1648,
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Timeline clicked for you, Bill & Ted's Excellent Adventure (1989) is a strong next stop: both trade in adventure and science fiction, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 455839,
+      "title": "Time Trap",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Timeline clicked for you, Time Trap (2018) is a strong next stop: both trade in adventure and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Timeline?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Timeline?",
+      "answer": "Try John Carter, The Time Machine, Stargate: Continuum—each shares DNA with Timeline while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Timeline?",
+      "answer": "Timeline (2003) is best described as Action, Adventure, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Timeline worth revisiting?",
+      "answer": "Viewer scores sit around 5.7/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2012",
+    "65",
+    "alienoid",
+    "alita-battle-angel",
+    "allegiant",
+    "ant-man",
+    "ant-man-and-the-wasp"
   ]
 }

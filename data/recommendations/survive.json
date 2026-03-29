@@ -10,26 +10,168 @@
       "Adventure",
       "Action"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Survive (2024) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Frédéric Jardin's control of tone keeps the ride coherent. The science fiction and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "thriller",
+      "adventure",
+      "action",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 324670,
+      "title": "Spectral",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Survive clicked for you, Spectral (2016) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 760741,
+      "title": "Beast",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Survive clicked for you, Beast (2022) is a strong next stop: both trade in thriller and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 522016,
+      "title": "The 355",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Survive clicked for you, The 355 (2022) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 831946,
+      "title": "Interceptor",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Survive clicked for you, Interceptor (2022) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 760926,
+      "title": "Gold",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Survive clicked for you, Gold (2022) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1167271,
+      "title": "Weekend in Taipei",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Survive clicked for you, Weekend in Taipei (2024) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 270771,
+      "title": "The Last Survivors",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Survive clicked for you, The Last Survivors (2014) is a strong next stop: both trade in science fiction and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 572751,
+      "title": "Seized",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Survive clicked for you, Seized (2020) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1280450,
+      "title": "Stolen Girl",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Survive clicked for you, Stolen Girl (2025) is a strong next stop: both trade in thriller and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12528,
+      "title": "Southern Comfort",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Survive clicked for you, Southern Comfort (1981) is a strong next stop: both trade in thriller and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Survive?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Survive?",
+      "answer": "Try Spectral, Beast, The 355—each shares DNA with Survive while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Survive?",
+      "answer": "Survive (2024) is best described as Science Fiction, Thriller, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Survive worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "armageddon",
+    "battleship",
+    "futureworld",
+    "g-i-joe-retaliation",
+    "g-i-joe-the-rise-of-cobra",
+    "gemini-man",
+    "greenland"
   ]
 }

@@ -9,26 +9,171 @@
       "Thriller",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Seeds of Yesterday (2015) as a tv movie theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The tv movie and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "tv-movie",
+      "thriller",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 157351,
+      "title": "The Truth About Emanuel",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, The Truth About Emanuel (2013) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15360,
+      "title": "The Night Stalker",
+      "year": 1972,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, The Night Stalker (1972) is a strong next stop: both trade in tv movie and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "thriller",
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 108204,
+      "title": "Double Teamed!",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, Double Teamed! (2002) is a strong next stop: both trade in tv movie and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 328848,
+      "title": "Murder, She Baked: A Chocolate Chip Cookie Mystery",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, Murder, She Baked: A Chocolate Chip Cookie Mystery (2015) is a strong next stop: both trade in tv movie and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 383256,
+      "title": "Love Finds You in Valentine",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, Love Finds You in Valentine (2016) is a strong next stop: both trade in tv movie and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 874260,
+      "title": "A Kiss Before Christmas",
+      "year": 2021,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, A Kiss Before Christmas (2021) is a strong next stop: both trade in tv movie and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 939575,
+      "title": "Love, Classified",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, Love, Classified (2022) is a strong next stop: both trade in tv movie and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 601701,
+      "title": "After the Storm",
+      "year": 2019,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, After the Storm (2019) is a strong next stop: both trade in tv movie and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 72753,
+      "title": "Alley Cats Strike",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, Alley Cats Strike (2000) is a strong next stop: both trade in tv movie and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 944946,
+      "title": "A Royal Runaway Romance",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Seeds of Yesterday clicked for you, A Royal Runaway Romance (2022) is a strong next stop: both trade in tv movie and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "tv-movie",
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Seeds of Yesterday?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Seeds of Yesterday?",
+      "answer": "Try The Truth About Emanuel, The Night Stalker, Double Teamed!—each shares DNA with Seeds of Yesterday while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Seeds of Yesterday?",
+      "answer": "Seeds of Yesterday (2015) is best described as TV Movie, Thriller, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Seeds of Yesterday part of a franchise?",
+      "answer": "Yes—it's part of the \"Flowers in the Attic Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "fatherland",
+    "sherlock-the-abominable-bride",
+    "10-cloverfield-lane",
+    "127-hours",
+    "13",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "40-acres"
   ]
 }

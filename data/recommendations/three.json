@@ -9,26 +9,167 @@
       "Drama",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Three (2005) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Stewart Raffill's control of tone keeps the ride coherent. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "adventure",
+      "drama",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 8358,
+      "title": "Cast Away",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Three clicked for you, Cast Away (2000) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 503919,
+      "title": "The Lighthouse",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Three clicked for you, The Lighthouse (2019) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1491,
+      "title": "The Illusionist",
+      "year": 2006,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Three clicked for you, The Illusionist (2006) is a strong next stop: both trade in drama and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1213,
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Three clicked for you, The Talented Mr. Ripley (1999) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 347031,
+      "title": "Swiss Army Man",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Three clicked for you, Swiss Army Man (2016) is a strong next stop: both trade in adventure and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "comedy",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 429300,
+      "title": "Adrift",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Three clicked for you, Adrift (2018) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "romance"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1247,
+      "title": "The Good Shepherd",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Three clicked for you, The Good Shepherd (2006) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13888,
+      "title": "Return to the Blue Lagoon",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Three clicked for you, Return to the Blue Lagoon (1991) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1537,
+      "title": "Changing Lanes",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Three clicked for you, Changing Lanes (2002) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1672,
+      "title": "The Professional",
+      "year": 1981,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Three clicked for you, The Professional (1981) is a strong next stop: both trade in adventure and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "thriller",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Three?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Three?",
+      "answer": "Try Cast Away, The Lighthouse, The Illusionist—each shares DNA with Three while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Three?",
+      "answer": "Three (2005) is best described as Adventure, Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Three worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "127-hours",
+    "along-with-the-gods-the-two-worlds",
+    "dantes-peak",
+    "executive-decision",
+    "gemini-man",
+    "gold",
+    "jungle"
   ]
 }

@@ -10,26 +10,179 @@
       "Comedy",
       "Family"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Popeye works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "adventure",
+      "comedy",
+      "family",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 322456,
+      "title": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Popeye clicked for you, LEGO DC Comics Super Heroes: Justice League vs. Bizarro League (2015) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 353595,
+      "title": "LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!",
+      "year": 2015,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Popeye clicked for you, LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom! (2015) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400160,
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Popeye clicked for you, The SpongeBob Movie: Sponge on the Run (2020) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 332210,
+      "title": "Storks",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Popeye clicked for you, Storks (2016) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12242,
+      "title": "Mulan II",
+      "year": 2004,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Popeye clicked for you, Mulan II (2004) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23172,
+      "title": "The Spy Next Door",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Popeye clicked for you, The Spy Next Door (2010) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 638134,
+      "title": "Pets United",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Popeye clicked for you, Pets United (2019) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16394,
+      "title": "Winnie the Pooh: Springtime with Roo",
+      "year": 2004,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Popeye clicked for you, Winnie the Pooh: Springtime with Roo (2004) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 375107,
+      "title": "Duck Duck Goose",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Popeye clicked for you, Duck Duck Goose (2018) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1104845,
+      "title": "Plankton: The Movie",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Popeye clicked for you, Plankton: The Movie (2025) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Popeye?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Popeye?",
+      "answer": "Try LEGO DC Comics Super Heroes: Justice League vs. Bizarro League, LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom!, The SpongeBob Movie: Sponge on the Run—each shares DNA with Popeye while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Popeye?",
+      "answer": "Popeye (1980) is best described as Action, Adventure, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Popeye worth revisiting?",
+      "answer": "Viewer scores sit around 5.5/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "3-ninjas",
+    "big-hero-6",
+    "despicable-me-3",
+    "dog-man",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4",
+    "night-at-the-museum-battle-of-the-smithsonian"
   ]
 }

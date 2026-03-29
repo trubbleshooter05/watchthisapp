@@ -9,26 +9,169 @@
       "Comedy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Sandlot works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "family",
+      "comedy",
+      "drama",
+      "rewatchable"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 25059,
+      "title": "Homeward Bound II: Lost in San Francisco",
+      "year": 1996,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Homeward Bound II: Lost in San Francisco (1996) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "drama",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 17908,
+      "title": "My Dog Skip",
+      "year": 2000,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, My Dog Skip (2000) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, The Secret Life of Pets 2 (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13680,
+      "title": "The Game Plan",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, The Game Plan (2007) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 263109,
+      "title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Shaun the Sheep Movie (2015) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 554241,
+      "title": "Playing with Fire",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Playing with Fire (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13446,
+      "title": "Withnail & I",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Withnail & I (1987) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21845,
+      "title": "Rookie of the Year",
+      "year": 1993,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Rookie of the Year (1993) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 495193,
+      "title": "Benji",
+      "year": 2018,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Benji (2018) is a strong next stop: both trade in family and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "drama",
+        "adventure",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 333667,
+      "title": "Rock Dog",
+      "year": 2016,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Sandlot clicked for you, Rock Dog (2016) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "adventure",
+        "music"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Sandlot?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Sandlot?",
+      "answer": "Try Homeward Bound II: Lost in San Francisco, My Dog Skip, The Secret Life of Pets 2—each shares DNA with The Sandlot while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Sandlot?",
+      "answer": "The Sandlot (1993) is best described as Family, Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Sandlot part of a franchise?",
+      "answer": "Yes—it's part of the \"The Sandlot Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "a-dogs-purpose",
+    "annie",
+    "babe",
+    "cars-3",
+    "cheaper-by-the-dozen",
+    "cj7",
+    "dangal"
   ]
 }

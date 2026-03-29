@@ -7,26 +7,157 @@
     "genres": [
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Our Family Wedding works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 1593,
+      "title": "Night at the Museum",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Night at the Museum (2006) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, A Bug's Life (1998) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1597,
+      "title": "Meet the Parents",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Meet the Parents (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 254470,
+      "title": "Pitch Perfect 2",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Pitch Perfect 2 (2015) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 55721,
+      "title": "Bridesmaids",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Bridesmaids (2011) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1542,
+      "title": "Office Space",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Office Space (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Dogma (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9494,
+      "title": "Look Who's Talking",
+      "year": 1989,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Look Who's Talking (1989) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16538,
+      "title": "I Love You, Man",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, I Love You, Man (2009) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1588,
+      "title": "Bring It On",
+      "year": 2000,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Our Family Wedding clicked for you, Bring It On (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Our Family Wedding?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Our Family Wedding?",
+      "answer": "Try Night at the Museum, A Bug's Life, Meet the Parents—each shares DNA with Our Family Wedding while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Our Family Wedding?",
+      "answer": "Our Family Wedding (2010) is best described as Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Our Family Wedding worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-things-i-hate-about-you",
+    "101-dalmatians",
+    "13-going-on-30",
+    "17-again",
+    "1941",
+    "2-guns",
+    "21-jump-street"
   ]
 }

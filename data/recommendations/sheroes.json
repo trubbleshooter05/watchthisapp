@@ -10,26 +10,171 @@
       "Crime",
       "Adventure"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Sheroes for the same reason it broke through in 2023: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Jordan Gertner keeps the ensemble pointed in one direction. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "comedy",
+      "crime",
+      "adventure",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 455236,
+      "title": "Accident Man",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Accident Man (2018) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 647785,
+      "title": "Debt Collectors",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Debt Collectors (2020) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 879444,
+      "title": "Accident Man: Hitman's Holiday",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Accident Man: Hitman's Holiday (2022) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 846433,
+      "title": "The Enforcer",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Sheroes clicked for you, The Enforcer (2022) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 945937,
+      "title": "Fast Charlie",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Fast Charlie (2023) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 848123,
+      "title": "Black Site",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Black Site (2022) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14576,
+      "title": "Shade",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Shade (2003) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 628847,
+      "title": "Trap House",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Trap House (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 27590,
+      "title": "Gotcha!",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Sheroes clicked for you, Gotcha! (1985) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 34421,
+      "title": "The Perfect Weapon",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Sheroes clicked for you, The Perfect Weapon (1991) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Sheroes?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Sheroes?",
+      "answer": "Try Accident Man, Debt Collectors, Accident Man: Hitman's Holiday—each shares DNA with Sheroes while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Sheroes?",
+      "answer": "Sheroes (2023) is best described as Action, Comedy, Crime, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Sheroes worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "kingsman-the-golden-circle",
+    "kingsman-the-secret-service",
+    "police-story-4-first-strike",
+    "red",
+    "taxi",
+    "vanguard",
+    "winners-and-sinners"
   ]
 }

@@ -10,26 +10,163 @@
       "Horror",
       "Science Fiction"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Southbound (2015) as a fantasy theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The fantasy and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "fantasy",
+      "thriller",
+      "horror",
+      "science-fiction",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 526051,
+      "title": "Look Away",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Southbound clicked for you, Look Away (2018) is a strong next stop: both trade in fantasy and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 476299,
+      "title": "Ghostland",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Southbound clicked for you, Ghostland (2018) is a strong next stop: both trade in thriller and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 241855,
+      "title": "Spring",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Southbound clicked for you, Spring (2014) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 716258,
+      "title": "Black Box",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Southbound clicked for you, Black Box (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 715123,
+      "title": "Books of Blood",
+      "year": 2020,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Southbound clicked for you, Books of Blood (2020) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 628866,
+      "title": "The Return",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Southbound clicked for you, The Return (2022) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1359,
+      "title": "American Psycho",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Southbound clicked for you, American Psycho (2000) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3021,
+      "title": "1408",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Southbound clicked for you, 1408 (2007) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Southbound clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 429417,
+      "title": "Ghost Stories",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Southbound clicked for you, Ghost Stories (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Southbound?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Southbound?",
+      "answer": "Try Look Away, Ghostland, Spring—each shares DNA with Southbound while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Southbound?",
+      "answer": "Southbound (2015) is best described as Fantasy, Thriller, Horror, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Southbound worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "underworld-blood-wars",
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "a-quiet-place-day-one"
   ]
 }

@@ -8,26 +8,167 @@
       "Drama",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto The Guilty (2021) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "drama",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 320,
+      "title": "Insomnia",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Insomnia (2002) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 388399,
+      "title": "Patriots Day",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Patriots Day (2016) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action",
+        "crime",
+        "history"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9759,
+      "title": "Cellular",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Cellular (2004) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13528,
+      "title": "Gaslight",
+      "year": 1944,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Gaslight (1944) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 785084,
+      "title": "The Whale",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Guilty clicked for you, The Whale (2022) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 158011,
+      "title": "The Call",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Guilty clicked for you, The Call (2013) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 984,
+      "title": "Dirty Harry",
+      "year": 1971,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Dirty Harry (1971) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 2026,
+      "title": "Hostage",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Guilty clicked for you, Hostage (2005) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1696,
+      "title": "The Devil's Rejects",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Guilty clicked for you, The Devil's Rejects (2005) is a strong next stop: both trade in drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "horror",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13855,
+      "title": "The Chaser",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Guilty clicked for you, The Chaser (2008) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Guilty?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Guilty?",
+      "answer": "Try Insomnia, Patriots Day, Cellular—each shares DNA with The Guilty while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Guilty?",
+      "answer": "The Guilty (2021) is best described as Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Guilty worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "127-hours",
+    "13",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "40-acres",
+    "71",
+    "a-history-of-violence"
   ]
 }

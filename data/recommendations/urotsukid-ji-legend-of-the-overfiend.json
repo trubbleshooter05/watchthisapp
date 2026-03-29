@@ -10,26 +10,175 @@
       "Horror",
       "Fantasy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Urotsukidōji: Legend of the Overfiend (1989) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "action",
+      "horror",
+      "fantasy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 14282,
+      "title": "Ninja Scroll",
+      "year": 1993,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Ninja Scroll (1993) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 379088,
+      "title": "Attack on Titan: Crimson Bow and Arrow",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Attack on Titan: Crimson Bow and Arrow (2014) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 330081,
+      "title": "Attack on Titan: Wings of Freedom",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Attack on Titan: Wings of Freedom (2015) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 492999,
+      "title": "Attack on Titan: The Roar of Awakening",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Attack on Titan: The Roar of Awakening (2018) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 357786,
+      "title": "Kizumonogatari Part 1: Tekketsu",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Kizumonogatari Part 1: Tekketsu (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "drama",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 21453,
+      "title": "Wicked City",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Wicked City (1987) is a strong next stop: both trade in animation and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1357633,
+      "title": "Solo Leveling -ReAwakening-",
+      "year": 2024,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Solo Leveling -ReAwakening- (2024) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 396263,
+      "title": "GANTZ:O",
+      "year": 2016,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, GANTZ:O (2016) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4977,
+      "title": "Paprika",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, Paprika (2006) is a strong next stop: both trade in animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4824,
+      "title": "The Jackal",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Urotsukidōji: Legend of the Overfiend clicked for you, The Jackal (1997) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Urotsukidōji: Legend of the Overfiend?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Urotsukidōji: Legend of the Overfiend?",
+      "answer": "Try Ninja Scroll, Attack on Titan: Crimson Bow and Arrow, Attack on Titan: Wings of Freedom—each shares DNA with Urotsukidōji: Legend of the Overfiend while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Urotsukidōji: Legend of the Overfiend?",
+      "answer": "Urotsukidōji: Legend of the Overfiend (1989) is best described as Animation, Action, Horror, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Urotsukidōji: Legend of the Overfiend part of a franchise?",
+      "answer": "Yes—it's part of the \"Urotsukidōji Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "vampire-hunter-d-bloodlust",
+    "abraham-lincoln-vampire-hunter",
+    "aztec-batman-clash-of-empires",
+    "baki-hanma-vs-kengan-ashura",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent"
   ]
 }

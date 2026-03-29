@@ -8,26 +8,160 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Audiences latched onto Wrong Turn 3: Left for Dead (2009) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 514847,
+      "title": "The Hunt",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, The Hunt (2020) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 285923,
+      "title": "Grindhouse",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Grindhouse (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 250574,
+      "title": "Creep",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Creep (2014) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10225,
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Jason Lives - Friday the 13th Part VI (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5072,
+      "title": "Severance",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Severance (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, The Cabin in the Woods (2012) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4547,
+      "title": "Panic Room",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Panic Room (2002) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 46838,
+      "title": "Tucker and Dale vs. Evil",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wrong Turn 3: Left for Dead clicked for you, Tucker and Dale vs. Evil (2010) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wrong Turn 3: Left for Dead?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wrong Turn 3: Left for Dead?",
+      "answer": "Try The Hunt, The Hills Have Eyes, Grindhouse—each shares DNA with Wrong Turn 3: Left for Dead while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wrong Turn 3: Left for Dead?",
+      "answer": "Wrong Turn 3: Left for Dead (2009) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wrong Turn 3: Left for Dead part of a franchise?",
+      "answer": "Yes—it's part of the \"Wrong Turn Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

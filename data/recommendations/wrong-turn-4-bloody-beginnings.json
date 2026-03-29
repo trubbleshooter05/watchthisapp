@@ -8,26 +8,158 @@
       "Horror",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Wrong Turn 4: Bloody Beginnings for the same reason it broke through in 2011: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Declan O'Brien keeps the ensemble pointed in one direction. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "horror",
+      "thriller",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 9792,
+      "title": "The Hills Have Eyes",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, The Hills Have Eyes (2006) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10294,
+      "title": "Vacancy",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Vacancy (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 250574,
+      "title": "Creep",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Creep (2014) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10225,
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Jason Lives - Friday the 13th Part VI (1986) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10576,
+      "title": "Psycho II",
+      "year": 1983,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Psycho II (1983) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 22970,
+      "title": "The Cabin in the Woods",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, The Cabin in the Woods (2012) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4547,
+      "title": "Panic Room",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Panic Room (2002) is a strong next stop: both trade in thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 426063,
+      "title": "Nosferatu",
+      "year": 2024,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Nosferatu (2024) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4488,
+      "title": "Friday the 13th",
+      "year": 1980,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Friday the 13th (1980) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 46838,
+      "title": "Tucker and Dale vs. Evil",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Wrong Turn 4: Bloody Beginnings clicked for you, Tucker and Dale vs. Evil (2010) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Wrong Turn 4: Bloody Beginnings?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Wrong Turn 4: Bloody Beginnings?",
+      "answer": "Try The Hills Have Eyes, Vacancy, Creep—each shares DNA with Wrong Turn 4: Bloody Beginnings while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Wrong Turn 4: Bloody Beginnings?",
+      "answer": "Wrong Turn 4: Bloody Beginnings (2011) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Wrong Turn 4: Bloody Beginnings part of a franchise?",
+      "answer": "Yes—it's part of the \"Wrong Turn Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "a-fantastic-fear-of-everything"
   ]
 }

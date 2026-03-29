@@ -9,26 +9,168 @@
       "Crime",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Green Hornet works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "action",
+      "crime",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 5175,
+      "title": "Rush Hour 2",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Rush Hour 2 (2001) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5174,
+      "title": "Rush Hour 3",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Rush Hour 3 (2007) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12721,
+      "title": "No Retreat, No Surrender",
+      "year": 1986,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, No Retreat, No Surrender (1986) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 34769,
+      "title": "Defendor",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Defendor (2009) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49026,
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, The Dark Knight Rises (2012) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Kick-Ass (2010) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 458156,
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, John Wick: Chapter 3 - Parabellum (2019) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 59859,
+      "title": "Kick-Ass 2",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Kick-Ass 2 (2013) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 241554,
+      "title": "Run All Night",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Run All Night (2015) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10027,
+      "title": "Unleashed",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Green Hornet clicked for you, Unleashed (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to The Green Hornet?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after The Green Hornet?",
+      "answer": "Try Rush Hour 2, Rush Hour 3, No Retreat, No Surrender—each shares DNA with The Green Hornet while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Green Hornet?",
+      "answer": "The Green Hornet (2011) is best described as Action, Crime, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Green Hornet worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "2-guns",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs",
+    "almost-cops",
+    "american-made",
+    "army-of-thieves"
   ]
 }

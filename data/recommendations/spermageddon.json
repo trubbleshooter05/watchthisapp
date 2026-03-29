@@ -10,26 +10,173 @@
       "Fantasy",
       "Comedy"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "People revisit Spermageddon for the same reason it broke through in 2024: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Tommy Wirkola keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "animation",
+      "adventure",
+      "fantasy",
+      "comedy",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Wendell & Wild (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 926899,
+      "title": "The House",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, The House (2022) is a strong next stop: both trade in animation and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "comedy",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 65215,
+      "title": "Stewie Griffin: The Untold Story",
+      "year": 2005,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Stewie Griffin: The Untold Story (2005) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1029119,
+      "title": "Minions & More Volume 1",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Minions & More Volume 1 (2022) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36685,
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, The Rocky Horror Picture Show (1975) is a strong next stop: both trade in fantasy and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9285,
+      "title": "Road Trip",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Road Trip (2000) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4564,
+      "title": "Sex and the City",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Sex and the City (2008) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4688,
+      "title": "Across the Universe",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Across the Universe (2007) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4380,
+      "title": "Shall We Dance?",
+      "year": 2004,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spermageddon clicked for you, Shall We Dance? (2004) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Spermageddon?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Spermageddon?",
+      "answer": "Try Wendell & Wild, The House, Stewie Griffin: The Untold Story—each shares DNA with Spermageddon while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Spermageddon?",
+      "answer": "Spermageddon (2024) is best described as Animation, Adventure, Fantasy, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Spermageddon worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "abominable",
+    "boruto-naruto-the-movie",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules"
   ]
 }

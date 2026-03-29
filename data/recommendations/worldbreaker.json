@@ -9,26 +9,170 @@
       "Action",
       "Horror"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "Worldbreaker (2025) stuck because it commits to its science fiction premise without apologizing—viewers remember set pieces and momentum as much as plot. Brad Anderson's control of tone keeps the ride coherent. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "science-fiction",
+      "action",
+      "horror",
+      "divisive"
     ]
   },
-  "recommendations": [],
+  "recommendations": [
+    {
+      "tmdbId": 443791,
+      "title": "Underwater",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Underwater (2020) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 375366,
+      "title": "The Girl with All the Gifts",
+      "year": 2016,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, The Girl with All the Gifts (2016) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9457,
+      "title": "Deep Rising",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Deep Rising (1998) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Extinction (2015) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror",
+        "adventure",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 920081,
+      "title": "Megaboa",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Megaboa (2021) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 339964,
+      "title": "Valerian and the City of a Thousand Planets",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Valerian and the City of a Thousand Planets (2017) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Rampage (2018) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 5876,
+      "title": "The Mist",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, The Mist (2007) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, The Fly (1986) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11683,
+      "title": "Land of the Dead",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Worldbreaker clicked for you, Land of the Dead (2005) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    }
+  ],
   "faq": [
     {
-      "question": "EDIT: What movie is most similar to Worldbreaker?",
-      "answer": "EDIT: Your original answer."
+      "question": "What should I watch after Worldbreaker?",
+      "answer": "Try Underwater, The Girl with All the Gifts, Deep Rising—each shares DNA with Worldbreaker while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Worldbreaker?",
+      "answer": "Worldbreaker (2025) is best described as Science Fiction, Action, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Worldbreaker worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
     }
   ],
   "relatedPages": [
-    "interstellar",
-    "parasite",
-    "inception",
-    "fight-club",
-    "mean-girls"
+    "alien-resurrection",
+    "alive",
+    "attack-on-titan",
+    "attack-on-titan-ii-end-of-the-world",
+    "avp-alien-vs-predator",
+    "blade-trinity",
+    "deep-blue-sea"
   ]
 }
