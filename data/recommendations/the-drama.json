@@ -1,0 +1,155 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to The Drama?",
+      "answer": "The Echo is often cited as the most similar film due to its exploration of familial relationships and emotional depth."
+    },
+    {
+      "question": "Who are the main actors in The Drama?",
+      "answer": "The main cast includes renowned actors who excel in portraying complex emotional ranges, bringing the characters to life with authenticity."
+    },
+    {
+      "question": "What themes are explored in The Drama?",
+      "answer": "The Drama explores themes of love, betrayal, identity, and the impact of past decisions on present relationships."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Echo",
+      "year": 2020,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Much like The Drama, The Echo delves into the complexities of familial relationships with a narrative that unfolds slowly, revealing hidden truths. The character development is profound, offering a mirror to the struggles faced in The Drama.",
+      "sharedVibes": [
+        "emotional",
+        "tense"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 704554
+    },
+    {
+      "title": "The Unraveling",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The Unraveling shares a similar slow-burn intensity and psychological depth, exploring the unraveling of a marriage under pressure. Its gripping narrative and character arcs resonate well with the conflicts seen in The Drama.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "dark"
+    },
+    {
+      "title": "Echoes of Yesterday",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film's exploration of nostalgia and regret parallels the emotional journey in The Drama, with characters facing their past decisions. Both films evoke a strong sense of empathy as they navigate complex emotional landscapes.",
+      "sharedVibes": [
+        "emotional",
+        "bittersweet"
+      ],
+      "mood": "heartwarming"
+    },
+    {
+      "title": "Fractured",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Fractured's exploration of trauma and its effects on relationships mirrors the core themes of The Drama, offering a gripping narrative filled with unexpected twists. The film's emotional depth and tension will resonate with fans of The Drama.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 924767
+    },
+    {
+      "title": "The Weight of Silence",
+      "year": 2023,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Similar to The Drama, The Weight of Silence tackles the heavy theme of communication breakdowns in relationships, providing a thought-provoking experience. Its emotional intensity and character-driven plot create a connection to the struggles depicted in The Drama.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 1288606
+    },
+    {
+      "title": "The Fragile Thread",
+      "year": 2024,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "The Fragile Thread features a similar narrative style, weaving together multiple perspectives to explore resilience in the face of adversity. Fans of The Drama will appreciate its emotional depth and the interconnectivity of its characters.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "title": "A Tapestry of Lies",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "A Tapestry of Lies presents a gripping tale of deception and truth, much like the intricate plotlines of The Drama. Both films explore how secrets can fracture relationships, creating an engaging and suspenseful experience.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense"
+    },
+    {
+      "title": "Shattered Reflections",
+      "year": 2020,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Shattered Reflections dives into the theme of identity crisis, paralleling the self-discovery journey presented in The Drama. The film's emotional undertones and complex character dynamics will resonate with viewers seeking depth.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 660632
+    },
+    {
+      "title": "The Silent Storm",
+      "year": 2023,
+      "matchPercentage": 81,
+      "whyYoullLoveIt": "The Silent Storm's exploration of inner turmoil and its impact on relationships is reminiscent of the emotional struggles faced in The Drama. Its rich character development and atmospheric storytelling provide a similar viewing experience.",
+      "sharedVibes": [
+        "tense",
+        "emotional"
+      ],
+      "mood": "dark"
+    },
+    {
+      "title": "The Invisible Thread",
+      "year": 2026,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This film tackles themes of connection and disconnection, paralleling the emotional arcs found in The Drama. Its rich narrative and character exploration will appeal to those who loved the depth and complexity of The Drama.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "relatedPages": [
+    "shutter-island",
+    "project-hail-mary",
+    "arrival",
+    "the-shadows-edge",
+    "greenland-2-migration"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1325734,
+    "title": "The Drama",
+    "slug": "the-drama",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "The Drama captivates audiences with its intricate storytelling and deeply relatable characters, making it a poignant exploration of human emotions and relationships.",
+    "vibes": [
+      "emotional",
+      "tense",
+      "cerebral"
+    ]
+  }
+}
