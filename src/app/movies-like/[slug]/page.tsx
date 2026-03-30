@@ -16,7 +16,7 @@ import type { RecommendationBundle } from "@/lib/types/recommendation";
 import { getSiteUrl } from "@/lib/site-url";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
-export const dynamic = "force-dynamic";
+export const revalidate = 86400;
 
 type Props = { params: { slug: string } };
 
