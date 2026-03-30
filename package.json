@@ -17,6 +17,10 @@
     "data:discover": "node scripts/discover-movies.mjs",
     "data:audit-quality": "node scripts/audit-quality.mjs",
     "data:regen-recs": "node scripts/regenerate-recs.mjs",
+    "data:gsc:sync": "node scripts/gsc-movieslike-sync.mjs",
+    "data:gsc:dry-run": "node scripts/gsc-movieslike-sync.mjs --dry-run",
+    "data:generate:new-page": "python3 scripts/generate_new_page.py",
+    "cron:gsc:movieslike": "zsh scripts/cron-gsc-movieslike.sh",
     "deploy:vercel": "npx vercel@latest deploy --prod"
   },
   "dependencies": {

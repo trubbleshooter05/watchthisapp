@@ -15,6 +15,12 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const force = process.argv.includes("--force");
 const refineAuto = process.argv.includes("--refine-auto");
 const fixSequels = process.argv.includes("--fix-sequels");
+const onlySlug = getArg("--only-slug", null);
+
+function getArg(flag, fallback = null) {
+  const i = process.argv.indexOf(flag);
+  return i !== -1 && process.argv[i + 1] ? process.argv[i + 1] : fallback;
+}
 
 function loadKey() {
   const env = process.env.TMDB_API_KEY?.trim();
@@ -273,6 +279,11 @@ async function main() {
   let skipped = 0;
 
   for (const slug of Object.keys(allBundles).sort()) {
+    if (onlySlug && slug !== onlySlug) {
+      skipped++;
+      continue;
+    }
+
     const bundle = allBundles[slug];
     if (!bundle.sourceMovie?.tmdbId) {
       console.warn("skip (no tmdbId):", slug);
