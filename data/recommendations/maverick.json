@@ -35,37 +35,25 @@
       "mood": "funny"
     },
     {
-      "tmdbId": 8388,
-      "title": "¡Three Amigos!",
-      "year": 1986,
+      "tmdbId": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
       "matchPercentage": 94,
-      "whyYoullLoveIt": "If Maverick clicked for you, ¡Three Amigos! (1986) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "If Maverick clicked for you, The SpongeBob SquarePants Movie (2004) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "action",
+        "adventure",
         "comedy",
-        "western"
+        "family",
+        "animation",
+        "fantasy"
       ],
       "mood": "funny"
-    },
-    {
-      "tmdbId": 4476,
-      "title": "Legends of the Fall",
-      "year": 1994,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "If Maverick clicked for you, Legends of the Fall (1994) is a strong next stop: both trade in drama and western, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "western",
-        "romance",
-        "war"
-      ],
-      "mood": "bittersweet"
     },
     {
       "tmdbId": 301,
       "title": "Rio Bravo",
       "year": 1959,
-      "matchPercentage": 90,
+      "matchPercentage": 92,
       "whyYoullLoveIt": "If Maverick clicked for you, Rio Bravo (1959) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -77,7 +65,7 @@
       "tmdbId": 12690,
       "title": "Appaloosa",
       "year": 2008,
-      "matchPercentage": 88,
+      "matchPercentage": 90,
       "whyYoullLoveIt": "If Maverick clicked for you, Appaloosa (2008) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -90,7 +78,7 @@
       "tmdbId": 932086,
       "title": "Horizon: An American Saga - Chapter 1",
       "year": 2024,
-      "matchPercentage": 86,
+      "matchPercentage": 88,
       "whyYoullLoveIt": "If Maverick clicked for you, Horizon: An American Saga - Chapter 1 (2024) is a strong next stop: both trade in drama and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -99,29 +87,45 @@
       "mood": "tense"
     },
     {
+      "tmdbId": 13253,
+      "title": "Futurama: Bender's Game",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Maverick clicked for you, Futurama: Bender's Game (2008) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "animation",
+        "science-fiction",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11951,
+      "title": "Vanishing Point",
+      "year": 1971,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Maverick clicked for you, Vanishing Point (1971) is a strong next stop: both trade in action and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
       "tmdbId": 1936,
       "title": "River of No Return",
       "year": 1954,
-      "matchPercentage": 84,
+      "matchPercentage": 82,
       "whyYoullLoveIt": "If Maverick clicked for you, River of No Return (1954) is a strong next stop: both trade in adventure and western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "adventure",
         "western"
       ],
       "mood": "tense"
-    },
-    {
-      "tmdbId": 5121,
-      "title": "The Sugarland Express",
-      "year": 1974,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If Maverick clicked for you, The Sugarland Express (1974) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "comedy",
-        "drama",
-        "crime"
-      ],
-      "mood": "funny"
     },
     {
       "tmdbId": 14168,
@@ -137,13 +141,15 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 5176,
-      "title": "3:10 to Yuma",
-      "year": 2007,
+      "tmdbId": 12311,
+      "title": "Mutiny on the Bounty",
+      "year": 1935,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "If Maverick clicked for you, 3:10 to Yuma (2007) is a strong next stop: both trade in western, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "If Maverick clicked for you, Mutiny on the Bounty (1935) is a strong next stop: both trade in adventure and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
-        "western"
+        "adventure",
+        "drama",
+        "history"
       ],
       "mood": "tense"
     }
@@ -151,7 +157,7 @@
   "faq": [
     {
       "question": "What should I watch after Maverick?",
-      "answer": "Try The Ballad of Buster Scruggs, ¡Three Amigos!, Legends of the Fall—each shares DNA with Maverick while changing the setting enough to feel fresh."
+      "answer": "Try The Ballad of Buster Scruggs, The SpongeBob SquarePants Movie, Rio Bravo—each shares DNA with Maverick while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is Maverick?",
@@ -163,12 +169,12 @@
     }
   ],
   "relatedPages": [
-    "el-infierno",
-    "jeremiah-johnson",
-    "naruto-shippuden-the-movie-the-will-of-fire",
-    "pok-mon-the-movie-diancie-and-the-cocoon-of-destruction",
-    "police-story-4-first-strike",
-    "sahara",
-    "shanghai-noon"
+    "a-knights-tale",
+    "along-with-the-gods-the-two-worlds",
+    "american-made",
+    "big-hero-6",
+    "big-trouble-in-little-china",
+    "cars-3",
+    "charlies-angels"
   ]
 }

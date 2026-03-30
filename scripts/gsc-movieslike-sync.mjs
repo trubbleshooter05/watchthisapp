@@ -74,6 +74,22 @@ function normalizeTitle(title) {
     .trim();
 }
 
+function normalizeLooseKey(title) {
+  return normalizeTitle(title).replace(/\s+/g, "");
+}
+
+function canonicalizeExtractedTitle(rawTitle) {
+  const key = normalizeLooseKey(rawTitle);
+  const aliases = new Map([
+    ["lalaland", "La La Land"],
+    ["topgun2", "Top Gun: Maverick"],
+    ["topgunii", "Top Gun: Maverick"],
+    ["topgunmaverick", "Top Gun: Maverick"],
+    ["mavericktopgun", "Top Gun: Maverick"],
+  ]);
+  return aliases.get(key) || rawTitle;
+}
+
 function existingSlugs() {
   return new Set(
     readdirSync(dataDir)
@@ -206,6 +222,35 @@ function extractMovieTitle(query) {
   t = t.split(/\s+(and|or)\s+/i)[0];
   t = t.replace(/^["'`]+|["'`]+$/g, "");
   t = t.replace(/\s+\d{4}$/g, "");
+  t = t.replace(/\s+/g, " ").trim();
+
+  // Strip trailing filler words from noisy queries (e.g. "la la land on").
+  const trailingStopwords = new Set([
+    "on",
+    "in",
+    "at",
+    "for",
+    "with",
+    "to",
+    "from",
+    "where",
+    "when",
+    "movie",
+    "movies",
+    "film",
+    "films",
+    "series",
+    "show",
+  ]);
+  while (t) {
+    const parts = t.split(" ");
+    const tail = parts[parts.length - 1].toLowerCase();
+    if (!trailingStopwords.has(tail)) break;
+    parts.pop();
+    t = parts.join(" ").trim();
+  }
+
+  t = canonicalizeExtractedTitle(t);
   t = t.replace(/\s+/g, " ").trim();
   if (!t || t.length < 2) return null;
 

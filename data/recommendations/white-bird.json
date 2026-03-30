@@ -43,10 +43,23 @@
       "mood": "tense"
     },
     {
+      "tmdbId": 8741,
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If White Bird clicked for you, The Thin Red Line (1998) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
       "tmdbId": 289222,
       "title": "The Zookeeper's Wife",
       "year": 2017,
-      "matchPercentage": 92,
+      "matchPercentage": 90,
       "whyYoullLoveIt": "If White Bird clicked for you, The Zookeeper's Wife (2017) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -59,7 +72,7 @@
       "tmdbId": 15764,
       "title": "Sophie's Choice",
       "year": 1982,
-      "matchPercentage": 90,
+      "matchPercentage": 88,
       "whyYoullLoveIt": "If White Bird clicked for you, Sophie's Choice (1982) is a strong next stop: both trade in drama and war, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -72,7 +85,7 @@
       "tmdbId": 426618,
       "title": "Where Hands Touch",
       "year": 2018,
-      "matchPercentage": 88,
+      "matchPercentage": 86,
       "whyYoullLoveIt": "If White Bird clicked for you, Where Hands Touch (2018) is a strong next stop: both trade in drama and war, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -85,7 +98,7 @@
       "tmdbId": 12900,
       "title": "Conspiracy",
       "year": 2001,
-      "matchPercentage": 86,
+      "matchPercentage": 84,
       "whyYoullLoveIt": "If White Bird clicked for you, Conspiracy (2001) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -99,7 +112,7 @@
       "tmdbId": 491926,
       "title": "Resistance",
       "year": 2020,
-      "matchPercentage": 84,
+      "matchPercentage": 82,
       "whyYoullLoveIt": "If White Bird clicked for you, Resistance (2020) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
@@ -109,24 +122,11 @@
       "mood": "tense"
     },
     {
-      "tmdbId": 13524,
-      "title": "Battle of the Bulge",
-      "year": 1965,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "If White Bird clicked for you, Battle of the Bulge (1965) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
-      "sharedVibes": [
-        "drama",
-        "war",
-        "history"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 13614,
-      "title": "Katyn",
-      "year": 2007,
+      "tmdbId": 8996,
+      "title": "Europa Europa",
+      "year": 1990,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "If White Bird clicked for you, Katyn (2007) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "whyYoullLoveIt": "If White Bird clicked for you, Europa Europa (1990) is a strong next stop: both trade in drama and war, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
       "sharedVibes": [
         "drama",
         "war",
@@ -149,7 +149,7 @@
   "faq": [
     {
       "question": "What should I watch after White Bird?",
-      "answer": "Try Jojo Rabbit, The Boy in the Striped Pyjamas, The Zookeeper's Wife—each shares DNA with White Bird while changing the setting enough to feel fresh."
+      "answer": "Try Jojo Rabbit, The Boy in the Striped Pyjamas, The Thin Red Line—each shares DNA with White Bird while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is White Bird?",
@@ -161,12 +161,12 @@
     }
   ],
   "relatedPages": [
-    "12-12-the-day",
-    "12-strong",
     "13-hours-the-secret-soldiers-of-benghazi",
     "300-rise-of-an-empire",
     "71",
-    "a-bridge-too-far",
-    "alexander"
+    "all-quiet-on-the-western-front",
+    "apocalypse-now",
+    "barry-lyndon",
+    "born-on-the-fourth-of-july"
   ]
 }

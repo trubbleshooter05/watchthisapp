@@ -66,6 +66,10 @@ def normalize_title_for_match(title: str) -> str:
     return txt
 
 
+def normalize_loose_key(title: str) -> str:
+    return normalize_title_for_match(title).replace(" ", "")
+
+
 def tmdb_json(url: str) -> dict[str, Any]:
     with urlopen(url, timeout=30) as response:
         raw = response.read().decode("utf-8")
@@ -77,14 +81,21 @@ def pick_best_tmdb_match(results: list[dict[str, Any]], wanted_title: str) -> di
         return None
 
     wanted = normalize_title_for_match(wanted_title)
+    wanted_loose = normalize_loose_key(wanted_title)
+
+    # Favor mainstream results when possible to avoid obscure exact-string traps.
+    mainstream = [m for m in results if int(m.get("vote_count") or 0) >= 150]
+    pool = mainstream if mainstream else results
 
     def score(m: dict[str, Any]) -> tuple[float, float, float]:
         title = normalize_title_for_match(str(m.get("title") or m.get("original_title") or ""))
+        title_loose = normalize_loose_key(title)
         pop = float(m.get("popularity") or 0.0)
         votes = float(m.get("vote_count") or 0.0)
         rating = float(m.get("vote_average") or 0.0)
 
         exact = 2.0 if title == wanted else 0.0
+        exact_loose = 1.5 if title_loose == wanted_loose else 0.0
         starts = 1.0 if title.startswith(wanted) or wanted.startswith(title) else 0.0
         overlap = 0.0
         if wanted and title:
@@ -93,9 +104,9 @@ def pick_best_tmdb_match(results: list[dict[str, Any]], wanted_title: str) -> di
             if w:
                 overlap = len(w & t) / len(w)
 
-        return (exact + starts + overlap, pop, votes * 0.001 + rating)
+        return (exact + exact_loose + starts + overlap, votes * 0.01 + pop, rating)
 
-    return max(results, key=score)
+    return max(pool, key=score)
 
 
 def run(cmd: list[str], cwd: Path) -> None:
