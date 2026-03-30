@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9488,
+    "title": "Spy Kids 2: The Island of Lost Dreams",
+    "slug": "spy-kids-2-the-island-of-lost-dreams",
+    "year": 2002,
+    "genres": [
+      "Family",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Spy Kids 2: The Island of Lost Dreams works as a family movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The family and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "action",
+      "adventure",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 71689,
+      "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Phineas and Ferb The Movie: Across the 2nd Dimension (2011) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "adventure",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38055,
+      "title": "Megamind",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Megamind (2010) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 438148,
+      "title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Minions: The Rise of Gru (2022) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 519182,
+      "title": "Despicable Me 4",
+      "year": 2024,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Despicable Me 4 (2024) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "comedy",
+        "science-fiction",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 431693,
+      "title": "Spies in Disguise",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Spies in Disguise (2019) is a strong next stop: both trade in family and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "action",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 102382,
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, The Amazing Spider-Man 2 (2014) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1234821,
+      "title": "Jurassic World Rebirth",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Spy Kids 2: The Island of Lost Dreams clicked for you, Jurassic World Rebirth (2025) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Spy Kids 2: The Island of Lost Dreams?",
+      "answer": "Try Phineas and Ferb The Movie: Across the 2nd Dimension, Secret Headquarters, Megamind—each shares DNA with Spy Kids 2: The Island of Lost Dreams while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Spy Kids 2: The Island of Lost Dreams?",
+      "answer": "Spy Kids 2: The Island of Lost Dreams (2002) is best described as Family, Action, Adventure, Comedy, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Spy Kids 2: The Island of Lost Dreams part of a franchise?",
+      "answer": "Yes—it's part of the \"Spy Kids Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "spy-kids",
+    "teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze",
+    "teenage-mutant-ninja-turtles-out-of-the-shadows",
+    "3-ninjas",
+    "agent-cody-banks",
+    "big-hero-6",
+    "captain-underpants-the-first-epic-movie"
+  ]
+}

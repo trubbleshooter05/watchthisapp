@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 16523,
+    "title": "Where the Wild Things Are",
+    "slug": "where-the-wild-things-are",
+    "year": 2009,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Adventure",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "People revisit Where the Wild Things Are for the same reason it broke through in 2009: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Spike Jonze keeps the ensemble pointed in one direction. The fantasy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "drama",
+      "adventure",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Miss Peregrine's Home for Peculiar Children (2016) is a strong next stop: both trade in fantasy and drama, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12155,
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Alice in Wonderland (2010) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 587,
+      "title": "Big Fish",
+      "year": 2003,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Big Fish (2003) is a strong next stop: both trade in fantasy and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12092,
+      "title": "Alice in Wonderland",
+      "year": 1951,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Alice in Wonderland (1951) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Stardust (2007) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Inkheart (2008) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 532639,
+      "title": "Pinocchio",
+      "year": 2022,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, Pinocchio (2022) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, The Sea Beast (2022) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11639,
+      "title": "The Dark Crystal",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Where the Wild Things Are clicked for you, The Dark Crystal (1982) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Where the Wild Things Are?",
+      "answer": "Try Miss Peregrine's Home for Peculiar Children, Alice in Wonderland, Big Fish—each shares DNA with Where the Wild Things Are while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Where the Wild Things Are?",
+      "answer": "Where the Wild Things Are (2009) is best described as Fantasy, Drama, Adventure, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Where the Wild Things Are worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "mirai",
+    "miss-peregrines-home-for-peculiar-children",
+    "night-on-the-galactic-railroad",
+    "pok-mon-the-movie-white-victini-and-zekrom",
+    "the-boy-and-the-beast",
+    "the-boy-and-the-heron"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "sourceMovie": {
+    "tmdbId": 406563,
+    "title": "Insidious: The Last Key",
+    "slug": "insidious-the-last-key",
+    "year": 2018,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Insidious: The Last Key (2018) as a horror theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The horror and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 138843,
+      "title": "The Conjuring",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, The Conjuring (2013) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 49018,
+      "title": "Insidious",
+      "year": 2011,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Insidious (2011) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 423108,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, The Conjuring: The Devil Made Me Do It (2021) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 91586,
+      "title": "Insidious: Chapter 2",
+      "year": 2013,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Insidious: Chapter 2 (2013) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 280092,
+      "title": "Insidious: Chapter 3",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Insidious: Chapter 3 (2015) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9378,
+      "title": "Thir13en Ghosts",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Thir13en Ghosts (2001) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 614479,
+      "title": "Insidious: The Red Door",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Insidious: The Red Door (2023) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14397,
+      "title": "Whisper",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Whisper (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13811,
+      "title": "Knowing",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Knowing (2009) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "action",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 501170,
+      "title": "Doctor Sleep",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Insidious: The Last Key clicked for you, Doctor Sleep (2019) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Insidious: The Last Key?",
+      "answer": "Try The Conjuring, Insidious, The Conjuring: The Devil Made Me Do It—each shares DNA with Insidious: The Last Key while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Insidious: The Last Key?",
+      "answer": "Insidious: The Last Key (2018) is best described as Horror, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Insidious: The Last Key part of a franchise?",
+      "answer": "Yes—it's part of the \"Insidious Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night",
+    "47-meters-down"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 14442,
+    "title": "Ella Enchanted",
+    "slug": "ella-enchanted",
+    "year": 2004,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Ella Enchanted (2004) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Tommy O'Haver's control of tone keeps the ride coherent. The family and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "fantasy",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 809,
+      "title": "Shrek 2",
+      "year": 2004,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, Shrek 2 (2004) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "animation",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, Onward (2020) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 654028,
+      "title": "The Christmas Chronicles: Part Two",
+      "year": 2020,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, The Christmas Chronicles: Part Two (2020) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 662546,
+      "title": "Godmothered",
+      "year": 2020,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, Godmothered (2020) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, Cinderella (2015) is a strong next stop: both trade in family and fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, The Spiderwick Chronicles (2008) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, Labyrinth (1986) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ella Enchanted clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ella Enchanted?",
+      "answer": "Try Shrek 2, Onward, The Christmas Chronicles: Part Two—each shares DNA with Ella Enchanted while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ella Enchanted?",
+      "answer": "Ella Enchanted (2004) is best described as Family, Fantasy, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ella Enchanted worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-letter-to-momo",
+    "a-minecraft-movie",
+    "abominable",
+    "addams-family-values",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel"
+  ]
+}

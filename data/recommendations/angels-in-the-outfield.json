@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 24795,
+    "title": "Angels in the Outfield",
+    "slug": "angels-in-the-outfield",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Angels in the Outfield works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 71864,
+      "title": "The Odd Life of Timothy Green",
+      "year": 2012,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, The Odd Life of Timothy Green (2012) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 668461,
+      "title": "Slumberland",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Slumberland (2022) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 74018,
+      "title": "A Cinderella Story: Once Upon a Song",
+      "year": 2011,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, A Cinderella Story: Once Upon a Song (2011) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "romance",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1114967,
+      "title": "Good Fortune",
+      "year": 2025,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Good Fortune (2025) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12185,
+      "title": "Heaven Can Wait",
+      "year": 1978,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Heaven Can Wait (1978) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21845,
+      "title": "Rookie of the Year",
+      "year": 1993,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Rookie of the Year (1993) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 926670,
+      "title": "Henry Danger: The Movie",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, Henry Danger: The Movie (2025) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 795,
+      "title": "City of Angels",
+      "year": 1998,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, City of Angels (1998) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 14784,
+      "title": "The Fall",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Angels in the Outfield clicked for you, The Fall (2006) is a strong next stop: both trade in fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Angels in the Outfield?",
+      "answer": "Try The Odd Life of Timothy Green, Slumberland, Flora & Ulysses—each shares DNA with Angels in the Outfield while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Angels in the Outfield?",
+      "answer": "Angels in the Outfield (1994) is best described as Comedy, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Angels in the Outfield part of a franchise?",
+      "answer": "Yes—it's part of the \"Angels in the ... Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-letter-to-momo",
+    "a-minecraft-movie",
+    "abominable",
+    "addams-family-values",
+    "alvin-and-the-chipmunks",
+    "alvin-and-the-chipmunks-the-squeakquel"
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "sourceMovie": {
+    "tmdbId": 790,
+    "title": "The Fog",
+    "slug": "the-fog",
+    "year": 1980,
+    "genres": [
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "People revisit The Fog for the same reason it broke through in 1980: clear stakes, memorable faces, and a horror rhythm that doesn't stall in the middle. John Carpenter keeps the ensemble pointed in one direction. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "horror",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Fog clicked for you, Bird Box (2018) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9552,
+      "title": "The Exorcist",
+      "year": 1973,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Fog clicked for you, The Exorcist (1973) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1933,
+      "title": "The Others",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Fog clicked for you, The Others (2001) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 565,
+      "title": "The Ring",
+      "year": 2002,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Fog clicked for you, The Ring (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9533,
+      "title": "Red Dragon",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Fog clicked for you, Red Dragon (2002) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9392,
+      "title": "The Descent",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Fog clicked for you, The Descent (2005) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9362,
+      "title": "Tremors",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Fog clicked for you, Tremors (1990) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "action",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 26466,
+      "title": "Triangle",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Fog clicked for you, Triangle (2009) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13510,
+      "title": "Eden Lake",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Fog clicked for you, Eden Lake (2008) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 64720,
+      "title": "Take Shelter",
+      "year": 2011,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Fog clicked for you, Take Shelter (2011) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Fog?",
+      "answer": "Try Bird Box, The Exorcist, The Others—each shares DNA with The Fog while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Fog?",
+      "answer": "The Fog (1980) is best described as Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Fog worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "1408",
+    "28-days-later",
+    "28-weeks-later",
+    "28-years-later",
+    "28-years-later-the-bone-temple",
+    "30-days-of-night"
+  ]
+}

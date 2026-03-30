@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8054,
+    "title": "The Imaginarium of Doctor Parnassus",
+    "slug": "the-imaginarium-of-doctor-parnassus",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "The Imaginarium of Doctor Parnassus (2009) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. Terry Gilliam's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 284052,
+      "title": "Doctor Strange",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Doctor Strange (2016) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 58,
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Pirates of the Caribbean: Dead Man's Chest (2006) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 297802,
+      "title": "Aquaman",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Aquaman (2018) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Doctor Strange in the Multiverse of Madness (2022) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 512200,
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Jumanji: The Next Level (2019) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Inkheart (2008) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10150,
+      "title": "The Last Unicorn",
+      "year": 1982,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, The Last Unicorn (1982) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Black Panther (2018) is a strong next stop: both trade in adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 287947,
+      "title": "Shazam!",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, Shazam! (2019) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Imaginarium of Doctor Parnassus clicked for you, A Bug's Life (1998) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Imaginarium of Doctor Parnassus?",
+      "answer": "Try Doctor Strange, Pirates of the Caribbean: Dead Man's Chest, Aquaman—each shares DNA with The Imaginarium of Doctor Parnassus while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Imaginarium of Doctor Parnassus?",
+      "answer": "The Imaginarium of Doctor Parnassus (2009) is best described as Adventure, Fantasy, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Imaginarium of Doctor Parnassus worth revisiting?",
+      "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "deep-sea",
+    "fountain-of-youth",
+    "made-in-abyss-dawn-of-the-deep-soul",
+    "night-on-the-galactic-railroad",
+    "2001-a-space-odyssey",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella"
+  ]
+}

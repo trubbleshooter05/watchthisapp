@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8202,
+    "title": "Æon Flux",
+    "slug": "on-flux",
+    "year": 2005,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Æon Flux works as a science fiction movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 7299,
+      "title": "Equilibrium",
+      "year": 2002,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Equilibrium (2002) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 399579,
+      "title": "Alita: Battle Angel",
+      "year": 2019,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Alita: Battle Angel (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, The Transporter (2002) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1577,
+      "title": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Resident Evil: Apocalypse (2004) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9739,
+      "title": "Demolition Man",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Demolition Man (1993) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 461130,
+      "title": "Code 8",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Code 8 (2019) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4141,
+      "title": "Shoot 'Em Up",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Shoot 'Em Up (2007) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 142061,
+      "title": "Batman: The Dark Knight Returns, Part 2",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Batman: The Dark Knight Returns, Part 2 (2013) is a strong next stop: both trade in science fiction and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "animation",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4105,
+      "title": "Black Rain",
+      "year": 1989,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Black Rain (1989) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4588,
+      "title": "Lust, Caution",
+      "year": 2007,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Æon Flux clicked for you, Lust, Caution (2007) is a strong next stop: both trade in action and thriller, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Æon Flux?",
+      "answer": "Try Equilibrium, Alita: Battle Angel, The Transporter—each shares DNA with Æon Flux while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Æon Flux?",
+      "answer": "Æon Flux (2005) is best described as Science Fiction, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Æon Flux worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this science fiction lane."
+    }
+  ],
+  "relatedPages": [
+    "24-hours-to-live",
+    "40-acres",
+    "aliens",
+    "armageddon",
+    "awareness",
+    "battleship",
+    "boss-level"
+  ]
+}

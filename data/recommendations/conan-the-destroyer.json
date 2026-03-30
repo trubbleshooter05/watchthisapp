@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9610,
+    "title": "Conan the Destroyer",
+    "slug": "conan-the-destroyer",
+    "year": 1984,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "People revisit Conan the Destroyer for the same reason it broke through in 1984: clear stakes, memorable faces, and a fantasy rhythm that doesn't stall in the middle. Richard Fleischer keeps the ensemble pointed in one direction. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, The Lord of the Rings: The Two Towers (2002) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, Warcraft (2016) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8009,
+      "title": "Highlander",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, Highlander (1986) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 763215,
+      "title": "Damsel",
+      "year": 2024,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, Damsel (2024) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 16441,
+      "title": "The Beastmaster",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, The Beastmaster (1982) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, Gladiator (2000) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Conan the Destroyer clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Conan the Destroyer?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King, The Lord of the Rings: The Two Towers—each shares DNA with Conan the Destroyer while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Conan the Destroyer?",
+      "answer": "Conan the Destroyer (1984) is best described as Adventure, Fantasy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Conan the Destroyer part of a franchise?",
+      "answer": "Yes—it's part of the \"Conan the Barbarian Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-touch-of-zen",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days"
+  ]
+}

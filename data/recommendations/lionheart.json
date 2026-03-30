@@ -1,0 +1,169 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9399,
+    "title": "Lionheart",
+    "slug": "lionheart",
+    "year": 1990,
+    "genres": [
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Lionheart works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.",
+    "vibes": [
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 98,
+      "title": "Gladiator",
+      "year": 2000,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Gladiator (2000) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24,
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Kill Bill: Vol. 1 (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 101,
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Léon: The Professional (1994) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 111,
+      "title": "Scarface",
+      "year": 1983,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Scarface (1983) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lionheart clicked for you, The Transporter (2002) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 96,
+      "title": "Beverly Hills Cop II",
+      "year": 1987,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Beverly Hills Cop II (1987) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8456,
+      "title": "Never Back Down",
+      "year": 2008,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Never Back Down (2008) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 79,
+      "title": "Hero",
+      "year": 2002,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Hero (2002) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10027,
+      "title": "Unleashed",
+      "year": 2005,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Unleashed (2005) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11690,
+      "title": "Bloodsport",
+      "year": 1988,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lionheart clicked for you, Bloodsport (1988) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lionheart?",
+      "answer": "Try Gladiator, Kill Bill: Vol. 1, Léon: The Professional—each shares DNA with Lionheart while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Lionheart?",
+      "answer": "Lionheart (1990) is best described as Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Lionheart worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "12-strong",
+    "13-assassins",
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "14-blades",
+    "16-blocks"
+  ]
+}

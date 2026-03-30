@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 710258,
+    "title": "Rust",
+    "slug": "rust",
+    "year": 2025,
+    "genres": [
+      "Western",
+      "Action",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Rust works as a western movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The western and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "western",
+      "action",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2055,
+      "title": "Open Range",
+      "year": 2003,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Rust clicked for you, Open Range (2003) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 785663,
+      "title": "Old Henry",
+      "year": 2021,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Rust clicked for you, Old Henry (2021) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 354110,
+      "title": "Forsaken",
+      "year": 2015,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Rust clicked for you, Forsaken (2015) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 273248,
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Rust clicked for you, The Hateful Eight (2015) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 44264,
+      "title": "True Grit",
+      "year": 2010,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Rust clicked for you, True Grit (2010) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 79,
+      "title": "Hero",
+      "year": 2002,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Rust clicked for you, Hero (2002) is a strong next stop: both trade in action and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 922,
+      "title": "Dead Man",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Rust clicked for you, Dead Man (1995) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 301,
+      "title": "Rio Bravo",
+      "year": 1959,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Rust clicked for you, Rio Bravo (1959) is a strong next stop: both trade in western and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 223485,
+      "title": "Slow West",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Rust clicked for you, Slow West (2015) is a strong next stop: both trade in western and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "drama",
+        "adventure",
+        "romance",
+        "thriller"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11967,
+      "title": "Young Guns",
+      "year": 1988,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Rust clicked for you, Young Guns (1988) is a strong next stop: both trade in western and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "western",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Rust?",
+      "answer": "Try Open Range, Old Henry, Forsaken—each shares DNA with Rust while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Rust?",
+      "answer": "Rust (2025) is best described as Western, Action, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Rust worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this western lane."
+    }
+  ],
+  "relatedPages": [
+    "el-infierno",
+    "jeremiah-johnson",
+    "maverick",
+    "open-range",
+    "silverado",
+    "the-quick-and-the-dead",
+    "wyatt-earp"
+  ]
+}

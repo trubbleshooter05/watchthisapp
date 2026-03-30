@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9593,
+    "title": "Last Action Hero",
+    "slug": "last-action-hero",
+    "year": 1993,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "Last Action Hero (1993) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. John McTiernan's control of tone keeps the ride coherent. The adventure and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "fantasy",
+      "action",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 413658,
+      "title": "The Warriors Gate",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, The Warriors Gate (2016) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 791155,
+      "title": "Secret Headquarters",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Secret Headquarters (2022) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "family",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283366,
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Miss Peregrine's Home for Peculiar Children (2016) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 567604,
+      "title": "Once Upon a Deadpool",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Once Upon a Deadpool (2018) is a strong next stop: both trade in adventure and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "comedy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 323027,
+      "title": "Justice League: Gods and Monsters",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Justice League: Gods and Monsters (2015) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1029119,
+      "title": "Minions & More Volume 1",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Minions & More Volume 1 (2022) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 129,
+      "title": "Spirited Away",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Last Action Hero clicked for you, Spirited Away (2001) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Last Action Hero?",
+      "answer": "Try The Warriors Gate, Secret Headquarters, Flora & Ulysses—each shares DNA with Last Action Hero while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Last Action Hero?",
+      "answer": "Last Action Hero (1993) is best described as Adventure, Fantasy, Action, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Last Action Hero worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "kung-fu-panda-4",
+    "night-at-the-museum-battle-of-the-smithsonian",
+    "nimona",
+    "3-ninjas",
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-dogs-purpose"
+  ]
+}

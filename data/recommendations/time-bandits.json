@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 36819,
+    "title": "Time Bandits",
+    "slug": "time-bandits",
+    "year": 1981,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Science Fiction",
+      "Adventure",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Time Bandits (1981) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. Terry Gilliam's control of tone keeps the ride coherent. The family and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "fantasy",
+      "science-fiction",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10192,
+      "title": "Shrek Forever After",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Shrek Forever After (2010) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9016,
+      "title": "Treasure Planet",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Treasure Planet (2002) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "science-fiction",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10837,
+      "title": "DuckTales: The Movie - Treasure of the Lost Lamp",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, DuckTales: The Movie - Treasure of the Lost Lamp (1990) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2897,
+      "title": "Around the World in 80 Days",
+      "year": 1956,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Around the World in 80 Days (1956) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 413658,
+      "title": "The Warriors Gate",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, The Warriors Gate (2016) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 269149,
+      "title": "Zootopia",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Zootopia (2016) is a strong next stop: both trade in family and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 411,
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) is a strong next stop: both trade in family and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Enchanted (2007) is a strong next stop: both trade in family and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10865,
+      "title": "Atlantis: The Lost Empire",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Time Bandits clicked for you, Atlantis: The Lost Empire (2001) is a strong next stop: both trade in family and science fiction, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "science-fiction",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Time Bandits?",
+      "answer": "Try Shrek Forever After, Treasure Planet, DuckTales: The Movie - Treasure of the Lost Lamp—each shares DNA with Time Bandits while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Time Bandits?",
+      "answer": "Time Bandits (1981) is best described as Family, Fantasy, Science Fiction, Adventure, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Time Bandits worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "minions-the-rise-of-gru",
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "abominable"
+  ]
+}

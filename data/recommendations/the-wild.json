@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9904,
+    "title": "The Wild",
+    "slug": "the-wild",
+    "year": 2006,
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure",
+      "Action",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Wild for the same reason it broke through in 2006: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Steve Williams keeps the ensemble pointed in one direction. The family and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "animation",
+      "adventure",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 953,
+      "title": "Madagascar",
+      "year": 2005,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Wild clicked for you, Madagascar (2005) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 270946,
+      "title": "Penguins of Madagascar",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Wild clicked for you, Penguins of Madagascar (2014) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Wild clicked for you, The Lion King 1½ (2004) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 770254,
+      "title": "Back to the Outback",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Wild clicked for you, Back to the Outback (2021) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 400157,
+      "title": "Wonder Park",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Wild clicked for you, Wonder Park (2019) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9975,
+      "title": "Curious George",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Wild clicked for you, Curious George (2006) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 326215,
+      "title": "Ooops! Noah Is Gone...",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Wild clicked for you, Ooops! Noah Is Gone... (2015) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 20694,
+      "title": "Rugrats Go Wild",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Wild clicked for you, Rugrats Go Wild (2003) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420818,
+      "title": "The Lion King",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Wild clicked for you, The Lion King (2019) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9732,
+      "title": "The Lion King II: Simba's Pride",
+      "year": 1998,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Wild clicked for you, The Lion King II: Simba's Pride (1998) is a strong next stop: both trade in family and animation, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Wild?",
+      "answer": "Try Madagascar, Penguins of Madagascar, The Lion King 1½—each shares DNA with The Wild while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Wild?",
+      "answer": "The Wild (2006) is best described as Family, Animation, Adventure, Action, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Wild worth revisiting?",
+      "answer": "Viewer scores sit around 5.5/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "big-hero-6",
+    "despicable-me-3",
+    "dog-man",
+    "kung-fu-panda-3",
+    "kung-fu-panda-4",
+    "nimona",
+    "pok-mon-the-movie-diancie-and-the-cocoon-of-destruction"
+  ]
+}

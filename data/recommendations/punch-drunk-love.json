@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 8051,
+    "title": "Punch-Drunk Love",
+    "slug": "punch-drunk-love",
+    "year": 2002,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "People revisit Punch-Drunk Love for the same reason it broke through in 2002: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Paul Thomas Anderson keeps the ensemble pointed in one direction. The romance and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "romance",
+      "drama",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 339397,
+      "title": "Café Society",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Café Society (2016) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4912,
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Confessions of a Dangerous Mind (2002) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy",
+        "crime",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 21755,
+      "title": "The Brothers Bloom",
+      "year": 2008,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, The Brothers Bloom (2008) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11860,
+      "title": "Sabrina",
+      "year": 1995,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Sabrina (1995) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 242042,
+      "title": "Barefoot",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Barefoot (2014) is a strong next stop: both trade in romance and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4347,
+      "title": "Atonement",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Atonement (2007) is a strong next stop: both trade in romance and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 4538,
+      "title": "The Darjeeling Limited",
+      "year": 2007,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, The Darjeeling Limited (2007) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6557,
+      "title": "27 Dresses",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, 27 Dresses (2008) is a strong next stop: both trade in romance and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13685,
+      "title": "Bottle Rocket",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Bottle Rocket (1996) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5143,
+      "title": "Hannah and Her Sisters",
+      "year": 1986,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Punch-Drunk Love clicked for you, Hannah and Her Sisters (1986) is a strong next stop: both trade in drama and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Punch-Drunk Love?",
+      "answer": "Try Café Society, Confessions of a Dangerous Mind, The Brothers Bloom—each shares DNA with Punch-Drunk Love while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Punch-Drunk Love?",
+      "answer": "Punch-Drunk Love (2002) is best described as Romance, Drama, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Punch-Drunk Love worth revisiting?",
+      "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this romance lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "500-days-of-summer",
+    "a-dogs-will",
+    "a-drama-of-jealousy-and-other-things",
+    "annie-hall",
+    "anora"
+  ]
+}

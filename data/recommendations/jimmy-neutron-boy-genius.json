@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12589,
+    "title": "Jimmy Neutron: Boy Genius",
+    "slug": "jimmy-neutron-boy-genius",
+    "year": 2001,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Jimmy Neutron: Boy Genius (2001) stuck because it commits to its family premise without apologizing—viewers remember set pieces and momentum as much as plot. John A. Davis's control of tone keeps the ride coherent. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "adventure",
+      "animation",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 379686,
+      "title": "Space Jam: A New Legacy",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Space Jam: A New Legacy (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 177572,
+      "title": "Big Hero 6",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Big Hero 6 (2014) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, A Bug's Life (1998) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 324852,
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Despicable Me 3 (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9354,
+      "title": "Honey, I Shrunk the Kids",
+      "year": 1989,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Honey, I Shrunk the Kids (1989) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1498,
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Teenage Mutant Ninja Turtles (1990) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 581997,
+      "title": "Batman vs Teenage Mutant Ninja Turtles",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Batman vs Teenage Mutant Ninja Turtles (2019) is a strong next stop: both trade in comedy and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "animation",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 594328,
+      "title": "Phineas and Ferb the Movie: Candace Against the Universe",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Phineas and Ferb the Movie: Candace Against the Universe (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, Anastasia (1997) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 324849,
+      "title": "The Lego Batman Movie",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Jimmy Neutron: Boy Genius clicked for you, The Lego Batman Movie (2017) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "animation",
+        "action"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Jimmy Neutron: Boy Genius?",
+      "answer": "Try Space Jam: A New Legacy, Big Hero 6, A Bug's Life—each shares DNA with Jimmy Neutron: Boy Genius while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Jimmy Neutron: Boy Genius?",
+      "answer": "Jimmy Neutron: Boy Genius (2001) is best described as Family, Comedy, Adventure, Animation, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Jimmy Neutron: Boy Genius worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this family lane."
+    }
+  ],
+  "relatedPages": [
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "elio",
+    "hoppers",
+    "ice-age-collision-course",
+    "meet-the-robinsons"
+  ]
+}

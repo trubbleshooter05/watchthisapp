@@ -1,0 +1,179 @@
+{
+  "sourceMovie": {
+    "tmdbId": 44154,
+    "title": "A Touch of Zen",
+    "slug": "a-touch-of-zen",
+    "year": 1970,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "A Touch of Zen works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1729,
+      "title": "The Forbidden Kingdom",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, The Forbidden Kingdom (2008) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 170657,
+      "title": "Journey to the West: Conquering the Demons",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Journey to the West: Conquering the Demons (2013) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 95,
+      "title": "Armageddon",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Armageddon (1998) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 79,
+      "title": "Hero",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Hero (2002) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 246,
+      "title": "Zatoichi",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Zatoichi (2003) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24,
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Kill Bill: Vol. 1 (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4108,
+      "title": "The Transporter",
+      "year": 2002,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, The Transporter (2002) is a strong next stop: both trade in action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 144,
+      "title": "Wings of Desire",
+      "year": 1987,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If A Touch of Zen clicked for you, Wings of Desire (1987) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Touch of Zen?",
+      "answer": "Try The Forbidden Kingdom, Journey to the West: Conquering the Demons, Armageddon—each shares DNA with A Touch of Zen while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is A Touch of Zen?",
+      "answer": "A Touch of Zen (1970) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is A Touch of Zen worth revisiting?",
+      "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds"
+  ]
+}

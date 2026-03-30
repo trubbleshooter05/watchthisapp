@@ -1,0 +1,181 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15283,
+    "title": "Pom Poko",
+    "slug": "pom-poko",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Pom Poko for the same reason it broke through in 1994: clear stakes, memorable faces, and a animation rhythm that doesn't stall in the middle. Isao Takahata keeps the ensemble pointed in one direction. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Epic (2013) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 588921,
+      "title": "Ainbo: Spirit of the Amazon",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Ainbo: Spirit of the Amazon (2021) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16910,
+      "title": "Naruto the Movie: Legend of the Stone of Gelel",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Naruto the Movie: Legend of the Stone of Gelel (2005) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 876792,
+      "title": "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 585077,
+      "title": "Children of the Sea",
+      "year": 2019,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Children of the Sea (2019) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 877957,
+      "title": "Drifting Home",
+      "year": 2022,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Drifting Home (2022) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 350499,
+      "title": "Pokémon the Movie: Hoopa and the Clash of Ages",
+      "year": 2015,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Pokémon the Movie: Hoopa and the Clash of Ages (2015) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14069,
+      "title": "The Girl Who Leapt Through Time",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, The Girl Who Leapt Through Time (2006) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pom Poko clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "action"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pom Poko?",
+      "answer": "Try Princess Mononoke, Epic, Ainbo: Spirit of the Amazon—each shares DNA with Pom Poko while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pom Poko?",
+      "answer": "Pom Poko (1994) is best described as Adventure, Animation, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pom Poko worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "aztec-batman-clash-of-empires",
+    "barbie-fairytopia-mermaidia",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king"
+  ]
+}

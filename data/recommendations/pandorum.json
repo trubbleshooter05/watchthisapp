@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 19898,
+    "title": "Pandorum",
+    "slug": "pandorum",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Horror",
+      "Mystery",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Pandorum works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The action and horror blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "horror",
+      "mystery",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Extinction (2015) is a strong next stop: both trade in action and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "horror",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 75612,
+      "title": "Oblivion",
+      "year": 2013,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Oblivion (2013) is a strong next stop: both trade in action and mystery, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "mystery",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 63,
+      "title": "Twelve Monkeys",
+      "year": 1995,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Twelve Monkeys (1995) is a strong next stop: both trade in mystery and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Predator (1987) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 170,
+      "title": "28 Days Later",
+      "year": 2002,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pandorum clicked for you, 28 Days Later (2002) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 169,
+      "title": "Predator 2",
+      "year": 1990,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Predator 2 (1990) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8413,
+      "title": "Event Horizon",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Event Horizon (1997) is a strong next stop: both trade in horror and mystery, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 154,
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Star Trek II: The Wrath of Khan (1982) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 199,
+      "title": "Star Trek: First Contact",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Star Trek: First Contact (1996) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 201,
+      "title": "Star Trek: Nemesis",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pandorum clicked for you, Star Trek: Nemesis (2002) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "thriller",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pandorum?",
+      "answer": "Try Extinction, Oblivion, Twelve Monkeys—each shares DNA with Pandorum while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pandorum?",
+      "answer": "Pandorum (2009) is best described as Action, Horror, Mystery, Science Fiction, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pandorum worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "24-hours-to-live",
+    "awareness",
+    "kill-command",
+    "knowing",
+    "lake-placid",
+    "lifeforce",
+    "naruto-shippuden-the-movie-blood-prison"
+  ]
+}

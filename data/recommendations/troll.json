@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 736526,
+    "title": "Troll",
+    "slug": "troll",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit Troll for the same reason it broke through in 2022: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Roar Uthaug keeps the ensemble pointed in one direction. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Troll clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Troll clicked for you, The Hobbit: An Unexpected Journey (2012) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Troll clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15257,
+      "title": "Hulk vs. Wolverine",
+      "year": 2009,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Troll clicked for you, Hulk vs. Wolverine (2009) is a strong next stop: both trade in fantasy and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 106,
+      "title": "Predator",
+      "year": 1987,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Troll clicked for you, Predator (1987) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 427641,
+      "title": "Rampage",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Troll clicked for you, Rampage (2018) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 146,
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Troll clicked for you, Crouching Tiger, Hidden Dragon (2000) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1911,
+      "title": "The 13th Warrior",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Troll clicked for you, The 13th Warrior (1999) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11976,
+      "title": "Legend",
+      "year": 1985,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Troll clicked for you, Legend (1985) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 489326,
+      "title": "Mortal",
+      "year": 2020,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Troll clicked for you, Mortal (2020) is a strong next stop: both trade in fantasy and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Troll?",
+      "answer": "Try The Lord of the Rings: The Fellowship of the Ring, The Hobbit: An Unexpected Journey, The Hobbit: The Desolation of Smaug—each shares DNA with Troll while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Troll?",
+      "answer": "Troll (2022) is best described as Fantasy, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Troll part of a franchise?",
+      "answer": "Yes—it's part of the \"Troll (2022) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-touch-of-zen",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days"
+  ]
+}

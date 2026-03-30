@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 123,
+    "title": "The Lord of the Rings",
+    "slug": "the-lord-of-the-rings",
+    "year": 1978,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Lord of the Rings (1978) as a adventure theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The adventure and animation blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "animation",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 10191,
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, How to Train Your Dragon (2010) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 508439,
+      "title": "Onward",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, Onward (2020) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, Anastasia (1997) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10957,
+      "title": "The Black Cauldron",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, The Black Cauldron (1985) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 335360,
+      "title": "My Little Pony: The Movie",
+      "year": 2017,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, My Little Pony: The Movie (2017) is a strong next stop: both trade in adventure and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, The Monkey King (2023) is a strong next stop: both trade in adventure and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "animation",
+        "fantasy",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49051,
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, The Hobbit: An Unexpected Journey (2012) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 57158,
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, The Hobbit: The Desolation of Smaug (2013) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, Warcraft (2016) is a strong next stop: both trade in adventure and fantasy, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10140,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Lord of the Rings clicked for you, The Chronicles of Narnia: The Voyage of the Dawn Treader (2010) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Lord of the Rings?",
+      "answer": "Try How to Train Your Dragon, Onward, Anastasia—each shares DNA with The Lord of the Rings while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Lord of the Rings?",
+      "answer": "The Lord of the Rings (1978) is best described as Adventure, Animation, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Lord of the Rings worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "aztec-batman-clash-of-empires",
+    "barbie-fairytopia-mermaidia",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king"
+  ]
+}

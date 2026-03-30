@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1694,
+    "title": "Re-Animator",
+    "slug": "re-animator",
+    "year": 1985,
+    "genres": [
+      "Science Fiction",
+      "Comedy",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Re-Animator (1985) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "comedy",
+      "horror",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 15762,
+      "title": "Night of the Creeps",
+      "year": 1986,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Night of the Creeps (1986) is a strong next stop: both trade in science fiction and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18111,
+      "title": "Bride of Re-Animator",
+      "year": 1990,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Bride of Re-Animator (1990) is a strong next stop: both trade in science fiction and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 27274,
+      "title": "Frankenhooker",
+      "year": 1990,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Frankenhooker (1990) is a strong next stop: both trade in science fiction and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "comedy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 300668,
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Annihilation (2018) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, The Fly (1986) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3035,
+      "title": "Frankenstein",
+      "year": 1931,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Frankenstein (1931) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1551,
+      "title": "Flatliners",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Flatliners (1990) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror",
+        "animation",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 21159,
+      "title": "The Last Man on Earth",
+      "year": 1964,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, The Last Man on Earth (1964) is a strong next stop: both trade in science fiction and horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1062722,
+      "title": "Frankenstein",
+      "year": 2025,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Re-Animator clicked for you, Frankenstein (2025) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Re-Animator?",
+      "answer": "Try Night of the Creeps, Bride of Re-Animator, Frankenhooker—each shares DNA with Re-Animator while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Re-Animator?",
+      "answer": "Re-Animator (1985) is best described as Science Fiction, Comedy, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Re-Animator part of a franchise?",
+      "answer": "Yes—it's part of the \"Re-Animator Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "cold-storage",
+    "lake-placid",
+    "night-of-the-zoopocalypse",
+    "slither",
+    "the-return-of-the-living-dead",
+    "the-rocky-horror-picture-show",
+    "totally-killer"
+  ]
+}

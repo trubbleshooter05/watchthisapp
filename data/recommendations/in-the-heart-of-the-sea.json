@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 205775,
+    "title": "In the Heart of the Sea",
+    "slug": "in-the-heart-of-the-sea",
+    "year": 2015,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Adventure",
+      "Action",
+      "History"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto In the Heart of the Sea (2015) as a thriller theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "adventure",
+      "action",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 109424,
+      "title": "Captain Phillips",
+      "year": 2013,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Captain Phillips (2013) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 551,
+      "title": "The Poseidon Adventure",
+      "year": 1972,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, The Poseidon Adventure (1972) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2669,
+      "title": "The Bounty",
+      "year": 1984,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, The Bounty (1984) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12311,
+      "title": "Mutiny on the Bounty",
+      "year": 1935,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Mutiny on the Bounty (1935) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 739986,
+      "title": "True Spirit",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, True Spirit (2023) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 578,
+      "title": "Jaws",
+      "year": 1975,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Jaws (1975) is a strong next stop: both trade in thriller and adventure, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "adventure",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 296524,
+      "title": "Deepwater Horizon",
+      "year": 2016,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Deepwater Horizon (2016) is a strong next stop: both trade in drama and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8619,
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Master and Commander: The Far Side of the World (2003) is a strong next stop: both trade in drama and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 436274,
+      "title": "Radius",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Radius (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 78698,
+      "title": "Big Miracle",
+      "year": 2012,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If In the Heart of the Sea clicked for you, Big Miracle (2012) is a strong next stop: both trade in drama and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "adventure",
+        "romance",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after In the Heart of the Sea?",
+      "answer": "Try Captain Phillips, The Poseidon Adventure, The Bounty—each shares DNA with In the Heart of the Sea while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is In the Heart of the Sea?",
+      "answer": "In the Heart of the Sea (2015) is best described as Thriller, Drama, Adventure, Action, History. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is In the Heart of the Sea worth revisiting?",
+      "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "alexander",
+    "along-with-the-gods-the-two-worlds",
+    "dantes-peak",
+    "executive-decision",
+    "extortion"
+  ]
+}

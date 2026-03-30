@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12139,
+    "title": "Dennis the Menace",
+    "slug": "dennis-the-menace",
+    "year": 1993,
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Dennis the Menace (1993) as a family theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The family and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "family",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 400160,
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, The SpongeBob Movie: Sponge on the Run (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 2616,
+      "title": "Uncle Buck",
+      "year": 1989,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Uncle Buck (1989) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 638597,
+      "title": "YES DAY",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, YES DAY (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 554241,
+      "title": "Playing with Fire",
+      "year": 2019,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Playing with Fire (2019) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 360606,
+      "title": "Adventures in Babysitting",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Adventures in Babysitting (2016) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "tv-movie"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 624963,
+      "title": "A Babysitter's Guide to Monster Hunting",
+      "year": 2020,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, A Babysitter's Guide to Monster Hunting (2020) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 621876,
+      "title": "Flora & Ulysses",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Flora & Ulysses (2021) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 926670,
+      "title": "Henry Danger: The Movie",
+      "year": 2025,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Henry Danger: The Movie (2025) is a strong next stop: both trade in family and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "comedy",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 75,
+      "title": "Mars Attacks!",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Mars Attacks! (1996) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "science-fiction"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Dennis the Menace clicked for you, Return to Never Land (2002) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy",
+        "animation"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Dennis the Menace?",
+      "answer": "Try The SpongeBob Movie: Sponge on the Run, Uncle Buck, YES DAY—each shares DNA with Dennis the Menace while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Dennis the Menace?",
+      "answer": "Dennis the Menace (1993) is best described as Family, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Dennis the Menace part of a franchise?",
+      "answer": "Yes—it's part of the \"Dennis the Menace Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "101-dalmatians",
+    "3-ninjas",
+    "a-bugs-life",
+    "a-cinderella-story",
+    "a-dogs-purpose",
+    "a-goofy-movie",
+    "a-letter-to-momo"
+  ]
+}

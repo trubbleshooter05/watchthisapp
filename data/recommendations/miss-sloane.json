@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 376290,
+    "title": "Miss Sloane",
+    "slug": "miss-sloane",
+    "year": 2016,
+    "genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Miss Sloane works as a thriller movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The thriller and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "thriller",
+      "drama",
+      "crime",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 62835,
+      "title": "Colombiana",
+      "year": 2011,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Colombiana (2011) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9386,
+      "title": "In the Line of Fire",
+      "year": 1993,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, In the Line of Fire (1993) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9944,
+      "title": "The Pelican Brief",
+      "year": 1993,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, The Pelican Brief (1993) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 413362,
+      "title": "Roman J. Israel, Esq.",
+      "year": 2017,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Roman J. Israel, Esq. (2017) is a strong next stop: both trade in thriller and drama, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9452,
+      "title": "Bulworth",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Bulworth (1998) is a strong next stop: both trade in thriller and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "crime",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 541671,
+      "title": "Ballerina",
+      "year": 2025,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Ballerina (2025) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9331,
+      "title": "Clear and Present Danger",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Clear and Present Danger (1994) is a strong next stop: both trade in thriller and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4959,
+      "title": "The International",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, The International (2009) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 11412,
+      "title": "The Long Kiss Goodnight",
+      "year": 1996,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, The Long Kiss Goodnight (1996) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 460846,
+      "title": "Security",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Miss Sloane clicked for you, Security (2017) is a strong next stop: both trade in thriller and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "crime",
+        "action"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Miss Sloane?",
+      "answer": "Try Colombiana, In the Line of Fire, The Pelican Brief—each shares DNA with Miss Sloane while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Miss Sloane?",
+      "answer": "Miss Sloane (2016) is best described as Thriller, Drama, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Miss Sloane worth revisiting?",
+      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this thriller lane."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "a-history-of-violence",
+    "a-most-violent-year",
+    "a-perfect-murder",
+    "a-time-to-kill",
+    "a-walk-among-the-tombstones",
+    "ad-vitam"
+  ]
+}

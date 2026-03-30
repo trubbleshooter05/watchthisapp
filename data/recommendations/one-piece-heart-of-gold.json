@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 433157,
+    "title": "One Piece: Heart of Gold",
+    "slug": "one-piece-heart-of-gold",
+    "year": 2016,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "People revisit One Piece: Heart of Gold for the same reason it broke through in 2016: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Tatsuya Nagamine keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "comedy",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 36728,
+      "title": "Naruto Shippuden the Movie: The Will of Fire",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Naruto Shippuden the Movie: The Will of Fire (2009) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 433422,
+      "title": "Fairy Tail: Dragon Cry",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Fairy Tail: Dragon Cry (2017) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "comedy",
+        "fantasy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 75624,
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "year": 2011,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Naruto Shippuden the Movie: Blood Prison (2011) is a strong next stop: both trade in animation and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 16910,
+      "title": "Naruto the Movie: Legend of the Stone of Gelel",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Naruto the Movie: Legend of the Stone of Gelel (2005) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13754,
+      "title": "Tekkonkinkreet",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Tekkonkinkreet (2006) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14069,
+      "title": "The Girl Who Leapt Through Time",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, The Girl Who Leapt Through Time (2006) is a strong next stop: both trade in animation and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "fantasy",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 783675,
+      "title": "The First Slam Dunk",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If One Piece: Heart of Gold clicked for you, The First Slam Dunk (2022) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after One Piece: Heart of Gold?",
+      "answer": "Try Naruto Shippuden the Movie: The Will of Fire, Fairy Tail: Dragon Cry, Naruto Shippuden the Movie: Blood Prison—each shares DNA with One Piece: Heart of Gold while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is One Piece: Heart of Gold?",
+      "answer": "One Piece: Heart of Gold (2016) is best described as Animation, Adventure, Comedy, Fantasy, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is One Piece: Heart of Gold worth revisiting?",
+      "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "boruto-naruto-the-movie",
+    "dragon-ball-curse-of-the-blood-rubies",
+    "fairy-tail-dragon-cry",
+    "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion",
+    "kung-fu-panda-4",
+    "naruto-shippuden-the-movie-the-will-of-fire",
+    "nimona"
+  ]
+}

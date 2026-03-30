@@ -1,0 +1,183 @@
+{
+  "sourceMovie": {
+    "tmdbId": 44728,
+    "title": "One Piece: Curse of the Sacred Sword",
+    "slug": "one-piece-curse-of-the-sacred-sword",
+    "year": 2004,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Action"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto One Piece: Curse of the Sacred Sword (2004) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "action",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 568012,
+      "title": "One Piece: Stampede",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, One Piece: Stampede (2019) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 176983,
+      "title": "One Piece Film: Z",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, One Piece Film: Z (2012) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 374205,
+      "title": "One Piece Film: GOLD",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, One Piece Film: GOLD (2016) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 50723,
+      "title": "Naruto Shippuden the Movie: The Lost Tower",
+      "year": 2010,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, Naruto Shippuden the Movie: The Lost Tower (2010) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 18861,
+      "title": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+      "year": 2006,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, Naruto the Movie: Guardians of the Crescent Moon Kingdom (2006) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 19576,
+      "title": "One Piece: The Movie",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, One Piece: The Movie (2000) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23446,
+      "title": "One Piece: Clockwork Island Adventure",
+      "year": 2001,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, One Piece: Clockwork Island Adventure (2001) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13648,
+      "title": "Resident Evil: Degeneration",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, Resident Evil: Degeneration (2008) is a strong next stop: both trade in animation and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13851,
+      "title": "Batman: Gotham Knight",
+      "year": 2008,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If One Piece: Curse of the Sacred Sword clicked for you, Batman: Gotham Knight (2008) is a strong next stop: both trade in animation and action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "action",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after One Piece: Curse of the Sacred Sword?",
+      "answer": "Try One Piece: Stampede, One Piece Film: Z, One Piece Film: GOLD—each shares DNA with One Piece: Curse of the Sacred Sword while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is One Piece: Curse of the Sacred Sword?",
+      "answer": "One Piece: Curse of the Sacred Sword (2004) is best described as Animation, Adventure, Action. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is One Piece: Curse of the Sacred Sword part of a franchise?",
+      "answer": "Yes—it's part of the \"One Piece Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "attack-on-titan-the-last-attack",
+    "aztec-batman-clash-of-empires",
+    "beowulf",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
+    "berserk-the-golden-age-arc-iii-the-advent",
+    "big-hero-6"
+  ]
+}

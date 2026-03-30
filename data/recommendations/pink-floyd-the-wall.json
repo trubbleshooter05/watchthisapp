@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 12104,
+    "title": "Pink Floyd: The Wall",
+    "slug": "pink-floyd-the-wall",
+    "year": 1982,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Pink Floyd: The Wall (1982) as a music theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The music and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "music",
+      "drama",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13655,
+      "title": "Camp Rock",
+      "year": 2008,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Camp Rock (2008) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy",
+        "romance",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9816,
+      "title": "Save the Last Dance",
+      "year": 2001,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Save the Last Dance (2001) is a strong next stop: both trade in music and drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "family",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9591,
+      "title": "That Thing You Do!",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, That Thing You Do! (1996) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 739993,
+      "title": "Metal Lords",
+      "year": 2022,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Metal Lords (2022) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 109417,
+      "title": "Battle of the Year",
+      "year": 2013,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Battle of the Year (2013) is a strong next stop: both trade in music and drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 13938,
+      "title": "The Last Dragon",
+      "year": 1985,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, The Last Dragon (1985) is a strong next stop: both trade in music and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama",
+        "action",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 645886,
+      "title": "The Unforgivable",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, The Unforgivable (2021) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2179,
+      "title": "Tenacious D in The Pick of Destiny",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Tenacious D in The Pick of Destiny (2006) is a strong next stop: both trade in music, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9504,
+      "title": "Glengarry Glen Ross",
+      "year": 1992,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Pink Floyd: The Wall clicked for you, Glengarry Glen Ross (1992) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Pink Floyd: The Wall?",
+      "answer": "Try High School Musical 2, Camp Rock, Save the Last Dance—each shares DNA with Pink Floyd: The Wall while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Pink Floyd: The Wall?",
+      "answer": "Pink Floyd: The Wall (1982) is best described as Music, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Pink Floyd: The Wall worth revisiting?",
+      "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this music lane."
+    }
+  ],
+  "relatedPages": [
+    "8-mile",
+    "9-songs",
+    "a-complete-unknown",
+    "a-star-is-born",
+    "almost-famous",
+    "amadeus",
+    "august-rush"
+  ]
+}

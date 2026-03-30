@@ -1,0 +1,166 @@
+{
+  "sourceMovie": {
+    "tmdbId": 87492,
+    "title": "Foxcatcher",
+    "slug": "foxcatcher",
+    "year": 2014,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Foxcatcher (2014) as a drama theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The drama and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "drama",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9366,
+      "title": "Donnie Brasco",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Donnie Brasco (1997) is a strong next stop: both trade in drama and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 6106,
+      "title": "Salvador",
+      "year": 1986,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Salvador (1986) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9585,
+      "title": "Not Without My Daughter",
+      "year": 1991,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Not Without My Daughter (1991) is a strong next stop: both trade in drama and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9390,
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Jerry Maguire (1996) is a strong next stop: both trade in drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 850165,
+      "title": "The Iron Claw",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, The Iron Claw (2023) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9443,
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Chariots of Fire (1981) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9549,
+      "title": "The Right Stuff",
+      "year": 1983,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, The Right Stuff (1983) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "history",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 255709,
+      "title": "Hope",
+      "year": 2013,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Hope (2013) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 232,
+      "title": "Rumble Fish",
+      "year": 1983,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Rumble Fish (1983) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 718633,
+      "title": "Bruised",
+      "year": 2021,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Foxcatcher clicked for you, Bruised (2021) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Foxcatcher?",
+      "answer": "Try Donnie Brasco, Salvador, Not Without My Daughter—each shares DNA with Foxcatcher while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Foxcatcher?",
+      "answer": "Foxcatcher (2014) is best described as Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Foxcatcher worth revisiting?",
+      "answer": "Viewer scores sit around 6.7/10 on TMDB—high enough that replays are common for people who like this drama lane."
+    }
+  ],
+  "relatedPages": [
+    "10-cloverfield-lane",
+    "12-12-the-day",
+    "127-hours",
+    "13",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "14-blades",
+    "40-acres"
+  ]
+}

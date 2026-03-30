@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 23172,
+    "title": "The Spy Next Door",
+    "slug": "the-spy-next-door",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Spy Next Door (2010) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Brian Levant's control of tone keeps the ride coherent. The action and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "comedy",
+      "family",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 592834,
+      "title": "My Spy",
+      "year": 2020,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, My Spy (2020) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11286,
+      "title": "The Cannonball Run",
+      "year": 1981,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, The Cannonball Run (1981) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10193,
+      "title": "Toy Story 3",
+      "year": 2010,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, Toy Story 3 (2010) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 35,
+      "title": "The Simpsons Movie",
+      "year": 2007,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, The Simpsons Movie (2007) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10527,
+      "title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, Madagascar: Escape 2 Africa (2008) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 38575,
+      "title": "The Karate Kid",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, The Karate Kid (2010) is a strong next stop: both trade in action and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "family",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1035259,
+      "title": "The Naked Gun",
+      "year": 2025,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, The Naked Gun (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 462883,
+      "title": "Woody Woodpecker",
+      "year": 2017,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, Woody Woodpecker (2017) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1363123,
+      "title": "The Family Plan 2",
+      "year": 2025,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, The Family Plan 2 (2025) is a strong next stop: both trade in action and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Spy Next Door clicked for you, Finding Nemo (2003) is a strong next stop: both trade in family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Spy Next Door?",
+      "answer": "Try My Spy, The Cannonball Run, Toy Story 3—each shares DNA with The Spy Next Door while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Spy Next Door?",
+      "answer": "The Spy Next Door (2010) is best described as Action, Comedy, Family. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Spy Next Door worth revisiting?",
+      "answer": "Viewer scores sit around 5.9/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "3-ninjas",
+    "agent-cody-banks",
+    "big-hero-6",
+    "captain-underpants-the-first-epic-movie",
+    "despicable-me-3",
+    "despicable-me-4",
+    "dog-man"
+  ]
+}

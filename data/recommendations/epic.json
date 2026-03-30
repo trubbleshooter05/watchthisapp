@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 116711,
+    "title": "Epic",
+    "slug": "epic",
+    "year": 2013,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Epic for the same reason it broke through in 2013: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. Chris Wedge keeps the ensemble pointed in one direction. The animation and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "adventure",
+      "family",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Epic clicked for you, Anastasia (1997) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 441130,
+      "title": "Wolfwalkers",
+      "year": 2020,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Epic clicked for you, Wolfwalkers (2020) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11704,
+      "title": "The Secret of NIMH",
+      "year": 1982,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Epic clicked for you, The Secret of NIMH (1982) is a strong next stop: both trade in animation and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Epic clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9479,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Epic clicked for you, The Nightmare Before Christmas (1993) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9487,
+      "title": "A Bug's Life",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Epic clicked for you, A Bug's Life (1998) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 49519,
+      "title": "The Croods",
+      "year": 2013,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Epic clicked for you, The Croods (2013) is a strong next stop: both trade in animation and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "adventure",
+        "family",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Epic clicked for you, Hook (1991) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9593,
+      "title": "Last Action Hero",
+      "year": 1993,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Epic clicked for you, Last Action Hero (1993) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "action",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Epic clicked for you, Christopher Robin (2018) is a strong next stop: both trade in adventure and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Epic?",
+      "answer": "Try Anastasia, Wolfwalkers, The Secret of NIMH—each shares DNA with Epic while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Epic?",
+      "answer": "Epic (2013) is best described as Animation, Adventure, Family, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Epic worth revisiting?",
+      "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "barbie-fairytopia-mermaidia",
+    "brave",
+    "castle-in-the-sky"
+  ]
+}

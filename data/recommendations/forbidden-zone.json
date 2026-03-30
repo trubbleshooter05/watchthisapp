@@ -1,0 +1,175 @@
+{
+  "sourceMovie": {
+    "tmdbId": 16127,
+    "title": "Forbidden Zone",
+    "slug": "forbidden-zone",
+    "year": 1980,
+    "genres": [
+      "Music",
+      "Comedy",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit Forbidden Zone for the same reason it broke through in 1980: clear stakes, memorable faces, and a comedy rhythm that doesn't stall in the middle. Richard Elfman keeps the ensemble pointed in one direction. The music and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "music",
+      "comedy",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 2179,
+      "title": "Tenacious D in The Pick of Destiny",
+      "year": 2006,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Tenacious D in The Pick of Destiny (2006) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4011,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Beetlejuice (1988) is a strong next stop: both trade in comedy and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13649,
+      "title": "High School Musical 2",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, High School Musical 2 (2007) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy",
+        "drama",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36685,
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, The Rocky Horror Picture Show (1975) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "science-fiction",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 27327,
+      "title": "Phantom of the Paradise",
+      "year": 1974,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Phantom of the Paradise (1974) is a strong next stop: both trade in comedy and fantasy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13403,
+      "title": "Hedwig and the Angry Inch",
+      "year": 2001,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Hedwig and the Angry Inch (2001) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13913,
+      "title": "Animal Crackers",
+      "year": 1930,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Animal Crackers (1930) is a strong next stop: both trade in music and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9473,
+      "title": "South Park: Bigger, Longer & Uncut",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, South Park: Bigger, Longer & Uncut (1999) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Labyrinth (1986) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12104,
+      "title": "Pink Floyd: The Wall",
+      "year": 1982,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Forbidden Zone clicked for you, Pink Floyd: The Wall (1982) is a strong next stop: both trade in music, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Forbidden Zone?",
+      "answer": "Try Tenacious D in The Pick of Destiny, Beetlejuice, High School Musical 2—each shares DNA with Forbidden Zone while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Forbidden Zone?",
+      "answer": "Forbidden Zone (1980) is best described as Music, Comedy, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Forbidden Zone worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this music lane."
+    }
+  ],
+  "relatedPages": [
+    "alvin-and-the-chipmunks-the-squeakquel",
+    "kpop-demon-hunters",
+    "soul",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour",
+    "yesterday"
+  ]
+}

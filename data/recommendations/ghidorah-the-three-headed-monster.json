@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 15766,
+    "title": "Ghidorah, the Three-Headed Monster",
+    "slug": "ghidorah-the-three-headed-monster",
+    "year": 1964,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Ghidorah, the Three-Headed Monster (1964) as a science fiction theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The science fiction and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "science-fiction",
+      "action",
+      "fantasy",
+      "thriller",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1680,
+      "title": "King Kong vs. Godzilla",
+      "year": 1962,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, King Kong vs. Godzilla (1962) is a strong next stop: both trade in science fiction and action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "fantasy",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 36243,
+      "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack (2001) is a strong next stop: both trade in science fiction and action, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "fantasy",
+        "adventure",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 823464,
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Godzilla x Kong: The New Empire (2024) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9331,
+      "title": "Clear and Present Danger",
+      "year": 1994,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Clear and Present Danger (1994) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1678,
+      "title": "Godzilla",
+      "year": 1954,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Godzilla (1954) is a strong next stop: both trade in science fiction and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9404,
+      "title": "Police Story 4: First Strike",
+      "year": 1996,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Police Story 4: First Strike (1996) is a strong next stop: both trade in action and thriller, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1682,
+      "title": "Mothra vs. Godzilla",
+      "year": 1964,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Mothra vs. Godzilla (1964) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10643,
+      "title": "Godzilla 2000: Millennium",
+      "year": 1999,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Godzilla 2000: Millennium (1999) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3107,
+      "title": "Destroy All Monsters",
+      "year": 1968,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ghidorah, the Three-Headed Monster clicked for you, Destroy All Monsters (1968) is a strong next stop: both trade in science fiction and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "science-fiction",
+        "action"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ghidorah, the Three-Headed Monster?",
+      "answer": "Try King Kong vs. Godzilla, Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack, Godzilla x Kong: The New Empire—each shares DNA with Ghidorah, the Three-Headed Monster while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ghidorah, the Three-Headed Monster?",
+      "answer": "Ghidorah, the Three-Headed Monster (1964) is best described as Science Fiction, Action, Fantasy, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ghidorah, the Three-Headed Monster part of a franchise?",
+      "answer": "Yes—it's part of the \"Godzilla (Showa) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "godzilla-final-wars",
+    "the-league-of-extraordinary-gentlemen",
+    "underworld-blood-wars",
+    "24-hours-to-live",
+    "40-acres",
+    "alienoid",
+    "aliens"
+  ]
+}

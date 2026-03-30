@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 277834,
+    "title": "Moana",
+    "slug": "moana",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "whyPeopleLoveIt": "Moana (2016) stuck because it commits to its adventure premise without apologizing—viewers remember set pieces and momentum as much as plot. John Musker's control of tone keeps the ride coherent. The adventure and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "comedy",
+      "family",
+      "animation",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 8355,
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Moana clicked for you, Ice Age: Dawn of the Dinosaurs (2009) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 57800,
+      "title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Moana clicked for you, Ice Age: Continental Drift (2012) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11970,
+      "title": "Hercules",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Moana clicked for you, Hercules (1997) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11836,
+      "title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Moana clicked for you, The SpongeBob SquarePants Movie (2004) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9385,
+      "title": "The Twelve Tasks of Asterix",
+      "year": 1976,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Moana clicked for you, The Twelve Tasks of Asterix (1976) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 72197,
+      "title": "The Pirates! In an Adventure with Scientists!",
+      "year": 2012,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Moana clicked for you, The Pirates! In an Adventure with Scientists! (2012) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9369,
+      "title": "Asterix Conquers America",
+      "year": 1994,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Moana clicked for you, Asterix Conquers America (1994) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13355,
+      "title": "Scooby-Doo! Pirates Ahoy!",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Moana clicked for you, Scooby-Doo! Pirates Ahoy! (2006) is a strong next stop: both trade in adventure and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "comedy",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 127380,
+      "title": "Finding Dory",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Moana clicked for you, Finding Dory (2016) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10865,
+      "title": "Atlantis: The Lost Empire",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Moana clicked for you, Atlantis: The Lost Empire (2001) is a strong next stop: both trade in adventure and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "family",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Moana?",
+      "answer": "Try Ice Age: Dawn of the Dinosaurs, Ice Age: Continental Drift, Hercules—each shares DNA with Moana while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Moana?",
+      "answer": "Moana (2016) is best described as Adventure, Comedy, Family, Animation. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Moana part of a franchise?",
+      "answer": "Yes—it's part of the \"Moana Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "abominable",
+    "back-to-the-outback",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}

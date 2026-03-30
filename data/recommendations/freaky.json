@@ -1,0 +1,165 @@
+{
+  "sourceMovie": {
+    "tmdbId": 551804,
+    "title": "Freaky",
+    "slug": "freaky",
+    "year": 2020,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Freaky works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 440021,
+      "title": "Happy Death Day",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Freaky clicked for you, Happy Death Day (2017) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 23202,
+      "title": "Trick 'r Treat",
+      "year": 2007,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Freaky clicked for you, Trick 'r Treat (2007) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 993784,
+      "title": "Lisa Frankenstein",
+      "year": 2024,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Freaky clicked for you, Lisa Frankenstein (2024) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "romance"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 18086,
+      "title": "Fright Night Part 2",
+      "year": 1988,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Freaky clicked for you, Fright Night Part 2 (1988) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Freaky clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4232,
+      "title": "Scream",
+      "year": 1996,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Freaky clicked for you, Scream (1996) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "crime",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4247,
+      "title": "Scary Movie",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Freaky clicked for you, Scary Movie (2000) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4233,
+      "title": "Scream 2",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Freaky clicked for you, Scream 2 (1997) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 646385,
+      "title": "Scream",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Freaky clicked for you, Scream (2022) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "mystery"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9373,
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Freaky clicked for you, The Texas Chainsaw Massacre (2003) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Freaky?",
+      "answer": "Try Happy Death Day, Trick 'r Treat, Lisa Frankenstein—each shares DNA with Freaky while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Freaky?",
+      "answer": "Freaky (2020) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Freaky worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "as-the-gods-will"
+  ]
+}

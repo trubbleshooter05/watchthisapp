@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 645757,
+    "title": "That Christmas",
+    "slug": "that-christmas",
+    "year": 2024,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto That Christmas (2024) as a animation theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The animation and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "comedy",
+      "family",
+      "fantasy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 508965,
+      "title": "Klaus",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Klaus (2019) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 355547,
+      "title": "The Star",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If That Christmas clicked for you, The Star (2017) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 527435,
+      "title": "The Christmas Chronicles",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If That Christmas clicked for you, The Christmas Chronicles (2018) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 585245,
+      "title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Clifford the Big Red Dog (2021) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9479,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If That Christmas clicked for you, The Nightmare Before Christmas (1993) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8871,
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If That Christmas clicked for you, How the Grinch Stole Christmas (2000) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10719,
+      "title": "Elf",
+      "year": 2003,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Elf (2003) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Willy Wonka & the Chocolate Factory (1971) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 51052,
+      "title": "Arthur Christmas",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Arthur Christmas (2011) is a strong next stop: both trade in animation and comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "comedy",
+        "family",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 454467,
+      "title": "Noelle",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If That Christmas clicked for you, Noelle (2019) is a strong next stop: both trade in comedy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "family",
+        "fantasy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after That Christmas?",
+      "answer": "Try Klaus, The Star, The Christmas Chronicles—each shares DNA with That Christmas while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is That Christmas?",
+      "answer": "That Christmas (2024) is best described as Animation, Comedy, Family, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is That Christmas worth revisiting?",
+      "answer": "Viewer scores sit around 7.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "abominable",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021",
+    "frozen-ii",
+    "hercules",
+    "horton-hears-a-who"
+  ]
+}
