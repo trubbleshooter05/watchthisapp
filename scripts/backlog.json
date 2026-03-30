@@ -21368,5 +21368,755 @@
     "slug": "agent-cody-banks",
     "title": "Agent Cody Banks",
     "year": 2003
+  },
+  {
+    "slug": "dangerous-liaisons",
+    "title": "Dangerous Liaisons",
+    "year": 1988
+  },
+  {
+    "slug": "re-zero-starting-life-in-another-world-the-frozen-bond",
+    "title": "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+    "year": 2019
+  },
+  {
+    "slug": "but-im-a-cheerleader",
+    "title": "But I'm a Cheerleader",
+    "year": 2000
+  },
+  {
+    "slug": "your-name-engraved-herein",
+    "title": "Your Name Engraved Herein",
+    "year": 2020
+  },
+  {
+    "slug": "eye-in-the-sky",
+    "title": "Eye in the Sky",
+    "year": 2015
+  },
+  {
+    "slug": "sixteen-candles",
+    "title": "Sixteen Candles",
+    "year": 1984
+  },
+  {
+    "slug": "oliver",
+    "title": "Oliver!",
+    "year": 1968
+  },
+  {
+    "slug": "juice",
+    "title": "Juice",
+    "year": 1992
+  },
+  {
+    "slug": "steamboy",
+    "title": "Steamboy",
+    "year": 2004
+  },
+  {
+    "slug": "sink-or-swim",
+    "title": "Sink or Swim",
+    "year": 2018
+  },
+  {
+    "slug": "tootsie",
+    "title": "Tootsie",
+    "year": 1982
+  },
+  {
+    "slug": "the-warlords",
+    "title": "The Warlords",
+    "year": 2007
+  },
+  {
+    "slug": "dont-say-a-word",
+    "title": "Don't Say a Word",
+    "year": 2001
+  },
+  {
+    "slug": "syriana",
+    "title": "Syriana",
+    "year": 2005
+  },
+  {
+    "slug": "jersey-girl",
+    "title": "Jersey Girl",
+    "year": 2004
+  },
+  {
+    "slug": "extremely-loud-incredibly-close",
+    "title": "Extremely Loud & Incredibly Close",
+    "year": 2011
+  },
+  {
+    "slug": "penguin-highway",
+    "title": "Penguin Highway",
+    "year": 2018
+  },
+  {
+    "slug": "i-now-pronounce-you-chuck-larry",
+    "title": "I Now Pronounce You Chuck & Larry",
+    "year": 2007
+  },
+  {
+    "slug": "anohana-the-flower-we-saw-that-day-the-movie",
+    "title": "anohana: The Flower We Saw That Day - The Movie",
+    "year": 2013
+  },
+  {
+    "slug": "jason-and-the-argonauts",
+    "title": "Jason and the Argonauts",
+    "year": 1963
+  },
+  {
+    "slug": "we-made-a-beautiful-bouquet",
+    "title": "We Made a Beautiful Bouquet",
+    "year": 2021
+  },
+  {
+    "slug": "20-000-leagues-under-the-sea",
+    "title": "20,000 Leagues Under the Sea",
+    "year": 1954
+  },
+  {
+    "slug": "tully",
+    "title": "Tully",
+    "year": 2018
+  },
+  {
+    "slug": "thirteen-lives",
+    "title": "Thirteen Lives",
+    "year": 2022
+  },
+  {
+    "slug": "american-ultra",
+    "title": "American Ultra",
+    "year": 2015
+  },
+  {
+    "slug": "the-twilight-samurai",
+    "title": "The Twilight Samurai",
+    "year": 2002
+  },
+  {
+    "slug": "the-electrical-life-of-louis-wain",
+    "title": "The Electrical Life of Louis Wain",
+    "year": 2021
+  },
+  {
+    "slug": "ranma-1-2-the-movie-2-nihao-my-concubine",
+    "title": "Ranma 1/2 the Movie 2: Nihao My Concubine",
+    "year": 1992
+  },
+  {
+    "slug": "the-circle",
+    "title": "The Circle",
+    "year": 2017
+  },
+  {
+    "slug": "an-officer-and-a-gentleman",
+    "title": "An Officer and a Gentleman",
+    "year": 1982
+  },
+  {
+    "slug": "super-troopers",
+    "title": "Super Troopers",
+    "year": 2001
+  },
+  {
+    "slug": "blow-out",
+    "title": "Blow Out",
+    "year": 1981
+  },
+  {
+    "slug": "what-a-girl-wants",
+    "title": "What a Girl Wants",
+    "year": 2003
+  },
+  {
+    "slug": "the-36th-chamber-of-shaolin",
+    "title": "The 36th Chamber of Shaolin",
+    "year": 1978
+  },
+  {
+    "slug": "the-conversation",
+    "title": "The Conversation",
+    "year": 1974
+  },
+  {
+    "slug": "the-dead-pool",
+    "title": "The Dead Pool",
+    "year": 1988
+  },
+  {
+    "slug": "sing-sing",
+    "title": "Sing Sing",
+    "year": 2024
+  },
+  {
+    "slug": "the-foul-king",
+    "title": "The Foul King",
+    "year": 2000
+  },
+  {
+    "slug": "house-of-1000-corpses",
+    "title": "House of 1000 Corpses",
+    "year": 2003
+  },
+  {
+    "slug": "mira",
+    "title": "Mira",
+    "year": 2022
+  },
+  {
+    "slug": "journey-to-the-center-of-the-earth",
+    "title": "Journey to the Center of the Earth",
+    "year": 2008
+  },
+  {
+    "slug": "the-wiz",
+    "title": "The Wiz",
+    "year": 1978
+  },
+  {
+    "slug": "seoul-vibe",
+    "title": "Seoul Vibe",
+    "year": 2022
+  },
+  {
+    "slug": "spiderhead",
+    "title": "Spiderhead",
+    "year": 2022
+  },
+  {
+    "slug": "victor-frankenstein",
+    "title": "Victor Frankenstein",
+    "year": 2015
+  },
+  {
+    "slug": "race-to-witch-mountain",
+    "title": "Race to Witch Mountain",
+    "year": 2009
+  },
+  {
+    "slug": "as-good-as-dead",
+    "title": "As Good as Dead",
+    "year": 2022
+  },
+  {
+    "slug": "nineteen-eighty-four",
+    "title": "Nineteen Eighty-Four",
+    "year": 1984
+  },
+  {
+    "slug": "the-ghost-writer",
+    "title": "The Ghost Writer",
+    "year": 2010
+  },
+  {
+    "slug": "daddy-day-care",
+    "title": "Daddy Day Care",
+    "year": 2003
+  },
+  {
+    "slug": "the-wolfs-call",
+    "title": "The Wolf's Call",
+    "year": 2019
+  },
+  {
+    "slug": "happy-feet-two",
+    "title": "Happy Feet Two",
+    "year": 2011
+  },
+  {
+    "slug": "the-house-of-the-spirits",
+    "title": "The House of the Spirits",
+    "year": 1993
+  },
+  {
+    "slug": "enough",
+    "title": "Enough",
+    "year": 2002
+  },
+  {
+    "slug": "the-assessment",
+    "title": "The Assessment",
+    "year": 2025
+  },
+  {
+    "slug": "things-heard-seen",
+    "title": "Things Heard & Seen",
+    "year": 2021
+  },
+  {
+    "slug": "midnight-express",
+    "title": "Midnight Express",
+    "year": 1978
+  },
+  {
+    "slug": "mirrors",
+    "title": "Mirrors",
+    "year": 2008
+  },
+  {
+    "slug": "the-relic",
+    "title": "The Relic",
+    "year": 1997
+  },
+  {
+    "slug": "the-edge",
+    "title": "The Edge",
+    "year": 1997
+  },
+  {
+    "slug": "vicious",
+    "title": "Vicious",
+    "year": 2025
+  },
+  {
+    "slug": "owning-mahowny",
+    "title": "Owning Mahowny",
+    "year": 2003
+  },
+  {
+    "slug": "patch-adams",
+    "title": "Patch Adams",
+    "year": 1998
+  },
+  {
+    "slug": "the-laundromat",
+    "title": "The Laundromat",
+    "year": 2019
+  },
+  {
+    "slug": "slaughterhouse-five",
+    "title": "Slaughterhouse-Five",
+    "year": 1972
+  },
+  {
+    "slug": "the-ladykillers",
+    "title": "The Ladykillers",
+    "year": 2004
+  },
+  {
+    "slug": "kill-em-all-2",
+    "title": "Kill 'em All 2",
+    "year": 2024
+  },
+  {
+    "slug": "shirley",
+    "title": "Shirley",
+    "year": 2020
+  },
+  {
+    "slug": "the-watch",
+    "title": "The Watch",
+    "year": 2012
+  },
+  {
+    "slug": "life-without-principle",
+    "title": "Life Without Principle",
+    "year": 2011
+  },
+  {
+    "slug": "red-corner",
+    "title": "Red Corner",
+    "year": 1997
+  },
+  {
+    "slug": "the-vault",
+    "title": "The Vault",
+    "year": 2021
+  },
+  {
+    "slug": "always",
+    "title": "Always",
+    "year": 2011
+  },
+  {
+    "slug": "snake-eyes",
+    "title": "Snake Eyes",
+    "year": 1998
+  },
+  {
+    "slug": "apostle",
+    "title": "Apostle",
+    "year": 2018
+  },
+  {
+    "slug": "a-fish-called-wanda",
+    "title": "A Fish Called Wanda",
+    "year": 1988
+  },
+  {
+    "slug": "the-poseidon-adventure",
+    "title": "The Poseidon Adventure",
+    "year": 1972
+  },
+  {
+    "slug": "edtv",
+    "title": "EDtv",
+    "year": 1999
+  },
+  {
+    "slug": "that-thing-you-do",
+    "title": "That Thing You Do!",
+    "year": 1996
+  },
+  {
+    "slug": "casualties-of-war",
+    "title": "Casualties of War",
+    "year": 1989
+  },
+  {
+    "slug": "the-interpreter",
+    "title": "The Interpreter",
+    "year": 2005
+  },
+  {
+    "slug": "bad-santa",
+    "title": "Bad Santa",
+    "year": 2003
+  },
+  {
+    "slug": "the-tale-of-despereaux",
+    "title": "The Tale of Despereaux",
+    "year": 2008
+  },
+  {
+    "slug": "bastille-day",
+    "title": "Bastille Day",
+    "year": 2016
+  },
+  {
+    "slug": "swingers",
+    "title": "Swingers",
+    "year": 1996
+  },
+  {
+    "slug": "woman-of-the-hour",
+    "title": "Woman of the Hour",
+    "year": 2024
+  },
+  {
+    "slug": "escape-room-tournament-of-champions",
+    "title": "Escape Room: Tournament of Champions",
+    "year": 2021
+  },
+  {
+    "slug": "synchronic",
+    "title": "Synchronic",
+    "year": 2020
+  },
+  {
+    "slug": "chicken-run-dawn-of-the-nugget",
+    "title": "Chicken Run: Dawn of the Nugget",
+    "year": 2023
+  },
+  {
+    "slug": "jacobs-ladder",
+    "title": "Jacob's Ladder",
+    "year": 1990
+  },
+  {
+    "slug": "fabricated-city",
+    "title": "Fabricated City",
+    "year": 2017
+  },
+  {
+    "slug": "supervixens",
+    "title": "Supervixens",
+    "year": 1975
+  },
+  {
+    "slug": "doraemon-nobitas-great-adventure-in-the-antarctic-kachi-kochi",
+    "title": "Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
+    "year": 2017
+  },
+  {
+    "slug": "before-the-devil-knows-youre-dead",
+    "title": "Before the Devil Knows You're Dead",
+    "year": 2007
+  },
+  {
+    "slug": "secret-headquarters",
+    "title": "Secret Headquarters",
+    "year": 2022
+  },
+  {
+    "slug": "kundun",
+    "title": "Kundun",
+    "year": 1997
+  },
+  {
+    "slug": "the-substitute",
+    "title": "The Substitute",
+    "year": 1996
+  },
+  {
+    "slug": "late-shift",
+    "title": "Late Shift",
+    "year": 2025
+  },
+  {
+    "slug": "the-darkest-minds",
+    "title": "The Darkest Minds",
+    "year": 2018
+  },
+  {
+    "slug": "noelle",
+    "title": "Noelle",
+    "year": 2019
+  },
+  {
+    "slug": "courage-under-fire",
+    "title": "Courage Under Fire",
+    "year": 1996
+  },
+  {
+    "slug": "yes-god-yes",
+    "title": "Yes, God, Yes",
+    "year": 2020
+  },
+  {
+    "slug": "so-close",
+    "title": "So Close",
+    "year": 2002
+  },
+  {
+    "slug": "players",
+    "title": "Players",
+    "year": 2024
+  },
+  {
+    "slug": "antigang",
+    "title": "Antigang",
+    "year": 2015
+  },
+  {
+    "slug": "what-men-want",
+    "title": "What Men Want",
+    "year": 2019
+  },
+  {
+    "slug": "intolerable-cruelty",
+    "title": "Intolerable Cruelty",
+    "year": 2003
+  },
+  {
+    "slug": "harold-kumar-go-to-white-castle",
+    "title": "Harold & Kumar Go to White Castle",
+    "year": 2004
+  },
+  {
+    "slug": "the-fountain",
+    "title": "The Fountain",
+    "year": 2006
+  },
+  {
+    "slug": "life-of-the-party",
+    "title": "Life of the Party",
+    "year": 2018
+  },
+  {
+    "slug": "domino",
+    "title": "Domino",
+    "year": 2005
+  },
+  {
+    "slug": "halloween-4-the-return-of-michael-myers",
+    "title": "Halloween 4: The Return of Michael Myers",
+    "year": 1988
+  },
+  {
+    "slug": "hitman-agent-jun",
+    "title": "Hitman: Agent Jun",
+    "year": 2020
+  },
+  {
+    "slug": "the-pig-the-snake-and-the-pigeon",
+    "title": "The Pig, the Snake and the Pigeon",
+    "year": 2023
+  },
+  {
+    "slug": "early-man",
+    "title": "Early Man",
+    "year": 2018
+  },
+  {
+    "slug": "pretty-guardian-sailor-moon-eternal-the-movie-part-2",
+    "title": "Pretty Guardian Sailor Moon Eternal the Movie Part 2",
+    "year": 2021
+  },
+  {
+    "slug": "death-race-2",
+    "title": "Death Race 2",
+    "year": 2010
+  },
+  {
+    "slug": "charade",
+    "title": "Charade",
+    "year": 1963
+  },
+  {
+    "slug": "hard-target-2",
+    "title": "Hard Target 2",
+    "year": 2016
+  },
+  {
+    "slug": "hunter-x-hunter-phantom-rouge",
+    "title": "Hunter x Hunter: Phantom Rouge",
+    "year": 2013
+  },
+  {
+    "slug": "a-good-person",
+    "title": "A Good Person",
+    "year": 2023
+  },
+  {
+    "slug": "the-deep-house",
+    "title": "The Deep House",
+    "year": 2021
+  },
+  {
+    "slug": "seabiscuit",
+    "title": "Seabiscuit",
+    "year": 2003
+  },
+  {
+    "slug": "flirting-scholar",
+    "title": "Flirting Scholar",
+    "year": 1993
+  },
+  {
+    "slug": "barbie-as-rapunzel",
+    "title": "Barbie as Rapunzel",
+    "year": 2002
+  },
+  {
+    "slug": "the-party",
+    "title": "The Party",
+    "year": 1968
+  },
+  {
+    "slug": "how-the-west-was-won",
+    "title": "How the West Was Won",
+    "year": 1962
+  },
+  {
+    "slug": "the-rescuers",
+    "title": "The Rescuers",
+    "year": 1977
+  },
+  {
+    "slug": "beautiful-disaster",
+    "title": "Beautiful Disaster",
+    "year": 2023
+  },
+  {
+    "slug": "strange-world",
+    "title": "Strange World",
+    "year": 2022
+  },
+  {
+    "slug": "the-ides-of-march",
+    "title": "The Ides of March",
+    "year": 2011
+  },
+  {
+    "slug": "hoodlum",
+    "title": "Hoodlum",
+    "year": 1997
+  },
+  {
+    "slug": "che-part-one",
+    "title": "Che: Part One",
+    "year": 2008
+  },
+  {
+    "slug": "gentlemen-prefer-blondes",
+    "title": "Gentlemen Prefer Blondes",
+    "year": 1953
+  },
+  {
+    "slug": "bride-wars",
+    "title": "Bride Wars",
+    "year": 2009
+  },
+  {
+    "slug": "enter-the-void",
+    "title": "Enter the Void",
+    "year": 2010
+  },
+  {
+    "slug": "br-no",
+    "title": "Brüno",
+    "year": 2009
+  },
+  {
+    "slug": "tale-of-tales",
+    "title": "Tale of Tales",
+    "year": 2015
+  },
+  {
+    "slug": "the-taking-of-deborah-logan",
+    "title": "The Taking of Deborah Logan",
+    "year": 2014
+  },
+  {
+    "slug": "diner",
+    "title": "Diner",
+    "year": 1982
+  },
+  {
+    "slug": "fxs-a-christmas-carol",
+    "title": "FX's A Christmas Carol",
+    "year": 2019
+  },
+  {
+    "slug": "3-days-to-kill",
+    "title": "3 Days to Kill",
+    "year": 2014
+  },
+  {
+    "slug": "the-last-waltz",
+    "title": "The Last Waltz",
+    "year": 1978
+  },
+  {
+    "slug": "doctor-zhivago",
+    "title": "Doctor Zhivago",
+    "year": 1965
+  },
+  {
+    "slug": "father-stu",
+    "title": "Father Stu",
+    "year": 2022
+  },
+  {
+    "slug": "ghost-world",
+    "title": "Ghost World",
+    "year": 2001
+  },
+  {
+    "slug": "salems-lot",
+    "title": "Salem's Lot",
+    "year": 2024
+  },
+  {
+    "slug": "die-hart",
+    "title": "Die Hart",
+    "year": 2023
+  },
+  {
+    "slug": "escape-from-l-a",
+    "title": "Escape from L.A.",
+    "year": 1996
+  },
+  {
+    "slug": "denial",
+    "title": "Denial",
+    "year": 2016
   }
 ]

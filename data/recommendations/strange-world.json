@@ -1,0 +1,193 @@
+{
+  "sourceMovie": {
+    "tmdbId": 877269,
+    "title": "Strange World",
+    "slug": "strange-world",
+    "year": 2022,
+    "genres": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Science Fiction",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Strange World (2022) stuck because it commits to its animation premise without apologizing—viewers remember set pieces and momentum as much as plot. Don Hall's control of tone keeps the ride coherent. The animation and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "animation",
+      "family",
+      "adventure",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 550205,
+      "title": "Wish Dragon",
+      "year": 2021,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Strange World clicked for you, Wish Dragon (2021) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 961323,
+      "title": "Nimona",
+      "year": 2023,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Strange World clicked for you, Nimona (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 7450,
+      "title": "Titan A.E.",
+      "year": 2000,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Strange World clicked for you, Titan A.E. (2000) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1022787,
+      "title": "Elio",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Strange World clicked for you, Elio (2025) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 832502,
+      "title": "The Monkey King",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Strange World clicked for you, The Monkey King (2023) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 778855,
+      "title": "Chickenhare and the Hamster of Darkness",
+      "year": 2022,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Strange World clicked for you, Chickenhare and the Hamster of Darkness (2022) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Strange World clicked for you, The Iron Giant (1999) is a strong next stop: both trade in animation and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Strange World clicked for you, Labyrinth (1986) is a strong next stop: both trade in family and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 560044,
+      "title": "The Willoughbys",
+      "year": 2020,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Strange World clicked for you, The Willoughbys (2020) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "fantasy",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 15567,
+      "title": "Stitch! The Movie",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Strange World clicked for you, Stitch! The Movie (2003) is a strong next stop: both trade in animation and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "science-fiction",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Strange World?",
+      "answer": "Try Wish Dragon, Nimona, Titan A.E.—each shares DNA with Strange World while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Strange World?",
+      "answer": "Strange World (2022) is best described as Animation, Family, Adventure, Science Fiction, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Strange World worth revisiting?",
+      "answer": "Viewer scores sit around 6.2/10 on TMDB—high enough that replays are common for people who like this animation lane."
+    }
+  ],
+  "relatedPages": [
+    "arco",
+    "doraemon-nobita-and-the-new-steel-troops-winged-angels",
+    "doraemon-nobitas-dinosaur",
+    "doraemon-nobitas-great-adventure-in-the-antarctic-kachi-kochi",
+    "doraemon-nobitas-new-great-adventure-into-the-underworld-the-seven-magic-users",
+    "doraemon-nobitas-treasure-island",
+    "doraemon-the-movie-nobitas-little-star-wars-2021"
+  ]
+}

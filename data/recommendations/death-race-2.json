@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 51620,
+    "title": "Death Race 2",
+    "slug": "death-race-2",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto Death Race 2 (2010) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 406990,
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, What Happened to Monday (2017) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9659,
+      "title": "Mad Max",
+      "year": 1979,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, Mad Max (1979) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 865,
+      "title": "The Running Man",
+      "year": 1987,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, The Running Man (1987) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 798645,
+      "title": "The Running Man",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, The Running Man (2025) is a strong next stop: both trade in action and thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 76341,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, Mad Max: Fury Road (2015) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 168259,
+      "title": "Furious 7",
+      "year": 2015,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, Furious 7 (2015) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 337339,
+      "title": "The Fate of the Furious",
+      "year": 2017,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, The Fate of the Furious (2017) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 13475,
+      "title": "Star Trek",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, Star Trek (2009) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9615,
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, The Fast and the Furious: Tokyo Drift (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9355,
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Death Race 2 clicked for you, Mad Max Beyond Thunderdome (1985) is a strong next stop: both trade in action and science fiction, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Death Race 2?",
+      "answer": "Try What Happened to Monday, Mad Max, The Running Man—each shares DNA with Death Race 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Death Race 2?",
+      "answer": "Death Race 2 (2010) is best described as Action, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Death Race 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Death Race (2008) Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "24-hours-to-live",
+    "40-acres",
+    "aliens",
+    "armageddon",
+    "awareness",
+    "battleship",
+    "boss-level"
+  ]
+}

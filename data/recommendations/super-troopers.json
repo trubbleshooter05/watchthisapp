@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 39939,
+    "title": "Super Troopers",
+    "slug": "super-troopers",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "People revisit Super Troopers for the same reason it broke through in 2001: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Jay Chandrasekhar keeps the ensemble pointed in one direction. The comedy and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "crime",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9749,
+      "title": "Fletch",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Fletch (1985) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6081,
+      "title": "Revenge of the Pink Panther",
+      "year": 1978,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Revenge of the Pink Panther (1978) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "mystery"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 115,
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, The Big Lebowski (1998) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 64688,
+      "title": "21 Jump Street",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, 21 Jump Street (2012) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 187017,
+      "title": "22 Jump Street",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, 22 Jump Street (2014) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4638,
+      "title": "Hot Fuzz",
+      "year": 2007,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Hot Fuzz (2007) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 100,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Lock, Stock and Two Smoking Barrels (1998) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 37136,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, The Naked Gun: From the Files of Police Squad! (1988) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10189,
+      "title": "Pineapple Express",
+      "year": 2008,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Pineapple Express (2008) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11676,
+      "title": "Nothing to Lose",
+      "year": 1997,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Super Troopers clicked for you, Nothing to Lose (1997) is a strong next stop: both trade in comedy and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "action",
+        "adventure"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Super Troopers?",
+      "answer": "Try Fletch, Revenge of the Pink Panther, The Big Lebowski—each shares DNA with Super Troopers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Super Troopers?",
+      "answer": "Super Troopers (2001) is best described as Comedy, Crime, Mystery. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Super Troopers part of a franchise?",
+      "answer": "Yes—it's part of the \"Super Troopers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "ace-ventura-pet-detective",
+    "almost-cops",
+    "city-hunter-shinjuku-private-eyes",
+    "clue",
+    "game-night",
+    "glass-onion",
+    "glass-onion-a-knives-out-mystery"
+  ]
+}

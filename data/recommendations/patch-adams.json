@@ -1,0 +1,162 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10312,
+    "title": "Patch Adams",
+    "slug": "patch-adams",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Patch Adams works as a comedy movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "comedy",
+      "drama",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 43923,
+      "title": "It's Kind of a Funny Story",
+      "year": 2010,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, It's Kind of a Funny Story (2010) is a strong next stop: both trade in comedy and drama, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11324,
+      "title": "Shutter Island",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, Shutter Island (2010) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 510,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, One Flew Over the Cuckoo's Nest (1975) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1700,
+      "title": "Misery",
+      "year": 1990,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, Misery (1990) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 3558,
+      "title": "Girl, Interrupted",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, Girl, Interrupted (1999) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 417678,
+      "title": "Everything, Everything",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, Everything, Everything (2017) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 1443,
+      "title": "The Virgin Suicides",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, The Virgin Suicides (2000) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 342470,
+      "title": "All the Bright Places",
+      "year": 2020,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, All the Bright Places (2020) is a strong next stop: both trade in drama, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 11005,
+      "title": "Awakenings",
+      "year": 1990,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, Awakenings (1990) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 541134,
+      "title": "The Good Nurse",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Patch Adams clicked for you, The Good Nurse (2022) is a strong next stop: both trade in drama, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "drama",
+        "crime",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Patch Adams?",
+      "answer": "Try It's Kind of a Funny Story, Shutter Island, One Flew Over the Cuckoo's Nest—each shares DNA with Patch Adams while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Patch Adams?",
+      "answer": "Patch Adams (1998) is best described as Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Patch Adams worth revisiting?",
+      "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "3-idiots",
+    "50-50",
+    "500-days-of-summer",
+    "53-sundays",
+    "a-different-man"
+  ]
+}

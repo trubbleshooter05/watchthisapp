@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11319,
+    "title": "The Rescuers",
+    "slug": "the-rescuers",
+    "year": 1977,
+    "genres": [
+      "Fantasy",
+      "Family",
+      "Animation",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "People revisit The Rescuers for the same reason it broke through in 1977: clear stakes, memorable faces, and a family rhythm that doesn't stall in the middle. Wolfgang Reitherman keeps the ensemble pointed in one direction. The fantasy and family blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "family",
+      "animation",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 560057,
+      "title": "The Sea Beast",
+      "year": 2022,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, The Sea Beast (2022) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "adventure",
+        "action"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11704,
+      "title": "The Secret of NIMH",
+      "year": 1982,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, The Secret of NIMH (1982) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "adventure",
+        "mystery"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 202575,
+      "title": "The House of Magic",
+      "year": 2013,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, The House of Magic (2013) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 991494,
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "year": 2025,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, The SpongeBob Movie: Search for SquarePants (2025) is a strong next stop: both trade in fantasy and family, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, Finding Nemo (2003) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 38757,
+      "title": "Tangled",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, Tangled (2010) is a strong next stop: both trade in family and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 128,
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, Princess Mononoke (1997) is a strong next stop: both trade in fantasy and animation, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10198,
+      "title": "The Princess and the Frog",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, The Princess and the Frog (2009) is a strong next stop: both trade in fantasy and family, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "family",
+        "animation",
+        "romance"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10315,
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, Fantastic Mr. Fox (2009) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10340,
+      "title": "Lady and the Tramp",
+      "year": 1955,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Rescuers clicked for you, Lady and the Tramp (1955) is a strong next stop: both trade in family and animation, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "family",
+        "animation",
+        "adventure",
+        "romance",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Rescuers?",
+      "answer": "Try The Sea Beast, The Secret of NIMH, The House of Magic—each shares DNA with The Rescuers while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Rescuers?",
+      "answer": "The Rescuers (1977) is best described as Fantasy, Family, Animation, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Rescuers part of a franchise?",
+      "answer": "Yes—it's part of the \"The Rescuers Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "abominable",
+    "anastasia",
+    "arco",
+    "arthur-and-the-invisibles",
+    "barbie-fairytopia-mermaidia",
+    "brave",
+    "castle-in-the-sky"
+  ]
+}

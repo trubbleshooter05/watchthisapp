@@ -1,0 +1,177 @@
+{
+  "sourceMovie": {
+    "tmdbId": 402331,
+    "title": "Hard Target 2",
+    "slug": "hard-target-2",
+    "year": 2016,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Hard Target 2 (2016) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Roel Reiné's control of tone keeps the ride coherent. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 14373,
+      "title": "Death Wish II",
+      "year": 1982,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Death Wish II (1982) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14194,
+      "title": "Dhoom 2",
+      "year": 2006,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Dhoom 2 (2006) is a strong next stop: both trade in action and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "drama",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 260513,
+      "title": "Incredibles 2",
+      "year": 2018,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Incredibles 2 (2018) is a strong next stop: both trade in action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12242,
+      "title": "Mulan II",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Mulan II (2004) is a strong next stop: both trade in action, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12117,
+      "title": "Instinct",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Instinct (1999) is a strong next stop: both trade in thriller, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14208,
+      "title": "The Librarian: Return to King Solomon's Mines",
+      "year": 2006,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, The Librarian: Return to King Solomon's Mines (2006) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14433,
+      "title": "Zulu",
+      "year": 1964,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Zulu (1964) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14003,
+      "title": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "year": 2005,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005) is a strong next stop: both trade in action, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "animation",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 270938,
+      "title": "Falcon Rising",
+      "year": 2014,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Falcon Rising (2014) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14310,
+      "title": "Infernal Affairs III",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Hard Target 2 clicked for you, Infernal Affairs III (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Hard Target 2?",
+      "answer": "Try Death Wish II, Dhoom 2, Incredibles 2—each shares DNA with Hard Target 2 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Hard Target 2?",
+      "answer": "Hard Target 2 (2016) is best described as Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Hard Target 2 part of a franchise?",
+      "answer": "Yes—it's part of the \"Hard Target Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "13-days-13-nights",
+    "13-hours-the-secret-soldiers-of-benghazi",
+    "14-blades",
+    "16-blocks",
+    "24-hours-to-live",
+    "3-days-to-kill"
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11015,
+    "title": "The Relic",
+    "slug": "the-relic",
+    "year": 1997,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "The Relic (1997) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Peter Hyams's control of tone keeps the ride coherent. The horror and mystery blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "mystery",
+      "thriller",
+      "science-fiction",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 5876,
+      "title": "The Mist",
+      "year": 2007,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Relic clicked for you, The Mist (2007) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1100988,
+      "title": "28 Years Later",
+      "year": 2025,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Relic clicked for you, 28 Years Later (2025) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 528985,
+      "title": "Assimilate",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Relic clicked for you, Assimilate (2019) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1190868,
+      "title": "V/H/S/Beyond",
+      "year": 2024,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Relic clicked for you, V/H/S/Beyond (2024) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 345940,
+      "title": "The Meg",
+      "year": 2018,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Relic clicked for you, The Meg (2018) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9426,
+      "title": "The Fly",
+      "year": 1986,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Relic clicked for you, The Fly (1986) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9362,
+      "title": "Tremors",
+      "year": 1990,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Relic clicked for you, Tremors (1990) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "action",
+        "comedy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9437,
+      "title": "Kiss the Girls",
+      "year": 1997,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Relic clicked for you, Kiss the Girls (1997) is a strong next stop: both trade in mystery and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "mystery",
+        "thriller",
+        "crime",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9529,
+      "title": "Candyman",
+      "year": 1992,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Relic clicked for you, Candyman (1992) is a strong next stop: both trade in horror and thriller, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 3035,
+      "title": "Frankenstein",
+      "year": 1931,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Relic clicked for you, Frankenstein (1931) is a strong next stop: both trade in horror and science fiction, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "science-fiction",
+        "drama"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Relic?",
+      "answer": "Try The Mist, 28 Years Later, Assimilate—each shares DNA with The Relic while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Relic?",
+      "answer": "The Relic (1997) is best described as Horror, Mystery, Thriller, Science Fiction. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Relic worth revisiting?",
+      "answer": "Viewer scores sit around 6.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "pandorum",
+    "the-invasion",
+    "the-shrouds",
+    "10-cloverfield-lane",
+    "24-hours-to-live",
+    "28-days-later",
+    "28-weeks-later"
+  ]
+}

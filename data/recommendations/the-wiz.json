@@ -1,0 +1,180 @@
+{
+  "sourceMovie": {
+    "tmdbId": 24961,
+    "title": "The Wiz",
+    "slug": "the-wiz",
+    "year": 1978,
+    "genres": [
+      "Music",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto The Wiz (1978) as a music theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The music and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "music",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 630,
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Wiz clicked for you, The Wizard of Oz (1939) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9444,
+      "title": "Anastasia",
+      "year": 1997,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Anastasia (1997) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9387,
+      "title": "Conan the Barbarian",
+      "year": 1982,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Conan the Barbarian (1982) is a strong next stop: both trade in fantasy and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10539,
+      "title": "James and the Giant Peach",
+      "year": 1996,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Wiz clicked for you, James and the Giant Peach (1996) is a strong next stop: both trade in fantasy and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "adventure",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 407655,
+      "title": "A Cinderella Story: If the Shoe Fits",
+      "year": 2016,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Wiz clicked for you, A Cinderella Story: If the Shoe Fits (2016) is a strong next stop: both trade in music and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "music",
+        "fantasy",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9479,
+      "title": "The Nightmare Before Christmas",
+      "year": 1993,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Wiz clicked for you, The Nightmare Before Christmas (1993) is a strong next stop: both trade in fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 9339,
+      "title": "Click",
+      "year": 2006,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Click (2006) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Enchanted (2007) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "comedy",
+        "family",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9598,
+      "title": "Babe",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Babe (1995) is a strong next stop: both trade in fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 402431,
+      "title": "Wicked",
+      "year": 2024,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Wiz clicked for you, Wicked (2024) is a strong next stop: both trade in fantasy, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "fantasy",
+        "drama",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Wiz?",
+      "answer": "Try The Wizard of Oz, Anastasia, Conan the Barbarian—each shares DNA with The Wiz while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Wiz?",
+      "answer": "The Wiz (1978) is best described as Music, Fantasy, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Wiz worth revisiting?",
+      "answer": "Viewer scores sit around 6.1/10 on TMDB—high enough that replays are common for people who like this music lane."
+    }
+  ],
+  "relatedPages": [
+    "descendants",
+    "descendants-2",
+    "descendants-3",
+    "heavy-metal",
+    "trolls",
+    "trolls-band-together",
+    "trolls-world-tour"
+  ]
+}
