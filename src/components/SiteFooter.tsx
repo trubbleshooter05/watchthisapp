@@ -13,6 +13,9 @@ export function SiteFooter() {
           This product uses the TMDB API but is not endorsed or certified by TMDB.
         </p>
         <div className="flex flex-wrap gap-x-6 gap-y-2">
+          <Link href="/popular" className="hover:text-amber-500">
+            Popular
+          </Link>
           <Link href="/about" className="hover:text-amber-500">
             About
           </Link>

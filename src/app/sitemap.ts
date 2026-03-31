@@ -24,6 +24,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: baseUrl, lastModified: dataFresh, changeFrequency: "daily", priority: 1 },
     { url: `${baseUrl}/browse`, lastModified: dataFresh, changeFrequency: "weekly", priority: 0.9 },
     {
+      url: `${baseUrl}/popular`,
+      lastModified: appFileMtime("src/app/popular/page.tsx"),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    {
       url: `${baseUrl}/quiz`,
       lastModified: appFileMtime("src/app/quiz/page.tsx"),
       changeFrequency: "monthly",
