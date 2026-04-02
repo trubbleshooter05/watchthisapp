@@ -1,0 +1,160 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Eat Pray Bark?",
+      "answer": "A Dog's Journey and Marley & Me both share themes of companionship, emotional depth, and the joys and trials of pet ownership."
+    },
+    {
+      "question": "Is Eat Pray Bark suitable for children?",
+      "answer": "Yes, the film is family-friendly and offers heartwarming messages about love and friendship, making it suitable for viewers of all ages."
+    },
+    {
+      "question": "What type of humor is in Eat Pray Bark?",
+      "answer": "The humor in Eat Pray Bark is light-hearted and often revolves around the quirky behaviors of pets and the situations they find themselves in, appealing to both kids and adults."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "A Dog's Journey",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "This film beautifully illustrates the bond between a dog and its owner across different lifetimes, mirroring the themes of loyalty and love found in Eat Pray Bark. The emotional depth and humor in the story will resonate with any pet lover.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 522518
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Similar to Eat Pray Bark, this animated film dives into the lives of pets when their owners are away, delivering laughs and heartfelt moments that showcase the personality of our furry friends. Its humor and vibrant animation create an engaging experience for all ages.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 328111
+    },
+    {
+      "title": "Marley & Me",
+      "year": 2008,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "This touching film about a couple and their mischievous dog encapsulates the highs and lows of pet ownership, much like the emotional journey in Eat Pray Bark. The blend of humor and poignant moments will tug at your heartstrings.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 14306
+    },
+    {
+      "title": "The Art of Racing in the Rain",
+      "year": 2019,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "With a narrative told from the perspective of a dog, this film shares profound insights on life and love, resonating with the themes found in Eat Pray Bark. Its emotional storytelling and unique viewpoint make it a compelling watch.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 522924
+    },
+    {
+      "title": "Hachi: A Dog's Tale",
+      "year": 2009,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Based on a true story, this film exemplifies unwavering loyalty and love, paralleling the deep connections showcased in Eat Pray Bark. The emotional weight of Hachi's journey will leave a lasting impression.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 28178
+    },
+    {
+      "title": "The Incredible Journey",
+      "year": 1963,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "This classic tale of two dogs and a cat journeying across the wilderness reflects the themes of companionship and adventure found in Eat Pray Bark. Its heartwarming story and nostalgic charm make it an enduring favorite.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 37969
+    },
+    {
+      "title": "Best in Show",
+      "year": 2000,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This mockumentary humorously explores the dog show world, paralleling the comedic elements found in Eat Pray Bark. Its quirky characters and witty dialogue provide a delightful viewing experience.",
+      "sharedVibes": [
+        "funny",
+        "heartwarming"
+      ],
+      "mood": "funny",
+      "tmdbId": 13785
+    },
+    {
+      "title": "Dog Day Afternoon",
+      "year": 1975,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "While more intense and dark, this film features themes of desperation and loyalty that can resonate with the emotional undercurrents in Eat Pray Bark. The gripping narrative and character-driven storytelling create a powerful experience.",
+      "sharedVibes": [
+        "dark",
+        "emotional"
+      ],
+      "mood": "tense",
+      "tmdbId": 968
+    },
+    {
+      "title": "Lady and the Tramp",
+      "year": 1955,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "This timeless animated classic about love and adventure between two dogs embodies the heartwarming and whimsical spirit that fans of Eat Pray Bark will appreciate. Its charming story and memorable music make it a delightful watch.",
+      "sharedVibes": [
+        "heartwarming",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 10340
+    },
+    {
+      "title": "The Peanut Butter Falcon",
+      "year": 2019,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "While it centers around human characters, the themes of friendship and adventure resonate deeply with the spirit of companionship found in Eat Pray Bark. Its uplifting story showcases the power of connection in an inspiring way.",
+      "sharedVibes": [
+        "heartwarming",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 463257
+    }
+  ],
+  "relatedPages": [
+    "project-hail-mary",
+    "how-to-make-a-killing",
+    "fight-club",
+    "hereditary",
+    "john-wick"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1635276,
+    "title": "Eat Pray Bark",
+    "slug": "eat-pray-bark",
+    "year": 2026,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Eat Pray Bark resonates with audiences through its heartfelt exploration of companionship and self-discovery, wrapped in a charming narrative that celebrates the bond between humans and their pets.",
+    "vibes": [
+      "heartwarming",
+      "emotional",
+      "funny"
+    ]
+  }
+}
