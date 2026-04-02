@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Mike & Nick & Nick & Alice?",
+      "answer": "The Farewell closely mirrors the themes of family and connection found in Mike & Nick & Nick & Alice."
+    },
+    {
+      "question": "Is Mike & Nick & Nick & Alice a comedy or a drama?",
+      "answer": "It blends both comedy and drama, creating a heartfelt and humorous exploration of relationships."
+    },
+    {
+      "question": "Who are the main characters in Mike & Nick & Nick & Alice?",
+      "answer": "The film follows the intertwined lives of four friends: Mike, Nick, Nick, and Alice, as they navigate their personal and collective challenges."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Way Back",
+      "year": 2020,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "This film explores themes of redemption and personal struggle that resonate with the dynamic relationships in Mike & Nick & Nick & Alice. Both films delve into the emotional journeys of their characters, highlighting the importance of support and understanding.",
+      "sharedVibes": [
+        "emotional",
+        "heartwarming"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 529485
+    },
+    {
+      "title": "The Farewell",
+      "year": 2019,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The Farewell's focus on family ties and the challenges of communication mirrors the intricate relationships seen in Mike & Nick & Nick & Alice. Its blend of humor and poignancy creates an experience that resonates deeply.",
+      "sharedVibes": [
+        "heartwarming",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 565310
+    },
+    {
+      "title": "The Edge of Seventeen",
+      "year": 2016,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This coming-of-age story captures the awkwardness and intensity of teenage friendships, akin to the relationships explored in Mike & Nick & Nick & Alice. The witty dialogue and relatable characters will keep you engaged.",
+      "sharedVibes": [
+        "funny",
+        "emotional"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 376660
+    },
+    {
+      "title": "Life of Pi",
+      "year": 2012,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Life of Pi's stunning visuals and themes of survival and companionship resonate with the creative storytelling in Mike & Nick & Nick & Alice. Both films offer a journey of self-discovery and connection.",
+      "sharedVibes": [
+        "visually-stunning",
+        "emotional"
+      ],
+      "mood": "epic",
+      "tmdbId": 87827
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "The quirky family dynamics and heartfelt moments in Little Miss Sunshine parallel the unique relationships in Mike & Nick & Nick & Alice. Both films balance humor with deeper emotional truths.",
+      "sharedVibes": [
+        "heartwarming",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 773
+    },
+    {
+      "title": "Frances Ha",
+      "year": 2012,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Frances Ha's exploration of friendship and ambition feels similar to the themes of Mike & Nick & Nick & Alice. Its playful yet poignant narrative captures the essence of navigating life's challenges with friends.",
+      "sharedVibes": [
+        "cerebral",
+        "funny"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 121986
+    },
+    {
+      "title": "Eighth Grade",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "This film's portrayal of the struggles of adolescence and the quest for identity resonates with the emotional depth found in Mike & Nick & Nick & Alice. Both films delve into the awkwardness of growing up and finding one's place.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 489925
+    },
+    {
+      "title": "About Time",
+      "year": 2013,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "About Time's exploration of love and family ties mirrors the relational themes in Mike & Nick & Nick & Alice. Its mix of humor and heartfelt moments creates a richly emotional experience.",
+      "sharedVibes": [
+        "heartwarming",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 122906
+    },
+    {
+      "title": "Swiss Army Man",
+      "year": 2016,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Swiss Army Man's unique storytelling and themes of friendship and acceptance resonate with the creative narrative in Mike & Nick & Nick & Alice. Both films challenge conventional norms in refreshing ways.",
+      "sharedVibes": [
+        "dark",
+        "funny"
+      ],
+      "mood": "cerebral",
+      "tmdbId": 347031
+    },
+    {
+      "title": "A Ghost Story",
+      "year": 2017,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "A Ghost Story's contemplative approach to time and connection evokes a similar emotional resonance as Mike & Nick & Nick & Alice. The film's slow-burn narrative encourages reflection on life and relationships.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 428449
+    }
+  ],
+  "relatedPages": [
+    "get-out",
+    "fifty-shades-of-grey",
+    "project-hail-mary",
+    "divergent",
+    "pulp-fiction"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1115544,
+    "title": "Mike & Nick & Nick & Alice",
+    "slug": "mike-and-nick-and-nick-and-alice",
+    "year": 2026,
+    "genres": [
+      "Comedy",
+      "Science Fiction",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "Mike & Nick & Nick & Alice captures the complexities of friendship and love in a way that feels both relatable and profound.",
+    "vibes": [
+      "emotional",
+      "heartwarming",
+      "cerebral"
+    ]
+  }
+}

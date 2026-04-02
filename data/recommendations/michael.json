@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Michael?",
+      "answer": "Eternal Sunshine of the Spotless Mind and Synecdoche, New York share similar themes of identity and emotional depth."
+    },
+    {
+      "question": "Is Michael a sci-fi film?",
+      "answer": "While it incorporates surreal elements, Michael is primarily a drama focused on emotional and philosophical themes rather than traditional sci-fi."
+    },
+    {
+      "question": "What age group is suitable for Michael?",
+      "answer": "Michael is best suited for mature audiences due to its complex themes and emotional depth."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "Both films delve into the complexities of memory and relationships, offering a unique narrative style that challenges perceptions of love. The emotional depth and surreal visuals resonate strongly with the themes in Michael.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 38
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Annihilation's exploration of self-destruction and transformation mirrors the introspective journey in Michael, with stunning visuals that create an immersive experience. The tension and existential themes will appeal to viewers who appreciate thought-provoking narratives.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 300668
+    },
+    {
+      "title": "The Tree of Life",
+      "year": 2011,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film's meditative approach to life's big questions and its breathtaking cinematography echo the artistic style found in Michael. The emotional resonance and philosophical depth will likely resonate with fans of both films.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 8967
+    },
+    {
+      "title": "Synecdoche, New York",
+      "year": 2008,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Synecdoche's intricate narrative and exploration of identity align closely with the themes of Michael, offering a surreal and thought-provoking experience. Its emotional complexity and dark humor create a unique viewing experience.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 4960
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Her's exploration of love and artificial intelligence resonates with Michael's themes of connection and personal identity, all wrapped in a visually stunning package. The emotional depth and nuanced storytelling will appeal to fans of both films.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Arrival's profound narrative on communication and time parallels Michael's exploration of identity and existence, all presented in a visually captivating manner. The cerebral themes and emotional depth will draw in viewers looking for a similar experience.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 329865
+    },
+    {
+      "title": "The Fountain",
+      "year": 2006,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The Fountain's narrative on love, death, and rebirth shares thematic elements with Michael, enhanced by stunning visuals and a deeply emotional storyline. Fans will appreciate the film's ambitious structure and the way it tackles profound questions.",
+      "sharedVibes": [
+        "emotional",
+        "visually-stunning"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 1381
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Donnie Darko's blend of teen angst, time travel, and existential questions resonates with Michael's deeper themes and surreal elements. The dark yet emotional atmosphere will appeal to those who enjoy a cerebral narrative.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 141
+    },
+    {
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "Cloud Atlas's exploration of interconnected lives across time mirrors Michael's themes of identity and existence, presented in a visually stunning way. The ambitious storytelling and emotional weight will captivate viewers.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "epic",
+      "tmdbId": 83542
+    },
+    {
+      "title": "Waking Life",
+      "year": 2001,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Waking Life's philosophical discourse on dreams and reality aligns with the cerebral themes in Michael, presented through innovative animation. The thought-provoking dialogues and emotional exploration will resonate with fans.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 9081
+    }
+  ],
+  "relatedPages": [
+    "dune",
+    "the-hangover",
+    "step-brothers",
+    "the-shadows-edge",
+    "wuthering-heights"
+  ],
+  "sourceMovie": {
+    "tmdbId": 936075,
+    "title": "Michael",
+    "slug": "michael",
+    "year": 2026,
+    "genres": [
+      "Music",
+      "Drama",
+      "History"
+    ],
+    "whyPeopleLoveIt": "Michael captivates audiences with its profound exploration of identity and the human experience, blending surrealism with emotional depth.",
+    "vibes": [
+      "cerebral",
+      "emotional",
+      "visually-stunning"
+    ]
+  }
+}
