@@ -1,4 +1,147 @@
 {
+  "faq": [
+    {
+      "question": "What movie is most similar to Marty Supreme?",
+      "answer": "Everything Everywhere All at Once is the closest in terms of blending humor with deep existential themes."
+    },
+    {
+      "question": "Is Marty Supreme a comedy or a drama?",
+      "answer": "It's a unique mix of both, incorporating humor into poignant moments to explore serious themes."
+    },
+    {
+      "question": "Who directed Marty Supreme?",
+      "answer": "Marty Supreme was directed by acclaimed filmmaker Alex Turner, known for his innovative storytelling."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both films share a whimsical narrative style and feature eccentric characters navigating bizarre circumstances. The rich visual storytelling and humor create a similar emotional resonance.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 120467
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "This film explores themes of memory and love, much like Marty Supreme's reflection on identity and connection. Both movies balance emotional depth with surreal storytelling.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 38
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Both films delve into the complexities of existence through a multiverse lens, blending humor with heartfelt moments. The inventive storytelling and character arcs will resonate with fans of Marty Supreme.",
+      "sharedVibes": [
+        "cerebral",
+        "funny"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 545611
+    },
+    {
+      "title": "The Lobster",
+      "year": 2015,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Marty Supreme and The Lobster both present unique, dystopian takes on relationships and societal expectations, infused with dark humor. Their surreal elements and character-driven plots will appeal to similar audiences.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "tense",
+      "tmdbId": 254320
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Exploring the intersection of technology and human connection, Her resonates with the themes of Marty Supreme regarding identity and relationships. Both films evoke strong emotions through their character-driven narratives.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 152601
+    },
+    {
+      "title": "Swiss Army Man",
+      "year": 2016,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films feature unconventional storytelling and explore deep emotional themes through absurdity and humor. The unique character dynamics create a similar viewing experience.",
+      "sharedVibes": [
+        "cerebral",
+        "funny"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 347031
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Annihilation's exploration of self and transformation parallels the journey in Marty Supreme, both set against visually stunning backdrops. The cerebral themes and intense character experiences create a captivating narrative.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "tense",
+      "tmdbId": 300668
+    },
+    {
+      "title": "The Science of Sleep",
+      "year": 2006,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "With its surreal narrative and exploration of dreams versus reality, this film resonates with the whimsical yet profound nature of Marty Supreme. Both films blend humor and emotional depth seamlessly.",
+      "sharedVibes": [
+        "cerebral",
+        "emotional"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 300
+    },
+    {
+      "title": "Moon",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Moon's exploration of isolation and identity mirrors the themes in Marty Supreme, while both employ a visually striking style. The thought-provoking narratives will engage fans of both films.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 17431
+    },
+    {
+      "title": "The Tree of Life",
+      "year": 2011,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Both films are visually stunning and delve into profound themes of existence and humanity's place in the universe. The emotional depth and artistic direction will appeal to fans of Marty Supreme.",
+      "sharedVibes": [
+        "cerebral",
+        "visually-stunning"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 8967
+    }
+  ],
+  "relatedPages": [
+    "the-super-mario-galaxy-movie",
+    "goodfellas",
+    "mike-nick-nick-alice",
+    "the-deadly-little-mermaid",
+    "agent-zeta"
+  ],
   "sourceMovie": {
     "tmdbId": 1317288,
     "title": "Marty Supreme",
@@ -8,164 +151,11 @@
       "Drama",
       "Thriller"
     ],
-    "whyPeopleLoveIt": "Marty Supreme works as a drama movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The drama and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "whyPeopleLoveIt": "Marty Supreme captivates audiences with its unique blend of humor and heart, showcasing the resilience of the human spirit in the face of absurdity.",
     "vibes": [
-      "drama",
-      "thriller",
-      "rewatchable"
+      "cerebral",
+      "emotional",
+      "visually-stunning"
     ]
-  },
-  "recommendations": [
-    {
-      "tmdbId": 1359,
-      "title": "American Psycho",
-      "year": 2000,
-      "matchPercentage": 96,
-      "whyYoullLoveIt": "Fans of Marty Supreme who respond to its drama will find American Psycho (2000) immediately familiar. Both films share a thriller sensibility without ever feeling like carbon copies of each other.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "crime"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 186,
-      "title": "Lucky Number Slevin",
-      "year": 2006,
-      "matchPercentage": 94,
-      "whyYoullLoveIt": "There's a reason Marty Supreme fans keep landing on Lucky Number Slevin (2006) — the drama is unmistakably related even when the plots diverge. Both films operate on the same emotional frequency, especially in their third acts.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "crime",
-        "mystery"
-      ],
-      "mood": "dark"
-    },
-    {
-      "tmdbId": 116,
-      "title": "Match Point",
-      "year": 2005,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Match Point draws from the same drama well as Marty Supreme, channeling thriller in ways that feel unmistakably related. The 2005 film makes a natural companion watch — similar in spirit but distinctly its own.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 231,
-      "title": "Syriana",
-      "year": 2005,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Syriana (2005) laid groundwork for the tone and themes that Marty Supreme later expanded. If Marty Supreme resonated for you, this predecessor shows where that emotional DNA began.",
-      "sharedVibes": [
-        "drama",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 204,
-      "title": "The Wages of Fear",
-      "year": 1953,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The drama appeal of Marty Supreme — that tense edge, the thriller — translates cleanly into The Wages of Fear (1953). Different setting, same essential satisfaction.",
-      "sharedVibes": [
-        "drama",
-        "thriller",
-        "adventure"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 489243,
-      "title": "The Hummingbird Project",
-      "year": 2019,
-      "matchPercentage": 86,
-      "whyYoullLoveIt": "The filmmakers behind The Hummingbird Project (2019) clearly understood what makes drama work — the same quality that keeps Marty Supreme rewatchable. Expect the same tense rhythm, executed with a fresh angle.",
-      "sharedVibes": [
-        "drama",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 106646,
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "matchPercentage": 84,
-      "whyYoullLoveIt": "The Wolf of Wall Street (2013) is the kind of film Marty Supreme fans discover and immediately send to their group chat. The drama overlap is real, but it's the funny emotional pull that seals the recommendation.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "comedy"
-      ],
-      "mood": "funny"
-    },
-    {
-      "tmdbId": 38,
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "year": 2004,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Eternal Sunshine of the Spotless Mind shares Marty Supreme's gift for drama — the 2004 film delivers science-fiction without overstaying its welcome. Consider it required viewing once you've finished rewatching your first pick.",
-      "sharedVibes": [
-        "drama",
-        "science-fiction",
-        "romance"
-      ],
-      "mood": "bittersweet"
-    },
-    {
-      "tmdbId": 101,
-      "title": "Léon: The Professional",
-      "year": 1994,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Much of what makes Marty Supreme compelling — the drama, the crime — shows up in Léon: The Professional (1994) in a slightly different form. Both films understand that tense storytelling works best when it trusts the audience.",
-      "sharedVibes": [
-        "drama",
-        "crime",
-        "action"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 103,
-      "title": "Taxi Driver",
-      "year": 1976,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "The drama energy of Marty Supreme is alive in Taxi Driver (1976), filtered through a different story but the same emotional register. It earns its place on this list with a tense payoff that rivals the original pick.",
-      "sharedVibes": [
-        "drama",
-        "crime"
-      ],
-      "mood": "tense"
-    }
-  ],
-  "faq": [
-    {
-      "question": "What should I watch after Marty Supreme?",
-      "answer": "Try American Psycho, Lucky Number Slevin, Match Point—each shares DNA with Marty Supreme while changing the setting enough to feel fresh."
-    },
-    {
-      "question": "What genre is Marty Supreme?",
-      "answer": "Marty Supreme (2025) is best described as Drama, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
-    },
-    {
-      "question": "Is Marty Supreme worth revisiting?",
-      "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
-    }
-  ],
-  "relatedPages": [
-    "10-cloverfield-lane",
-    "127-hours",
-    "13-hours-the-secret-soldiers-of-benghazi",
-    "71",
-    "a-history-of-violence",
-    "a-walk-among-the-tombstones",
-    "along-with-the-gods-the-two-worlds"
-  ]
+  }
 }
