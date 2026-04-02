@@ -1,0 +1,162 @@
+{
+  "faq": [
+    {
+      "question": "What movie is most similar to Humint?",
+      "answer": "Tinker Tailor Soldier Spy is often cited as the most similar, given its intricate plot and deep character exploration in the realm of espionage."
+    },
+    {
+      "question": "Is Humint based on a true story?",
+      "answer": "While Humint is a fictional narrative, it draws inspiration from real-life espionage events and the moral complexities faced by intelligence operatives."
+    },
+    {
+      "question": "What themes are explored in Humint?",
+      "answer": "Humint delves into themes of trust, betrayal, the cost of secrecy, and the emotional toll of espionage on individuals and their relationships."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "Tinker Tailor Soldier Spy",
+      "year": 2011,
+      "matchPercentage": 95,
+      "whyYoullLoveIt": "This film shares a similarly intricate plot revolving around espionage and betrayal. The slow-burn pacing and deep character explorations resonate strongly with the themes in Humint.",
+      "sharedVibes": [
+        "cerebral",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 49517
+    },
+    {
+      "title": "The Spy Who Came in from the Cold",
+      "year": 1965,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "With its gritty portrayal of Cold War espionage and moral ambiguity, this classic echoes the psychological depth found in Humint. The film's dark tone and complex characters make it a compelling watch.",
+      "sharedVibes": [
+        "dark",
+        "cerebral"
+      ],
+      "mood": "dark",
+      "tmdbId": 13580
+    },
+    {
+      "title": "Body of Lies",
+      "year": 2008,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "This film's exploration of deception and the cost of espionage aligns closely with the themes of sacrifice in Humint. The action-packed sequences paired with emotional stakes provide a thrilling experience.",
+      "sharedVibes": [
+        "action-packed",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 12113
+    },
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Focusing on surveillance and the impact of the state on personal lives, this film resonates with the emotional core of Humint. Its deep character study and ethical dilemmas echo throughout both narratives.",
+      "sharedVibes": [
+        "cerebral",
+        "dark"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 582
+    },
+    {
+      "title": "Bridge of Spies",
+      "year": 2015,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Both films deal with the complexities of negotiation and the human side of espionage. The historical context and emotional depth in Bridge of Spies are akin to the themes explored in Humint.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "heartwarming",
+      "tmdbId": 296098
+    },
+    {
+      "title": "Argo",
+      "year": 2012,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Argo's blend of tension and historical authenticity parallels the gripping narrative of Humint. The film's focus on a high-stakes rescue mission showcases the urgency and emotional weight of espionage.",
+      "sharedVibes": [
+        "tense",
+        "action-packed"
+      ],
+      "mood": "tense",
+      "tmdbId": 68734
+    },
+    {
+      "title": "Zero Dark Thirty",
+      "year": 2012,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "This film's relentless pursuit of a target and the moral questions surrounding it resonate with the themes in Humint. The intense atmosphere and character-driven storytelling create a gripping narrative.",
+      "sharedVibes": [
+        "tense",
+        "dark"
+      ],
+      "mood": "tense",
+      "tmdbId": 97630
+    },
+    {
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Offering a stylish and humorous take on espionage, this film contrasts the heavy themes of Humint while still exploring the intricacies of intelligence work. The character dynamics and wit provide a refreshing balance.",
+      "sharedVibes": [
+        "funny",
+        "action-packed"
+      ],
+      "mood": "uplifting",
+      "tmdbId": 203801
+    },
+    {
+      "title": "Enemy of the State",
+      "year": 1998,
+      "matchPercentage": 79,
+      "whyYoullLoveIt": "This thriller's exploration of government surveillance and the fight for truth parallels the tension found in Humint. The fast-paced action and ethical dilemmas keep viewers on the edge of their seats.",
+      "sharedVibes": [
+        "action-packed",
+        "tense"
+      ],
+      "mood": "tense",
+      "tmdbId": 9798
+    },
+    {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Both films examine the intersection of intelligence work and personal sacrifice, with a strong emphasis on character development. The emotional depth and historical context draw parallels to the narrative style of Humint.",
+      "sharedVibes": [
+        "emotional",
+        "cerebral"
+      ],
+      "mood": "bittersweet",
+      "tmdbId": 205596
+    }
+  ],
+  "relatedPages": [
+    "fifty-shades-of-grey",
+    "la-la-land",
+    "step-brothers",
+    "10-things-i-hate-about-you",
+    "do-not-enter"
+  ],
+  "sourceMovie": {
+    "tmdbId": 1268127,
+    "title": "Humint",
+    "slug": "humint",
+    "year": 2026,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Humint captivates audiences with its intricate blend of espionage and human emotion, exploring the moral complexities of intelligence work.",
+    "vibes": [
+      "cerebral",
+      "tense",
+      "dark"
+    ]
+  }
+}
