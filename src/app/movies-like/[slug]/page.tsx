@@ -26,13 +26,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!bundle) return {};
   const t = bundle.sourceMovie.title;
   const title =
-    slug === "get-out"
-      ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
-      : getSeoTitle(t);
+    slug === "the-chorus"
+      ? "Movies Like The Chorus: 10 Moving Dramas About Music"
+      : slug === "get-out"
+        ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
+        : getSeoTitle(t);
   const description =
-    slug === "get-out"
-      ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
-      : getSeoDescription(t);
+    slug === "the-chorus"
+      ? "Loved The Chorus? 10 moving dramas about music, mentorship, and redemption—with match scores and where to stream."
+      : slug === "get-out"
+        ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
+        : getSeoDescription(t);
   const baseUrl = getSiteUrl();
   return {
     title,
