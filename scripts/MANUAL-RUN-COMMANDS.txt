@@ -1,0 +1,79 @@
+Manual runs — Hermes MacBook Air (user: openclaw)
+=================================================
+Run from:  cd ~/projects/watchthisapp
+(unless noted)
+
+Prerequisites
+-------------
+• GSC: put Google service account JSON at:
+    ./gsc-service-account.json
+  OR set in `.env.local`:
+    GSC_SERVICE_ACCOUNT_FILE=/absolute/path/to/file.json
+    GSC_SITE_URL=sc-domain:movieslike.app   (or your property)
+• TMDB + site URL in `.env.local` (see `.env.example`).
+• Copy those files from your dev Mac if needed — they are gitignored.
+
+movieslike (this repo) — copy/paste
+-------------------------------------
+6:00 AM  Vega GSC Daily (full sync + push)
+           npm run cron:gsc
+
+7:00 AM  Forge Morning
+           npm run data:forge
+
+8:00 AM  Rev Daily Audit
+           npm run data:audit-quality
+
+1:00 PM  Forge Afternoon
+           npm run data:forge
+
+7:00 PM  Forge Evening
+           npm run data:forge
+
+Sunday 6:00 AM  Vega Weekly (same pipeline as daily, or inspect only)
+           npm run cron:gsc
+    or:   npm run data:gsc:dry-run
+
+Quick checks (no writes / less setup)
+           npm run smoke:movieslike
+           npm run data:gsc:dry-run          # needs GSC JSON + env
+
+Not in this repo (Hermes skills only)
+--------------------------------------
+Run via Hermes (same prompts/skills your cron uses), or the shell commands
+those skills wrap — paths are on your machine:
+
+8:00 AM   Job Hunt Morning          skill: job-hunter
+9:00 AM   FursBliss Campaign        skill: fursbliss-campaign
+9:30 AM   FursBliss DALL-E          skill: fursbliss-dalle
+10:00 AM  FursBliss Social          skill: fursbliss-social
+10:00 AM  Link Daily                skill: movieslike-link (no npm script here)
+10:00 AM  Job Hunt Afternoon        skill: job-hunter
+6:00 PM   Job Hunt Evening          skill: job-hunter
+
+Telegram
+--------
+Is it “working”? If `hermes status` shows **Telegram ✓ configured**, Hermes can
+send to Telegram. That is separate from shell scripts.
+
+For **npm/shell** failures (cron:gsc, data:forge, etc.):
+
+1. Create a bot with @BotFather → **TELEGRAM_BOT_TOKEN**
+2. Your chat id → **TELEGRAM_CHAT_ID** (e.g. message @userinfobot)
+3. Put in `~/.hermes/.env` or `~/.zshrc` (same vars the wrapper reads):
+
+     export TELEGRAM_BOT_TOKEN="..."
+     export TELEGRAM_CHAT_ID="..."
+
+4. Run jobs through the wrapper (failure-only message):
+
+     ~/projects/watchthisapp/scripts/run-with-telegram-alert.sh "Vega GSC" \
+       zsh -c 'cd "$HOME/projects/watchthisapp" && npm run cron:gsc'
+
+Repeat with the label + inner command for Forge, Rev, etc.
+
+Hermes scheduled jobs with **Deliver: telegram** already send *that job’s output*
+to Telegram; for **exit-code failures**, ensure the skill’s command is wrapped
+or the skill reports errors — Hermes behavior depends on skill config.
+
+See also: scripts/HERMES-SETUP.txt §10, scripts/notify-telegram.sh
