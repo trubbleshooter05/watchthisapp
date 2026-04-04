@@ -31,39 +31,54 @@ fi
 
 echo "Backup root: $BACKUP_ROOT"
 echo "Looking for: Users/${USER_NAME}/.hermes"
-echo ""
 
-CANDIDATES=()
-while IFS= read -r line; do
-  [[ -n "$line" ]] && CANDIDATES+=("$line")
-done < <(find "$BACKUP_ROOT" -type d -path '*/.hermes' 2>/dev/null | head -30)
-
-if [[ ${#CANDIDATES[@]} -eq 0 ]]; then
-  echo "ERROR: No .hermes directory under this snapshot."
-  echo "Try: find \"$BACKUP_ROOT\" -type d -name '.hermes'"
-  exit 1
-fi
-
+# Fast path: common Time Machine layouts (avoids slow full-tree find)
 SOURCE=""
-for c in "${CANDIDATES[@]}"; do
-  if [[ "$c" == *"/Users/${USER_NAME}/.hermes" ]]; then
-    SOURCE="$c"
+for try in \
+  "$BACKUP_ROOT/Macintosh HD - Data/Users/${USER_NAME}/.hermes" \
+  "$BACKUP_ROOT/Macintosh HD/Users/${USER_NAME}/.hermes" \
+  "$BACKUP_ROOT/Users/${USER_NAME}/.hermes"; do
+  if [[ -d "$try" ]]; then
+    SOURCE="$try"
+    echo "Found (quick path): $SOURCE"
     break
   fi
 done
+
+CANDIDATES=()
 if [[ -z "$SOURCE" ]]; then
+  echo "Scanning whole snapshot (find may take a few minutes)..."
+  echo ""
+  while IFS= read -r line; do
+    [[ -n "$line" ]] && CANDIDATES+=("$line")
+  done < <(find "$BACKUP_ROOT" -type d -path '*/.hermes' 2>/dev/null | head -30)
+
+  if [[ ${#CANDIDATES[@]} -eq 0 ]]; then
+    echo "ERROR: No .hermes directory under this snapshot."
+    echo "Try: find \"$BACKUP_ROOT\" -type d -name '.hermes'"
+    exit 1
+  fi
+
   for c in "${CANDIDATES[@]}"; do
-    if [[ "$c" == *"/${USER_NAME}/"* ]]; then
+    if [[ "$c" == *"/Users/${USER_NAME}/.hermes" ]]; then
       SOURCE="$c"
       break
     fi
   done
-fi
-if [[ -z "$SOURCE" ]]; then
-  SOURCE="${CANDIDATES[1]}"
-  echo "WARNING: No Users/${USER_NAME}/.hermes — using: $SOURCE"
-else
-  echo "Using: $SOURCE"
+  if [[ -z "$SOURCE" ]]; then
+    for c in "${CANDIDATES[@]}"; do
+      if [[ "$c" == *"/${USER_NAME}/"* ]]; then
+        SOURCE="$c"
+        break
+      fi
+    done
+  fi
+  if [[ -z "$SOURCE" ]]; then
+    SOURCE="${CANDIDATES[1]}"
+    echo "WARNING: No Users/${USER_NAME}/.hermes — using: $SOURCE"
+  else
+    echo "Using: $SOURCE"
+  fi
 fi
 
 STAMP="$(date +%Y%m%d-%H%M%S)"
