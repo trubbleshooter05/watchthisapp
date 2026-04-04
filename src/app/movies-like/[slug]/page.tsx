@@ -25,8 +25,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const bundle = getRecommendationBundle(slug);
   if (!bundle) return {};
   const t = bundle.sourceMovie.title;
-  const title = getSeoTitle(t);
-  const description = getSeoDescription(t);
+  const title =
+    slug === "get-out"
+      ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
+      : getSeoTitle(t);
+  const description =
+    slug === "get-out"
+      ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
+      : getSeoDescription(t);
   const baseUrl = getSiteUrl();
   return {
     title,
