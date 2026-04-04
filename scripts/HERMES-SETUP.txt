@@ -18,9 +18,14 @@ Clone or keep the repo on the Hermes laptop only, e.g.:
 
   ~/projects/watchthisapp
 
-Two machines, two home folders: your dev Mac may be `/Users/gp/...`; the Hermes
-MacBook Air is `/Users/openclaw/...`. On the **Air**, `watchthisapp` must live
-under **openclaw’s** home (e.g. `~/projects/watchthisapp` → `/Users/openclaw/...`).
+Three places, three user homes (don’t mix paths across machines):
+  • Dev Mac:        `/Users/gp/...`
+  • Hermes Air:     `/Users/openclaw/...`  ← Hermes cron + watchthisapp for automation
+  • Mac mini:       user `ladmin` (when you mount its disk: e.g. `/Volumes/ladmin/...`)
+
+`watchthisapp` automation for movieslike belongs on the **Air** under **openclaw**,
+not on the mini (see §7). On the **Air**, that means a real path under
+`/Users/openclaw/...` (e.g. `~/projects/watchthisapp`).
 
 If the Air’s repo path still resolves to `/Users/gp/...` (symlink, SMB mount of
 the other Mac’s disk, or a copied path), scripts try to create folders under
