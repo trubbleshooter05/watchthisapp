@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
         : slug === "white-chicks"
           ? "Movies Like White Chicks: 10 Wild Comedies That Go All In"
-          : slug === "top-gun-maverick"
+          : slug.includes("top-gun-maverick")
             ? "Movies Like Top Gun: Maverick: 10 Adrenaline-Fueled Thrillers"
             : getSeoTitle(t);
   const description =
@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
         : slug === "white-chicks"
           ? "Loved White Chicks? 10 outrageous comedies with the same chaotic energy, quotable moments, and ridiculous commitment—plus match scores and where to watch."
-          : slug === "top-gun-maverick"
+          : slug.includes("top-gun-maverick")
             ? "Loved Top Gun: Maverick? 10 intense action movies with the same speed, pressure, rivalry, and high-stakes adrenaline—plus match scores and where to watch."
             : getSeoDescription(t);
   const baseUrl = getSiteUrl();
