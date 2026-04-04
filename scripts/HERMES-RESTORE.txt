@@ -31,10 +31,13 @@ GitHub → Settings → SSH keys, or switch the remote to HTTPS:
 
   git remote set-url origin https://github.com/trubbleshooter05/watchthisapp.git
 
-After restore — `hermes status` fails building `~/.hermes/hermes-agent`
------------------------------------------------------------------------
-Time Machine copies often leave setuptools unable to refresh
-`hermes_agent.egg-info` (“Cannot update time stamp…”). Fix:
+After restore — `hermes status` / egg-info / “Permission denied” on xattr or rm
+--------------------------------------------------------------------------------
+Time Machine often restores `hermes-agent` with wrong ownership (root or
+another UID). Then chmod/xattr/rm fail and setuptools cannot update
+`hermes_agent.egg-info`.
+
+1) Fix ownership + clean build artifacts (downloads latest script; uses sudo once):
 
   curl -fsSL -o ~/projects/watchthisapp/scripts/fix-hermes-after-tm-restore.sh \
     "https://raw.githubusercontent.com/trubbleshooter05/watchthisapp/main/scripts/fix-hermes-after-tm-restore.sh"
@@ -42,6 +45,18 @@ Time Machine copies often leave setuptools unable to refresh
   ~/projects/watchthisapp/scripts/fix-hermes-after-tm-restore.sh
   hermes status
 
-If it still fails, reinstall the Hermes CLI (config in ~/.hermes is kept):
+2) If the installer says “not a git repository” or step 1 still fails — move the
+   broken tree aside and reinstall a fresh clone (`~/.hermes/.env` etc. stay):
 
+  curl -fsSL -o ~/projects/watchthisapp/scripts/reinstall-hermes-agent.sh \
+    "https://raw.githubusercontent.com/trubbleshooter05/watchthisapp/main/scripts/reinstall-hermes-agent.sh"
+  chmod +x ~/projects/watchthisapp/scripts/reinstall-hermes-agent.sh
+  YES=1 ~/projects/watchthisapp/scripts/reinstall-hermes-agent.sh
+
+   (Omit YES=1 to get a confirmation prompt.)
+
+Manual one-liner equivalent of (2):
+
+  sudo chown -R "$(whoami):$(id -gn)" ~/.hermes
+  mv ~/.hermes/hermes-agent ~/.hermes/hermes-agent.broken-$(date +%Y%m%d)
   curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash

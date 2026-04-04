@@ -1,8 +1,7 @@
 #!/bin/zsh
-# After restoring ~/.hermes from Time Machine, `hermes status` may fail building
-# the editable install at ~/.hermes/hermes-agent with:
-#   Cannot update time stamp of directory 'hermes_agent.egg-info'
-# Run this on the Hermes laptop, then `hermes status` again.
+# After a Time Machine restore, ~/.hermes/hermes-agent may be owned by the wrong
+# user → Permission denied on xattr/rm/setuptools "Cannot update time stamp of
+# hermes_agent.egg-info". Fix ownership first (requires your password once).
 
 set -euo pipefail
 
@@ -13,16 +12,21 @@ if [[ ! -d "$SRC" ]]; then
   exit 1
 fi
 
-echo "Fixing permissions and stripping macOS metadata on: $SRC"
+echo "Step 1 — Take ownership of the tree (needed after TM restore if files are root/other-user):"
+echo "  sudo chown -R \"$(whoami):$(id -gn)\" \"$SRC\""
+echo ""
+if [[ "${SKIP_CHOWN:-}" != "1" ]]; then
+  sudo chown -R "$(whoami):$(id -gn)" "$SRC"
+fi
+
+echo "Step 2 — Permissions + metadata..."
 chmod -R u+rwX "$SRC"
 xattr -cr "$SRC" 2>/dev/null || true
-
-# Drop immutable flags if any (Time Machine / copies sometimes set them)
 if command -v chflags >/dev/null 2>&1; then
   chflags -R nouchg,noschg "$SRC" 2>/dev/null || true
 fi
 
-echo "Removing stale Python build artifacts..."
+echo "Step 3 — Remove stale build dirs..."
 rm -rf \
   "$SRC/hermes_agent.egg-info" \
   "$SRC/build" \
@@ -33,13 +37,16 @@ rm -rf \
 find "$SRC" -type d -name '__pycache__' -prune -exec rm -rf {} + 2>/dev/null || true
 
 if [[ -d "$SRC/.git" ]]; then
-  echo "Refreshing git submodules (Hermes often needs them)..."
+  echo "Step 4 — Git submodules..."
   (cd "$SRC" && git submodule update --init --recursive 2>/dev/null) || true
+else
+  echo ""
+  echo "WARNING: $SRC is not a git clone — the official installer will refuse."
+  echo "Run:  curl -fsSL .../install.sh | bash   AFTER moving this folder aside:"
+  echo "  mv \"$SRC\" \"$SRC.broken-\$(date +%Y%m%d)\""
+  echo "Or use: scripts/reinstall-hermes-agent.sh (same repo, raw GitHub)"
 fi
 
 echo ""
-echo "Done. Try:  hermes status"
-echo "If it still fails, reinstall the CLI (keeps ~/.hermes config):"
-echo "  curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash"
-echo "Or from source:"
-echo "  cd \"$SRC\" && command -v uv >/dev/null && uv sync"
+echo "Try:  hermes status"
+echo "If it still fails: reinstall (see HERMES-RESTORE.txt or reinstall-hermes-agent.sh)."
