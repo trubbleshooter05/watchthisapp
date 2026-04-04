@@ -18,9 +18,15 @@ Clone or keep the repo on the Hermes laptop only, e.g.:
 
   ~/projects/watchthisapp
 
-The path must really be under *your* macOS user (e.g. /Users/openclaw/...).
-Do not point ~/projects/watchthisapp at another user’s home via symlink or SMB
-(e.g. /Users/gp/...) — `cron:gsc` will fail with `mkdir: /Users/gp: Permission denied`.
+Two machines, two home folders: your dev Mac may be `/Users/gp/...`; the Hermes
+MacBook Air is `/Users/openclaw/...`. On the **Air**, `watchthisapp` must live
+under **openclaw’s** home (e.g. `~/projects/watchthisapp` → `/Users/openclaw/...`).
+
+If the Air’s repo path still resolves to `/Users/gp/...` (symlink, SMB mount of
+the other Mac’s disk, or a copied path), scripts try to create folders under
+`/Users/gp` on a machine where that isn’t openclaw’s writable home → errors like
+`mkdir: /Users/gp: Permission denied`. Fix: real clone under `/Users/openclaw/`,
+not a pointer at the other laptop’s user path.
 
 Hermes skills and cron should use this path when running shell commands.
 
