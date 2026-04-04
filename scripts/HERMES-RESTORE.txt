@@ -1,0 +1,13 @@
+Hermes restore — one command
+=============================
+
+Mount your Time Machine volume, then from this repo:
+
+  ./scripts/restore-hermes-from-timemachine.sh
+
+Defaults (edit the script if your snapshot path changes) are inside
+`scripts/restore-hermes-from-timemachine.sh`.
+
+Restore and push `~/.hermes` to the Mac mini in one go:
+
+  MINI_HOST=openclaw@your-mini.local ./scripts/restore-hermes-from-timemachine.sh
