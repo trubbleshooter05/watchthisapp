@@ -75,3 +75,13 @@ first.
 
 The reinstall script `cd`s to $HOME before running the installer and, if
 `hermes-agent` is already gone, runs the installer anyway.
+
+If git says `could not create work tree dir '.../hermes-agent': Permission denied`,
+`~/.hermes` is still not writable (wrong owner or flags). Fix then re-run install:
+
+  cd ~
+  sudo mkdir -p ~/.hermes
+  sudo chown -R "$(whoami):$(id -gn)" ~/.hermes
+  sudo chmod -R u+rwX ~/.hermes
+  sudo chflags -R nouchg,noschg ~/.hermes
+  curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash

@@ -14,7 +14,22 @@ AGENT_DIR="${HERMES_AGENT_DIR:-$HOME/.hermes/hermes-agent}"
 STAMP="$(date +%Y%m%d-%H%M%S)"
 BACKUP="${AGENT_DIR}.moved-aside-${STAMP}"
 
+# Git "could not create work tree dir ... Permission denied" means ~/.hermes
+# (or parents) isn’t writable / wrong owner / immutable flags — fix before clone.
+ensure_hermes_ready() {
+  echo "Ensuring ~/.hermes is yours and writable (sudo)..."
+  sudo mkdir -p "$HOME/.hermes"
+  sudo chown -R "$(whoami):$(id -gn)" "$HOME/.hermes"
+  sudo chmod -R u+rwX "$HOME/.hermes"
+  sudo chflags -R nouchg,noschg "$HOME/.hermes" 2>/dev/null || true
+  if [[ -e "$AGENT_DIR" ]] && [[ ! -d "$AGENT_DIR" ]]; then
+    echo "Removing non-directory at $AGENT_DIR"
+    sudo rm -f "$AGENT_DIR"
+  fi
+}
+
 run_installer() {
+  ensure_hermes_ready
   echo "Running installer from $HOME ..."
   curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
 }
@@ -37,10 +52,8 @@ if [[ -z "${YES:-}" ]]; then
   [[ "$REPLY" == [yY]* ]] || { echo "Aborted."; exit 1; }
 fi
 
-echo "Fixing ownership, flags, and parent dir permissions (sudo)..."
-sudo chown -R "$(whoami):$(id -gn)" "$HOME/.hermes"
-sudo chmod u+rwx "$HOME/.hermes"
-# Time Machine sometimes sets user immutable flags — mv/rm fail until cleared
+ensure_hermes_ready
+echo "Fixing flags on old agent tree..."
 sudo chflags -R nouchg,noschg "$AGENT_DIR" 2>/dev/null || true
 
 if mv "$AGENT_DIR" "$BACKUP" 2>/dev/null; then
