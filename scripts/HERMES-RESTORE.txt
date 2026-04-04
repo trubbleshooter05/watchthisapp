@@ -1,7 +1,11 @@
 Hermes restore — one command
 =============================
 
-Mount your Time Machine volume, then from this repo:
+If `./scripts/restore-hermes-from-timemachine.sh` is missing, sync the repo first:
+
+  cd ~/projects/watchthisapp && git pull origin main
+
+Mount your Time Machine volume, then:
 
   ./scripts/restore-hermes-from-timemachine.sh
 
