@@ -2,16 +2,28 @@
 # When ~/.hermes/hermes-agent is corrupt, not a git repo, or permissions are
 # beyond repair: remove it and run Nous Research install.sh.
 # Your config stays in ~/.hermes/.env, ~/.hermes/config.yaml, skills/, cron/, etc.
+#
+# IMPORTANT: If you `rm -rf ~/.hermes/hermes-agent` while your shell is *inside*
+# that path, cwd becomes invalid and the installer breaks — always `cd ~` first.
+# This script forces cd to $HOME at startup.
 
 set -euo pipefail
+cd "$HOME" || exit 1
 
 AGENT_DIR="${HERMES_AGENT_DIR:-$HOME/.hermes/hermes-agent}"
 STAMP="$(date +%Y%m%d-%H%M%S)"
 BACKUP="${AGENT_DIR}.moved-aside-${STAMP}"
 
+run_installer() {
+  echo "Running installer from $HOME ..."
+  curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+}
+
 if [[ ! -d "$AGENT_DIR" ]]; then
-  echo "No $AGENT_DIR — nothing to remove. Run the installer only:"
-  echo "  curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash"
+  echo "No $AGENT_DIR — running official installer only (fresh clone)."
+  run_installer
+  echo ""
+  echo "Done. Try: hermes status"
   exit 0
 fi
 
@@ -39,15 +51,17 @@ else
   sudo rm -rf "$AGENT_DIR"
 fi
 
+cd "$HOME"
+
 if [[ -d "$AGENT_DIR" ]]; then
   echo "ERROR: $AGENT_DIR still exists. Try manually:"
+  echo "  cd ~"
   echo "  sudo chflags -R nouchg,noschg $AGENT_DIR"
   echo "  sudo rm -rf $AGENT_DIR"
   exit 1
 fi
 
-echo "Running installer..."
-curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+run_installer
 
 echo ""
 echo "Done. Try: hermes status"

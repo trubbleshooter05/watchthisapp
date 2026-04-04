@@ -56,12 +56,22 @@ another UID). Then chmod/xattr/rm fail and setuptools cannot update
    (Omit YES=1 to get a confirmation prompt.)
 
 If `mv` says Permission denied (Time Machine + immutable flags), clear flags
-and delete the folder, then install:
+and delete the folder, then install.
+
+Do not run `rm -rf` while your terminal’s current directory is *inside*
+`hermes-agent` — the shell loses cwd and the installer fails with “Current
+directory does not exist”. Always:
+
+  cd ~
+
+first.
 
   sudo chown -R "$(whoami):$(id -gn)" ~/.hermes
   sudo chmod u+rwx ~/.hermes
   sudo chflags -R nouchg,noschg ~/.hermes/hermes-agent
   sudo rm -rf ~/.hermes/hermes-agent
+  cd ~
   curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
 
-The reinstall script does the same (tries `mv` first, then `sudo rm -rf`).
+The reinstall script `cd`s to $HOME before running the installer and, if
+`hermes-agent` is already gone, runs the installer anyway.
