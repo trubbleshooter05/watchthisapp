@@ -31,54 +31,41 @@ fi
 
 echo "Backup root: $BACKUP_ROOT"
 echo "Looking for: Users/${USER_NAME}/.hermes"
+echo ""
 
-# Fast path: common Time Machine layouts (avoids slow full-tree find)
+# Do NOT use [[ -d ... ]] on deep paths inside Time Machine — it can hang forever.
+# Use find with -maxdepth so we never walk the entire backup tree.
+
+echo "Searching (bounded depth; should finish quickly)..."
 SOURCE=""
-for try in \
-  "$BACKUP_ROOT/Macintosh HD - Data/Users/${USER_NAME}/.hermes" \
-  "$BACKUP_ROOT/Macintosh HD/Users/${USER_NAME}/.hermes" \
-  "$BACKUP_ROOT/Users/${USER_NAME}/.hermes"; do
-  if [[ -d "$try" ]]; then
-    SOURCE="$try"
-    echo "Found (quick path): $SOURCE"
-    break
-  fi
-done
+while IFS= read -r line; do
+  [[ -n "$line" ]] && SOURCE="$line" && break
+done < <(find "$BACKUP_ROOT" -maxdepth 28 -type d -path "*/Users/${USER_NAME}/.hermes" 2>/dev/null | head -1)
 
-CANDIDATES=()
 if [[ -z "$SOURCE" ]]; then
-  echo "Scanning whole snapshot (find may take a few minutes)..."
-  echo ""
+  echo "No match at */Users/${USER_NAME}/.hermes — trying any .hermes (still bounded)..."
+  CANDIDATES=()
   while IFS= read -r line; do
     [[ -n "$line" ]] && CANDIDATES+=("$line")
-  done < <(find "$BACKUP_ROOT" -type d -path '*/.hermes' 2>/dev/null | head -30)
+  done < <(find "$BACKUP_ROOT" -maxdepth 28 -type d -name '.hermes' 2>/dev/null | head -10)
 
   if [[ ${#CANDIDATES[@]} -eq 0 ]]; then
-    echo "ERROR: No .hermes directory under this snapshot."
-    echo "Try: find \"$BACKUP_ROOT\" -type d -name '.hermes'"
+    echo "ERROR: No .hermes under this snapshot (within depth 28)."
+    echo "List top of backup:  ls -la \"$BACKUP_ROOT\""
+    echo "Manual search:       find \"$BACKUP_ROOT\" -maxdepth 30 -type d -name '.hermes'"
     exit 1
   fi
 
   for c in "${CANDIDATES[@]}"; do
-    if [[ "$c" == *"/Users/${USER_NAME}/.hermes" ]]; then
+    if [[ "$c" == *"/${USER_NAME}/"* ]]; then
       SOURCE="$c"
       break
     fi
   done
-  if [[ -z "$SOURCE" ]]; then
-    for c in "${CANDIDATES[@]}"; do
-      if [[ "$c" == *"/${USER_NAME}/"* ]]; then
-        SOURCE="$c"
-        break
-      fi
-    done
-  fi
-  if [[ -z "$SOURCE" ]]; then
-    SOURCE="${CANDIDATES[1]}"
-    echo "WARNING: No Users/${USER_NAME}/.hermes — using: $SOURCE"
-  else
-    echo "Using: $SOURCE"
-  fi
+  [[ -z "$SOURCE" ]] && SOURCE="${CANDIDATES[1]}"
+  echo "WARNING: Using: $SOURCE"
+else
+  echo "Found: $SOURCE"
 fi
 
 STAMP="$(date +%Y%m%d-%H%M%S)"
