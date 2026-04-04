@@ -1,0 +1,50 @@
+OpenClaw schedule + architecture alignment
+==========================================
+
+Live system diagram (source of truth for “how laptop vs mini work”):
+  https://clawd-web-fawn.vercel.app/architecture
+
+When updating the PDF at:
+  Desktop/DESKTOP/FURSBLISS_new/CRON JOBS SCHEDULE/daily_schedule_new.pdf
+use the same narrative as that page: Hermes laptop (MacBook Air M2) = control plane;
+Mac mini (M1) = execution where you mount it (e.g. /Volumes/ladmin). Stagger 10:00 AM jobs.
+
+Hermes cron jobs (your IDs — verify with: hermes cron list)
+------------------------------------------------------------
+  f61bb0d3afe5  Vega GSC Daily       0 6 * * *     movieslike-vega
+  eeb2dbe2867d  Forge Morning        0 7 * * *     movieslike-forge
+  a25df632449d  Forge Afternoon      0 13 * * *    movieslike-forge
+  0e591972308a  Forge Evening        0 19 * * *    movieslike-forge
+  b354998eb100  Rev Daily Audit      0 8 * * *     movieslike-rev
+  f37d51ec4fcc  Link Daily           0 10 * * *    movieslike-link
+  f4869a1ef791  Vega Weekly          0 6 * * 0     movieslike-vega
+  907c07693352  Job Hunt Morning     0 8 * * *     job-hunter
+  a388b299c8dc  Job Hunt Afternoon   0 13 * * *    job-hunter
+  427bd3440b50  Job Hunt Evening     0 18 * * *    job-hunter
+  e8e60f7e95e3  FursBliss Campaign   0 9 * * *     fursbliss-campaign
+  de3225011ba9  FursBliss DALL-E     30 9 * * *     fursbliss-dalle
+  f33e5431dea8  FursBliss Social     0 10 * * *    (skill name truncated in your paste)
+
+Telegram on failure (watchthisapp commands only)
+-----------------------------------------------
+1. Create a bot with @BotFather; get the bot token.
+2. Get your chat_id (e.g. message @userinfobot or your bot and read updates via getUpdates).
+3. Export before Hermes runs (or put in ~/.hermes/.env if Hermes injects env):
+     export TELEGRAM_BOT_TOKEN="..."
+     export TELEGRAM_CHAT_ID="..."
+4. Point Hermes skill shell steps at the wrapper, e.g.:
+     /path/to/watchthisapp/scripts/run-with-telegram-alert.sh "Vega GSC Daily" \
+       zsh -c 'cd "$HOME/projects/watchthisapp" && npm run cron:gsc'
+
+For skills outside this repo (job-hunter, fursbliss-*), wrap the same way around
+your existing command once TELEGRAM_* is set.
+
+Testing
+-------
+Movieslike CLIs from this repo:
+  cd ~/projects/watchthisapp && zsh scripts/smoke-test-movieslike-jobs.sh
+
+Full Hermes schedule: only runs on a machine where `hermes status` is healthy;
+test each job once manually or by temporarily setting cron to the next minute.
+
+See also: scripts/HERMES-SETUP.txt

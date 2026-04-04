@@ -1,0 +1,166 @@
+Hermes laptop — one scheduler for everything (canonical)
+=========================================================
+
+“Single runner” means: use Hermes as the only scheduler — not “only movieslike.”
+Your full day (movieslike, FursBliss, job hunt, etc.) should all be separate
+`hermes cron` jobs on the Hermes laptop.
+
+Do not also run the same work from macOS crontab, Mac mini LaunchAgents, or a
+second Hermes duplicate for the same task.
+
+Movieslike commands below use `~/projects/watchthisapp`. FursBliss, DALL-E, job
+hunt, and social flows use their own skills/repos; point those skills at the
+paths and env you already use — only the movieslike rows reference this repo.
+
+1) Repo location
+----------------
+Clone or keep the repo on the Hermes laptop only, e.g.:
+
+  ~/projects/watchthisapp
+
+Hermes skills and cron should use this path when running shell commands.
+
+2) Secrets (GSC + TMDB)
+-----------------------
+The Node/Python scripts read `.env.local` at the repo root (see `.env.example`).
+
+Either:
+  - Put TMDB_API_KEY, NEXT_PUBLIC_SITE_URL, GSC_SERVICE_ACCOUNT_FILE,
+    GSC_SITE_URL in `~/projects/watchthisapp/.env.local`, or
+  - Set the same variable names in `~/.hermes/.env` if your Hermes install
+    injects env into skill runs (match one approach so keys are not duplicated
+    in conflicting places).
+
+GSC JSON must be readable on the laptop; `GSC_SITE_URL` must match your Search
+Console property. Service account email must be a user on that property.
+
+3) Hermes gateway (required for cron)
+--------------------------------------
+Scheduled skills do nothing if the gateway is not running.
+
+  hermes gateway install
+  hermes status
+
+Fix until `hermes status` shows the gateway healthy. Laptop should stay awake
+or use Power Nap / caffeinate policy you accept for overnight jobs.
+
+4) Full daily schedule (example — all on Hermes)
+-----------------------------------------------
+Your intended cadence, expressed as cron ideas (adjust skill names to match your
+install). Stagger jobs that share the same minute so they do not fight for CPU,
+network, or API quotas — especially the 10:00 AM block.
+
+  Time        Job (Hermes cron name)              Skill / notes
+  ----------  ----------------------------------  --------------------------------
+  6:00 AM     Vega GSC Daily                      movieslike → `npm run cron:gsc`
+  7:00 AM     Forge Morning                       movieslike → `npm run data:forge`
+  8:00 AM     Rev Daily Audit                     movieslike → `npm run data:audit-quality`
+  8:00 AM     Job Hunt Morning                    job-hunter skill (separate repo/skill)
+  9:00 AM     FursBliss Campaign                  your FursBliss campaign skill/script
+  9:30 AM     FursBliss DALL-E                    image gen skill — often slow; keep alone
+  10:00 AM    FursBliss Social                    stagger vs link vs job hunt (e.g. :00 / :07 / :14)
+  10:00 AM    Link Daily                          movieslike-link (or `npm run` you add)
+  10:00 AM    Job Hunt Afternoon                  job-hunter — split time if 10:00 is crowded
+  1:00 PM     Forge Afternoon                     movieslike → `npm run data:forge`
+  6:00 PM     Job Hunt Evening                    job-hunter
+  7:00 PM     Forge Evening                       movieslike → `npm run data:forge`
+
+  Sunday
+  6:00 AM     Vega Weekly                         movieslike — weekly GSC audit / report
+                (same skill as daily with a different prompt, or `data:gsc:dry-run`
+                 + your weekly checklist from growth/weekly-quality-workflow.md)
+
+Cron patterns (local time on the laptop):
+
+  0 6 * * *      Vega daily
+  0 7 * * *      Forge morning
+  0 8 * * *      Rev audit; Job hunt morning (or two jobs: 0 8 and 5 8)
+  0 9 * * *      FursBliss campaign
+  30 9 * * *     FursBliss DALL-E
+  0 10 * * *     First of the 10:00 trio (stagger the rest)
+  0 13 * * *     Forge afternoon
+  0 18 * * *     Job hunt evening
+  0 19 * * *     Forge evening
+  0 6 * * 0      Vega weekly (Sunday only)
+
+If two human tasks are merged in one row (e.g. “Rev + Job Hunt Morning”), either
+use one Hermes job with a prompt that runs both skills in order, or split into
+two cron lines a few minutes apart.
+
+5) Movieslike skill → command (this repo only)
+----------------------------------------------
+Remove duplicate Hermes jobs first (your migration package may include a cleanup
+script), then ensure exactly one cron job per movieslike task:
+
+Suggested mapping from skill name → command (run from repo root):
+
+  movieslike-vega (daily GSC pipeline — search demand → JSON → git push)
+    cd "$HOME/projects/watchthisapp" && npm run cron:gsc
+
+  movieslike-forge (queued / manual forge pages — uses scripts/forge_pagegen.py)
+    cd "$HOME/projects/watchthisapp" && npm run data:forge
+
+  movieslike-rev (quality audit)
+    cd "$HOME/projects/watchthisapp" && npm run data:audit-quality
+
+  movieslike-link (affiliate / links)
+    Implement in your Hermes skill to match how you update links today; there is
+    no dedicated npm script in this repo unless you add one.
+
+Weekly GSC audit (if you use a second Vega job):
+  Same as Vega daily or `npm run data:gsc:dry-run` for inspection-only runs.
+
+Use `hermes cron list` and delete duplicate job IDs so each schedule appears once.
+
+6) Do NOT also use macOS crontab for scheduled work
+----------------------------------------------
+On the Hermes laptop:
+
+  crontab -e
+
+Remove any line that calls `run-daily-automation.sh`, `watchthisapp`, FursBliss,
+or job-hunter scripts if those are now owned by Hermes.
+
+7) Mac mini / plex
+------------------
+No watchthisapp automation, no OpenClaw jobs for this site. Mini can be backup
+or off; it should not push to the same git remote on a schedule.
+
+8) Manual test (movieslike — same commands Hermes should run)
+------------------------------------------------
+From the laptop:
+
+  cd ~/projects/watchthisapp
+  npm run cron:gsc
+
+Expect: clean git tree before run, lock file, log under `logs/cron-gsc-*.log`.
+
+9) Troubleshooting
+------------------
+- "Working tree is not clean": commit or stash before automation runs.
+- Another run active: `.cron-gsc-movieslike.lock` — wait or remove if stale after
+  a crash.
+- Hermes job never runs: gateway down or duplicate jobs cancelled each other;
+  check `hermes cron list` and gateway logs.
+
+10) Telegram alert on failure (optional)
+----------------------------------------
+Export `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` on the Hermes laptop (or put
+them in `~/.hermes/.env` if your install passes env into skill runs).
+
+Wrap commands so a non-zero exit notifies you:
+
+  /path/to/watchthisapp/scripts/run-with-telegram-alert.sh "Vega GSC Daily" \
+    zsh -c 'cd "$HOME/projects/watchthisapp" && npm run cron:gsc'
+
+Use the same pattern for non-watchthisapp skills (job-hunter, FursBliss) by
+changing the inner command only. See `scripts/OPENCLAW-SCHEDULE-REFERENCE.txt`.
+
+11) Smoke test (movieslike commands in this repo only)
+------------------------------------------------------
+Does not run Hermes or FursBliss; validates CLIs used by movieslike-* skills:
+
+  cd ~/projects/watchthisapp && npm run smoke:movieslike
+
+GSC dry-run may fail until credentials and `.env.local` are valid — that is
+expected on a fresh machine.

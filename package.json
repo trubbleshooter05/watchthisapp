@@ -20,8 +20,13 @@
     "data:gsc:sync": "node scripts/gsc-movieslike-sync.mjs",
     "data:gsc:dry-run": "node scripts/gsc-movieslike-sync.mjs --dry-run",
     "data:generate:new-page": "python3 scripts/generate_new_page.py",
+    "data:forge": "python3 scripts/forge_pagegen.py",
     "cron:gsc:movieslike": "zsh scripts/cron-gsc-movieslike.sh",
-    "deploy:vercel": "npx vercel@latest deploy --prod"
+    "cron:gsc": "zsh scripts/cron-gsc-movieslike.sh",
+    "cron:daily": "zsh scripts/cron-movieslike.sh daily",
+    "automation:daily": "zsh scripts/run-daily-automation.sh",
+    "deploy:vercel": "npx vercel@latest deploy --prod",
+    "smoke:movieslike": "zsh scripts/smoke-test-movieslike-jobs.sh"
   },
   "dependencies": {
     "react": "^18",
