@@ -8,13 +8,14 @@
       "Action",
       "Drama"
     ],
-    "whyPeopleLoveIt": "Audiences are captivated by the powerful emotional journey of Maverick as he confronts his past while training a new generation of pilots, especially the dynamic with Rooster, which beautifully explores themes of legacy and sacrifice. The film's heart-racing flight sequences, paired with the nostalgic callbacks to the original, create a thrilling experience that resonates deeply with fans, making them feel the adrenaline and weight of every decision on screen.",
+    "whyPeopleLoveIt": "They strapped IMAX cameras to real F/A-18s—you feel the Gs in your chest, not a CGI shrug. Maverick’s fighting obsolescence: the Navy wants him benched, Rooster wants him gone, and the mission is a canyon run that shouldn’t be survivable. It’s sweat, swagger, and one last shot at redemption before the afterburners cool for good.",
     "vibes": [
-      "nostalgic",
-      "heartfelt",
-      "thrilling",
-      "intense",
-      "redemption"
+      "practical-stunts",
+      "aviation",
+      "legacy",
+      "rivalry",
+      "redemption",
+      "clock-ticking"
     ]
   },
   "recommendations": [
@@ -23,7 +24,7 @@
       "title": "Whiplash",
       "year": 2014,
       "matchPercentage": 98,
-      "whyYoullLoveIt": "Whiplash (2014) laid groundwork for the tone and themes that Top Gun: Maverick later expanded. If Top Gun: Maverick resonated for you, this predecessor shows where that emotional DNA began.",
+      "whyYoullLoveIt": "No jets—just a drum kit and a teacher who treats humiliation as curriculum. Same core itch as Maverick’s classroom: how far you’ll push yourself when someone demands the impossible, and what it costs to be the best.",
       "sharedVibes": [
         "obsession",
         "mentorship",
@@ -36,7 +37,7 @@
       "title": "The Right Stuff",
       "year": 1983,
       "matchPercentage": 95,
-      "whyYoullLoveIt": "The Right Stuff (1983) laid groundwork for the tone and themes that Top Gun: Maverick later expanded. If Top Gun: Maverick resonated for you, this predecessor shows where that emotional DNA began.",
+      "whyYoullLoveIt": "Test pilots trading swagger for altitude in the Mercury era—machismo with paperwork and real stakes. The flying feels analog and dangerous; the locker-room ego rhymes with Top Gun’s DNA, just with slide rules instead of touchscreens.",
       "sharedVibes": [
         "camaraderie",
         "sacrifice",
@@ -49,7 +50,7 @@
       "title": "Dunkirk",
       "year": 2017,
       "matchPercentage": 92,
-      "whyYoullLoveIt": "Dunkirk (2017) laid groundwork for the tone and themes that Top Gun: Maverick later expanded. If Top Gun: Maverick resonated for you, this predecessor shows where that emotional DNA began.",
+      "whyYoullLoveIt": "Nolan turns a retreat into a ticking clock across sea, sky, and sand—breath held for an hour straight. Different war, same craft obsession: immersion over exposition, violence as physics and time, not speeches.",
       "sharedVibes": [
         "bravery",
         "survival",
@@ -62,7 +63,7 @@
       "title": "Ford v Ferrari",
       "year": 2019,
       "matchPercentage": 90,
-      "whyYoullLoveIt": "The thrilling collaboration and competition between Carroll Shelby and Ken Miles echo the mentor-mentee dynamic seen in Maverick’s relationship with his team. The high-speed races are as pulse-pounding as aerial maneuvers, making every moment a race against the clock.",
+      "whyYoullLoveIt": "Le Mans as a cage match between corporate suits and two guys who only speak RPM. Shelby and Miles push metal until it screams—mentor energy, institutional friction, and speed as religion. Land-based, same white-knuckle clarity.",
       "sharedVibes": [
         "competition",
         "teamwork",
@@ -75,7 +76,7 @@
       "title": "Top Gun",
       "year": 1986,
       "matchPercentage": 88,
-      "whyYoullLoveIt": "The original Top Gun offers an exhilarating blend of action and character-driven drama, much like its modern counterpart, celebrating the thrill of aviation and the complexities of military life. The nostalgia of iconic flights and personal stakes ties it closely to Maverick's journey of redemption.",
+      "whyYoullLoveIt": "The runway that started it: volleyball sweat, bar anthems, and Goose in the back seat. Watching Maverick young reframes every choice in the sequel—same call sign, different scars. Pure nostalgia rocket fuel.",
       "sharedVibes": [
         "nostalgia",
         "camaraderie",
@@ -88,7 +89,11 @@
       "title": "Enemy of the State",
       "year": 1998,
       "matchPercentage": 85,
+<<<<<<< HEAD
       "whyYoullLoveIt": "Enemy of the State (1998) laid groundwork for the tone and themes that Top Gun: Maverick later expanded. If Top Gun: Maverick resonated for you, this predecessor shows where that emotional DNA began.",
+=======
+      "whyYoullLoveIt": "Ground-level thriller, sky-high paranoia—satellites and listening posts turn a jog through Baltimore into a sprint for your life. Not dogfights, but the same relentless forward motion: nowhere to hide, clock always running.",
+>>>>>>> b44a3c4 (Improve Top Gun Maverick recommendation page)
       "sharedVibes": [
         "paranoia",
         "surveillance",
@@ -101,7 +106,7 @@
       "title": "The Aeronauts",
       "year": 2019,
       "matchPercentage": 82,
-      "whyYoullLoveIt": "The Aeronauts (2019) laid groundwork for the tone and themes that Top Gun: Maverick later expanded. If Top Gun: Maverick resonated for you, this predecessor shows where that emotional DNA began.",
+      "whyYoullLoveIt": "Victorian daredevils clawing into a thunderhead in a wicker basket—thin air, fraying rope, zero room for error. Different century, same addiction to altitude and the silence before the storm hits.",
       "sharedVibes": [
         "adventure",
         "exploration",
@@ -114,7 +119,7 @@
       "title": "Rush",
       "year": 2013,
       "matchPercentage": 80,
-      "whyYoullLoveIt": "Rush delves into the fierce rivalry between two F1 drivers, echoing the competitive spirit and personal stakes that are prominent in Maverick's world. The film's dramatic racing sequences parallel the emotional highs and lows found in airborne battles.",
+      "whyYoullLoveIt": "Hunt vs Lauda: two egos, one championship, mortality riding shotgun. Howard stages F1 like combat—rain, fire, fractions of a second. If Maverick’s thrills come from cockpit rivalry, this is the same hunger on asphalt.",
       "sharedVibes": [
         "rivalry",
         "passion",
@@ -127,7 +132,7 @@
       "title": "The Great Raid",
       "year": 2005,
       "matchPercentage": 78,
-      "whyYoullLoveIt": "The heroism and sacrifice of soldiers in The Great Raid reflect the themes of bravery and duty found in Top Gun: Maverick. The emotional weight of the mission and the bond between the soldiers evoke a similar sense of camaraderie and purpose.",
+      "whyYoullLoveIt": "Elite soldiers threading a jungle rescue under impossible odds—brotherhood forged in mud and blood. Slower burn than Maverick’s afterburners, same reverence for men who volunteer for the unwinnable.",
       "sharedVibes": [
         "sacrifice",
         "heroism",
@@ -140,7 +145,7 @@
       "title": "Only the Brave",
       "year": 2017,
       "matchPercentage": 75,
-      "whyYoullLoveIt": "Only the Brave's portrayal of the brotherhood among firefighters evokes the same emotional depth as the team dynamics in Top Gun: Maverick. The personal sacrifices made in the face of danger and the strong bonds forged in adversity create a powerful narrative of courage.",
+      "whyYoullLoveIt": "Hotshot crew charging into walls of flame—different uniform, same pact: nobody gets left behind. The training montages and locker-room bonds echo fighter-squad chemistry; the third act lands like a gut punch.",
       "sharedVibes": [
         "brotherhood",
         "sacrifice",
@@ -152,24 +157,24 @@
   "faq": [
     {
       "question": "What should I watch after Top Gun: Maverick?",
-      "answer": "Try Whiplash, The Right Stuff, Dunkirk—each shares DNA with Top Gun: Maverick while changing the setting enough to feel fresh."
+      "answer": "Whiplash for pressure-cooker mentorship, Rush for rivalry at lethal speed, The Right Stuff for test-pilot swagger. Ford v Ferrari if you want land-based adrenaline with the same ‘push the machine’ obsession."
     },
     {
       "question": "What genre is Top Gun: Maverick?",
-      "answer": "Top Gun: Maverick (2022) is best described as Action, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+      "answer": "Action-drama built around real aerial stunt work—think military procedural meets legacy sequel, with flight sequences that behave like thrill rides, not cutscenes."
     },
     {
       "question": "Is Top Gun: Maverick part of a franchise?",
-      "answer": "Yes—it's part of the \"Top Gun Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+      "answer": "Yes—it follows 1986’s Top Gun and leans on returning characters and callouts, but the mission plot stands alone if you’ve never seen the original (though you’ll feel the Rooster thread deeper if you have)."
     }
   ],
   "relatedPages": [
-    "10-things-i-hate-about-you",
-    "a-quiet-place",
-    "after",
-    "avatar",
-    "black-swan",
-    "divergent",
-    "django-unchained"
+    "top-gun",
+    "ford-v-ferrari",
+    "whiplash",
+    "dunkirk",
+    "rush",
+    "mission-impossible-fallout",
+    "interstellar"
   ]
 }
