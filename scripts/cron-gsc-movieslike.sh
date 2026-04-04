@@ -50,7 +50,8 @@ trap 'rmdir "${LOCK_DIR}" 2>/dev/null || true' EXIT
 
 cd "${REPO_DIR}"
 
-if [[ -n "$(git status --porcelain)" ]]; then
+# Untracked files (e.g. local notes) do not block; only staged/unstaged *tracked* changes do.
+if [[ -n "$(git status --porcelain --untracked-files=no)" ]]; then
   echo "ERROR: Working tree is not clean. Aborting automation."
   git status --short
   exit 1

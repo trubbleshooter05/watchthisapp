@@ -42,7 +42,7 @@ if ! git diff --quiet -- scripts/backlog.json 2>/dev/null; then
   git restore scripts/backlog.json || true
 fi
 
-if [[ -n "$(git status --porcelain)" ]]; then
+if [[ -n "$(git status --porcelain --untracked-files=no)" ]]; then
   echo "Working tree not clean. Aborting."
   git status --short
   exit 1
