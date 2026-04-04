@@ -1,0 +1,144 @@
+#!/usr/bin/env python3
+"""
+Forge queue runner: generate recommendation JSON from T1/T2 priority lists,
+or bypass the queue entirely when --slug is passed.
+
+Paths use this script's repo root and Path.home() only — no /Volumes/ladmin or Mac Mini mounts.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import re
+import subprocess
+import sys
+import unicodedata
+from pathlib import Path
+from typing import Any
+
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+SCRIPTS_DIR = REPO_ROOT / "scripts"
+DATA_REC = REPO_ROOT / "data" / "recommendations"
+QUEUE_FILE = SCRIPTS_DIR / "forge_queue.json"
+GENERATE_NEW_PAGE = SCRIPTS_DIR / "generate_new_page.py"
+
+def slugify(title: str) -> str:
+    txt = unicodedata.normalize("NFKD", title)
+    txt = txt.encode("ascii", "ignore").decode("ascii")
+    txt = txt.lower()
+    txt = re.sub(r"['’ʼ]", "", txt)
+    txt = re.sub(r"[^a-z0-9]+", "-", txt)
+    txt = re.sub(r"-{2,}", "-", txt).strip("-")
+    return txt
+
+
+def slug_to_title(slug: str) -> str:
+    s = slug.strip().lower()
+    if s.startswith("movies-like-"):
+        s = s[len("movies-like-") :]
+    s = s.replace("-", " ")
+    return s.strip().title() if s else slug
+
+
+def normalize_slug(slug: str) -> str:
+    s = slug.strip()
+    if s.startswith("movies-like-"):
+        s = s[len("movies-like-") :]
+    return s
+
+
+def load_queue() -> dict[str, list[dict[str, Any]]]:
+    if not QUEUE_FILE.exists():
+        return {"t1": [], "t2": []}
+    data = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
+    t1 = list(data.get("t1") or [])
+    t2 = list(data.get("t2") or [])
+    return {"t1": t1, "t2": t2}
+
+
+def demote_avatar(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Push Avatar-titled rows to the end so one blockbuster doesn't starve the queue."""
+
+    def is_avatar(row: dict[str, Any]) -> bool:
+        t = str(row.get("title") or "").lower()
+        return "avatar" in t
+
+    head = [e for e in entries if not is_avatar(e)]
+    tail = [e for e in entries if is_avatar(e)]
+    return head + tail
+
+
+def queue_entries_ordered() -> list[dict[str, Any]]:
+    q = load_queue()
+    t1 = demote_avatar(q["t1"])
+    t2 = demote_avatar(q["t2"])
+    return t1 + t2
+
+
+def run_generate(title: str, slug: str, dry_run: bool) -> int:
+    cmd = [sys.executable, str(GENERATE_NEW_PAGE), "--title", title, "--slug", slug]
+    if dry_run:
+        cmd.append("--dry-run")
+    print("RUN:", " ".join(cmd), flush=True)
+    proc = subprocess.run(cmd, cwd=str(REPO_ROOT))
+    return int(proc.returncode)
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(
+        description="Forge page generation: priority queue (T1 then T2) or immediate --slug."
+    )
+    parser.add_argument(
+        "--slug",
+        default="",
+        help="If set, skip T1/T2 entirely and generate this slug immediately.",
+    )
+    parser.add_argument(
+        "--title",
+        default="",
+        help="TMDB search title. With --slug, overrides the slug-to-title guess.",
+    )
+    parser.add_argument("--dry-run", action="store_true", help="Pass through to generate_new_page.py")
+    args = parser.parse_args()
+
+    if args.slug.strip():
+        raw_slug = args.slug.strip()
+        slug = normalize_slug(raw_slug)
+        title = args.title.strip() or slug_to_title(slug)
+        if not title:
+            print("ERROR: need --title if slug cannot be converted to a title", file=sys.stderr)
+            return 1
+        out = DATA_REC / f"{slug}.json"
+        if out.exists() and not args.dry_run:
+            print(f"SKIP already exists: {out} (delete file first to regenerate)", flush=True)
+            return 0
+        print("FORGE: --slug mode — bypassing T1/T2 queue", flush=True)
+        return run_generate(title, slug, args.dry_run)
+
+    entries = queue_entries_ordered()
+    if not entries:
+        print(f"No queue entries in {QUEUE_FILE}. Add t1/t2 rows or use --slug.", flush=True)
+        return 0
+
+    for row in entries:
+        title = str(row.get("title") or "").strip()
+        if not title:
+            continue
+        year = str(row.get("year") or "").strip()
+        slug_hint = str(row.get("slug") or "").strip()
+        slug = slug_hint or slugify(title)
+        out = DATA_REC / f"{slug}.json"
+        if out.exists():
+            print(f"SKIP exists: {out.name}", flush=True)
+            continue
+        print(f"QUEUE: next up — {title} ({year}) -> {slug}", flush=True)
+        return run_generate(title, slug, args.dry_run)
+
+    print("QUEUE: nothing to generate (all listed titles already have JSON).", flush=True)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
