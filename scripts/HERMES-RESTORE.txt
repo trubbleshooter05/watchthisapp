@@ -55,8 +55,13 @@ another UID). Then chmod/xattr/rm fail and setuptools cannot update
 
    (Omit YES=1 to get a confirmation prompt.)
 
-Manual one-liner equivalent of (2):
+If `mv` says Permission denied (Time Machine + immutable flags), clear flags
+and delete the folder, then install:
 
   sudo chown -R "$(whoami):$(id -gn)" ~/.hermes
-  mv ~/.hermes/hermes-agent ~/.hermes/hermes-agent.broken-$(date +%Y%m%d)
+  sudo chmod u+rwx ~/.hermes
+  sudo chflags -R nouchg,noschg ~/.hermes/hermes-agent
+  sudo rm -rf ~/.hermes/hermes-agent
   curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+
+The reinstall script does the same (tries `mv` first, then `sudo rm -rf`).
