@@ -1,17 +1,32 @@
 Hermes restore — one command
 =============================
 
-If `./scripts/restore-hermes-from-timemachine.sh` is missing, sync the repo first:
+Get the script onto this Mac (pick one):
 
-  cd ~/projects/watchthisapp && git pull origin main
+  A) Git (needs GitHub SSH or HTTPS auth):
+
+       cd ~/projects/watchthisapp && git pull origin main
+
+  B) No git / “Permission denied (publickey)” — download the file over HTTPS:
+
+       mkdir -p ~/projects/watchthisapp/scripts
+       curl -fsSL -o ~/projects/watchthisapp/scripts/restore-hermes-from-timemachine.sh \
+         "https://raw.githubusercontent.com/trubbleshooter05/watchthisapp/main/scripts/restore-hermes-from-timemachine.sh"
+       chmod +x ~/projects/watchthisapp/scripts/restore-hermes-from-timemachine.sh
 
 Mount your Time Machine volume, then:
 
+  cd ~/projects/watchthisapp
   ./scripts/restore-hermes-from-timemachine.sh
 
-Defaults (edit the script if your snapshot path changes) are inside
-`scripts/restore-hermes-from-timemachine.sh`.
+Defaults (snapshot path, user `openclaw`) are inside the script; edit the file if
+your backup lives elsewhere.
 
-Restore and push `~/.hermes` to the Mac mini in one go:
+Restore and push `~/.hermes` to the Mac mini in the same run (optional):
 
   MINI_HOST=openclaw@your-mini.local ./scripts/restore-hermes-from-timemachine.sh
+
+Fix GitHub SSH later (optional): add this Mac’s `~/.ssh/id_ed25519.pub` to
+GitHub → Settings → SSH keys, or switch the remote to HTTPS:
+
+  git remote set-url origin https://github.com/trubbleshooter05/watchthisapp.git
