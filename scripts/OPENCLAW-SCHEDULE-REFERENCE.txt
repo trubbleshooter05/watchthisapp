@@ -47,4 +47,14 @@ Movieslike CLIs from this repo:
 Full Hermes schedule: only runs on a machine where `hermes status` is healthy;
 test each job once manually or by temporarily setting cron to the next minute.
 
+SMB copy (no git pull) when both volumes are mounted on one Mac
+----------------------------------------------------------------
+  /Volumes/ladmin/watchthisapp
+    -> /Volumes/Macintosh HD-1/Users/openclaw/projects/watchthisapp
+
+  zsh /path/to/watchthisapp/scripts/sync-watchthisapp-smb.sh
+
+Reverse direction:  SMB_REVERSE=1 zsh scripts/sync-watchthisapp-smb.sh
+Exact mirror (deletes extra files on dest):  SYNC_DELETE=1 zsh ...
+
 See also: scripts/HERMES-SETUP.txt
