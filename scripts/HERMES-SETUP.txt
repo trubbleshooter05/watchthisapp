@@ -18,6 +18,10 @@ Clone or keep the repo on the Hermes laptop only, e.g.:
 
   ~/projects/watchthisapp
 
+The path must really be under *your* macOS user (e.g. /Users/openclaw/...).
+Do not point ~/projects/watchthisapp at another user’s home via symlink or SMB
+(e.g. /Users/gp/...) — `cron:gsc` will fail with `mkdir: /Users/gp: Permission denied`.
+
 Hermes skills and cron should use this path when running shell commands.
 
 2) Secrets (GSC + TMDB)

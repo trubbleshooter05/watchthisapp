@@ -3,7 +3,23 @@ set -euo pipefail
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:${PATH:-}"
 
-REPO_DIR="${REPO_DIR:-/Users/gp/projects/watchthisapp}"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Prefer git's root so we always match the real repo (also works if scripts/ is symlinked).
+REPO_DIR="${REPO_DIR:-$(git -C "${SCRIPT_DIR}/.." rev-parse --show-toplevel 2>/dev/null || echo "")}"
+if [[ -z "${REPO_DIR}" ]]; then
+  REPO_DIR="$(cd "${SCRIPT_DIR}/.." && pwd -P)"
+fi
+
+USER_HOME="$(cd ~ && pwd -P)"
+if [[ "${REPO_DIR}" != "${USER_HOME}"/* ]]; then
+  echo "ERROR: watchthisapp must live under your home directory, not:" >&2
+  echo "  ${REPO_DIR}" >&2
+  echo "A symlink or SMB path to another macOS user (e.g. /Users/gp/...) causes mkdir/git to fail." >&2
+  echo "Fix: clone into your own home, e.g." >&2
+  echo "  cd ~ && mkdir -p projects && git clone https://github.com/trubbleshooter05/watchthisapp.git projects/watchthisapp" >&2
+  exit 1
+fi
+
 PYTHON_BIN="${PYTHON_BIN:-python3}"
 GSC_DAYS="${GSC_DAYS:-28}"
 GSC_ROW_LIMIT="${GSC_ROW_LIMIT:-1000}"
@@ -40,7 +56,7 @@ if [[ -n "$(git status --porcelain)" ]]; then
   exit 1
 fi
 
-git pull --rebase origin main
+git pull --no-rebase origin main
 
 PYTHON_BIN="${PYTHON_BIN}" node scripts/gsc-movieslike-sync.mjs \
   --days "${GSC_DAYS}" \

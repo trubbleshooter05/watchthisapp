@@ -2,7 +2,16 @@
 set -euo pipefail
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:${PATH:-}"
 
-REPO_DIR="${REPO_DIR:-/Users/ladmin/watchthisapp}"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+REPO_DIR="${REPO_DIR:-$(git -C "${SCRIPT_DIR}/.." rev-parse --show-toplevel 2>/dev/null || echo "")}"
+if [[ -z "${REPO_DIR}" ]]; then
+  REPO_DIR="$(cd "${SCRIPT_DIR}/.." && pwd -P)"
+fi
+USER_HOME="$(cd ~ && pwd -P)"
+if [[ "${REPO_DIR}" != "${USER_HOME}"/* ]]; then
+  echo "ERROR: watchthisapp must live under ${USER_HOME}, not ${REPO_DIR}" >&2
+  exit 1
+fi
 MODE="${1:-daily}"
 
 DISCOVER_LIMIT="${DISCOVER_LIMIT:-150}"
@@ -39,7 +48,7 @@ if [[ -n "$(git status --porcelain)" ]]; then
   exit 1
 fi
 
-git pull --rebase origin main
+git pull --no-rebase origin main
 
 run_daily() {
   npm run data:discover -- --limit "${DISCOVER_LIMIT}" --min-votes "${DISCOVER_MIN_VOTES}" --min-rating "${DISCOVER_MIN_RATING}" --min-pop "${DISCOVER_MIN_POP}"
