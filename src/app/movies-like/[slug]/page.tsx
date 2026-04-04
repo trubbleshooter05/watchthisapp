@@ -30,13 +30,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       ? "Movies Like The Chorus: 10 Moving Dramas About Music"
       : slug === "get-out"
         ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
-        : getSeoTitle(t);
+        : slug === "white-chicks"
+          ? "Movies Like White Chicks: 10 Wild Comedies That Go All In"
+          : getSeoTitle(t);
   const description =
     slug === "the-chorus"
       ? "Loved The Chorus? 10 moving dramas about music, mentorship, and redemption—with match scores and where to stream."
       : slug === "get-out"
         ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
-        : getSeoDescription(t);
+        : slug === "white-chicks"
+          ? "Loved White Chicks? 10 outrageous comedies with the same chaotic energy, quotable moments, and ridiculous commitment—plus match scores and where to watch."
+          : getSeoDescription(t);
   const baseUrl = getSiteUrl();
   return {
     title,
