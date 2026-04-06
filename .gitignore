@@ -25,6 +25,7 @@ scripts/audit-quality-report.json
 # misc
 .DS_Store
 *.pem
+gsc-service-account.json
 
 # debug
 npm-debug.log*
