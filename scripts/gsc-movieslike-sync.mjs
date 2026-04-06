@@ -78,6 +78,97 @@ function normalizeLooseKey(title) {
   return normalizeTitle(title).replace(/\s+/g, "");
 }
 
+function stripLeadingArticles(s) {
+  return normalizeTitle(s).replace(/^(the|a|an)\s+/i, "").trim();
+}
+
+/** Loose key for comparison after dropping leading articles (aligns query extract with TMDB title). */
+function coreLooseKey(title) {
+  return normalizeLooseKey(stripLeadingArticles(title));
+}
+
+/**
+ * @param {string} query — full GSC query string
+ * @param {string} resolvedTitle — best TMDB title (or extracted title when TMDB unavailable)
+ */
+function isValidQuery(query, resolvedTitle) {
+  const q = query.trim();
+  if (q.length < 3) return false;
+
+  const extracted = extractMovieTitle(q);
+  if (!extracted || extracted.length < 3) return false;
+
+  const generic = new Set(["this", "that", "movie", "film"]);
+  const tokens = normalizeTitle(extracted)
+    .split(" ")
+    .filter(Boolean);
+  if (tokens.length === 0) return false;
+  if (tokens.length === 1 && generic.has(tokens[0])) return false;
+  if (tokens.every((t) => generic.has(t))) return false;
+
+  const resolved = resolvedTitle != null ? String(resolvedTitle) : "";
+  if (coreLooseKey(extracted) !== coreLooseKey(resolved)) return false;
+
+  return true;
+}
+
+function pickBestTmdbMatch(results, wantedTitle) {
+  if (!results?.length) return null;
+
+  const mainstream = results.filter((m) => Number(m.vote_count || 0) >= 150);
+  const pool = mainstream.length ? mainstream : results;
+
+  function score(m) {
+    const raw = String(m.title || m.original_title || "");
+    const title = normalizeTitle(raw);
+    const titleLoose = normalizeLooseKey(raw);
+    const wanted = normalizeTitle(wantedTitle);
+    const wantedLoose = normalizeLooseKey(wantedTitle);
+    const pop = Number(m.popularity || 0);
+    const votes = Number(m.vote_count || 0);
+    const rating = Number(m.vote_average || 0);
+
+    let exact = title === wanted ? 2 : 0;
+    let exactLoose = titleLoose === wantedLoose ? 1.5 : 0;
+    let starts =
+      wanted && (title.startsWith(wanted) || wanted.startsWith(title)) ? 1 : 0;
+    let overlap = 0;
+    if (wanted && title) {
+      const w = new Set(wanted.split(" "));
+      const t = new Set(title.split(" "));
+      overlap = w.size ? [...w].filter((x) => t.has(x)).length / w.size : 0;
+    }
+
+    return [exact + exactLoose + starts + overlap, votes * 0.01 + pop, rating];
+  }
+
+  return pool.reduce((best, m) => {
+    const sb = score(best);
+    const sm = score(m);
+    if (sm[0] > sb[0]) return m;
+    if (sm[0] < sb[0]) return best;
+    if (sm[1] > sb[1]) return m;
+    if (sm[1] < sb[1]) return best;
+    return sm[2] > sb[2] ? m : best;
+  });
+}
+
+async function tmdbSearchBestTitle(extractedTitle) {
+  const key = (process.env.TMDB_API_KEY || loadDotEnvVar("TMDB_API_KEY") || "").trim();
+  if (!key) return null;
+
+  const url =
+    "https://api.themoviedb.org/3/search/movie" +
+    `?api_key=${encodeURIComponent(key)}&query=${encodeURIComponent(extractedTitle)}&include_adult=false`;
+  const res = await fetch(url);
+  if (!res.ok) return null;
+  const data = await res.json();
+  const best = pickBestTmdbMatch(data.results || [], extractedTitle);
+  if (!best?.id) return null;
+  const title = String(best.title || best.original_title || extractedTitle);
+  return { id: best.id, title };
+}
+
 function canonicalizeExtractedTitle(rawTitle) {
   const key = normalizeLooseKey(rawTitle);
   const aliases = new Map([
@@ -346,7 +437,16 @@ async function main() {
     return;
   }
 
-  const targets = missing.slice(0, MAX_NEW);
+  const hasTmdbKey = Boolean((process.env.TMDB_API_KEY || loadDotEnvVar("TMDB_API_KEY") || "").trim());
+  const targets = [];
+  for (const item of missing) {
+    if (targets.length >= MAX_NEW) break;
+    const best = await tmdbSearchBestTitle(item.title);
+    const resolvedTitle = best?.title ?? item.title;
+    if (hasTmdbKey && !best) continue;
+    if (!isValidQuery(item.query, resolvedTitle)) continue;
+    targets.push(item);
+  }
   console.log(`Planned generation count: ${targets.length} (max-new=${MAX_NEW})`);
 
   for (const item of targets) {
