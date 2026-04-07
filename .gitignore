@@ -25,6 +25,7 @@ scripts/audit-quality-report.json
 # misc
 .DS_Store
 *.pem
+# GSC sync: Google service account JSON — must never be committed
 gsc-service-account.json
 
 # debug

@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Google Search Console (GSC) sync
+
+Scripts such as `npm run data:gsc:sync` call the Search Console API using a Google **service account JSON** key.
+
+- **Do not commit** that file. It is listed in `.gitignore` as `gsc-service-account.json`; keep it out of the repo and any shared branches.
+- **Preferred setup:** point `GSC_SERVICE_ACCOUNT_FILE` at the JSON file’s absolute path (copy `.env.example` to `.env.local` and set variables there). The sync script also honors `GSC_CREDENTIALS_FILE` as an alias.
+- **Repo-root fallback:** if no `--credentials` flag and no env path is set, the script looks for `gsc-service-account.json` at the **repository root**. That behavior is only for **local development** on your machine; do not rely on it in CI, production, or team workflows.
+
 ## Getting Started
 
 First, run the development server:
