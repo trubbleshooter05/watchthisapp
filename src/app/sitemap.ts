@@ -6,6 +6,7 @@ import {
   getLatestRecommendationBundleMtime,
   getRecommendationJsonMtime,
 } from "@/lib/recommendations";
+import { getAllBlogSlugs } from "@/lib/blog-utils";
 import { getSiteUrl } from "@/lib/site-url";
 
 function appFileMtime(relativePath: string): Date {
@@ -23,6 +24,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: dataFresh, changeFrequency: "daily", priority: 1 },
     { url: `${baseUrl}/browse`, lastModified: dataFresh, changeFrequency: "weekly", priority: 0.9 },
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: appFileMtime("src/app/blog/page.tsx"),
+      changeFrequency: "weekly",
+      priority: 0.85,
+    },
     {
       url: `${baseUrl}/popular`,
       lastModified: appFileMtime("src/app/popular/page.tsx"),
@@ -68,5 +75,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.95,
   }));
 
-  return [...staticRoutes, ...movies];
+  const essays = getAllBlogSlugs().map((slug) => ({
+    url: `${baseUrl}/blog/${slug}`,
+    lastModified: appFileMtime(`src/content/blog/${slug}.mdx`),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  return [...staticRoutes, ...movies, ...essays];
 }

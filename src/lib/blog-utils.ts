@@ -49,7 +49,7 @@ function parseFrontmatter(fileContent: string): { data: Record<string, unknown>;
 
     const match = trimmed.match(/^([^:]+):\s*(.*)$/);
     if (match) {
-      let key = match[1].trim();
+      const key = match[1].trim();
       let value = match[2].trim();
 
       // Remove quotes if present
