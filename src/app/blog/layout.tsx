@@ -3,52 +3,7 @@ import type { ReactNode } from "react";
 export default function BlogLayout({ children }: { children: ReactNode }) {
   return (
     <div className="min-h-screen bg-charcoal text-white">
-      <main className="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-20">
-        <style jsx>{`
-          main :global(h1) {
-            @apply mb-6 text-5xl font-bold tracking-tight text-white mt-8;
-            font-family: var(--font-display);
-          }
-          main :global(h2) {
-            @apply mb-4 text-3xl font-bold tracking-tight text-white mt-8;
-            font-family: var(--font-display);
-          }
-          main :global(h3) {
-            @apply mb-3 text-2xl font-semibold text-gray-100 mt-6;
-            font-family: var(--font-display);
-          }
-          main :global(p) {
-            @apply mb-4 text-base leading-relaxed text-gray-300;
-            line-height: 1.75;
-          }
-          main :global(a) {
-            @apply text-amber-500 hover:text-amber-400 transition-colors underline;
-          }
-          main :global(strong) {
-            @apply font-semibold text-white;
-          }
-          main :global(em) {
-            @apply italic text-gray-200;
-          }
-          main :global(ul) {
-            @apply mb-4 ml-6 space-y-2;
-          }
-          main :global(ol) {
-            @apply mb-4 ml-6 space-y-2 list-decimal;
-          }
-          main :global(li) {
-            @apply text-gray-300;
-          }
-          main :global(blockquote) {
-            @apply mb-4 border-l-4 border-amber-500 pl-4 py-2 text-gray-300 italic;
-          }
-          main :global(code) {
-            @apply bg-gray-900 text-amber-200 px-2 py-1 rounded font-mono text-sm;
-          }
-          main :global(pre) {
-            @apply mb-4 bg-gray-900 text-gray-200 p-4 rounded-lg overflow-x-auto;
-          }
-        `}</style>
+      <main className="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-20 [&_h1]:text-5xl [&_h1]:font-bold [&_h1]:font-display [&_h1]:tracking-tight [&_h1]:mb-6 [&_h1]:mt-8 [&_h2]:text-3xl [&_h2]:font-bold [&_h2]:font-display [&_h2]:tracking-tight [&_h2]:mb-4 [&_h2]:mt-8 [&_h3]:text-2xl [&_h3]:font-semibold [&_h3]:text-gray-100 [&_h3]:font-display [&_h3]:mb-3 [&_h3]:mt-6 [&_p]:text-base [&_p]:leading-relaxed [&_p]:text-gray-300 [&_p]:mb-4 [&_a]:text-amber-500 [&_a:hover]:text-amber-400 [&_strong]:font-semibold [&_strong]:text-white [&_em]:italic [&_em]:text-gray-200 [&_ul]:mb-4 [&_ul]:ml-6 [&_ul]:space-y-2 [&_ol]:mb-4 [&_ol]:ml-6 [&_ol]:list-decimal [&_li]:text-gray-300 [&_blockquote]:border-l-4 [&_blockquote]:border-amber-500 [&_blockquote]:pl-4 [&_blockquote]:py-2 [&_blockquote]:text-gray-300 [&_blockquote]:italic [&_blockquote]:mb-4 [&_code]:bg-gray-900 [&_code]:text-amber-200 [&_code]:px-2 [&_code]:py-1 [&_code]:rounded [&_code]:font-mono [&_code]:text-sm [&_pre]:bg-gray-900 [&_pre]:text-gray-200 [&_pre]:p-4 [&_pre]:rounded-lg [&_pre]:overflow-x-auto [&_pre]:mb-4">
         {children}
       </main>
     </div>
