@@ -4,6 +4,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import type { EnrichedRecommendation } from "@/lib/enrich-page";
+
+export type EnrichedRecommendationWithSeo = EnrichedRecommendation & { seoParagraph: string };
 import type { Mood } from "@/lib/types/recommendation";
 import { MatchBadge } from "@/components/MatchBadge";
 
@@ -35,7 +37,7 @@ function providerLogoUrl(logoPath: string | null): string | null {
   return `https://image.tmdb.org/t/p/w45${logoPath}`;
 }
 
-export function RecommendationList({ items }: { items: EnrichedRecommendation[] }) {
+export function RecommendationList({ items }: { items: EnrichedRecommendationWithSeo[] }) {
   const [mood, setMood] = useState<Mood | "all">("all");
   const [stream, setStream] = useState<StreamFilter>("all");
   const [era, setEra] = useState<EraFilter>("all");
@@ -143,9 +145,9 @@ export function RecommendationList({ items }: { items: EnrichedRecommendation[] 
                 </div>
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-wide text-amber-500/90 mb-1">
-                    Why you&apos;ll love it
+                    Why it fits
                   </p>
-                  <p className="text-[#D1D5DB] leading-relaxed">{rec.whyYoullLoveIt}</p>
+                  <p className="text-[#D1D5DB] leading-relaxed">{rec.seoParagraph}</p>
                 </div>
                 {rec.providers.length > 0 && (
                   <div>

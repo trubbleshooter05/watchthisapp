@@ -4,6 +4,7 @@ const TMDB_IMAGE = "https://image.tmdb.org/t/p";
 export type TmdbMovieDetails = {
   id: number;
   title: string;
+  overview?: string;
   release_date: string;
   runtime: number | null;
   vote_average: number;

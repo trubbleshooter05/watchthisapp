@@ -7,11 +7,18 @@ import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
 import { posterPlaceholderHint } from "@/lib/tmdb";
 import {
-  filterExistingRelatedSlugs,
   getRecommendationBundle,
   getSeoDescription,
   getSeoTitle,
 } from "@/lib/recommendations";
+import {
+  buildMoviesLikeIntro,
+  buildRecommendationSeoParagraph,
+  buildSchemaFaqItems,
+  buildWhyYoullLoveTheseMovies,
+  CANONICAL_ALSO_LIKE_SLUGS,
+  mergeFaqForPage,
+} from "@/lib/movies-like-seo";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
 import { getSiteUrl } from "@/lib/site-url";
 
@@ -25,30 +32,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const bundle = getRecommendationBundle(slug);
   if (!bundle) return {};
   const t = bundle.sourceMovie.title;
-  const title =
-    slug === "the-chorus"
-      ? "Movies Like The Chorus: 10 Moving Dramas About Music"
-      : slug === "get-out"
-        ? "Movies Like Get Out: 10 Creepy Thrillers That Stick"
-        : slug === "white-chicks"
-          ? "Movies Like White Chicks: 10 Wild Comedies That Go All In"
-          : slug.includes("top-gun-maverick")
-            ? "Movies Like Top Gun: Maverick: 10 Adrenaline-Fueled Thrillers"
-            : getSeoTitle(t);
-  const description =
-    slug === "the-chorus"
-      ? "Loved The Chorus? 10 moving dramas about music, mentorship, and redemption—with match scores and where to stream."
-      : slug === "get-out"
-        ? "Loved Get Out's polite nightmare? 10 films with the same itch—social horror, gaslighting, and slow dread. Match scores + where to stream."
-        : slug === "white-chicks"
-          ? "Loved White Chicks? 10 outrageous comedies with the same chaotic energy, quotable moments, and ridiculous commitment—plus match scores and where to watch."
-          : slug.includes("top-gun-maverick")
-            ? "Loved Top Gun: Maverick? 10 intense action movies with the same speed, pressure, rivalry, and high-stakes adrenaline—plus match scores and where to watch."
-            : getSeoDescription(t);
+  const title = getSeoTitle(t);
+  const description = getSeoDescription(t);
   const baseUrl = getSiteUrl();
   return {
     title,
     description,
+    robots: { index: true, follow: true },
     alternates: { canonical: `/movies-like/${slug}` },
     openGraph: {
       title,
@@ -64,7 +54,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-function jsonLd(bundle: RecommendationBundle, base: string, slug: string) {
+function jsonLd(
+  bundle: RecommendationBundle,
+  base: string,
+  slug: string,
+  faqItems: RecommendationBundle["faq"],
+) {
   const url = `${base}/movies-like/${slug}`;
   const movie = {
     "@type": "Movie",
@@ -85,7 +80,7 @@ function jsonLd(bundle: RecommendationBundle, base: string, slug: string) {
   };
   const faq = {
     "@type": "FAQPage",
-    mainEntity: bundle.faq.map((f) => ({
+    mainEntity: faqItems.map((f) => ({
       "@type": "Question",
       name: f.question,
       acceptedAnswer: { "@type": "Answer", text: f.answer },
@@ -100,9 +95,26 @@ export default async function MovieLikePage({ params }: Props) {
   if (!bundle) notFound();
 
   const { source, recommendations } = await enrichMovieLikePage(bundle);
-  const related = filterExistingRelatedSlugs(bundle.relatedPages);
   const baseUrl = getSiteUrl();
-  const structured = jsonLd(bundle, baseUrl, slug);
+
+  const introHtml = buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug);
+  const whyLoveThese = buildWhyYoullLoveTheseMovies(bundle.sourceMovie, bundle.recommendations);
+  const schemaFaq = buildSchemaFaqItems(
+    bundle.sourceMovie.title,
+    bundle.recommendations.map((r) => r.title),
+  );
+  const mergedFaq = mergeFaqForPage(bundle.faq, schemaFaq);
+
+  const recommendationsWithSeo = recommendations.map((r) => ({
+    ...r,
+    seoParagraph: buildRecommendationSeoParagraph(r, bundle.sourceMovie),
+  }));
+
+  const alsoLikeLinks = CANONICAL_ALSO_LIKE_SLUGS.filter(
+    (s) => s !== slug && getRecommendationBundle(s),
+  );
+
+  const structured = jsonLd(bundle, baseUrl, slug, mergedFaq);
 
   return (
     <>
@@ -115,12 +127,11 @@ export default async function MovieLikePage({ params }: Props) {
       <div className="min-h-screen">
         <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
           <p className="text-amber-500/90 text-sm font-medium mb-2">Movies like</p>
-          <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-balance mb-4">
+          <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-balance mb-6">
             {source.title}
           </h1>
-          <p className="text-lg text-[#9CA3AF] max-w-2xl text-pretty mb-10">
-            Loved the vibe? Here are ten films that hit similar notes—with match scores, reasons to
-            watch, and where to stream in the US.
+          <p className="text-base sm:text-lg text-[#D1D5DB] max-w-3xl text-pretty leading-relaxed mb-12">
+            {introHtml}
           </p>
 
           <section className="mb-14 grid gap-8 lg:grid-cols-[220px_1fr] items-start">
@@ -141,24 +152,27 @@ export default async function MovieLikePage({ params }: Props) {
               )}
             </div>
             <div className="space-y-4">
-              <h2 className="font-display text-xl font-semibold text-[#FAFAFA]">Why people love it</h2>
-              <p className="text-[#D1D5DB] leading-relaxed">{source.whyPeopleLoveIt}</p>
+              <h2 className="font-display text-xl font-semibold text-[#FAFAFA]">At a glance</h2>
+              <p className="text-sm text-[#9CA3AF] leading-relaxed">
+                {source.genres.join(" · ")}
+                {source.runtimeLabel && (
+                  <>
+                    {" "}
+                    · {source.runtimeLabel}
+                    {source.voteAverage != null && <> · ★ {source.voteAverage.toFixed(1)}</>}
+                  </>
+                )}
+              </p>
               <div className="flex flex-wrap gap-2 pt-2">
                 {source.vibes.map((v) => (
                   <span
                     key={v}
                     className="rounded-full bg-white/5 border border-white/10 px-3 py-1 text-xs text-[#9CA3AF]"
                   >
-                    {v}
+                    {v.replace(/-/g, " ")}
                   </span>
                 ))}
               </div>
-              {source.runtimeLabel && (
-                <p className="text-sm text-[#6B7280]">
-                  Runtime {source.runtimeLabel}
-                  {source.voteAverage != null && <> · ★ {source.voteAverage.toFixed(1)}</>}
-                </p>
-              )}
             </div>
           </section>
 
@@ -169,28 +183,25 @@ export default async function MovieLikePage({ params }: Props) {
               to the site data.
             </p>
           ) : (
-            <RecommendationList items={recommendations} />
+            <RecommendationList items={recommendationsWithSeo} />
           )}
 
-          <section className="mt-16 border-t border-white/10 pt-12">
-            <h2 className="font-display text-xl font-semibold mb-6 flex items-center gap-2">
-              <span aria-hidden>❓</span> FAQ
-            </h2>
-            <dl className="space-y-6">
-              {bundle.faq.map((f) => (
-                <div key={f.question}>
-                  <dt className="font-medium text-[#FAFAFA] mb-1">{f.question}</dt>
-                  <dd className="text-[#9CA3AF] leading-relaxed">{f.answer}</dd>
-                </div>
-              ))}
-            </dl>
-          </section>
-
-          {related.length > 0 && (
+          {bundle.recommendations.length > 0 && (
             <section className="mt-16 border-t border-white/10 pt-12">
-              <h2 className="font-display text-xl font-semibold mb-6">Similar vibes</h2>
+              <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-4">
+                Why You&apos;ll Love These Movies
+              </h2>
+              <p className="text-[#D1D5DB] leading-relaxed max-w-3xl text-pretty">{whyLoveThese}</p>
+            </section>
+          )}
+
+          {alsoLikeLinks.length > 0 && (
+            <section className="mt-16 border-t border-white/10 pt-12">
+              <h2 className="font-display text-xl font-semibold mb-6 text-[#FAFAFA]">
+                You Might Also Like
+              </h2>
               <ul className="flex flex-wrap gap-3">
-                {related.map((s) => {
+                {alsoLikeLinks.map((s) => {
                   const b = getRecommendationBundle(s);
                   const label = b?.sourceMovie.title ?? s;
                   return (
@@ -207,6 +218,20 @@ export default async function MovieLikePage({ params }: Props) {
               </ul>
             </section>
           )}
+
+          <section className="mt-16 border-t border-white/10 pt-12">
+            <h2 className="font-display text-xl font-semibold mb-6 flex items-center gap-2">
+              <span aria-hidden>❓</span> FAQ
+            </h2>
+            <dl className="space-y-6">
+              {mergedFaq.map((f) => (
+                <div key={f.question}>
+                  <dt className="font-medium text-[#FAFAFA] mb-1">{f.question}</dt>
+                  <dd className="text-[#9CA3AF] leading-relaxed">{f.answer}</dd>
+                </div>
+              ))}
+            </dl>
+          </section>
 
           <section className="mt-16 border-t border-white/10 pt-12">
             <h2 className="font-display text-xl font-semibold mb-2">More movie guides</h2>

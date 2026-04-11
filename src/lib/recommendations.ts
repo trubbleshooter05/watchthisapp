@@ -28,7 +28,7 @@ export function getSeoTitle(sourceTitle: string): string {
 }
 
 export function getSeoDescription(sourceTitle: string): string {
-  return `Loved ${sourceTitle}? Here are 10 movies with a similar vibe, match scores, and where to stream them in the US.`;
+  return `Looking for movies like ${sourceTitle}? Here are 10 similar films with the same vibe, themes, and style.`;
 }
 
 export function filterExistingRelatedSlugs(related: string[]): string[] {

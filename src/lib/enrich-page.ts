@@ -19,12 +19,14 @@ export type EnrichedRecommendation = RecommendationEntry & {
   voteAverage: number | null;
   genreNames: string[];
   providers: ProviderChip[];
+  overview: string | null;
 };
 
 export type EnrichedSource = RecommendationBundle["sourceMovie"] & {
   posterUrl: string | null;
   runtimeLabel: string | null;
   voteAverage: number | null;
+  overview: string | null;
 };
 
 /** TMDB occasionally reuses IDs; pin known-good IDs for pages that broke in production. */
@@ -89,6 +91,7 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
     posterUrl: posterUrl(srcDetails?.poster_path ?? null),
     runtimeLabel: formatRuntime(srcDetails?.runtime ?? null),
     voteAverage: srcDetails?.vote_average ?? null,
+    overview: srcDetails?.overview?.trim() ? srcDetails.overview.trim() : null,
   };
 
   const recommendations: EnrichedRecommendation[] = bundle.recommendations.map((rec) => {
@@ -105,6 +108,7 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
       runtimeLabel: formatRuntime(d?.runtime ?? null),
       voteAverage: d?.vote_average ?? null,
       genreNames: d?.genres?.map((g) => g.name) ?? [],
+      overview: d?.overview?.trim() ? d.overview.trim() : null,
       providers,
     };
   });
