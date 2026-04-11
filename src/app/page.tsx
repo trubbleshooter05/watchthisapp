@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
 import { MovieSearch } from "@/components/MovieSearch";
 import { fetchMovieDetails, posterUrl } from "@/lib/tmdb";
 
@@ -95,6 +96,11 @@ export default async function HomePage() {
     .sort((a, b) => a.title.localeCompare(b.title, "en", { sensitivity: "base" }));
   const spotlights = await getGenreSpotlights();
 
+  const priorityGuideLinks = SEO_PRIORITY_MOVIE_SLUGS.flatMap((slug) => {
+    const bundle = getRecommendationBundle(slug);
+    return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+  });
+
   return (
     <main className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
       <div className="max-w-3xl">
@@ -133,7 +139,34 @@ export default async function HomePage() {
             </Link>
           ))}
         </div>
+
+        <p className="mt-6 text-sm text-[#6B7280]">
+          <Link href="/popular" className="text-amber-500/90 hover:text-amber-400 transition-colors">
+            Popular movie guides →
+          </Link>
+        </p>
       </div>
+
+      <section className="mt-16 border-t border-white/10 pt-14">
+        <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
+          <h2 className="font-display text-2xl font-semibold">Popular movie guides</h2>
+          <Link href="/popular" className="text-sm text-amber-500 hover:text-amber-400 transition-colors">
+            View all →
+          </Link>
+        </div>
+        <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {priorityGuideLinks.map(({ slug, title }) => (
+            <li key={slug}>
+              <Link
+                href={`/movies-like/${slug}`}
+                className="block rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors"
+              >
+                Movies like {title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <section className="mt-20">
         <div className="mb-6 flex flex-wrap items-end justify-between gap-3">

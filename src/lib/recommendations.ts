@@ -4,6 +4,18 @@ import type { RecommendationBundle } from "@/lib/types/recommendation";
 
 const DATA_DIR = path.join(process.cwd(), "data", "recommendations");
 
+/** Alternate slugs / search strings → canonical JSON filename. Safe: only maps to existing bundles. */
+export const MOVIE_SLUG_ALIASES: Record<string, string> = {
+  "dune-2": "dune-part-two",
+  "dune-part-2": "dune-part-two",
+  "dune-2-part-two": "dune-part-two",
+  "batman-2022": "the-batman",
+  "the-batman-2022": "the-batman",
+  "avengers-4": "avengers-endgame",
+  "spider-verse": "spider-man-into-the-spider-verse",
+  "into-the-spider-verse": "spider-man-into-the-spider-verse",
+};
+
 export function getAllMovieSlugs(): string[] {
   try {
     return readdirSync(DATA_DIR)

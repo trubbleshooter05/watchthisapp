@@ -8,15 +8,6 @@ const MOOD_COPY: Record<RecommendationEntry["mood"], string> = {
   bittersweet: "a bittersweet, emotionally layered tone",
 };
 
-/** Canonical internal destinations for sitewide “You might also like” links. */
-export const CANONICAL_ALSO_LIKE_SLUGS = [
-  "interstellar",
-  "inception",
-  "shutter-island",
-  "fight-club",
-  "parasite",
-] as const;
-
 function wordCount(text: string): number {
   return text.trim().split(/\s+/).filter(Boolean).length;
 }

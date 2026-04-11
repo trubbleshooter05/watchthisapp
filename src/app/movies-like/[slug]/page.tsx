@@ -16,9 +16,9 @@ import {
   buildRecommendationSeoParagraph,
   buildSchemaFaqItems,
   buildWhyYoullLoveTheseMovies,
-  CANONICAL_ALSO_LIKE_SLUGS,
   mergeFaqForPage,
 } from "@/lib/movies-like-seo";
+import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
 import { getSiteUrl } from "@/lib/site-url";
 
@@ -110,9 +110,7 @@ export default async function MovieLikePage({ params }: Props) {
     seoParagraph: buildRecommendationSeoParagraph(r, bundle.sourceMovie),
   }));
 
-  const alsoLikeLinks = CANONICAL_ALSO_LIKE_SLUGS.filter(
-    (s) => s !== slug && getRecommendationBundle(s),
-  );
+  const alsoLikeLinks = pickAlsoLikeSlugs(slug);
 
   const structured = jsonLd(bundle, baseUrl, slug, mergedFaq);
 

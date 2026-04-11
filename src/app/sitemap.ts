@@ -6,6 +6,7 @@ import {
   getLatestRecommendationBundleMtime,
   getRecommendationJsonMtime,
 } from "@/lib/recommendations";
+import { SEO_PRIORITY_SLUG_SET } from "@/lib/seo-priority-movies";
 import { getAllBlogSlugs } from "@/lib/blog-utils";
 import { getSiteUrl } from "@/lib/site-url";
 
@@ -72,7 +73,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${baseUrl}/movies-like/${slug}`,
     lastModified: getRecommendationJsonMtime(slug),
     changeFrequency: "weekly" as const,
-    priority: 0.95,
+    priority: SEO_PRIORITY_SLUG_SET.has(slug) ? 1 : 0.95,
   }));
 
   const essays = getAllBlogSlugs().map((slug) => ({

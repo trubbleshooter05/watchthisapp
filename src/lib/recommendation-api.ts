@@ -1,4 +1,8 @@
-import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import {
+  getAllMovieSlugs,
+  getRecommendationBundle,
+  MOVIE_SLUG_ALIASES,
+} from "@/lib/recommendations";
 import { SITE_URL_FALLBACK } from "@/lib/site-url";
 
 type RecommendationApiItem = {
@@ -43,6 +47,13 @@ function resolveMovieSlug(input: string): string | null {
 
   const normalized = slugify(clean);
   if (allSlugs.has(normalized)) return normalized;
+
+  const aliasKey = clean.toLowerCase();
+  const aliasFromRaw = MOVIE_SLUG_ALIASES[aliasKey];
+  if (aliasFromRaw && allSlugs.has(aliasFromRaw)) return aliasFromRaw;
+
+  const aliasFromNorm = MOVIE_SLUG_ALIASES[normalized];
+  if (aliasFromNorm && allSlugs.has(aliasFromNorm)) return aliasFromNorm;
 
   return null;
 }

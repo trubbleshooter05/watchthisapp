@@ -1,28 +1,8 @@
 import type { Metadata } from "next";
+import Link from "next/link";
+import { getRecommendationBundle } from "@/lib/recommendations";
+import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
-
-const popularMovieLinks = [
-  "/movies-like/interstellar",
-  "/movies-like/midsommar",
-  "/movies-like/mean-girls",
-  "/movies-like/shutter-island",
-  "/movies-like/the-notebook",
-  "/movies-like/white-chicks",
-  "/movies-like/after",
-  "/movies-like/saltburn",
-  "/movies-like/get-out",
-  "/movies-like/parasite",
-  "/movies-like/gone-girl",
-  "/movies-like/the-dark-knight",
-  "/movies-like/pulp-fiction",
-  "/movies-like/fight-club",
-  "/movies-like/inception",
-  "/movies-like/hereditary",
-  "/movies-like/the-conjuring",
-  "/movies-like/john-wick",
-  "/movies-like/barbie",
-  "/movies-like/oppenheimer",
-] as const;
 
 export const metadata: Metadata = {
   title: "Popular Movie Guides",
@@ -39,13 +19,18 @@ export default function PopularPage() {
         our most important guides.
       </p>
       <ul className="space-y-2">
-        {popularMovieLinks.map((href) => (
-          <li key={href}>
-            <a href={href} className="text-amber-500 hover:underline">
-              {href.replace("/movies-like/", "Movies like ").replace(/-/g, " ")}
-            </a>
-          </li>
-        ))}
+        {SEO_PRIORITY_MOVIE_SLUGS.map((slug) => {
+          const bundle = getRecommendationBundle(slug);
+          const label = bundle?.sourceMovie.title ?? slug.replace(/-/g, " ");
+          const href = `/movies-like/${slug}`;
+          return (
+            <li key={slug}>
+              <Link href={href} className="text-amber-500 hover:underline">
+                Movies like {label}
+              </Link>
+            </li>
+          );
+        })}
       </ul>
     </main>
   );
