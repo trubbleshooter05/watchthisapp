@@ -1,6 +1,7 @@
 import { readFileSync, readdirSync, statSync } from "fs";
 import path from "path";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
+import { generateTitle, generateDescription } from "@/lib/seo/ctr";
 
 const DATA_DIR = path.join(process.cwd(), "data", "recommendations");
 
@@ -36,11 +37,11 @@ export function getRecommendationBundle(slug: string): RecommendationBundle | nu
 }
 
 export function getSeoTitle(sourceTitle: string): string {
-  return `10 Movies Like ${sourceTitle} (If You Loved It)`;
+  return generateTitle(sourceTitle);
 }
 
 export function getSeoDescription(sourceTitle: string): string {
-  return `Looking for movies like ${sourceTitle}? Here are 10 similar films with the same vibe, themes, and style.`;
+  return generateDescription(sourceTitle);
 }
 
 export function filterExistingRelatedSlugs(related: string[]): string[] {

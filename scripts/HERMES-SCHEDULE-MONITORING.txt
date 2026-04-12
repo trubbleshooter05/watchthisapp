@@ -1,0 +1,154 @@
+Forge Monitoring — Extended Schedule
+====================================
+
+Updated Hermes cron jobs for movieslike (includes new monitoring layer).
+See OPENCLAW-SCHEDULE-REFERENCE.txt for other non-movieslike jobs.
+
+ADDED JOBS (Forge Monitoring)
+-----------------------------
+These jobs monitor site health and sitemap consistency after each Forge generation run.
+All checks are READ-ONLY (no git, no API writes, no GSC submissions).
+
+New Cron Patterns:
+  0 7  * * *    Forge Morning          movieslike → npm run data:forge
+  10 7 * * *    Forge Monitor (AM)     movieslike → zsh scripts/cron-forge-monitor.sh
+
+  0 13 * * *    Forge Afternoon        movieslike → npm run data:forge
+  10 13 * * *   Forge Monitor (PM)     movieslike → zsh scripts/cron-forge-monitor.sh
+
+  0 19 * * *    Forge Evening          movieslike → npm run data:forge
+  10 19 * * *   Forge Monitor (Evening) movieslike → zsh scripts/cron-forge-monitor.sh
+
+  0 9 * * 1     Forge Weekly Report    movieslike → zsh scripts/cron-forge-weekly-report.sh
+
+INTEGRATION RULES
+-----------------
+✓ DO NOT modify Forge generation logic (scripts/forge_pagegen.py)
+✓ DO NOT modify Vega GSC job (npm run cron:gsc)
+✓ DO NOT add GSC submission automation
+✓ Monitoring is thin layer only — read-only health checks
+✓ Schedule 10-minute gap to avoid Forge + monitor race conditions
+
+MONITORING JOB: forge-monitor.py
+--------------------------------
+Location: scripts/forge-monitor.py
+Wrapper:  scripts/cron-forge-monitor.sh
+
+Checks (every run):
+  1. Health checks (HTTP 200):
+     - https://www.movieslike.app/
+     - https://www.movieslike.app/popular
+     - https://www.movieslike.app/sitemap.xml
+     - https://www.movieslike.app/robots.txt
+
+  2. Sample movie pages (5 random from data/recommendations):
+     - Confirms /movies-like/{slug} returns 200
+     - Logs failures if any page is inaccessible
+
+  3. Sitemap validation:
+     - Fetches https://www.movieslike.app/sitemap.xml
+     - Validates XML structure
+     - Counts total URLs
+
+  4. Consistency check:
+     - Compares all data/recommendations/*.json against sitemap
+     - Warns if any movie page is missing from sitemap
+     - Logs missing pages immediately (no batch threshold)
+
+Logging: logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+Exit:    0 (all checks passed), 1 (failures detected)
+
+WEEKLY REPORT: forge-weekly-report.py
+-------------------------------------
+Location: scripts/forge-weekly-report.py
+Wrapper:  scripts/cron-forge-weekly-report.sh
+Schedule: Monday 09:00 (0 9 * * 1)
+
+Reads past 7 days of forge-monitor-*.log files and generates summary:
+  - Total monitor runs
+  - Pass/fail counts + success rate
+  - List of failures and errors
+  - Sitemap inconsistencies
+  - Action items for fixes
+
+Output: logs/forge-weekly-report-YYYY-WW.md
+
+LOG RETENTION
+-------------
+Keep 30 days of logs (manual cleanup via:
+  find logs -name "forge-monitor-*.log" -mtime +30 -delete
+  find logs -name "forge-weekly-report-*.md" -mtime +30 -delete
+)
+
+Or set up a separate housekeeping cron job for cleanup.
+
+HOW TO ADD JOBS TO HERMES
+-------------------------
+1. List current jobs:
+     hermes cron list
+
+2. Delete existing duplicate monitoring jobs (if any):
+     hermes cron delete <job-id>
+
+3. Add three new monitor jobs:
+     hermes cron add \
+       --name "Forge Monitor (AM)" \
+       --schedule "10 7 * * *" \
+       --command 'cd $HOME/projects/watchthisapp && zsh scripts/cron-forge-monitor.sh'
+
+     hermes cron add \
+       --name "Forge Monitor (PM)" \
+       --schedule "10 13 * * *" \
+       --command 'cd $HOME/projects/watchthisapp && zsh scripts/cron-forge-monitor.sh'
+
+     hermes cron add \
+       --name "Forge Monitor (Evening)" \
+       --schedule "10 19 * * *" \
+       --command 'cd $HOME/projects/watchthisapp && zsh scripts/cron-forge-monitor.sh'
+
+4. Add weekly report job:
+     hermes cron add \
+       --name "Forge Weekly Report" \
+       --schedule "0 9 * * 1" \
+       --command 'cd $HOME/projects/watchthisapp && zsh scripts/cron-forge-weekly-report.sh'
+
+5. Verify jobs:
+     hermes cron list
+     hermes status
+
+MANUAL TESTING
+--------------
+Test monitor script (read-only, safe):
+  cd ~/projects/watchthisapp
+  python3 scripts/forge-monitor.py
+
+Test weekly report (read-only, safe):
+  python3 scripts/forge-weekly-report.py
+
+Dry-run (no HTTP requests):
+  python3 scripts/forge-monitor.py --dry-run
+
+TROUBLESHOOTING
+---------------
+Monitor job not running?
+  1. Check gateway: hermes status (must be healthy)
+  2. Check cron entry: hermes cron list
+  3. Check recent logs: ls -lart logs/forge-monitor-*.log
+  4. Manual test: zsh scripts/cron-forge-monitor.sh
+
+Monitor logs show warnings/errors?
+  1. Check logs: less logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+  2. Weekly report: cat logs/forge-weekly-report-YYYY-WW.md
+  3. Common issues:
+     - Network timeout → check site accessibility
+     - Missing sitemap URLs → check Forge generation logs
+     - HTTP errors → check site deployment
+
+Monitor script timing (takes 10+ seconds):
+  - First run: slower due to Hermes init
+  - Subsequent runs: ~5-10s for all checks
+  - Sitemap download dominates (depends on file size)
+
+---
+See HERMES-SETUP.txt for general Hermes configuration.
+See OPENCLAW-SCHEDULE-REFERENCE.txt for full system schedule.

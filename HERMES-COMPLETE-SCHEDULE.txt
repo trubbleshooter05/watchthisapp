@@ -1,0 +1,244 @@
+================================================================================
+                    OPENCLAW'S COMPLETE HERMES SCHEDULE
+                           Updated 2026-04-11
+================================================================================
+
+TIME        JOB NAME                    SCHEDULE      STATUS    NEXT RUN
+────────────────────────────────────────────────────────────────────────────
+
+6:00 AM     Vega GSC Daily              0 6 * * *     ✓ Active  2026-04-12
+6:00 AM     Vega Weekly                 0 6 * * 0     ✓ Active  2026-04-12
+
+7:00 AM     Forge Morning               0 7 * * *     ✓ Active  2026-04-12
+7:10 AM     ★ Forge Monitor (AM)        10 7 * * *    ✓ Active  2026-04-12  [NEW]
+
+8:00 AM     Job Hunt Morning            0 8 * * *     ✓ Active  2026-04-12
+8:00 AM     CardSnap Script             0 8 * * 1     ✓ Active  2026-04-13
+
+9:00 AM     FursBliss Campaign          0 9 * * *     ✓ Active  2026-04-12
+9:00 AM     ★ Forge Weekly Report       0 9 * * 1     ✓ Active  2026-04-14  [NEW]
+9:30 AM     FursBliss DALL-E            30 9 * * *    ✓ Active  2026-04-12
+
+10:00 AM    FursBliss Social            0 10 * * *    ✓ Active  2026-04-12
+10:00 AM    Link Daily                  0 10 * * *    ✓ Active  2026-04-12
+
+1:00 PM     Forge Afternoon             0 13 * * *    ✓ Active  2026-04-11
+1:10 PM     ★ Forge Monitor (PM)        10 13 * * *   ✓ Active  2026-04-11  [NEW]
+1:00 PM     Job Hunt Afternoon          0 13 * * *    ✓ Active  2026-04-11
+
+6:00 PM     Job Hunt Evening            0 18 * * *    ✓ Active  2026-04-11
+
+7:00 PM     Forge Evening               0 19 * * *    ✓ Active  2026-04-11
+7:10 PM     ★ Forge Monitor (Evening)   10 19 * * *   ✓ Active  2026-04-11  [NEW]
+
+SEO Batch   seo_batch                   ?             ✓ Active  Unknown
+
+================================================================================
+                            SUMMARY BY CATEGORY
+================================================================================
+
+MOVIESLIKE (10 jobs) — Page generation + Monitoring + GSC + Links
+  • Vega GSC Daily          — Search Console sync (6:00 AM daily)
+  • Vega Weekly             — Weekly GSC audit (6:00 AM Sunday)
+  • Forge Morning           — Page generation (7:00 AM daily)
+  • Forge Monitor (AM)      — Health checks (7:10 AM daily) ★ NEW
+  • Forge Afternoon         — Page generation (1:00 PM daily)
+  • Forge Monitor (PM)      — Health checks (1:10 PM daily) ★ NEW
+  • Forge Evening           — Page generation (7:00 PM daily)
+  • Forge Monitor (Evening) — Health checks (7:10 PM daily) ★ NEW
+  • Link Daily              — Affiliate links (10:00 AM daily)
+  • Weekly Report           — Monitoring summary (9:00 AM Monday) ★ NEW
+
+JOB HUNT (3 jobs) — Job hunting automation
+  • Job Hunt Morning        — 8:00 AM daily
+  • Job Hunt Afternoon      — 1:00 PM daily
+  • Job Hunt Evening        — 6:00 PM daily
+
+FURSBLISS (3 jobs) — Campaign automation + DALL-E + social
+  • FursBliss Campaign      — 9:00 AM daily
+  • FursBliss DALL-E        — 9:30 AM daily (image generation)
+  • FursBliss Social        — 10:00 AM daily
+
+OTHER (2 jobs)
+  • CardSnap Script         — 8:00 AM Monday
+  • seo_batch               — Schedule unknown
+
+================================================================================
+                         MONITORING JOBS DETAILS ★ NEW
+================================================================================
+
+Job: Forge Monitor (AM)
+  Schedule:  7:10 AM daily (10 min after Forge Morning)
+  Command:   cd ~/projects/watchthisapp && python3 scripts/forge-monitor.py
+  Purpose:   Verify site health + sitemap after 7:00 AM Forge job
+  Checks:
+    • Health: HTTP 200 for homepage, /popular, /sitemap.xml, /robots.txt
+    • Pages: 5 random movie pages return HTTP 200
+    • Sitemap: Valid XML structure, URL count
+    • Consistency: All movie data files in sitemap (warns if missing)
+  Output:    logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+  Exit:      0 (pass) or 1 (failures)
+
+Job: Forge Monitor (PM)
+  Schedule:  1:10 PM daily (10 min after Forge Afternoon)
+  Command:   cd ~/projects/watchthisapp && python3 scripts/forge-monitor.py
+  Purpose:   Verify site health + sitemap after 1:00 PM Forge job
+  Checks:    (same as AM monitor)
+  Output:    logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+  Exit:      0 (pass) or 1 (failures)
+
+Job: Forge Monitor (Evening)
+  Schedule:  7:10 PM daily (10 min after Forge Evening)
+  Command:   cd ~/projects/watchthisapp && python3 scripts/forge-monitor.py
+  Purpose:   Verify site health + sitemap after 7:00 PM Forge job
+  Checks:    (same as AM monitor)
+  Output:    logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+  Exit:      0 (pass) or 1 (failures)
+
+Job: Forge Weekly Report
+  Schedule:  9:00 AM Monday (0 9 * * 1)
+  Command:   cd ~/projects/watchthisapp && python3 scripts/forge-weekly-report.py
+  Purpose:   Summarize past 7 days of monitoring activity
+  Analyzes:
+    • Pass/fail counts + success rate
+    • List of all failures and errors
+    • Warnings (missing pages, sitemap issues)
+    • Action items for fixes
+  Output:    logs/forge-weekly-report-YYYY-WW.md
+  Exit:      0 (always succeeds if no I/O errors)
+
+================================================================================
+                           KEY STATISTICS
+================================================================================
+
+Total Jobs:           15 active jobs (16 total)
+Movieslike Jobs:      10 jobs
+  • 3 Forge generation (AM/PM/Evening)
+  • 3 Forge monitors (AM/PM/Evening) ★ NEW
+  • 2 Vega GSC (daily + weekly)
+  • 1 Link Daily
+  • 1 Weekly Report ★ NEW
+
+Job Hunt Jobs:        3 jobs (morning/afternoon/evening)
+FursBliss Jobs:       3 jobs (campaign/dalle/social)
+Other Jobs:           2 jobs (cardsnap/seo_batch)
+
+Daily Monitor Runs:   3 (7:10 AM / 1:10 PM / 7:10 PM)
+Weekly Reports:       1 (Monday 9:00 AM)
+
+New Monitoring Jobs:  4 ★
+  • 3 daily health checks (spaced 10 min after each Forge job)
+  • 1 weekly summary (every Monday)
+
+Total Runs/Day:       ~14-15 jobs (varies by day)
+Delivery Method:      Telegram (all jobs)
+Gateway Status:       ✓ Loaded and healthy
+Next Gateway Check:   hermes status
+
+================================================================================
+                         DEPLOYMENT TIMELINE
+================================================================================
+
+IMMEDIATE (Today 2026-04-11):
+  • 1:10 PM  — Forge Monitor (PM) runs [FIRST RUN]
+  • 7:10 PM  — Forge Monitor (Evening) runs [FIRST RUN]
+
+TOMORROW (2026-04-12):
+  • 6:00 AM  — Vega GSC Daily
+  • 6:00 AM  — Vega Weekly (Sunday, so skips)
+  • 7:00 AM  — Forge Morning
+  • 7:10 AM  — Forge Monitor (AM) runs [FIRST RUN]
+  • 8:00 AM  — Job Hunt Morning
+  • 9:00 AM  — FursBliss Campaign
+  • 9:30 AM  — FursBliss DALL-E
+  • 10:00 AM — FursBliss Social + Link Daily
+  • 1:00 PM  — Forge Afternoon + Job Hunt Afternoon
+  • 1:10 PM  — Forge Monitor (PM)
+  • 6:00 PM  — Job Hunt Evening
+  • 7:00 PM  — Forge Evening
+  • 7:10 PM  — Forge Monitor (Evening)
+
+MONDAY (2026-04-14):
+  • 6:00 AM  — Vega GSC Daily + Vega Weekly
+  • 9:00 AM  — Forge Weekly Report runs [FIRST RUN]
+    (will summarize logs from 2026-04-07 to 2026-04-14)
+  • (continues daily schedule)
+
+================================================================================
+                            NEXT ACTIONS
+================================================================================
+
+✓ Monitoring scripts deployed to ~/projects/watchthisapp/scripts/
+✓ Scheduled tasks created (4 new jobs registered)
+✓ Read-only monitoring layer active
+✓ Documentation complete (MONITORING-IMPLEMENTATION.md, etc.)
+✓ Gateway healthy and accepting scheduled jobs
+
+TODO (Monitoring):
+  1. [TODAY 1:10 PM] Monitor first run → check logs/forge-monitor-*.log
+  2. [TODAY 7:10 PM] Evening monitor → verify both runs completed
+  3. [TOMORROW 7:10 AM] AM monitor → confirm daily cycle working
+  4. [MONDAY 9:00 AM] Weekly report → check logs/forge-weekly-report-YYYY-WW.md
+  5. If issues → consult MONITORING-IMPLEMENTATION.md (complete guide)
+
+MONITORING VERIFICATION:
+  cd ~/projects/watchthisapp
+  ls -lart logs/forge-monitor-*.log | tail -3   # Show last 3 monitor logs
+  cat logs/forge-monitor-2026-04-11_*.log         # Review today's logs
+
+After Monday:
+  cat logs/forge-weekly-report-2026-W15.md        # Review weekly summary
+
+================================================================================
+                         DOCUMENTATION FILES
+================================================================================
+
+In ~/projects/watchthisapp/:
+
+MONITORING (New):
+  • MONITORING-IMPLEMENTATION.md      — Complete implementation guide
+  • MONITORING-DEPLOYMENT-CHECKLIST.md — Deployment steps & commands
+  • HERMES-COMPLETE-SCHEDULE.txt      — This file (all jobs at a glance)
+
+HERMES Setup (Reference):
+  • scripts/HERMES-SCHEDULE-MONITORING.txt — Hermes-specific setup & troubleshooting
+  • scripts/HERMES-SETUP.txt              — Original Hermes configuration guide
+  • scripts/OPENCLAW-SCHEDULE-REFERENCE.txt — System-wide schedule reference
+
+MONITORING Scripts (Executable):
+  • scripts/forge-monitor.py              — Main monitor (9.2 KB)
+  • scripts/forge-weekly-report.py        — Weekly summary (5.8 KB)
+  • scripts/cron-forge-monitor.sh         — Wrapper (backup for manual runs)
+  • scripts/cron-forge-weekly-report.sh   — Wrapper (backup for manual runs)
+
+EXAMPLES & LOGS:
+  • logs/EXAMPLE-forge-monitor-SUCCESS.log       — Sample successful run
+  • logs/EXAMPLE-forge-weekly-report-2026-W15.md — Sample weekly report
+  • logs/forge-monitor-YYYY-MM-DD_HH-MM-SS.log   — Actual monitoring logs (auto-generated)
+
+================================================================================
+                            QUICK REFERENCE
+================================================================================
+
+Monitor a job manually:
+  cd ~/projects/watchthisapp
+  python3 scripts/forge-monitor.py              # Full run (HTTP requests)
+  python3 scripts/forge-monitor.py --dry-run    # Dry-run (no requests)
+
+View logs:
+  ls -lart logs/forge-monitor-*.log | tail -1   # Latest monitor log
+  tail -50 logs/forge-monitor-2026-04-11_*.log  # Last 50 lines
+
+Check Hermes status:
+  hermes status                  # Gateway health
+  hermes cron list               # All scheduled jobs
+
+Integration rules (MAINTAINED):
+  ✓ DO NOT modify Forge generation (scripts/forge_pagegen.py)
+  ✓ DO NOT modify Vega GSC (scripts/cron-gsc-movieslike.sh)
+  ✓ All monitoring is read-only (no writes, no git changes)
+  ✓ 10-minute gap between Forge (:00) and Monitor (:10)
+
+================================================================================
+EOF
+cat /sessions/busy-fervent-goldberg/mnt/watchthisapp/HERMES-COMPLETE-SCHEDULE.txt

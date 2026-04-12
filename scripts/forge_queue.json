@@ -1,4 +1,6 @@
 {
-  "t1": [],
-  "t2": []
+  "movies": [
+    { "title": "Movie Title 1", "slug": "movie-title-1" },
+    { "title": "Movie Title 2", "slug": "movie-title-2" }
+  ]
 }

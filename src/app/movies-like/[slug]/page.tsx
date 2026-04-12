@@ -23,6 +23,8 @@ import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
 import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
+import { generateH1 } from "@/lib/seo/ctr";
+import { validateMovieLikePage, throwValidationError } from "@/lib/seo/validator";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -66,6 +68,10 @@ export default async function MovieLikePage({ params }: Props) {
   const { source, recommendations } = await enrichMovieLikePage(bundle);
   const baseUrl = getSiteUrl();
 
+  const title = getSeoTitle(bundle.sourceMovie.title);
+  const description = getSeoDescription(bundle.sourceMovie.title);
+  const h1 = generateH1(bundle.sourceMovie.title);
+
   const introHtml = buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug);
   const whyLoveThese = buildWhyYoullLoveTheseMovies(bundle.sourceMovie, bundle.recommendations);
   const schemaFaq = buildSchemaFaqItems(
@@ -80,6 +86,25 @@ export default async function MovieLikePage({ params }: Props) {
   }));
 
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
+
+  // ✅ VALIDATION: Fail build if SEO rules are broken
+  const validation = validateMovieLikePage({
+    title,
+    description,
+    h1,
+    introHtml,
+    recommendationsWithSeo,
+    hasInternalLinks: alsoLikeLinks.length > 0,
+    movieName: bundle.sourceMovie.title,
+  });
+
+  if (!validation.valid && process.env.NODE_ENV === "production") {
+    throwValidationError(validation, slug);
+  }
+
+  if (!validation.valid) {
+    console.warn(`⚠️ SEO validation warnings for /movies-like/${slug}:`, validation.errors);
+  }
 
   const structured = buildMovieLikePageJsonLd({
     baseUrl,
@@ -102,7 +127,7 @@ export default async function MovieLikePage({ params }: Props) {
         <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
           <p className="text-amber-500/90 text-sm font-medium mb-2">Movies like</p>
           <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-balance mb-6">
-            {source.title}
+            {h1}
           </h1>
           <p className="text-base sm:text-lg text-[#D1D5DB] max-w-3xl text-pretty leading-relaxed mb-12">
             {introHtml}

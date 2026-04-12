@@ -1,0 +1,171 @@
+#!/usr/bin/env python3
+"""
+Forge Weekly Report: Summarize monitoring data from past 7 days.
+Runs Monday 09:00.
+
+Reads all forge-monitor-*.log files from the past 7 days and generates
+a summary report in logs/forge-weekly-report-YYYY-WW.md
+"""
+
+from __future__ import annotations
+
+import re
+from datetime import datetime, timedelta
+from pathlib import Path
+from collections import defaultdict
+
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+LOGS_DIR = REPO_ROOT / "logs"
+
+
+def parse_monitor_logs(days_back: int = 7) -> dict[str, list[str]]:
+    """
+    Parse all forge-monitor logs from the past N days.
+
+    Returns dict mapping log category to list of entries.
+    """
+    cutoff = datetime.now() - timedelta(days=days_back)
+    logs_read = 0
+    data = defaultdict(list)
+
+    if not LOGS_DIR.exists():
+        return data
+
+    for log_file in sorted(LOGS_DIR.glob("forge-monitor-*.log")):
+        # Extract timestamp from filename: forge-monitor-YYYY-MM-DD_HH-MM-SS.log
+        match = re.search(r"forge-monitor-(\d{4}-\d{2}-\d{2})_", log_file.name)
+        if not match:
+            continue
+
+        try:
+            log_date = datetime.strptime(match.group(1), "%Y-%m-%d")
+        except ValueError:
+            continue
+
+        if log_date < cutoff:
+            continue
+
+        logs_read += 1
+
+        try:
+            content = log_file.read_text(encoding="utf-8")
+        except Exception:
+            continue
+
+        # Parse log lines
+        for line in content.split("\n"):
+            if " ERROR " in line:
+                data["errors"].append((log_file.name, line))
+            elif " WARNING " in line:
+                data["warnings"].append((log_file.name, line))
+            elif " FAIL " in line or "✗ FAIL" in line:
+                data["failures"].append((log_file.name, line))
+            elif " PASS " in line or "✓ PASS" in line:
+                data["passes"].append((log_file.name, line))
+
+    return logs_read, data
+
+
+def generate_report(logs_read: int, data: dict) -> str:
+    """Generate markdown report from parsed logs."""
+    now = datetime.now()
+    week_num = now.isocalendar()[1]
+    year = now.isocalendar()[0]
+
+    report = []
+    report.append(f"# Forge Weekly Report — Week {week_num} {year}")
+    report.append(f"\n**Generated:** {now.strftime('%Y-%m-%d %H:%M:%S')}")
+    report.append(f"**Period:** Past 7 days")
+    report.append(f"**Logs analyzed:** {logs_read} monitor runs")
+
+    # Summary stats
+    num_passes = len(data.get("passes", []))
+    num_failures = len(data.get("failures", []))
+    num_errors = len(data.get("errors", []))
+    num_warnings = len(data.get("warnings", []))
+
+    report.append(f"\n## Summary\n")
+    report.append(f"- ✓ **Passes:** {num_passes}")
+    report.append(f"- ✗ **Failures:** {num_failures}")
+    report.append(f"- ⚠ **Errors:** {num_errors}")
+    report.append(f"- ⚠ **Warnings:** {num_warnings}")
+
+    # Success rate
+    if logs_read > 0:
+        success_rate = (num_passes / logs_read) * 100
+        report.append(f"- **Success Rate:** {success_rate:.1f}%")
+
+    # Failures (if any)
+    if num_failures > 0:
+        report.append(f"\n## Failures ({num_failures})\n")
+        for log_name, line in data.get("failures", [])[:20]:
+            # Extract just the message part
+            msg = line.split("] ", 1)[1] if "] " in line else line
+            report.append(f"- [{log_name}] {msg}")
+        if len(data.get("failures", [])) > 20:
+            report.append(f"- ... and {len(data.get('failures', [])) - 20} more")
+
+    # Errors (if any)
+    if num_errors > 0:
+        report.append(f"\n## Errors ({num_errors})\n")
+        for log_name, line in data.get("errors", [])[:20]:
+            msg = line.split("] ", 1)[1] if "] " in line else line
+            report.append(f"- [{log_name}] {msg}")
+        if len(data.get("errors", [])) > 20:
+            report.append(f"- ... and {len(data.get('errors', [])) - 20} more")
+
+    # Warnings (if any)
+    if num_warnings > 0:
+        report.append(f"\n## Warnings ({num_warnings})\n")
+        for log_name, line in data.get("warnings", [])[:20]:
+            msg = line.split("] ", 1)[1] if "] " in line else line
+            report.append(f"- [{log_name}] {msg}")
+        if len(data.get("warnings", [])) > 20:
+            report.append(f"- ... and {len(data.get('warnings', [])) - 20} more")
+
+    # Recommendations
+    if num_failures > 0 or num_errors > 3:
+        report.append(f"\n## Action Items\n")
+        if num_failures > 0:
+            report.append(f"- Review and fix {num_failures} failed checks")
+        if "Missing from sitemap" in " ".join([line for _, line in data.get("warnings", [])]):
+            report.append(f"- Investigate missing sitemap entries (check Forge generation logs)")
+        report.append(f"- Re-run `forge-monitor.py` after fixes to verify")
+
+    report.append(f"\n---\n")
+    report.append(f"*This report was auto-generated by `forge-weekly-report.py`*")
+
+    return "\n".join(report)
+
+
+def main() -> int:
+    """Run weekly report generation."""
+    LOGS_DIR.mkdir(parents=True, exist_ok=True)
+
+    logs_read, data = parse_monitor_logs(days_back=7)
+
+    if logs_read == 0:
+        print("No monitor logs found for the past 7 days")
+        return 0
+
+    report = generate_report(logs_read, data)
+
+    # Write report
+    now = datetime.now()
+    week_num = now.isocalendar()[1]
+    year = now.isocalendar()[0]
+    report_file = LOGS_DIR / f"forge-weekly-report-{year}-W{week_num:02d}.md"
+
+    try:
+        report_file.write_text(report, encoding="utf-8")
+        print(f"✓ Report written: {report_file}")
+        print(f"\nSummary: {logs_read} runs, failures: {len(data.get('failures', []))}")
+        return 0
+    except Exception as e:
+        print(f"✗ Failed to write report: {e}")
+        return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
