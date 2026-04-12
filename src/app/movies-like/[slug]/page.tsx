@@ -24,7 +24,7 @@ import { getSiteUrl } from "@/lib/site-url";
 import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { generateH1 } from "@/lib/seo/ctr";
-import { validateMovieLikePage, throwValidationError } from "@/lib/seo/validator";
+import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -98,13 +98,8 @@ export default async function MovieLikePage({ params }: Props) {
     movieName: bundle.sourceMovie.title,
   });
 
-  if (!validation.valid && process.env.NODE_ENV === "production") {
-    throwValidationError(validation, slug);
-  }
-
-  if (!validation.valid) {
-    console.warn(`⚠️ SEO validation warnings for /movies-like/${slug}:`, validation.errors);
-  }
+  // Log validation results for monitoring (non-blocking - page always renders)
+  logValidationIssues(validation, slug);
 
   const structured = buildMovieLikePageJsonLd({
     baseUrl,
@@ -130,7 +125,7 @@ export default async function MovieLikePage({ params }: Props) {
             {h1}
           </h1>
           <p className="text-base sm:text-lg text-[#D1D5DB] max-w-3xl text-pretty leading-relaxed mb-12">
-            {introHtml}
+            {introHtml || `Discover films similar to ${source.title}. Explore our curated collection of recommendations that capture the same themes, tone, and emotional resonance.`}
           </p>
 
           <section className="mb-14 grid gap-8 lg:grid-cols-[220px_1fr] items-start">

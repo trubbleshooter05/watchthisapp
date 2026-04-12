@@ -115,19 +115,36 @@ export default async function HomePage() {
       title: getRecommendationBundle(slug)?.sourceMovie.title ?? slug,
     }))
     .sort((a, b) => a.title.localeCompare(b.title, "en", { sensitivity: "base" }));
-  const spotlights = await getGenreSpotlights();
+  // Get spotlights with error handling
+  let spotlights: GenreSpotlight[] = [];
+  try {
+    spotlights = await getGenreSpotlights();
+  } catch (error) {
+    console.error("Error loading genre spotlights:", error);
+    spotlights = []; // Graceful fallback to empty array
+  }
 
   const priorityGuideLinks = SEO_PRIORITY_MOVIE_SLUGS.flatMap((slug) => {
-    const bundle = getRecommendationBundle(slug);
-    return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+    try {
+      const bundle = getRecommendationBundle(slug);
+      return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+    } catch (error) {
+      console.error(`Error loading priority guide ${slug}:`, error);
+      return [];
+    }
   });
 
   const featuredEssays = getAllBlogPosts().slice(0, 2);
   const homeJsonLd = buildOrganizationAndWebSiteJsonLd(getSiteUrl());
 
   const popularSearchLinks = POPULAR_SEARCH_SLUGS.flatMap((slug) => {
-    const bundle = getRecommendationBundle(slug);
-    return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+    try {
+      const bundle = getRecommendationBundle(slug);
+      return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+    } catch (error) {
+      console.error(`Error loading popular search ${slug}:`, error);
+      return [];
+    }
   });
 
   return (

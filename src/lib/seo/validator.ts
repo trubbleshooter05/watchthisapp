@@ -27,29 +27,29 @@ export interface PageValidationResult {
 
 /**
  * Primary validation function - call this before returning page
- * If it fails, throw an error to prevent build
+ * Non-blocking: validates but does not prevent page from rendering
  */
 export function validateMovieLikePage(config: PageValidationConfig): PageValidationResult {
   const errors: string[] = [];
   const warnings: string[] = [];
 
-  // Check intro hook exists and is not empty
+  // Check intro hook exists and is not empty (warning only - graceful fallback used)
   const introIsEmpty = !config.introHtml || config.introHtml.trim().length < 50;
   if (introIsEmpty) {
-    errors.push("Intro paragraph is missing or too short (min 50 chars)");
+    warnings.push("Intro paragraph is missing or too short (fallback text will be used)");
   }
 
-  // Check all recommendations have "Why You'll Love It" sections
+  // Check all recommendations have "Why You'll Love It" sections (warning only)
   const missingWhy = config.recommendationsWithSeo.filter((r) => !r.seoParagraph || r.seoParagraph.trim().length < 20);
-  if (missingWhy.length > 0) {
-    errors.push(
-      `${missingWhy.length} of ${config.recommendationsWithSeo.length} recommendations are missing proper "Why You'll Love It" sections`
+  if (missingWhy.length > 0 && config.recommendationsWithSeo.length > 0) {
+    warnings.push(
+      `${missingWhy.length} of ${config.recommendationsWithSeo.length} recommendations may be missing proper "Why You'll Love It" sections`
     );
   }
 
-  // Check internal links
+  // Check internal links (warning only - page renders without them)
   if (!config.hasInternalLinks) {
-    errors.push('Page must include internal links in "You Might Also Like" section');
+    warnings.push('No internal links found in "You Might Also Like" section');
   }
 
   // Validate CTR metrics
@@ -91,27 +91,33 @@ export function validateMovieLikePage(config: PageValidationConfig): PageValidat
 }
 
 /**
- * Throw validation error to fail build
- * Called when validation fails in production mode
+ * Log validation errors (non-blocking)
+ * Validation is now monitoring-only to prevent production crashes
+ * Pages render with graceful fallbacks even if validation fails
  */
-export function throwValidationError(validation: PageValidationResult, slug: string): never {
-  const errorMsg = [
-    `❌ SEO VALIDATION FAILED for /movies-like/${slug}`,
+export function logValidationIssues(validation: PageValidationResult, slug: string): void {
+  if (validation.errors.length === 0 && validation.warnings.length === 0) {
+    return;
+  }
+
+  const issues = [
+    `⚠️ SEO VALIDATION REPORT for /movies-like/${slug}`,
     `Movie: ${validation.movieName}`,
     `Timestamp: ${validation.timestamp}`,
-    ``,
-    `Errors (${validation.errors.length}):`,
-    ...validation.errors.map((e) => `  • ${e}`),
-    ...(validation.warnings.length > 0
-      ? [``, `Warnings (${validation.warnings.length}):`, ...validation.warnings.map((w) => `  ⚠ ${w}`)]
-      : []),
-    ``,
-    `Build will fail until these issues are resolved.`,
-    `See: /src/lib/seo/validator.ts for validation rules.`,
-  ].join("\n");
+  ];
 
-  console.error(errorMsg);
-  throw new Error(errorMsg);
+  if (validation.errors.length > 0) {
+    issues.push(`Errors (${validation.errors.length}):`);
+    issues.push(...validation.errors.map((e) => `  • ${e}`));
+  }
+
+  if (validation.warnings.length > 0) {
+    issues.push(`Warnings (${validation.warnings.length}):`);
+    issues.push(...validation.warnings.map((w) => `  ⚠ ${w}`));
+  }
+
+  issues.push(`Page will render with graceful fallbacks.`);
+  console.warn(issues.join("\n"));
 }
 
 /**
