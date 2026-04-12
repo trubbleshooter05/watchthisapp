@@ -1,9 +1,20 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
+import { getAllBlogPosts } from "@/lib/blog-utils";
+import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
+import { buildOrganizationAndWebSiteJsonLd } from "@/lib/schema-org";
 import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
 import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
+import { getSiteUrl } from "@/lib/site-url";
 import { MovieSearch } from "@/components/MovieSearch";
 import { fetchMovieDetails, posterUrl } from "@/lib/tmdb";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+  openGraph: { url: getSiteUrl() },
+};
 
 type GenreSpotlight = {
   genre: string;
@@ -12,6 +23,16 @@ type GenreSpotlight = {
   slug: string;
   posterUrl: string | null;
 };
+
+/** High-intent queries surfaced directly under the hero for users and crawlers. */
+const POPULAR_SEARCH_SLUGS = [
+  "interstellar",
+  "inception",
+  "shutter-island",
+  "fight-club",
+  "parasite",
+  "get-out",
+] as const;
 
 const GENRE_QUICK_LINKS = [
   { label: "Romcom", query: "romcom" },
@@ -101,8 +122,21 @@ export default async function HomePage() {
     return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
   });
 
+  const featuredEssays = getAllBlogPosts().slice(0, 2);
+  const homeJsonLd = buildOrganizationAndWebSiteJsonLd(getSiteUrl());
+
+  const popularSearchLinks = POPULAR_SEARCH_SLUGS.flatMap((slug) => {
+    const bundle = getRecommendationBundle(slug);
+    return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+  });
+
   return (
-    <main className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(homeJsonLd) }}
+      />
+      <main className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
       <div className="max-w-3xl">
         <h1 className="font-display text-4xl sm:text-5xl font-bold tracking-tight text-balance mb-6">
           Find what to watch by genre
@@ -146,6 +180,24 @@ export default async function HomePage() {
           </Link>
         </p>
       </div>
+
+      <section className="mt-12" aria-labelledby="popular-searches-heading">
+        <h2 id="popular-searches-heading" className="font-display text-xl font-semibold text-[#FAFAFA] mb-4">
+          Popular Searches
+        </h2>
+        <ul className="flex flex-wrap gap-2 sm:gap-3">
+          {popularSearchLinks.map(({ slug, title }) => (
+            <li key={slug}>
+              <Link
+                href={`/movies-like/${slug}`}
+                className="inline-flex rounded-full border border-white/15 bg-[#1a1a1a] px-4 py-2.5 text-sm font-medium text-amber-500 hover:border-amber-500/50 hover:bg-amber-500/10 transition-colors"
+              >
+                Movies like {title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <section className="mt-16 border-t border-white/10 pt-14">
         <div className="mb-6 flex flex-wrap items-end justify-between gap-3">
@@ -208,6 +260,40 @@ export default async function HomePage() {
           ))}
         </ul>
       </section>
+
+      {featuredEssays.length > 0 && (
+        <section className="mt-20 border-t border-white/10 pt-14">
+          <h2 className="font-display text-2xl font-semibold mb-3">Essays &amp; analysis</h2>
+          <p className="text-[#9CA3AF] mb-6 max-w-2xl leading-relaxed">
+            Long-form writing from the WatchThis Editorial Team — pair with our{" "}
+            <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
+              popular movie guides
+            </Link>{" "}
+            when you want deeper context on style and storytelling.
+          </p>
+          <Link
+            href="/blog"
+            className="inline-block text-sm font-medium text-amber-500 hover:text-amber-400 transition-colors mb-4"
+          >
+            All essays →
+          </Link>
+          <ul className="space-y-2">
+            {featuredEssays.map((post) => (
+              <li key={post.slug}>
+                <Link
+                  href={`/blog/${post.slug}`}
+                  className="text-[#D1D5DB] hover:text-amber-400 transition-colors"
+                >
+                  {post.frontmatter.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      <EditorialAttribution updatedIso={getProjectFileMtimeIso("src/app/page.tsx")} />
     </main>
+    </>
   );
 }

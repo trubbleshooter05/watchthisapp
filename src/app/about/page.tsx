@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
+import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
+import { getSiteUrl } from "@/lib/site-url";
+
+const aboutUpdatedIso = getProjectFileMtimeIso("src/app/about/page.tsx");
 
 export const metadata: Metadata = {
   title: "About",
   description: "About WatchThis — movie recommendations with streaming context.",
+  alternates: { canonical: `${getSiteUrl()}/about` },
+  robots: { index: true, follow: true },
 };
 
 export default function AboutPage() {
@@ -33,6 +40,8 @@ export default function AboutPage() {
           This product uses the TMDB API but is not endorsed or certified by TMDB.
         </p>
       </div>
+
+      <EditorialAttribution updatedIso={aboutUpdatedIso} />
     </main>
   );
 }

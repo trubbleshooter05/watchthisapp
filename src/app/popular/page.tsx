@@ -1,13 +1,24 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
+import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
 import { getRecommendationBundle } from "@/lib/recommendations";
 import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
 
+const baseUrl = getSiteUrl();
+const popularModifiedIso = getProjectFileMtimeIso("src/app/popular/page.tsx");
+
 export const metadata: Metadata = {
   title: "Popular Movie Guides",
   description: "Top movie recommendation pages for quick crawl discovery.",
-  alternates: { canonical: `${getSiteUrl()}/popular` },
+  alternates: { canonical: `${baseUrl}/popular` },
+  robots: { index: true, follow: true },
+  openGraph: {
+    title: "Popular Movie Guides",
+    url: `${baseUrl}/popular`,
+    type: "website",
+  },
 };
 
 export default function PopularPage() {
@@ -32,6 +43,15 @@ export default function PopularPage() {
           );
         })}
       </ul>
+
+      <p className="mt-10 text-sm text-[#6B7280]">
+        Looking for long-form context?{" "}
+        <Link href="/blog" className="text-amber-500 hover:text-amber-400 transition-colors">
+          Read cinematic essays →
+        </Link>
+      </p>
+
+      <EditorialAttribution updatedIso={popularModifiedIso} />
     </main>
   );
 }

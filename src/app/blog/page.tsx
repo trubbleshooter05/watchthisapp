@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { getAllBlogPosts } from "@/lib/blog-utils";
+import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
 import { getSiteUrl } from "@/lib/site-url";
+
+const blogIndexUpdatedIso = getProjectFileMtimeIso("src/app/blog/page.tsx");
 
 export const metadata: Metadata = {
   title: "Cinematic Essays",
   description: "Deep-dive film theory essays exploring contemporary cinema, technique, and storytelling.",
+  alternates: { canonical: `${getSiteUrl()}/blog` },
+  robots: { index: true, follow: true },
   openGraph: {
     title: "Cinematic Essays",
     description: "Deep-dive film theory essays exploring contemporary cinema, technique, and storytelling.",
@@ -71,6 +77,23 @@ export default function BlogIndexPage() {
           })}
         </div>
       )}
+
+      <section className="mt-16 border-t border-white/10 pt-10">
+        <h2 className="text-lg font-semibold text-white mb-3">Movie guides</h2>
+        <p className="text-sm text-[#9CA3AF] mb-4 max-w-xl">
+          Pair essays with curated recommendations — start from the{" "}
+          <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
+            popular guides hub
+          </Link>{" "}
+          or{" "}
+          <Link href="/browse" className="text-amber-500 hover:text-amber-400 transition-colors">
+            browse every title
+          </Link>
+          .
+        </p>
+      </section>
+
+      <EditorialAttribution updatedIso={blogIndexUpdatedIso} />
     </>
   );
 }

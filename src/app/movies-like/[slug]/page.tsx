@@ -8,6 +8,7 @@ import { enrichMovieLikePage } from "@/lib/enrich-page";
 import { posterPlaceholderHint } from "@/lib/tmdb";
 import {
   getRecommendationBundle,
+  getRecommendationJsonMtime,
   getSeoDescription,
   getSeoTitle,
 } from "@/lib/recommendations";
@@ -19,8 +20,9 @@ import {
   mergeFaqForPage,
 } from "@/lib/movies-like-seo";
 import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
-import type { RecommendationBundle } from "@/lib/types/recommendation";
 import { getSiteUrl } from "@/lib/site-url";
+import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -35,6 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = getSeoTitle(t);
   const description = getSeoDescription(t);
   const baseUrl = getSiteUrl();
+  const modified = getRecommendationJsonMtime(slug);
   return {
     title,
     description,
@@ -43,8 +46,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title,
       description,
-      type: "website",
+      type: "article",
       url: `${baseUrl}/movies-like/${slug}`,
+      modifiedTime: modified.toISOString(),
     },
     twitter: {
       card: "summary_large_image",
@@ -52,41 +56,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description,
     },
   };
-}
-
-function jsonLd(
-  bundle: RecommendationBundle,
-  base: string,
-  slug: string,
-  faqItems: RecommendationBundle["faq"],
-) {
-  const url = `${base}/movies-like/${slug}`;
-  const movie = {
-    "@type": "Movie",
-    name: bundle.sourceMovie.title,
-    datePublished: String(bundle.sourceMovie.year),
-    genre: bundle.sourceMovie.genres,
-    url,
-  };
-  const itemList = {
-    "@type": "ItemList",
-    name: `Movies like ${bundle.sourceMovie.title}`,
-    numberOfItems: bundle.recommendations.length,
-    itemListElement: bundle.recommendations.map((r, i) => ({
-      "@type": "ListItem",
-      position: i + 1,
-      name: `${r.title} (${r.year})`,
-    })),
-  };
-  const faq = {
-    "@type": "FAQPage",
-    mainEntity: faqItems.map((f) => ({
-      "@type": "Question",
-      name: f.question,
-      acceptedAnswer: { "@type": "Answer", text: f.answer },
-    })),
-  };
-  return { "@context": "https://schema.org", "@graph": [movie, itemList, faq] };
 }
 
 export default async function MovieLikePage({ params }: Props) {
@@ -112,7 +81,14 @@ export default async function MovieLikePage({ params }: Props) {
 
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
 
-  const structured = jsonLd(bundle, baseUrl, slug, mergedFaq);
+  const structured = buildMovieLikePageJsonLd({
+    baseUrl,
+    slug,
+    bundle,
+    source,
+    faqItems: mergedFaq,
+  });
+  const guideUpdatedIso = getRecommendationJsonMtime(slug).toISOString();
 
   return (
     <>
@@ -239,6 +215,20 @@ export default async function MovieLikePage({ params }: Props) {
             </p>
             <AllMovieGuideLinks exceptSlug={slug} />
           </section>
+
+          <EditorialAttribution updatedIso={guideUpdatedIso} />
+
+          <p className="text-sm text-[#6B7280] mt-6">
+            <Link href="/blog" className="text-amber-500 hover:text-amber-400 transition-colors">
+              Cinematic essays
+            </Link>
+            <span className="mx-2" aria-hidden>
+              ·
+            </span>
+            <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
+              Popular guides
+            </Link>
+          </p>
         </main>
       </div>
     </>

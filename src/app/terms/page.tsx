@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
+import { getSiteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
   description: "Terms of Service for MoviesLike.app.",
+  alternates: { canonical: `${getSiteUrl()}/terms` },
+  robots: { index: true, follow: true },
 };
 
 export default function TermsPage() {

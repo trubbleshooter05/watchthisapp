@@ -5,6 +5,8 @@ export interface BlogFrontmatter {
   title: string;
   slug: string;
   date: string;
+  /** Optional explicit last-updated date (ISO YYYY-MM-DD). */
+  updated?: string;
   author: string;
   category: string;
   description: string;
@@ -15,6 +17,8 @@ export interface BlogPost {
   slug: string;
   frontmatter: BlogFrontmatter;
   content: string;
+  /** Source file mtime (ISO) for “updated” display when `updated` frontmatter is absent. */
+  fileModifiedIso: string;
 }
 
 /**
@@ -107,11 +111,13 @@ export function getBlogPost(slug: string): BlogPost | null {
 
   const fileContent = fs.readFileSync(filePath, "utf-8");
   const { data, content } = parseFrontmatter(fileContent);
+  const fileModifiedIso = fs.statSync(filePath).mtime.toISOString();
 
   return {
     slug,
     frontmatter: data as BlogFrontmatter,
     content,
+    fileModifiedIso,
   };
 }
 

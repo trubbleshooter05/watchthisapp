@@ -1,6 +1,11 @@
 const TMDB_BASE = "https://api.themoviedb.org/3";
 const TMDB_IMAGE = "https://image.tmdb.org/t/p";
 
+export type TmdbCredits = {
+  cast?: Array<{ id: number; name: string; order: number }>;
+  crew?: Array<{ id: number; name: string; job: string }>;
+};
+
 export type TmdbMovieDetails = {
   id: number;
   title: string;
@@ -8,8 +13,10 @@ export type TmdbMovieDetails = {
   release_date: string;
   runtime: number | null;
   vote_average: number;
+  vote_count?: number;
   poster_path: string | null;
   genres: { id: number; name: string }[];
+  credits?: TmdbCredits;
 };
 
 export type TmdbProvider = {
@@ -50,11 +57,36 @@ export function posterUrl(posterPath: string | null, size: "w342" | "w500" = "w5
 export async function fetchMovieDetails(tmdbId: number): Promise<TmdbMovieDetails | null> {
   const key = getKey();
   if (!key) return null;
-  const res = await fetch(`${TMDB_BASE}/movie/${tmdbId}?api_key=${key}`, {
-    next: { revalidate: 86400 },
-  });
+  const res = await fetch(
+    `${TMDB_BASE}/movie/${tmdbId}?api_key=${key}&append_to_response=credits`,
+    {
+      next: { revalidate: 86400 },
+    },
+  );
   if (!res.ok) return null;
   return res.json() as Promise<TmdbMovieDetails>;
+}
+
+export function extractDirectorNames(crew: TmdbCredits["crew"]): string[] {
+  if (!crew?.length) return [];
+  const names = crew.filter((c) => c.job === "Director").map((c) => c.name.trim()).filter(Boolean);
+  return Array.from(new Set(names));
+}
+
+/** Top-billed cast by `order` (lower = higher billing). */
+export function extractTopActorNames(
+  cast: TmdbCredits["cast"],
+  max = 5,
+): string[] {
+  if (!cast?.length) return [];
+  const sorted = [...cast].sort((a, b) => (a.order ?? 99) - (b.order ?? 99));
+  const names: string[] = [];
+  for (const row of sorted) {
+    if (names.length >= max) break;
+    const n = row.name?.trim();
+    if (n && !names.includes(n)) names.push(n);
+  }
+  return names;
 }
 
 export async function fetchWatchProviders(tmdbId: number): Promise<TmdbWatchProvidersResult | null> {

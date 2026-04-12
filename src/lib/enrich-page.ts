@@ -1,5 +1,7 @@
 import type { RecommendationBundle, RecommendationEntry } from "@/lib/types/recommendation";
 import {
+  extractDirectorNames,
+  extractTopActorNames,
   fetchMovieDetails,
   fetchWatchProviders,
   formatRuntime,
@@ -27,6 +29,11 @@ export type EnrichedSource = RecommendationBundle["sourceMovie"] & {
   runtimeLabel: string | null;
   voteAverage: number | null;
   overview: string | null;
+  /** ISO date YYYY-MM-DD from TMDB when available */
+  releaseDateIso: string | null;
+  voteCount: number | null;
+  directorNames: string[];
+  actorNames: string[];
 };
 
 /** TMDB occasionally reuses IDs; pin known-good IDs for pages that broke in production. */
@@ -85,6 +92,14 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
   );
 
   const srcDetails = detailsMap.get(sourceId);
+  const rd = srcDetails?.release_date?.trim();
+  const releaseDateIso =
+    rd && /^\d{4}-\d{2}-\d{2}$/.test(rd)
+      ? rd
+      : rd && /^\d{4}-\d{2}-\d{2}/.test(rd)
+        ? rd.slice(0, 10)
+        : null;
+
   const source: EnrichedSource = {
     ...bundle.sourceMovie,
     tmdbId: sourceId,
@@ -92,6 +107,10 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
     runtimeLabel: formatRuntime(srcDetails?.runtime ?? null),
     voteAverage: srcDetails?.vote_average ?? null,
     overview: srcDetails?.overview?.trim() ? srcDetails.overview.trim() : null,
+    releaseDateIso,
+    voteCount: srcDetails?.vote_count ?? null,
+    directorNames: extractDirectorNames(srcDetails?.credits?.crew),
+    actorNames: extractTopActorNames(srcDetails?.credits?.cast),
   };
 
   const recommendations: EnrichedRecommendation[] = bundle.recommendations.map((rec) => {

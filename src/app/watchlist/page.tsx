@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { getSiteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
   title: "Watchlist",
   description: "Your saved movies — coming soon.",
+  alternates: { canonical: `${getSiteUrl()}/watchlist` },
+  robots: { index: true, follow: true },
 };
 
 export default function WatchlistPage() {

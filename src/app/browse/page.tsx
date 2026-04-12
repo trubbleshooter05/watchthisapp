@@ -1,10 +1,18 @@
 import type { Metadata } from "next";
-import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import Link from "next/link";
+import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { BrowseClient } from "@/components/BrowseClient";
+import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
+import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import { getSiteUrl } from "@/lib/site-url";
+
+const browseUpdatedIso = getProjectFileMtimeIso("src/app/browse/page.tsx");
 
 export const metadata: Metadata = {
   title: "Browse",
   description: "All movies-like recommendation pages on WatchThis.",
+  alternates: { canonical: `${getSiteUrl()}/browse` },
+  robots: { index: true, follow: true },
 };
 
 type Props = {
@@ -30,6 +38,19 @@ export default function BrowsePage({ searchParams }: Props) {
         Pick a genre first, then open any movie page for tailored recommendations.
       </p>
       <BrowseClient movies={movies} initialGenre={initialGenre} />
+
+      <p className="mt-12 text-sm text-[#6B7280] max-w-xl">
+        Shortlist:{" "}
+        <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
+          Popular movie guides
+        </Link>
+        {" · "}
+        <Link href="/blog" className="text-amber-500 hover:text-amber-400 transition-colors">
+          Cinematic essays
+        </Link>
+      </p>
+
+      <EditorialAttribution updatedIso={browseUpdatedIso} />
     </main>
   );
 }

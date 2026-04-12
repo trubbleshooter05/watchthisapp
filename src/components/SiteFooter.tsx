@@ -14,7 +14,10 @@ export function SiteFooter() {
         </p>
         <div className="flex flex-wrap gap-x-6 gap-y-2">
           <Link href="/popular" className="hover:text-amber-500">
-            Popular
+            Popular guides
+          </Link>
+          <Link href="/blog" className="hover:text-amber-500">
+            Essays
           </Link>
           <Link href="/about" className="hover:text-amber-500">
             About

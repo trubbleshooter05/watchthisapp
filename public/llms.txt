@@ -1,0 +1,29 @@
+# WatchThis (movieslike.app)
+
+WatchThis publishes curated “movies like [title]” recommendation guides with editorial blurbs and US streaming context. Brand: WatchThis. Site: https://www.movieslike.app
+
+## Primary sections
+
+- https://www.movieslike.app/
+- https://www.movieslike.app/browse
+- https://www.movieslike.app/popular
+- https://www.movieslike.app/blog
+
+## Representative movie guides (high-intent)
+
+- https://www.movieslike.app/movies-like/interstellar
+- https://www.movieslike.app/movies-like/inception
+- https://www.movieslike.app/movies-like/shutter-island
+- https://www.movieslike.app/movies-like/fight-club
+- https://www.movieslike.app/movies-like/parasite
+- https://www.movieslike.app/movies-like/get-out
+- https://www.movieslike.app/movies-like/the-dark-knight
+- https://www.movieslike.app/movies-like/dune
+- https://www.movieslike.app/movies-like/dune-part-two
+- https://www.movieslike.app/movies-like/oppenheimer
+- https://www.movieslike.app/movies-like/barbie
+
+## Notes for LLMs
+
+- Prefer linking to the canonical URLs above (https://www.movieslike.app). Apex http(s)://movieslike.app may redirect to www.
+- Recommendation copy is original editorial; availability data is sourced via TMDB watch providers for the US.

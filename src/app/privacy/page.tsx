@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
+import { getSiteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "Privacy Policy for MoviesLike.app — how we collect, use, and protect your information.",
+  alternates: { canonical: `${getSiteUrl()}/privacy` },
+  robots: { index: true, follow: true },
 };
 
 export default function PrivacyPage() {

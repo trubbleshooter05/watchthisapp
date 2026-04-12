@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllBlogSlugs, getBlogPost } from "@/lib/blog-utils";
+import { buildBlogPostingJsonLd } from "@/lib/schema-org";
 import { getSiteUrl } from "@/lib/site-url";
 import { markdownToHtml } from "@/lib/markdown-to-html";
 
@@ -20,17 +21,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const baseUrl = getSiteUrl();
   const postUrl = `${baseUrl}/blog/${params.slug}`;
+  const modifiedIso = new Date(post.frontmatter.updated || post.fileModifiedIso).toISOString();
 
   return {
     title: post.frontmatter.title,
     description: post.frontmatter.description,
+    robots: { index: true, follow: true },
     openGraph: {
       title: post.frontmatter.title,
       description: post.frontmatter.description,
       url: postUrl,
       type: "article",
-      publishedTime: post.frontmatter.date,
-      authors: [post.frontmatter.author],
+      publishedTime: new Date(post.frontmatter.date).toISOString(),
+      modifiedTime: modifiedIso,
+      authors: ["WatchThis Editorial Team"],
     },
     alternates: {
       canonical: postUrl,
@@ -45,36 +49,41 @@ export async function generateStaticParams() {
   }));
 }
 
-interface BlogFrontmatter {
-  title: string;
-  slug: string;
-  date: string;
-  author: string;
-  category: string;
-  description: string;
-}
-
-interface BlogPost {
-  slug: string;
-  frontmatter: BlogFrontmatter;
-  content: string;
-}
-
 export default function BlogPostPage({ params }: Props) {
-  const post = getBlogPost(params.slug) as BlogPost | null;
+  const post = getBlogPost(params.slug);
 
   if (!post) {
     notFound();
   }
 
+  const baseUrl = getSiteUrl();
   const publishDate = new Date(post.frontmatter.date).toLocaleDateString("en-US", {
     year: "numeric",
     month: "long",
     day: "numeric",
   });
+  const updatedIso = new Date(post.frontmatter.updated || post.fileModifiedIso).toISOString();
+  const updatedPretty = new Date(updatedIso).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+
+  const blogJsonLd = buildBlogPostingJsonLd({
+    baseUrl,
+    title: post.frontmatter.title,
+    description: post.frontmatter.description,
+    datePublished: new Date(post.frontmatter.date).toISOString(),
+    dateModified: updatedIso,
+    urlPath: `/blog/${post.slug}`,
+  });
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(blogJsonLd) }}
+      />
       <article>
         <header className="mb-12 border-b border-white/10 pb-8">
           <Link
@@ -86,11 +95,17 @@ export default function BlogPostPage({ params }: Props) {
           <h1 className="mb-4 text-4xl font-bold tracking-tight text-white">
             {post.frontmatter.title}
           </h1>
-          <div className="flex flex-wrap items-center gap-4 text-sm text-gray-400">
-            <span>{publishDate}</span>
-            <span>•</span>
-            <span>By {post.frontmatter.author}</span>
-            <span>•</span>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-gray-400">
+            <span>
+              Published <time dateTime={new Date(post.frontmatter.date).toISOString()}>{publishDate}</time>
+            </span>
+            <span aria-hidden>•</span>
+            <span>
+              Updated <time dateTime={updatedIso}>{updatedPretty}</time>
+            </span>
+            <span aria-hidden>•</span>
+            <span className="text-[#D1D5DB]">WatchThis Editorial Team</span>
+            <span aria-hidden>•</span>
             <span className="rounded-full bg-amber-500/20 px-3 py-1 text-amber-400">
               {post.frontmatter.category}
             </span>
@@ -103,7 +118,17 @@ export default function BlogPostPage({ params }: Props) {
         />
       </article>
 
-      <footer className="mt-16 border-t border-white/10 pt-8">
+      <footer className="mt-12 border-t border-white/10 pt-8 space-y-4">
+        <p className="text-sm text-[#6B7280]">
+          More from WatchThis:{" "}
+          <Link href="/popular" className="text-amber-500 hover:text-amber-400">
+            Popular movie guides
+          </Link>
+          {" · "}
+          <Link href="/browse" className="text-amber-500 hover:text-amber-400">
+            Browse all movies
+          </Link>
+        </p>
         <Link
           href="/blog"
           className="inline-block text-amber-500 hover:text-amber-400 transition-colors"
