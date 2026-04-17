@@ -4,10 +4,7 @@
     "title": "Top Gun: Maverick",
     "slug": "top-gun-maverick",
     "year": 2022,
-    "genres": [
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Action", "Drama"],
     "whyPeopleLoveIt": "They strapped IMAX cameras to real F/A-18s—you feel the Gs in your chest, not a CGI shrug. Maverick’s fighting obsolescence: the Navy wants him benched, Rooster wants him gone, and the mission is a canyon run that shouldn’t be survivable. It’s sweat, swagger, and one last shot at redemption before the afterburners cool for good.",
     "vibes": [
       "practical-stunts",
@@ -18,18 +15,40 @@
       "clock-ticking"
     ]
   },
+  "seoTitle": "18 Gripping Movies Like Top Gun: Maverick (Ranked #1-18)",
+  "seoDescription": "If you loved Top Gun: Maverick, chase cockpit rivalry, stunt craft, and legacy stakes—18 picks echo speed, rivalry, and hero energy with streaming cues.",
+  "seoH1": "If Maverick’s Afterburners Hooked You, Start With These 18",
+  "customIntroParagraphs": [
+    "Loved Top Gun: Maverick? Here are 18 movies with the same adrenaline, aviation, and comeback energy.",
+    "This isn’t a lazy genre dump—each pick earns its place through rivalry, physical stakes, or machinery pushed past the redline. You’ll get dogfights and test-pilot myth, but also pressure-cooker training stories and war-zone clarity that hit the same nerve as Pete Mitchell refusing to fade out."
+  ],
+  "editorialSections": [
+    {
+      "heading": "Why people love Top Gun: Maverick",
+      "body": "Fans respond to the tactile truth of it: real jets, real pilots sweating through G-suits, and a sequel that refuses to coast on nostalgia alone. The Rooster thread turns the film into a generational argument about risk and forgiveness, while the mission design—low altitude, impossible timing—keeps you leaning forward. It’s blockbuster craft with a heartbeat: speed as character, not wallpaper."
+    },
+    {
+      "heading": "What makes a movie feel similar to Maverick",
+      "body": "Look for four through-lines: aviation or velocity-as-religion (cockpit, track, or battlefield), rivalry that sharpens both sides, redemption arcs for people who’ve burned bridges, and direction that treats spectacle as physical consequence. When a film makes you hold your breath during a maneuver—not during a monologue—you’re in Maverick country."
+    }
+  ],
   "recommendations": [
+    {
+      "tmdbId": 353081,
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "matchPercentage": 97,
+      "whyYoullLoveIt": "Tom Cruise hanging off a helicopter isn’t flex—it’s the same philosophy as Maverick: earn the spectacle in-camera. Fallout stacks HALO jumps, bathroom brawls, and a Paris chase into one breathless package; the forward motion rhymes with Maverick’s refusal to let the audience relax between set pieces.",
+      "sharedVibes": ["practical-stunts", "clock-ticking", "rivalry"],
+      "mood": "tense"
+    },
     {
       "tmdbId": 244786,
       "title": "Whiplash",
       "year": 2014,
-      "matchPercentage": 98,
-      "whyYoullLoveIt": "No jets—just a drum kit and a teacher who treats humiliation as curriculum. Same core itch as Maverick’s classroom: how far you’ll push yourself when someone demands the impossible, and what it costs to be the best.",
-      "sharedVibes": [
-        "obsession",
-        "mentorship",
-        "identity"
-      ],
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "No wings—just a drum kit and a mentor who weaponizes shame. Same itch as Iceman staring across the briefing room: how far you’ll push yourself when someone demands perfection on a countdown. The bruises are different, the masochistic drive isn’t.",
+      "sharedVibes": ["obsession", "mentorship", "rivalry"],
       "mood": "tense"
     },
     {
@@ -37,140 +56,171 @@
       "title": "The Right Stuff",
       "year": 1983,
       "matchPercentage": 95,
-      "whyYoullLoveIt": "Test pilots trading swagger for altitude in the Mercury era—machismo with paperwork and real stakes. The flying feels analog and dangerous; the locker-room ego rhymes with Top Gun’s DNA, just with slide rules instead of touchscreens.",
-      "sharedVibes": [
-        "camaraderie",
-        "sacrifice",
-        "heroism"
-      ],
+      "whyYoullLoveIt": "Test pilots trading swagger for altitude in the Mercury era—machismo with paperwork and real consequences. The flying feels analog and dangerous; the locker-room ego is pure Top Gun DNA, just with slide rules instead of touchscreens and Yeager’s drawl instead of call signs on TikTok.",
+      "sharedVibes": ["aviation", "heroism", "camaraderie"],
       "mood": "uplifting"
     },
     {
       "tmdbId": 374720,
       "title": "Dunkirk",
       "year": 2017,
-      "matchPercentage": 92,
-      "whyYoullLoveIt": "Nolan turns a retreat into a ticking clock across sea, sky, and sand—breath held for an hour straight. Different war, same craft obsession: immersion over exposition, violence as physics and time, not speeches.",
-      "sharedVibes": [
-        "bravery",
-        "survival",
-        "war"
-      ],
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Nolan turns retreat into a triptych of sea, sky, and sand where time itself feels weaponized. Different war, same craft obsession: immersion over exposition, violence as physics and ticking clocks, not speeches. You’ll recognize Maverick’s respect for procedure under panic.",
+      "sharedVibes": ["survival", "bravery", "clock-ticking"],
       "mood": "tense"
     },
     {
       "tmdbId": 359724,
       "title": "Ford v Ferrari",
       "year": 2019,
-      "matchPercentage": 90,
-      "whyYoullLoveIt": "Le Mans as a cage match between corporate suits and two guys who only speak RPM. Shelby and Miles push metal until it screams—mentor energy, institutional friction, and speed as religion. Land-based, same white-knuckle clarity.",
-      "sharedVibes": [
-        "competition",
-        "teamwork",
-        "passion"
-      ],
+      "matchPercentage": 93,
+      "whyYoullLoveIt": "Le Mans as a cage match between corporate suits and two guys who only speak RPM. Shelby and Miles bend metal until it screams—mentor friction, institutional stupidity, speed as faith. It’s land-based, but the white-knuckle clarity matches Maverick’s canyon run beat for beat.",
+      "sharedVibes": ["competition", "passion", "rivalry"],
       "mood": "uplifting"
     },
     {
       "tmdbId": 744,
       "title": "Top Gun",
       "year": 1986,
-      "matchPercentage": 88,
-      "whyYoullLoveIt": "The runway that started it: volleyball sweat, bar anthems, and Goose in the back seat. Watching Maverick young reframes every choice in the sequel—same call sign, different scars. Pure nostalgia rocket fuel.",
-      "sharedVibes": [
-        "nostalgia",
-        "camaraderie",
-        "romance"
-      ],
-      "mood": "uplifting"
-    },
-    {
-      "tmdbId": 9798,
-      "title": "Enemy of the State",
-      "year": 1998,
-      "matchPercentage": 85,
-      "whyYoullLoveIt": "Ground-level thriller, sky-high paranoia—satellites and listening posts turn a jog through Baltimore into a sprint for your life. Not dogfights, but the same relentless forward motion: nowhere to hide, clock always running.",
-      "sharedVibes": [
-        "paranoia",
-        "surveillance",
-        "thriller"
-      ],
-      "mood": "tense"
-    },
-    {
-      "tmdbId": 514921,
-      "title": "The Aeronauts",
-      "year": 2019,
-      "matchPercentage": 82,
-      "whyYoullLoveIt": "Victorian daredevils clawing into a thunderhead in a wicker basket—thin air, fraying rope, zero room for error. Different century, same addiction to altitude and the silence before the storm hits.",
-      "sharedVibes": [
-        "adventure",
-        "exploration",
-        "courage"
-      ],
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The runway that lit the fuse: volleyball sweat, bar anthems, Goose in the back seat. Watching young Maverick reframes every scar in the sequel—same call sign, different ghosts. If Maverick 2022 is about outrunning time, 1986 is the pure jet-fuel origin of that addiction.",
+      "sharedVibes": ["nostalgia", "camaraderie", "romance"],
       "mood": "uplifting"
     },
     {
       "tmdbId": 96721,
       "title": "Rush",
       "year": 2013,
-      "matchPercentage": 80,
-      "whyYoullLoveIt": "Hunt vs Lauda: two egos, one championship, mortality riding shotgun. Howard stages F1 like combat—rain, fire, fractions of a second. If Maverick’s thrills come from cockpit rivalry, this is the same hunger on asphalt.",
-      "sharedVibes": [
-        "rivalry",
-        "passion",
-        "speed"
-      ],
+      "matchPercentage": 91,
+      "whyYoullLoveIt": "Hunt vs Lauda: two egos, one championship, mortality riding shotgun. Howard stages F1 like aerial combat—rain, fire, fractions of a second. If Maverick’s thrill is cockpit rivalry pushed past comfort, Rush bottles that same hunger on asphalt with a bitter, brilliant finish.",
+      "sharedVibes": ["rivalry", "passion", "speed"],
       "mood": "bittersweet"
     },
     {
-      "tmdbId": 13922,
-      "title": "The Great Raid",
-      "year": 2005,
-      "matchPercentage": 78,
-      "whyYoullLoveIt": "Elite soldiers threading a jungle rescue under impossible odds—brotherhood forged in mud and blood. Slower burn than Maverick’s afterburners, same reverence for men who volunteer for the unwinnable.",
-      "sharedVibes": [
-        "sacrifice",
-        "heroism",
-        "war"
-      ],
-      "mood": "uplifting"
+      "tmdbId": 137113,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Live-die-repeat training until muscle memory becomes prophecy—sci-fi skin on a boot-camp spine. Cruise learns violence the way Maverick drills young pilots: repetition under fire, ego sanded down by impact. The humor keeps it fleet; the stakes keep it mean.",
+      "sharedVibes": ["mentorship", "redemption", "clock-ticking"],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 568,
+      "title": "Apollo 13",
+      "year": 1995,
+      "matchPercentage": 89,
+      "whyYoullLoveIt": "Houston-and-problem-solving in a tin can—no dogfights, but the same reverence for checklists, calm voices, and machinery pushed past design limits. The crisis rhythm mirrors a debrief after a bad hop: strip the drama, solve the next failure mode, breathe on the other side.",
+      "sharedVibes": ["heroism", "teamwork", "survival"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 855,
+      "title": "Black Hawk Down",
+      "year": 2001,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Elite operators swallowed by a city that won’t sit still—Scott trades clean arcs for sensory overload and brotherhood under tracer fire. Not aviation-centric, but the same respect for men who volunteer for chaos and the noise that never quite leaves your skull.",
+      "sharedVibes": ["sacrifice", "brotherhood", "war"],
+      "mood": "tense"
     },
     {
       "tmdbId": 395991,
       "title": "Only the Brave",
       "year": 2017,
-      "matchPercentage": 75,
-      "whyYoullLoveIt": "Hotshot crew charging into walls of flame—different uniform, same pact: nobody gets left behind. The training montages and locker-room bonds echo fighter-squad chemistry; the third act lands like a gut punch.",
-      "sharedVibes": [
-        "brotherhood",
-        "sacrifice",
-        "heroism"
-      ],
+      "matchPercentage": 87,
+      "whyYoullLoveIt": "Hotshot crew charging walls of flame—different uniform, same oath: nobody gets left behind. Training cadence and locker-room ribbing echo squad chemistry; the third act lands with the blunt force of losing people you’ve watched get forged in stress tests.",
+      "sharedVibes": ["brotherhood", "sacrifice", "heroism"],
       "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 363676,
+      "title": "Sully",
+      "year": 2016,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Eastwood strips heroism down to decision seconds—208 seconds over the Hudson, then the courtroom of public opinion. It’s not afterburner porn; it’s the same airmanship spine: judgment under impossible inputs, calm hands when the checklist runs out.",
+      "sharedVibes": ["aviation", "heroism", "redemption"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 514921,
+      "title": "The Aeronauts",
+      "year": 2019,
+      "matchPercentage": 85,
+      "whyYoullLoveIt": "Victorian balloonists clawing into a thunderhead in a wicker basket—thin air, fraying rope, zero room for bravado without skill. Different century, same addiction to altitude and the hush before physics punishes a mistake.",
+      "sharedVibes": ["adventure", "courage", "survival"],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 8007,
+      "title": "Behind Enemy Lines",
+      "year": 2001,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "A recon pilot shot down into a country tearing itself apart—choppers, treetop sprints, NATO politics breathing down his neck. The jet prologue alone sells the fantasy: low passes, missile lock, then boots-on-ground survival with the clock never stopping.",
+      "sharedVibes": ["aviation", "survival", "war"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 676,
+      "title": "Pearl Harbor",
+      "year": 2001,
+      "matchPercentage": 83,
+      "whyYoullLoveIt": "Romance and rivalry staged against the run-up to a raid that rewrites history—love triangle melodrama, then Bay unleashes sound and fire on the water. The attack sequence is pure sensory overload; if you want Maverick-scale spectacle with propellers and torpedo dread, this delivers.",
+      "sharedVibes": ["war", "romance", "heroism"],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 369972,
+      "title": "First Man",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Chazelle keeps the camera inside the rattling capsule—Neil Armstrong as a man swallowing grief while math and metal try to kill him. Quiet, claustrophobic, the opposite of volleyball energy, yet the same devotion to craft under lethal Gs and the silence after the engines cut.",
+      "sharedVibes": ["aviation", "heroism", "legacy"],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 193756,
+      "title": "Lone Survivor",
+      "year": 2013,
+      "matchPercentage": 81,
+      "whyYoullLoveIt": "SEAL team pinned on an Afghan ridgeline—Berg trades dogfights for rifle discipline and rocks that shred skin. The brotherhood banter before the ambush rhymes with briefing-room bonds; once the shooting starts, it’s pure survival math and sacrifice without speeches.",
+      "sharedVibes": ["sacrifice", "brotherhood", "war"],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 299534,
+      "title": "Captain Marvel",
+      "year": 2019,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Carol Danvers’ spine is a test pilot before she’s cosmic—cockpit banter, ejection-seat swagger, then identity war in the stratosphere. It’s Marvel candy, but the first act’s Edwards AFB energy knowingly winks at the same ‘prove it in the seat’ ethos Maverick lives by.",
+      "sharedVibes": ["aviation", "rivalry", "redemption"],
+      "mood": "funny"
     }
   ],
   "faq": [
     {
+      "question": "What movie is most similar to Top Gun: Maverick?",
+      "answer": "Mission: Impossible – Fallout is the closest blockbuster cousin—practical stunt obsession and a refusal to let the audience breathe. For pure pilot myth, pair The Right Stuff; for land-speed rivalry with the same machismo, Ford v Ferrari. Whiplash matches the mentorship-as-gauntlet psychology without a single jet."
+    },
+    {
+      "question": "Are there more aviation movies like this?",
+      "answer": "Yes—try Sully and First Man for cockpit judgment under pressure; Behind Enemy Lines for downed-pilot survival; The Aeronauts for altitude-as-terror; Captain Marvel’s first act for test-pilot swagger. Apollo 13 trades wings for rockets but keeps the same procedural reverence."
+    },
+    {
       "question": "What should I watch after Top Gun: Maverick?",
-      "answer": "Whiplash for pressure-cooker mentorship, Rush for rivalry at lethal speed, The Right Stuff for test-pilot swagger. Ford v Ferrari if you want land-based adrenaline with the same ‘push the machine’ obsession."
+      "answer": "Start with Top Gun (1986) for full-circle context, then Rush or Ford v Ferrari if you want rivalry at lethal speed. If you crave modern stunt maximalism, Fallout is mandatory; if you want quieter airmanship, Sully or First Man balance the list."
     },
     {
-      "question": "What genre is Top Gun: Maverick?",
-      "answer": "Action-drama built around real aerial stunt work—think military procedural meets legacy sequel, with flight sequences that behave like thrill rides, not cutscenes."
-    },
-    {
-      "question": "Is Top Gun: Maverick part of a franchise?",
-      "answer": "Yes—it follows 1986’s Top Gun and leans on returning characters and callouts, but the mission plot stands alone if you’ve never seen the original (though you’ll feel the Rooster thread deeper if you have)."
+      "question": "Is Top Gun: Maverick OK if I skipped the original?",
+      "answer": "The mission plot stands alone, but Rooster’s arc lands harder if you’ve seen the 1986 film—you’ll feel the weight of history in every glare across the tarmac."
     }
   ],
   "relatedPages": [
     "top-gun",
-    "ford-v-ferrari",
-    "whiplash",
-    "dunkirk",
-    "rush",
     "mission-impossible-fallout",
-    "interstellar"
+    "ford-v-ferrari",
+    "dunkirk",
+    "whiplash",
+    "interstellar",
+    "oppenheimer"
   ]
 }
