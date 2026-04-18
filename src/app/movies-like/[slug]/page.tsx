@@ -7,6 +7,7 @@ import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
 import { posterPlaceholderHint } from "@/lib/tmdb";
 import {
+  buildContinueWatchingLinks,
   filterExistingRelatedSlugs,
   getRecommendationBundle,
   getRecommendationJsonMtime,
@@ -93,6 +94,22 @@ export default async function MovieLikePage({ params }: Props) {
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
   const relatedGuideLinks = filterExistingRelatedSlugs(bundle.relatedPages).filter((s) => s !== slug);
 
+  const continueWatchingByTmdb =
+    slug === "top-gun-maverick"
+      ? Object.fromEntries(
+          recommendationsWithSeo.map((r) => [
+            r.tmdbId,
+            buildContinueWatchingLinks(
+              slug,
+              recommendationsWithSeo,
+              r.tmdbId,
+              relatedGuideLinks,
+              alsoLikeLinks,
+            ),
+          ]),
+        )
+      : undefined;
+
   // ✅ VALIDATION: Fail build if SEO rules are broken
   const validation = validateMovieLikePage({
     title,
@@ -130,6 +147,58 @@ export default async function MovieLikePage({ params }: Props) {
           <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-balance mb-6">
             {h1}
           </h1>
+
+          {slug === "top-gun-maverick" && recommendationsWithSeo.length >= 3 && (
+            <section className="mb-10" aria-labelledby="top-three-picks-heading">
+              <h2
+                id="top-three-picks-heading"
+                className="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#FAFAFA] mb-2"
+              >
+                Top 3 picks (if you only watch one)
+              </h2>
+              <p className="text-sm text-[#9CA3AF] mb-5 max-w-2xl leading-relaxed">
+                Short on time? Start here—these three nail Maverick’s stunt craft, rivalry heat, or pilot
+                myth—then scroll for the full ranked list and filters.
+              </p>
+              <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {recommendationsWithSeo.slice(0, 3).map((rec, idx) => (
+                  <li key={rec.tmdbId}>
+                    <Link
+                      href={`#movie-like-rec-${rec.tmdbId}`}
+                      className="group flex h-full flex-col overflow-hidden rounded-2xl border border-white/10 bg-[#141414] transition-colors hover:border-amber-500/35"
+                    >
+                      <div className="relative aspect-[2/3] w-full bg-black/40">
+                        {rec.posterUrl ? (
+                          <Image
+                            src={rec.posterUrl}
+                            alt=""
+                            fill
+                            className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                          />
+                        ) : (
+                          <div className="flex h-full min-h-[200px] items-center justify-center text-xs text-[#6B7280] px-3 text-center">
+                            Poster unavailable
+                          </div>
+                        )}
+                        <span className="absolute left-3 top-3 inline-flex h-8 w-8 items-center justify-center rounded-full bg-amber-500 text-sm font-bold text-[#0F0F0F]">
+                          {idx + 1}
+                        </span>
+                      </div>
+                      <div className="flex flex-1 flex-col gap-1 p-4">
+                        <p className="font-display text-lg font-semibold text-[#FAFAFA] group-hover:text-amber-400 transition-colors">
+                          {rec.title}{" "}
+                          <span className="text-[#6B7280] font-normal">({rec.year})</span>
+                        </p>
+                        <p className="text-xs text-amber-500/90">Jump to full write-up ↓</p>
+                      </div>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
           {bundle.customIntroParagraphs && bundle.customIntroParagraphs.length > 0 ? (
             <div className="space-y-4 max-w-3xl text-base sm:text-lg text-[#D1D5DB] text-pretty leading-relaxed mb-10">
               {bundle.customIntroParagraphs.map((para, i) => (
@@ -205,7 +274,10 @@ export default async function MovieLikePage({ params }: Props) {
               to the site data.
             </p>
           ) : (
-            <RecommendationList items={recommendationsWithSeo} />
+            <RecommendationList
+              items={recommendationsWithSeo}
+              continueWatchingByTmdb={continueWatchingByTmdb}
+            />
           )}
 
           {bundle.recommendations.length > 0 && (

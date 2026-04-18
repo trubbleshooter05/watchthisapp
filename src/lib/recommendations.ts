@@ -49,6 +49,61 @@ export function filterExistingRelatedSlugs(related: string[]): string[] {
   return related.filter((s) => valid.has(s));
 }
 
+/** TMDB id of each bundle’s source film → canonical movies-like slug (lazy-built). */
+let sourceTmdbToSlugCache: Map<number, string> | null = null;
+
+export function getGuideSlugForSourceTmdbId(tmdbId: number): string | null {
+  if (!sourceTmdbToSlugCache) {
+    sourceTmdbToSlugCache = new Map();
+    for (const s of getAllMovieSlugs()) {
+      const b = getRecommendationBundle(s);
+      if (b) sourceTmdbToSlugCache.set(b.sourceMovie.tmdbId, s);
+    }
+  }
+  return sourceTmdbToSlugCache.get(tmdbId) ?? null;
+}
+
+/**
+ * Internal “continue watching” targets for a recommendation row: sibling picks that have their own
+ * guide pages first, then related guides, then sitewide also-like filler.
+ */
+export function buildContinueWatchingLinks(
+  currentPageSlug: string,
+  recommendations: Array<{ tmdbId: number }>,
+  currentTmdbId: number,
+  relatedSlugs: string[],
+  fillerSlugs: string[],
+  max = 3,
+): { slug: string; title: string }[] {
+  const out: { slug: string; title: string }[] = [];
+  const seen = new Set<string>();
+
+  for (const o of recommendations) {
+    if (o.tmdbId === currentTmdbId) continue;
+    const slug = getGuideSlugForSourceTmdbId(o.tmdbId);
+    if (slug && slug !== currentPageSlug && !seen.has(slug)) {
+      const b = getRecommendationBundle(slug);
+      if (b) {
+        out.push({ slug, title: b.sourceMovie.title });
+        seen.add(slug);
+      }
+    }
+    if (out.length >= max) return out;
+  }
+
+  for (const s of [...relatedSlugs, ...fillerSlugs]) {
+    if (!s || s === currentPageSlug || seen.has(s)) continue;
+    const b = getRecommendationBundle(s);
+    if (b) {
+      out.push({ slug: s, title: b.sourceMovie.title });
+      seen.add(s);
+    }
+    if (out.length >= max) return out;
+  }
+
+  return out;
+}
+
 /** For sitemap lastmod — updates when that page’s recommendation JSON changes. */
 export function getRecommendationJsonMtime(slug: string): Date {
   try {

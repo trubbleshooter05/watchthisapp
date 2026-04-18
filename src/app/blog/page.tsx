@@ -84,8 +84,15 @@ export default function BlogIndexPage() {
           Pair essays with curated recommendations — start from the{" "}
           <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
             popular guides hub
-          </Link>{" "}
-          or{" "}
+          </Link>
+          ,{" "}
+          <Link
+            href="/movies-like/top-gun-maverick"
+            className="text-amber-500 hover:text-amber-400 transition-colors"
+          >
+            companion picks after Top Gun: Maverick
+          </Link>
+          , or{" "}
           <Link href="/browse" className="text-amber-500 hover:text-amber-400 transition-colors">
             browse every title
           </Link>

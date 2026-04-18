@@ -16,6 +16,13 @@ export default function WatchlistPage() {
       <p className="text-[#9CA3AF] text-sm mb-6">
         Saved titles will live here once accounts and a database are wired up.
       </p>
+      <p className="text-[#9CA3AF] text-sm mb-4">
+        Need ideas? Try{" "}
+        <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:underline">
+          curated aviation-action picks after Top Gun: Maverick
+        </Link>
+        .
+      </p>
       <Link href="/browse" className="text-amber-500 hover:underline text-sm">
         Browse recommendations →
       </Link>

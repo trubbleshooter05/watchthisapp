@@ -24,6 +24,58 @@ DATA_REC = REPO_ROOT / "data" / "recommendations"
 QUEUE_FILE = SCRIPTS_DIR / "forge_queue.json"
 GENERATE_NEW_PAGE = SCRIPTS_DIR / "generate_new_page.py"
 
+
+def _preview_value(val: Any, max_len: int = 120) -> str:
+    s = repr(val)
+    if len(s) > max_len:
+        return s[:max_len] + "..."
+    return s
+
+
+def _normalize_tier_list(raw: Any, tier_name: str) -> list[dict[str, Any]]:
+    """
+    forge_queue.json must use t1/t2 as arrays of objects, e.g.
+    {"t1": [{"title": "...", "year": "2024", "slug": ""}], "t2": []}
+    Malformed string payloads or scalar values are skipped with a warning (no crash).
+    """
+    if raw is None:
+        return []
+    if isinstance(raw, str):
+        # Common failure: t1 was set to a plain string; list(str) would become char runs and break .get()
+        print(
+            f"FORGE WARN: {tier_name} expected a JSON array of objects, got str. "
+            f"type={type(raw).__name__!r} preview={_preview_value(raw)}",
+            flush=True,
+        )
+        return []
+    if isinstance(raw, dict):
+        print(
+            f"FORGE WARN: {tier_name} expected a JSON array, got dict. "
+            f"type={type(raw).__name__} preview={_preview_value(raw)}",
+            flush=True,
+        )
+        return []
+    if not isinstance(raw, list):
+        print(
+            f"FORGE WARN: {tier_name} expected a JSON array, got {type(raw).__name__}. "
+            f"preview={_preview_value(raw)}",
+            flush=True,
+        )
+        return []
+
+    out: list[dict[str, Any]] = []
+    for i, item in enumerate(raw):
+        if isinstance(item, dict):
+            out.append(item)
+            continue
+        print(
+            f"FORGE WARN: {tier_name}[{i}] expected dict row, got {type(item).__name__}. "
+            f"preview={_preview_value(item)} — skipping row",
+            flush=True,
+        )
+    return out
+
+
 def slugify(title: str) -> str:
     txt = unicodedata.normalize("NFKD", title)
     txt = txt.encode("ascii", "ignore").decode("ascii")
@@ -52,21 +104,41 @@ def normalize_slug(slug: str) -> str:
 def load_queue() -> dict[str, list[dict[str, Any]]]:
     if not QUEUE_FILE.exists():
         return {"t1": [], "t2": []}
-    data = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
-    t1 = list(data.get("t1") or [])
-    t2 = list(data.get("t2") or [])
+    try:
+        data = json.loads(QUEUE_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        print(f"FORGE WARN: invalid JSON in {QUEUE_FILE}: {e}", flush=True)
+        return {"t1": [], "t2": []}
+    if not isinstance(data, dict):
+        print(
+            f"FORGE WARN: queue root must be a JSON object, got {type(data).__name__}. preview={_preview_value(data)}",
+            flush=True,
+        )
+        return {"t1": [], "t2": []}
+    t1 = _normalize_tier_list(data.get("t1"), "t1")
+    t2 = _normalize_tier_list(data.get("t2"), "t2")
     return {"t1": t1, "t2": t2}
 
 
 def demote_avatar(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Push Avatar-titled rows to the end so one blockbuster doesn't starve the queue."""
+    safe: list[dict[str, Any]] = []
+    for i, row in enumerate(entries):
+        if not isinstance(row, dict):
+            print(
+                f"FORGE WARN: demote_avatar row[{i}] expected dict, got {type(row).__name__}. "
+                f"preview={_preview_value(row)} — skipping",
+                flush=True,
+            )
+            continue
+        safe.append(row)
 
     def is_avatar(row: dict[str, Any]) -> bool:
         t = str(row.get("title") or "").lower()
         return "avatar" in t
 
-    head = [e for e in entries if not is_avatar(e)]
-    tail = [e for e in entries if is_avatar(e)]
+    head = [e for e in safe if not is_avatar(e)]
+    tail = [e for e in safe if is_avatar(e)]
     return head + tail
 
 
@@ -122,7 +194,14 @@ def main() -> int:
         print(f"No queue entries in {QUEUE_FILE}. Add t1/t2 rows or use --slug.", flush=True)
         return 0
 
-    for row in entries:
+    for i, row in enumerate(entries):
+        if not isinstance(row, dict):
+            print(
+                f"FORGE WARN: queue row[{i}] expected dict, got {type(row).__name__}. "
+                f"preview={_preview_value(row)} — skipping",
+                flush=True,
+            )
+            continue
         title = str(row.get("title") or "").strip()
         if not title:
             continue

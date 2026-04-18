@@ -32,6 +32,7 @@ const POPULAR_SEARCH_SLUGS = [
   "fight-club",
   "parasite",
   "get-out",
+  "top-gun-maverick",
 ] as const;
 
 const GENRE_QUICK_LINKS = [
@@ -286,7 +287,14 @@ export default async function HomePage() {
             <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
               popular movie guides
             </Link>{" "}
-            when you want deeper context on style and storytelling.
+            when you want deeper context on style and storytelling, or jump straight to{" "}
+            <Link
+              href="/movies-like/top-gun-maverick"
+              className="text-amber-500 hover:text-amber-400 transition-colors"
+            >
+              movies like Top Gun Maverick
+            </Link>{" "}
+            for blockbuster follow-ups.
           </p>
           <Link
             href="/blog"

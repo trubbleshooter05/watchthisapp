@@ -2,6 +2,8 @@ import Link from "next/link";
 
 const nav = [
   { href: "/browse", label: "Browse" },
+  { href: "/popular", label: "Popular" },
+  { href: "/movies-like/top-gun-maverick", label: "Top Gun: Maverick" },
   { href: "/blog", label: "Essays" },
   { href: "/about", label: "About" },
 ];
@@ -13,14 +15,23 @@ export function SiteHeader() {
         <Link href="/" className="font-display text-lg font-bold tracking-tight text-[#FAFAFA]">
           Watch<span className="text-amber-500">This</span>
         </Link>
-        <nav className="flex items-center gap-4 sm:gap-6 text-sm text-[#9CA3AF]">
+        <nav className="flex flex-wrap items-center justify-end gap-x-3 gap-y-1 sm:gap-x-6 text-sm text-[#9CA3AF]">
           {nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="hover:text-amber-500 transition-colors"
+              className={`hover:text-amber-500 transition-colors ${
+                item.href === "/movies-like/top-gun-maverick" ? "text-amber-500/90 font-medium" : ""
+              }`}
             >
-              {item.label}
+              {item.href === "/movies-like/top-gun-maverick" ? (
+                <>
+                  <span className="sm:hidden">Maverick</span>
+                  <span className="hidden sm:inline">{item.label}</span>
+                </>
+              ) : (
+                item.label
+              )}
             </Link>
           ))}
         </nav>

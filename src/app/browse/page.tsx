@@ -41,6 +41,10 @@ export default function BrowsePage({ searchParams }: Props) {
 
       <p className="mt-12 text-sm text-[#6B7280] max-w-xl">
         Shortlist:{" "}
+        <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:text-amber-400 transition-colors">
+          What to watch after Top Gun: Maverick
+        </Link>
+        {" · "}
         <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
           Popular movie guides
         </Link>

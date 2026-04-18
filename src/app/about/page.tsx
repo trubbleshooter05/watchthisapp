@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
 import { getSiteUrl } from "@/lib/site-url";
@@ -27,7 +28,11 @@ export default function AboutPage() {
           WatchThis helps you answer &quot;what should I watch if I loved X?&quot; with specific
           reasons — not just a flat list — and up-to-date streaming availability in the US via TMDB.
           Recommendation blurbs are original editorial-style copy; we do not copy plot summaries
-          from third-party databases.
+          from third-party databases. Example: our{" "}
+          <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:underline">
+            full guide to movies like Top Gun: Maverick
+          </Link>
+          .
         </p>
         <p>
           Have a movie you want covered, or spotted something wrong? Reach out at{" "}

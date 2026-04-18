@@ -27,7 +27,11 @@ export default function PopularPage() {
       <h1 className="font-display text-3xl font-bold mb-3">Popular Movie Guides</h1>
       <p className="text-[#9CA3AF] mb-8">
         Browse top movie recommendation pages. These links help visitors and search engines discover
-        our most important guides.
+        our most important guides. For a high-octane blockbuster line, try{" "}
+        <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:text-amber-400">
+          Top Gun: Maverick–style recommendations
+        </Link>
+        .
       </p>
       <ul className="space-y-2">
         {SEO_PRIORITY_MOVIE_SLUGS.map((slug) => {

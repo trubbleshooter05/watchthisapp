@@ -22,6 +22,10 @@ export default function QuizPage() {
         <Link href="/popular" className="text-amber-500 hover:underline">
           popular movie guides
         </Link>
+        . Action fans can start with{" "}
+        <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:underline">
+          blockbuster follow-ups to Top Gun: Maverick
+        </Link>
         , or pick a title from the homepage.
       </p>
     </main>

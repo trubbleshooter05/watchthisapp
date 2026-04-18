@@ -5,6 +5,7 @@ import { getRecommendationBundle } from "@/lib/recommendations";
  * cross-linked, and boosted in the sitemap.
  */
 export const SEO_PRIORITY_MOVIE_SLUGS = [
+  "top-gun-maverick",
   "interstellar",
   "inception",
   "fight-club",

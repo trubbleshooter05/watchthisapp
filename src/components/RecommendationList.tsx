@@ -6,6 +6,8 @@ import { useMemo, useState } from "react";
 import type { EnrichedRecommendation } from "@/lib/enrich-page";
 
 export type EnrichedRecommendationWithSeo = EnrichedRecommendation & { seoParagraph: string };
+
+export type ContinueWatchingLink = { slug: string; title: string };
 import type { Mood } from "@/lib/types/recommendation";
 import { MatchBadge } from "@/components/MatchBadge";
 
@@ -37,7 +39,14 @@ function providerLogoUrl(logoPath: string | null): string | null {
   return `https://image.tmdb.org/t/p/w45${logoPath}`;
 }
 
-export function RecommendationList({ items }: { items: EnrichedRecommendationWithSeo[] }) {
+export function RecommendationList({
+  items,
+  continueWatchingByTmdb,
+}: {
+  items: EnrichedRecommendationWithSeo[];
+  /** When set (e.g. Top Gun: Maverick), show internal guide links after each pick. */
+  continueWatchingByTmdb?: Record<number, ContinueWatchingLink[]>;
+}) {
   const [mood, setMood] = useState<Mood | "all">("all");
   const [stream, setStream] = useState<StreamFilter>("all");
   const [era, setEra] = useState<EraFilter>("all");
@@ -103,7 +112,7 @@ export function RecommendationList({ items }: { items: EnrichedRecommendationWit
 
       <ol className="space-y-10 list-none p-0 m-0">
         {filtered.map((rec, i) => (
-          <li key={rec.tmdbId}>
+          <li key={rec.tmdbId} id={`movie-like-rec-${rec.tmdbId}`} className="scroll-mt-24">
             <article className="rounded-2xl border border-white/10 bg-[#141414] overflow-hidden sm:flex">
               <div className="relative aspect-[2/3] w-full sm:w-48 shrink-0 bg-black/40">
                 {rec.posterUrl ? (
@@ -175,6 +184,29 @@ export function RecommendationList({ items }: { items: EnrichedRecommendationWit
                               ({p.kind === "rent" ? "Rent" : "Buy"})
                             </span>
                           )}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+                {continueWatchingByTmdb?.[rec.tmdbId] && continueWatchingByTmdb[rec.tmdbId].length > 0 && (
+                  <div className="rounded-xl border border-amber-500/15 bg-amber-500/[0.06] px-4 py-3">
+                    <p className="text-xs font-semibold uppercase tracking-wide text-amber-500/90 mb-2">
+                      Continue watching
+                    </p>
+                    <ul className="flex flex-col gap-1.5 sm:flex-row sm:flex-wrap sm:gap-x-4 sm:gap-y-1">
+                      {continueWatchingByTmdb[rec.tmdbId].map((cw, idx) => (
+                        <li key={cw.slug}>
+                          <Link
+                            href={`/movies-like/${cw.slug}`}
+                            className="text-sm text-[#E5E7EB] hover:text-amber-400 transition-colors"
+                          >
+                            {idx === 0
+                              ? `Movies like ${cw.title}`
+                              : idx === 1
+                                ? `Similar guide: ${cw.title}`
+                                : `Also try: ${cw.title}`}
+                          </Link>
                         </li>
                       ))}
                     </ul>

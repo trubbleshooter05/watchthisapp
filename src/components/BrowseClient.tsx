@@ -55,6 +55,13 @@ export function BrowseClient({ movies, initialGenre = "" }: Props) {
 
   return (
     <>
+      <p className="mb-4 max-w-2xl text-sm text-[#9CA3AF]">
+        Want aviation adrenaline? See{" "}
+        <Link href="/movies-like/top-gun-maverick" className="text-amber-500 hover:text-amber-400">
+          similar movies to Top Gun Maverick
+        </Link>
+        .
+      </p>
       <MovieSearch
         movies={movies}
         placeholder="Filter movies... (e.g. Inception)"
