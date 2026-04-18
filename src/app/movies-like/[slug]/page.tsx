@@ -27,6 +27,7 @@ import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { generateH1 } from "@/lib/seo/ctr";
 import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
+import { MOVIES_LIKE_ENGAGEMENT_SLUGS } from "@/lib/movies-like-engagement";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -94,8 +95,9 @@ export default async function MovieLikePage({ params }: Props) {
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
   const relatedGuideLinks = filterExistingRelatedSlugs(bundle.relatedPages).filter((s) => s !== slug);
 
-  const continueWatchingByTmdb =
-    slug === "top-gun-maverick"
+  const showEngagement = MOVIES_LIKE_ENGAGEMENT_SLUGS.has(slug);
+
+  const continueWatchingByTmdb = showEngagement
       ? Object.fromEntries(
           recommendationsWithSeo.map((r) => [
             r.tmdbId,
@@ -148,17 +150,30 @@ export default async function MovieLikePage({ params }: Props) {
             {h1}
           </h1>
 
-          {slug === "top-gun-maverick" && recommendationsWithSeo.length >= 3 && (
-            <section className="mb-10" aria-labelledby="top-three-picks-heading">
+          {showEngagement && recommendationsWithSeo.length >= 3 && (
+            <section
+              className="mb-10 rounded-2xl border border-amber-500/20 bg-amber-500/[0.04] px-4 py-5 sm:px-6 sm:py-6"
+              aria-labelledby="top-picks-if-liked-heading"
+            >
               <h2
-                id="top-three-picks-heading"
+                id="top-picks-if-liked-heading"
                 className="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#FAFAFA] mb-2"
               >
-                Top 3 picks (if you only watch one)
+                Top picks if you liked {source.title}
               </h2>
               <p className="text-sm text-[#9CA3AF] mb-5 max-w-2xl leading-relaxed">
-                Short on time? Start here—these three nail Maverick’s stunt craft, rivalry heat, or pilot
-                myth—then scroll for the full ranked list and filters.
+                {slug === "top-gun-maverick" ? (
+                  <>
+                    Short on time? Start here—these three nail Maverick’s stunt craft, rivalry heat, or pilot
+                    myth—then scroll for the full ranked list and filters.
+                  </>
+                ) : (
+                  <>
+                    Short on time? Start with these three closest matches for{" "}
+                    <span className="text-[#D1D5DB]">{source.title}</span> fans—then jump into the full
+                    ranked list and filters below.
+                  </>
+                )}
               </p>
               <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                 {recommendationsWithSeo.slice(0, 3).map((rec, idx) => (

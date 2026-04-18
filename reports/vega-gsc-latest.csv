@@ -1,0 +1,2 @@
+url,impressions,clicks,ctr,avg_position,issue_tag,notes
+,,,,,,"INSTRUCTIONS: Paste Vega or Google Search Console export rows below the header. Use exact URLs from GSC only; do not invent targets. Align issue_tag with Vega (e.g. ctr_fix ranking_decay)."
