@@ -28,6 +28,7 @@ import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { generateH1 } from "@/lib/seo/ctr";
 import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
 import { MOVIES_LIKE_ENGAGEMENT_SLUGS } from "@/lib/movies-like-engagement";
+import { UNHEALER_TOP_THREE_BLURBS } from "@/lib/the-unhealer-page";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -96,6 +97,10 @@ export default async function MovieLikePage({ params }: Props) {
   const relatedGuideLinks = filterExistingRelatedSlugs(bundle.relatedPages).filter((s) => s !== slug);
 
   const showEngagement = MOVIES_LIKE_ENGAGEMENT_SLUGS.has(slug);
+  const isUnhealer = slug === "the-unhealer";
+  const showUnhealerTopThree = isUnhealer && recommendationsWithSeo.length >= 3;
+  const showEngagementAfterH1 =
+    showEngagement && !isUnhealer && recommendationsWithSeo.length >= 3;
 
   const continueWatchingByTmdb = showEngagement
       ? Object.fromEntries(
@@ -145,12 +150,69 @@ export default async function MovieLikePage({ params }: Props) {
       )}
       <div className="min-h-screen">
         <main className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
+          {showUnhealerTopThree && (
+            <section
+              className="mb-10 rounded-2xl border border-amber-500/30 bg-gradient-to-b from-amber-500/10 to-[#141414] px-4 py-5 sm:px-6 sm:py-6 ring-1 ring-amber-500/20"
+              aria-labelledby="unhealer-top-three-heading"
+            >
+              <h2
+                id="unhealer-top-three-heading"
+                className="font-display text-xl sm:text-2xl font-bold tracking-tight text-[#FAFAFA] mb-2"
+              >
+                Top 3 Picks If You Only Watch One
+              </h2>
+              <p className="text-sm text-[#9CA3AF] mb-5 max-w-2xl leading-relaxed">
+                Zero patience? These three hit Unhealer’s curse-thriller frequency fastest—tap a card, then
+                jump to the full breakdown below.
+              </p>
+              <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                {recommendationsWithSeo.slice(0, 3).map((rec, idx) => (
+                  <li key={rec.tmdbId}>
+                    <Link
+                      href={`#movie-like-rec-${rec.tmdbId}`}
+                      className="group flex h-full flex-col overflow-hidden rounded-2xl border border-white/10 bg-[#141414] transition-colors hover:border-amber-500/35"
+                    >
+                      <div className="relative aspect-[2/3] w-full bg-black/40">
+                        {rec.posterUrl ? (
+                          <Image
+                            src={rec.posterUrl}
+                            alt=""
+                            fill
+                            className="object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                          />
+                        ) : (
+                          <div className="flex h-full min-h-[200px] items-center justify-center text-xs text-[#6B7280] px-3 text-center">
+                            Poster unavailable
+                          </div>
+                        )}
+                        <span className="absolute left-3 top-3 inline-flex h-8 w-8 items-center justify-center rounded-full bg-amber-500 text-sm font-bold text-[#0F0F0F]">
+                          {idx + 1}
+                        </span>
+                      </div>
+                      <div className="flex flex-1 flex-col gap-2 p-4">
+                        <p className="font-display text-lg font-semibold text-[#FAFAFA] group-hover:text-amber-400 transition-colors">
+                          {rec.title}{" "}
+                          <span className="text-[#6B7280] font-normal">({rec.year})</span>
+                        </p>
+                        <p className="text-sm text-[#D1D5DB] leading-snug">
+                          {UNHEALER_TOP_THREE_BLURBS[rec.tmdbId] ?? "Tight match on curse-thriller dread—full notes below."}
+                        </p>
+                        <p className="text-xs text-amber-500/90">Full write-up ↓</p>
+                      </div>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
           <p className="text-amber-500/90 text-sm font-medium mb-2">Movies like</p>
           <h1 className="font-display text-3xl sm:text-4xl font-bold tracking-tight text-balance mb-6">
             {h1}
           </h1>
 
-          {showEngagement && recommendationsWithSeo.length >= 3 && (
+          {showEngagementAfterH1 && (
             <section
               className="mb-10 rounded-2xl border border-amber-500/20 bg-amber-500/[0.04] px-4 py-5 sm:px-6 sm:py-6"
               aria-labelledby="top-picks-if-liked-heading"
@@ -227,7 +289,29 @@ export default async function MovieLikePage({ params }: Props) {
             </p>
           )}
 
-          {bundle.editorialSections && bundle.editorialSections.length > 0 && (
+          {isUnhealer && bundle.editorialSections && bundle.editorialSections[0] && (
+            <div className="mb-10 max-w-3xl">
+              <section className="border-l-2 border-amber-500/40 pl-5">
+                <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
+                  {bundle.editorialSections[0].heading}
+                </h2>
+                <p className="text-[#D1D5DB] leading-relaxed text-pretty">{bundle.editorialSections[0].body}</p>
+              </section>
+            </div>
+          )}
+
+          {isUnhealer && bundle.editorialSections && bundle.editorialSections.length > 1 && (
+            <div className="mb-14 max-w-3xl">
+              <section className="border-l-2 border-amber-500/40 pl-5">
+                <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
+                  {bundle.editorialSections[1].heading}
+                </h2>
+                <p className="text-[#D1D5DB] leading-relaxed text-pretty">{bundle.editorialSections[1].body}</p>
+              </section>
+            </div>
+          )}
+
+          {!isUnhealer && bundle.editorialSections && bundle.editorialSections.length > 0 && (
             <div className="space-y-10 mb-14 max-w-3xl">
               {bundle.editorialSections.map((block) => (
                 <section key={block.heading} className="border-l-2 border-amber-500/40 pl-5">
