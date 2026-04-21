@@ -10,6 +10,7 @@ export type EnrichedRecommendationWithSeo = EnrichedRecommendation & { seoParagr
 export type ContinueWatchingLink = { slug: string; title: string };
 import type { Mood } from "@/lib/types/recommendation";
 import { MatchBadge } from "@/components/MatchBadge";
+import { buildWhereToWatchUrls } from "@/lib/where-to-watch";
 
 const MOODS: (Mood | "all")[] = ["all", "dark", "uplifting", "tense", "funny", "bittersweet"];
 const STREAMS = ["all", "netflix", "hulu", "prime", "disney", "max", "apple"] as const;
@@ -111,7 +112,9 @@ export function RecommendationList({
       </p>
 
       <ol className="space-y-10 list-none p-0 m-0">
-        {filtered.map((rec, i) => (
+        {filtered.map((rec, i) => {
+          const { amazonPrime } = buildWhereToWatchUrls(rec.title);
+          return (
           <li key={rec.tmdbId} id={`movie-like-rec-${rec.tmdbId}`} className="scroll-mt-24">
             <article className="rounded-2xl border border-white/10 bg-[#141414] overflow-hidden sm:flex">
               <div className="relative aspect-[2/3] w-full sm:w-48 shrink-0 bg-black/40">
@@ -158,11 +161,11 @@ export function RecommendationList({
                   </p>
                   <p className="text-[#D1D5DB] leading-relaxed">{rec.seoParagraph}</p>
                 </div>
-                {rec.providers.length > 0 && (
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-[#6B7280] mb-2">
-                      Watch on
-                    </p>
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-wide text-[#6B7280] mb-2">
+                    Watch on
+                  </p>
+                  {rec.providers.length > 0 ? (
                     <ul className="flex flex-wrap gap-2">
                       {rec.providers.slice(0, 8).map((p, idx) => (
                         <li
@@ -187,8 +190,23 @@ export function RecommendationList({
                         </li>
                       ))}
                     </ul>
-                  </div>
-                )}
+                  ) : null}
+                  <p className="mt-2">
+                    <a
+                      href={amazonPrime}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors"
+                    >
+                      Search Prime Video
+                    </a>
+                  </p>
+                  {i === 0 ? (
+                    <p className="mt-2 text-xs leading-relaxed text-[#9CA3AF]/90">
+                      We may earn a commission from qualifying purchases made through links on this page.
+                    </p>
+                  ) : null}
+                </div>
                 {continueWatchingByTmdb?.[rec.tmdbId] && continueWatchingByTmdb[rec.tmdbId].length > 0 && (
                   <div className="rounded-xl border border-amber-500/15 bg-amber-500/[0.06] px-4 py-3">
                     <p className="text-xs font-semibold uppercase tracking-wide text-amber-500/90 mb-2">
@@ -221,7 +239,8 @@ export function RecommendationList({
               </div>
             </article>
           </li>
-        ))}
+          );
+        })}
       </ol>
 
       {filtered.length === 0 && (
