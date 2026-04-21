@@ -191,21 +191,21 @@ export function RecommendationList({
                       ))}
                     </ul>
                   ) : null}
+                  {i === 0 ? (
+                    <p className="mt-3 border-t border-white/10 pt-3 text-xs leading-relaxed text-[#D1D5DB]">
+                      We may earn a commission from qualifying purchases made through links on this page.
+                    </p>
+                  ) : null}
                   <p className="mt-2">
                     <a
                       href={amazonPrime}
                       target="_blank"
-                      rel="noopener noreferrer"
+                      rel="noopener noreferrer sponsored"
                       className="text-sm text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors"
                     >
                       Search Prime Video
                     </a>
                   </p>
-                  {i === 0 ? (
-                    <p className="mt-2 text-xs leading-relaxed text-[#9CA3AF]/90">
-                      We may earn a commission from qualifying purchases made through links on this page.
-                    </p>
-                  ) : null}
                 </div>
                 {continueWatchingByTmdb?.[rec.tmdbId] && continueWatchingByTmdb[rec.tmdbId].length > 0 && (
                   <div className="rounded-xl border border-amber-500/15 bg-amber-500/[0.06] px-4 py-3">
