@@ -179,6 +179,12 @@
       "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this animation lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "inside-out-2",
+      "anchorText": "Pixar family animation with emotional stakes dialed up (Inside Out 2)"
+    }
+  ],
   "relatedPages": [
     "soul",
     "babe",

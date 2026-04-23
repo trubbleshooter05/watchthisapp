@@ -166,6 +166,12 @@
       "answer": "Viewer scores sit around 7.8/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-gangster-the-cop-the-devil",
+      "anchorText": "Neo-noir crime with blunt force—cops and crooks trading blows (The Gangster, The Cop, The Devil)"
+    }
+  ],
   "relatedPages": [
     "a-walk-among-the-tombstones",
     "chinatown",

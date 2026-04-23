@@ -159,6 +159,12 @@
       "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "la-la-land",
+      "anchorText": "Romance staged like a fever dream—music carrying the ache (La La Land)"
+    }
+  ],
   "relatedPages": [
     "a-star-is-born",
     "coda",

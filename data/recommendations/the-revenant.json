@@ -170,6 +170,12 @@
       "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this western lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "Relentless survival dread that never lets your nerves settle (The Unhealer)"
+    }
+  ],
   "relatedPages": [
     "dances-with-wolves",
     "hostiles",

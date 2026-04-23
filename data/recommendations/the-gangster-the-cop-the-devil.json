@@ -17,6 +17,12 @@
       "crowd-favorite"
     ]
   },
+  "seoTitle": "Movies Like The Gangster, The Cop, The Devil — Korean Crime That Hits Like a Hammer",
+  "seoDescription": "Cop, gangster, serial killer—three hunters, one fuse. If the 2019 Korean hit left you hungry for tight tactical fights and moral grey zones, these ranked picks keep that same blunt, breathless energy.",
+  "seoH1": "Movies Like The Gangster, The Cop, The Devil",
+  "customIntroParagraphs": [
+    "Looking for movies like The Gangster, The Cop, The Devil? These gritty crime thrillers deliver brutal action, cat-and-mouse tension, and dark underworld stories."
+  ],
   "recommendations": [
     {
       "tmdbId": 943,
@@ -151,12 +157,77 @@
         "drama"
       ],
       "mood": "dark"
+    },
+    {
+      "tmdbId": 51540,
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "matchPercentage": 77,
+      "whyYoullLoveIt": "Korean extremity with a procedural spine—vengeance escalates into something uglier than the original crime. If you want the same ruthless momentum as The Gangster, the Cop, the Devil with the safety rails torn off, this is the next stop.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 94329,
+      "title": "The Raid",
+      "year": 2011,
+      "matchPercentage": 76,
+      "whyYoullLoveIt": "Corridors, corners, and consequences—pure action architecture with crime-thriller stakes. Different country, same willingness to bruise the audience before it offers relief.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11658,
+      "title": "A Bittersweet Life",
+      "year": 2005,
+      "matchPercentage": 75,
+      "whyYoullLoveIt": "Hotel lounges and gang etiquette—Kim Jee-woon’s noir hitman piece shares the Korean underworld polish and sudden violence that fans of Lee Won-tae’s film chase on a rewatch.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "action"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10768,
+      "title": "Infernal Affairs",
+      "year": 2002,
+      "matchPercentage": 74,
+      "whyYoullLoveIt": "Mirrors inside institutions—cops, criminals, and identities that rot from the inside. The cat-and-mouse is psychological as much as tactical, echoing the uneasy alliances in The Gangster, the Cop, the Devil.",
+      "sharedVibes": [
+        "crime",
+        "thriller",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 51608,
+      "title": "The Man from Nowhere",
+      "year": 2010,
+      "matchPercentage": 73,
+      "whyYoullLoveIt": "A quiet pawnshop front explodes into corridor combat and criminal networks—tight pacing, high body count, and moral lines drawn in blood. Natural company for viewers who liked the lean genre engine of the 2019 film.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
     }
   ],
   "faq": [
     {
       "question": "What should I watch after The Gangster, the Cop, the Devil?",
-      "answer": "Try Lethal Weapon 3, The Dead Pool, The Roundup 3: No Way Out—each shares DNA with The Gangster, the Cop, the Devil while changing the setting enough to feel fresh."
+      "answer": "Try I Saw the Devil, Infernal Affairs, The Man from Nowhere—each shares DNA with The Gangster, the Cop, the Devil while changing the setting enough to feel fresh."
     },
     {
       "question": "What genre is The Gangster, the Cop, the Devil?",
@@ -168,12 +239,13 @@
     }
   ],
   "relatedPages": [
+    "john-wick",
+    "oldboy",
+    "heat",
+    "copshop",
+    "training-day",
+    "infernal-affairs",
     "a-working-man",
-    "along-came-a-spider",
-    "assassins",
-    "avengement",
-    "bad-boys",
-    "bad-boys-for-life",
-    "ballerina"
+    "along-came-a-spider"
   ]
 }

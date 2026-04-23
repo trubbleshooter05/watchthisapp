@@ -165,6 +165,12 @@
       "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this war lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "Brutal, grounded pressure when morality starts to fray (The Unhealer)"
+    }
+  ],
   "relatedPages": [
     "13-hours-the-secret-soldiers-of-benghazi",
     "300-rise-of-an-empire",

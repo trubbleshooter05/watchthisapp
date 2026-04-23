@@ -160,6 +160,12 @@
       "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-good-heart",
+      "anchorText": "Tender, bittersweet human stories with room to breathe (The Good Heart)"
+    }
+  ],
   "relatedPages": [
     "cinderella",
     "city-of-angels",

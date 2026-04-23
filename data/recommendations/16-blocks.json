@@ -173,6 +173,12 @@
       "answer": "Viewer scores sit around 6.4/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "copshop",
+      "anchorText": "One long night, one job—cop thriller claustrophobia in a different key (Copshop)"
+    }
+  ],
   "relatedPages": [
     "assassins",
     "into-the-blue",

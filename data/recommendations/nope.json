@@ -156,6 +156,16 @@
       "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "High-tension thriller horror with an uncanny, bitter twist (The Unhealer)"
+    },
+    {
+      "slug": "get-out",
+      "anchorText": "Paranoia that starts funny and ends unforgettable (Get Out)"
+    }
+  ],
   "relatedPages": [
     "get-out",
     "10-cloverfield-lane",

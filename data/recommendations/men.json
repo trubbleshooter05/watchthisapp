@@ -24,6 +24,17 @@
     "Men weaponizes repetition and the English countryside: Garland turns every encounter into a mirror, stretching dread through body horror and allegory until the film feels like a bad dream you cannot fact-check. It is divisive on purpose—less about plot receipts, more about mood sticking under your skin.",
     "These ten picks chase that same surreal folk-horror frequency: uncanny villages, identity horror, and tension that lingers after the credits. Use the related guides to hop toward The Unhealer, Hereditary, Get Out, or The Conjuring when you want more curated horror trails without leaving the site."
   ],
+  "shortComparison": {
+    "heading": "Men vs Hereditary — key differences",
+    "body": "Men stretches folk-horror unease and repetition until metaphor takes over. Hereditary keeps grief and lineage in surgical focus—every room is a trap you can diagram. Both punish denial; Garland dissolves the floor while Aster tightens the walls."
+  },
+  "midPageYouMightAlsoLike": [
+    { "slug": "midsommar", "anchorText": "Folk dread in the open air (Midsommar)" },
+    { "slug": "hereditary", "anchorText": "Family rot under polite ritual (Hereditary)" },
+    { "slug": "ex-machina", "anchorText": "Isolation tech-thriller with body-horror edges (Ex Machina)" },
+    { "slug": "the-witch", "anchorText": "Paranoia in a hostile landscape (The Witch)" },
+    { "slug": "parasite", "anchorText": "Unease in rooms that should feel safe (Parasite)" }
+  ],
   "recommendations": [
     {
       "tmdbId": 621151,
@@ -170,6 +181,12 @@
     }
   ],
   "relatedPages": [
+    "hereditary",
+    "get-out",
+    "the-conjuring",
+    "interstellar",
+    "inception",
+    "parasite",
     "the-unhealer",
     "blade-ii",
     "day-shift",

@@ -162,6 +162,12 @@
       "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "Curse-thriller revenge & supernatural payback (The Unhealer)"
+    }
+  ],
   "relatedPages": [
     "men",
     "hereditary",

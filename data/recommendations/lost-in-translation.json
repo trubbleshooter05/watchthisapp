@@ -164,6 +164,12 @@
       "answer": "Viewer scores sit around 7.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-good-heart",
+      "anchorText": "Quiet character drama with emotional precision (The Good Heart)"
+    }
+  ],
   "relatedPages": [
     "10-things-i-hate-about-you",
     "500-days-of-summer",

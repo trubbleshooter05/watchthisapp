@@ -172,6 +172,12 @@
       "answer": "Viewer scores sit around 7.1/10 on TMDB—high enough that replays are common for people who like this comedy lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-chorus",
+      "anchorText": "Music that redeems kids the system ignored—French choral drama (The Chorus)"
+    }
+  ],
   "relatedPages": [
     "hannah-montana-the-movie",
     "sing",

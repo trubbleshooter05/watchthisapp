@@ -157,6 +157,16 @@
       "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this music lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-chorus",
+      "anchorText": "Performance as survival—emotion braided into every rehearsal (The Chorus)"
+    },
+    {
+      "slug": "la-la-land",
+      "anchorText": "Show tunes as confession—another big‑screen musical heartbreak (La La Land)"
+    }
+  ],
   "relatedPages": [
     "8-mile",
     "a-complete-unknown",

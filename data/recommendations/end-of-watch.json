@@ -167,6 +167,12 @@
       "answer": "Viewer scores sit around 7.3/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "copshop",
+      "anchorText": "Badge, bullets, and bad odds—station siege energy without the polish (Copshop)"
+    }
+  ],
   "relatedPages": [
     "a-history-of-violence",
     "a-time-to-kill",

@@ -25,6 +25,17 @@
     "Hereditary is not jump-scare roulette—it is grief turned into architecture: Aster uses family rooms, miniatures, and unbearable silence to make trauma feel inherited. When the film snaps into full occult nightmare, it feels earned because the emotional stakes were already unbearable.",
     "The ten picks below chase that same slow-burn dread: toxic lineages, cult logic, and horror that punishes denial before it punishes characters. If you are comparing notes with other modern horror hubs, jump to our guides for The Unhealer, Get Out, The Conjuring, or Men—each linked in related pages for deeper internal trails."
   ],
+  "shortComparison": {
+    "heading": "Hereditary vs Get Out — key differences",
+    "body": "Hereditary weaponizes inherited trauma and cult logic in a closed family system. Get Out traps you in politeness-as-camouflage and social satire with thriller gears. Both refuse comfort, but Aster hides evil in bloodline while Peele hides it in compliments."
+  },
+  "midPageYouMightAlsoLike": [
+    { "slug": "interstellar", "anchorText": "Grief as engine—time and lineage wreck plans (Interstellar)" },
+    { "slug": "inception", "anchorText": "Layers of trauma you can’t exit cleanly (Inception)" },
+    { "slug": "parasite", "anchorText": "Family systems cracking under pressure (Parasite)" },
+    { "slug": "midsommar", "anchorText": "Ritual dread in bright daylight (Midsommar)" },
+    { "slug": "the-witch", "anchorText": "Puritan doom—slow, inherited, final (The Witch)" }
+  ],
   "recommendations": [
     {
       "tmdbId": 526667,
@@ -172,6 +183,8 @@
     }
   ],
   "relatedPages": [
+    "interstellar",
+    "parasite",
     "the-unhealer",
     "get-out",
     "black-swan",

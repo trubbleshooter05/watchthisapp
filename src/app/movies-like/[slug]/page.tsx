@@ -29,6 +29,7 @@ import { generateH1 } from "@/lib/seo/ctr";
 import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
 import { MOVIES_LIKE_ENGAGEMENT_SLUGS } from "@/lib/movies-like-engagement";
 import { UNHEALER_TOP_THREE_BLURBS } from "@/lib/the-unhealer-page";
+import { WhereToWatch } from "@/components/WhereToWatch";
 
 /** Fetch TMDB at request time so `TMDB_API_KEY` works with `next start` without rebuilding. */
 export const revalidate = 86400;
@@ -95,6 +96,13 @@ export default async function MovieLikePage({ params }: Props) {
 
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
   const relatedGuideLinks = filterExistingRelatedSlugs(bundle.relatedPages).filter((s) => s !== slug);
+
+  const midPageGuideLinks =
+    bundle.midPageYouMightAlsoLike?.flatMap((entry) => {
+      if (entry.slug === slug) return [];
+      const b = getRecommendationBundle(entry.slug);
+      return b ? [{ slug: entry.slug, anchorText: entry.anchorText, title: b.sourceMovie.title }] : [];
+    }) ?? [];
 
   const showEngagement = MOVIES_LIKE_ENGAGEMENT_SLUGS.has(slug);
   const isUnhealer = slug === "the-unhealer";
@@ -212,6 +220,11 @@ export default async function MovieLikePage({ params }: Props) {
             {h1}
           </h1>
 
+          <WhereToWatch
+            movieTitle={source.title}
+            includeNetflix={bundle.whereToWatch?.netflix === true}
+          />
+
           {showEngagementAfterH1 && (
             <section
               className="mb-10 rounded-2xl border border-amber-500/20 bg-amber-500/[0.04] px-4 py-5 sm:px-6 sm:py-6"
@@ -289,29 +302,7 @@ export default async function MovieLikePage({ params }: Props) {
             </p>
           )}
 
-          {isUnhealer && bundle.editorialSections && bundle.editorialSections[0] && (
-            <div className="mb-10 max-w-3xl">
-              <section className="border-l-2 border-amber-500/40 pl-5">
-                <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
-                  {bundle.editorialSections[0].heading}
-                </h2>
-                <p className="text-[#D1D5DB] leading-relaxed text-pretty">{bundle.editorialSections[0].body}</p>
-              </section>
-            </div>
-          )}
-
-          {isUnhealer && bundle.editorialSections && bundle.editorialSections.length > 1 && (
-            <div className="mb-14 max-w-3xl">
-              <section className="border-l-2 border-amber-500/40 pl-5">
-                <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
-                  {bundle.editorialSections[1].heading}
-                </h2>
-                <p className="text-[#D1D5DB] leading-relaxed text-pretty">{bundle.editorialSections[1].body}</p>
-              </section>
-            </div>
-          )}
-
-          {!isUnhealer && bundle.editorialSections && bundle.editorialSections.length > 0 && (
+          {bundle.editorialSections && bundle.editorialSections.length > 0 && (
             <div className="space-y-10 mb-14 max-w-3xl">
               {bundle.editorialSections.map((block) => (
                 <section key={block.heading} className="border-l-2 border-amber-500/40 pl-5">
@@ -385,6 +376,41 @@ export default async function MovieLikePage({ params }: Props) {
                 Why You&apos;ll Love These Movies
               </h2>
               <p className="text-[#D1D5DB] leading-relaxed max-w-3xl text-pretty">{whyLoveThese}</p>
+            </section>
+          )}
+
+          {bundle.shortComparison && (
+            <section className="mt-14 border-t border-white/10 pt-12 max-w-3xl">
+              <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
+                {bundle.shortComparison.heading}
+              </h2>
+              <p className="text-[#D1D5DB] leading-relaxed text-pretty">{bundle.shortComparison.body}</p>
+            </section>
+          )}
+
+          {midPageGuideLinks.length > 0 && (
+            <section className="mt-14 border-t border-white/10 pt-12" aria-labelledby="mid-page-also-like-heading">
+              <h2
+                id="mid-page-also-like-heading"
+                className="font-display text-xl font-semibold text-[#FAFAFA] mb-4"
+              >
+                You might also like
+              </h2>
+              <p className="text-sm text-[#9CA3AF] mb-5 max-w-2xl leading-relaxed">
+                Deeper trails—hand-picked guides beyond the default “movies like” chips above.
+              </p>
+              <ul className="flex flex-wrap gap-3">
+                {midPageGuideLinks.map((link) => (
+                  <li key={link.slug}>
+                    <Link
+                      href={`/movies-like/${link.slug}`}
+                      className="inline-block rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors max-w-xs text-balance"
+                    >
+                      {link.anchorText}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </section>
           )}
 

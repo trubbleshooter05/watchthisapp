@@ -180,6 +180,12 @@
       "answer": "Viewer scores sit around 7.6/10 on TMDB—high enough that replays are common for people who like this family lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "inside-out-2",
+      "anchorText": "Heart-forward Pixar when you want feelings with your world-building (Inside Out 2)"
+    }
+  ],
   "relatedPages": [
     "hercules",
     "shrek-2",

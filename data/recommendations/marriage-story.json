@@ -13,6 +13,9 @@
       "rewatchable"
     ]
   },
+  "whereToWatch": {
+    "netflix": true
+  },
   "recommendations": [
     {
       "tmdbId": 37094,

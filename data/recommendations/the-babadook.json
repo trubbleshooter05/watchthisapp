@@ -150,6 +150,12 @@
       "answer": "Viewer scores sit around 6.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "Trauma-fueled horror when the threat won’t stay metaphorical (The Unhealer)"
+    }
+  ],
   "relatedPages": [
     "hereditary",
     "10-cloverfield-lane",

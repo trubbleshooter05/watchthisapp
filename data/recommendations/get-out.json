@@ -27,6 +27,17 @@
     "Get Out weaponizes politeness: every micro-aggression lands like a tripwire, and the Armitage house is a trap dressed as hospitality. Peele keeps the scares political without preaching—horror first, commentary braided into suspense that refuses to let you relax between laughs and dread.",
     "These ten follow-ups keep the same propulsive paranoia: outsiders who cannot trust the room they are in, thrillers that pivot hard in act three, and stories where the real monster is complicity. For more modern horror trails, pair this list with our The Unhealer, Hereditary, The Conjuring, or Men guides via the related links."
   ],
+  "shortComparison": {
+    "heading": "Get Out vs The Conjuring — key differences",
+    "body": "Get Out is social trap satire where the monster is complicity dressed as hospitality. The Conjuring is classical haunted-house casefile horror—investigators, malevolent history, jump-scare craft. Shared only in this: neither lets you trust the room you’re standing in."
+  },
+  "midPageYouMightAlsoLike": [
+    { "slug": "parasite", "anchorText": "House as trap, class as horror (Parasite)" },
+    { "slug": "us", "anchorText": "Peele’s next paranoia puzzle (Us)" },
+    { "slug": "inception", "anchorText": "You can’t trust the architecture of the scene (Inception)" },
+    { "slug": "joker", "anchorText": "Polite surface, rage underneath (Joker)" },
+    { "slug": "shutter-island", "anchorText": "Institutions that gaslight the lead (Shutter Island)" }
+  ],
   "recommendations": [
     {
       "tmdbId": 1213,
@@ -174,6 +185,8 @@
     }
   ],
   "relatedPages": [
+    "interstellar",
+    "inception",
     "the-unhealer",
     "parasite",
     "us",

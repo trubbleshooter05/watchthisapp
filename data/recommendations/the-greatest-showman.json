@@ -156,6 +156,12 @@
       "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "la-la-land",
+      "anchorText": "Showbiz dreams in color and song—another musical sweep (La La Land)"
+    }
+  ],
   "relatedPages": [
     "10-cloverfield-lane",
     "10-things-i-hate-about-you",

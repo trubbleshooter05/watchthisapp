@@ -162,6 +162,12 @@
       "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this action lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-gangster-the-cop-the-devil",
+      "anchorText": "Pressure-cooker thriller pacing—no room to breathe (The Gangster, The Cop, The Devil)"
+    }
+  ],
   "relatedPages": [
     "along-came-a-spider",
     "in-the-line-of-fire",

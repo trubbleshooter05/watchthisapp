@@ -162,6 +162,12 @@
       "answer": "Viewer scores sit around 8.4/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-chorus",
+      "anchorText": "Music as salvation under pressure—boys pushed to their limit (The Chorus)"
+    }
+  ],
   "relatedPages": [
     "top-gun-maverick",
     "black-swan",

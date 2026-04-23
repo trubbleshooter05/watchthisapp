@@ -163,6 +163,12 @@
       "answer": "Viewer scores sit around 8.2/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-gangster-the-cop-the-devil",
+      "anchorText": "Another brutal Korean hit: hunt-the-serial-killer through the underworld (The Gangster, The Cop, The Devil)"
+    }
+  ],
   "relatedPages": [
     "in-the-line-of-fire",
     "infernal-affairs",

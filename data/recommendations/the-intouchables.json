@@ -160,6 +160,12 @@
       "answer": "Viewer scores sit around 8.3/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-good-heart",
+      "anchorText": "Warm odd‑couple humanity with a soft landing (The Good Heart)"
+    }
+  ],
   "relatedPages": [
     "10-things-i-hate-about-you",
     "3-idiots",

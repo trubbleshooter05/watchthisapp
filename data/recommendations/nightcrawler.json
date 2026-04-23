@@ -165,6 +165,12 @@
       "answer": "Viewer scores sit around 7.7/10 on TMDB—high enough that replays are common for people who like this crime lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-unhealer",
+      "anchorText": "Night‑creeping tension and a protagonist who won't look away (The Unhealer)"
+    }
+  ],
   "relatedPages": [
     "a-history-of-violence",
     "a-walk-among-the-tombstones",

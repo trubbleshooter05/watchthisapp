@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Browse",
   description: "All movies-like recommendation pages on WatchThis.",
   alternates: { canonical: `${getSiteUrl()}/browse` },
-  robots: { index: true, follow: true },
+  robots: { index: false, follow: true },
 };
 
 type Props = {

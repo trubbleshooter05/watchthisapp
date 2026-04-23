@@ -158,6 +158,12 @@
       "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "9-songs",
+      "anchorText": "Music, intimacy, and a relationship told in live wire moments (9 Songs)"
+    }
+  ],
   "relatedPages": [
     "8-mile",
     "a-complete-unknown",

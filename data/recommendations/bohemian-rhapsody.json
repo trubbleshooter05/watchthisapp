@@ -154,6 +154,12 @@
       "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this music lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "9-songs",
+      "anchorText": "Concert‑floor electricity braided into a private love story (9 Songs)"
+    }
+  ],
   "relatedPages": [
     "8-mile",
     "a-complete-unknown",

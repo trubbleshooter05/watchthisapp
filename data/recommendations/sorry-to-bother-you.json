@@ -161,6 +161,12 @@
       "answer": "Viewer scores sit around 6.8/10 on TMDB—high enough that replays are common for people who like this fantasy lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "get-out",
+      "anchorText": "Social thriller satire with a killer premise (Get Out)"
+    }
+  ],
   "relatedPages": [
     "cj7",
     "diamantino",

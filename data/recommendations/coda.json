@@ -158,6 +158,12 @@
       "answer": "Viewer scores sit around 7.9/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-chorus",
+      "anchorText": "Quiet triumph through performance—emotion without melodrama (The Chorus)"
+    }
+  ],
   "relatedPages": [
     "a-star-is-born",
     "coyote-ugly",

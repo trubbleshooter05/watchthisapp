@@ -24,7 +24,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: dataFresh, changeFrequency: "daily", priority: 1 },
-    { url: `${baseUrl}/browse`, lastModified: dataFresh, changeFrequency: "weekly", priority: 0.9 },
     {
       url: `${baseUrl}/blog`,
       lastModified: appFileMtime("src/app/blog/page.tsx"),
@@ -36,6 +35,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: appFileMtime("src/app/popular/page.tsx"),
       changeFrequency: "weekly",
       priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/best-revenge-movies-like-kill-bill`,
+      lastModified: appFileMtime("src/app/best-revenge-movies-like-kill-bill/page.tsx"),
+      changeFrequency: "monthly",
+      priority: 0.75,
     },
     {
       url: `${baseUrl}/quiz`,
