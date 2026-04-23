@@ -161,6 +161,12 @@
       "answer": "Viewer scores sit around 8.0/10 on TMDB—high enough that replays are common for people who like this drama lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "top-gun-maverick",
+      "anchorText": "Machismo, rivalry, and machines pushed past the redline (Top Gun: Maverick)"
+    }
+  ],
   "relatedPages": [
     "top-gun-maverick",
     "13-hours-the-secret-soldiers-of-benghazi",

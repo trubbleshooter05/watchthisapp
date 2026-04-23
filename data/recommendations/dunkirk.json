@@ -163,6 +163,12 @@
       "answer": "Viewer scores sit around 7.5/10 on TMDB—high enough that replays are common for people who like this war lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "top-gun-maverick",
+      "anchorText": "Imax-scale peril—survival and spectacle without a safety net (Top Gun: Maverick)"
+    }
+  ],
   "relatedPages": [
     "top-gun-maverick",
     "13-hours-the-secret-soldiers-of-benghazi",

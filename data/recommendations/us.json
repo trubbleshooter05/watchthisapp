@@ -160,6 +160,12 @@
       "answer": "Viewer scores sit around 7.0/10 on TMDB—high enough that replays are common for people who like this horror lane."
     }
   ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "get-out",
+      "anchorText": "Peele’s house-of-mirrors dread—doubles, class panic, sharp knives (Get Out)"
+    }
+  ],
   "relatedPages": [
     "get-out",
     "the-unhealer",
