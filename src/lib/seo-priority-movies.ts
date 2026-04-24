@@ -14,6 +14,7 @@ export const SEO_PRIORITY_MOVIE_SLUGS = [
   "pulp-fiction",
   "parasite",
   "get-out",
+  "sinners-2025",
   "john-wick",
   "oppenheimer",
   "barbie",
