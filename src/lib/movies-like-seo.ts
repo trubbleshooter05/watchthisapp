@@ -19,9 +19,18 @@ export type SourceForSeoParagraph = SourceMovie & {
 };
 
 const BANNED_PHRASES = [
-  "strong pick for anyone",
-  "keeps the viewing experience cohesive",
+  "where it overlaps",
+  "the register is",
   "without feeling like a copy",
+  "strong pick for anyone",
+  "you will notice the same appetite",
+  "it lines up with",
+  "keeps the viewing experience cohesive",
+  "same appetite for momentum",
+  "vague “vibe match”",
+  "not a cosmetic swap",
+  "same neighborhood of",
+  "earns its own slot beside",
 ] as const;
 
 function scrubBannedPhrases(text: string): string {
@@ -44,18 +53,6 @@ function mulberry32(seed: number): () => number {
   };
 }
 
-function shuffleTemplateSlots(rng: () => number): Array<{ id: number; invert: boolean }> {
-  const slots: Array<{ id: number; invert: boolean }> = [];
-  for (let id = 0; id < 10; id++) {
-    slots.push({ id, invert: false }, { id, invert: true });
-  }
-  for (let i = slots.length - 1; i > 0; i--) {
-    const j = Math.floor(rng() * (i + 1));
-    [slots[i], slots[j]] = [slots[j]!, slots[i]!];
-  }
-  return slots;
-}
-
 /** First sentence or clause, capped — for concrete plot texture. */
 function plotHook(overview: string | null | undefined, fallback: string): string {
   if (!overview || overview.length < 20) return fallback;
@@ -76,22 +73,6 @@ function themePhrase(shared: string[]): string {
   return shared.slice(0, 3).map((v) => v.replace(/-/g, " ")).join(", ");
 }
 
-function contrastBeat(source: SourceForSeoParagraph, rec: RecommendationForSeoParagraph): string {
-  const sg = source.genres[0];
-  const rg = rec.genreNames?.[0];
-  if (sg && rg && sg.toLowerCase() !== rg.toLowerCase()) {
-    return `${sg} gives way to ${rg} in how the plot weights each scene`;
-  }
-  const dy = Math.abs(source.year - rec.year);
-  if (dy >= 14) {
-    return `${source.year} and ${rec.year} ask for different cultural readouts even when the hook sounds related`;
-  }
-  if (rec.mood && MOOD_COPY[rec.mood]) {
-    return `the finish is pitched ${MOOD_COPY[rec.mood]}, so the ride does not mirror ${source.title} beat for beat`;
-  }
-  return `setpieces and turning points land in different rooms than ${source.title} chooses`;
-}
-
 type ParagraphCtx = {
   sourceTitle: string;
   recTitle: string;
@@ -103,70 +84,76 @@ type ParagraphCtx = {
   moodDesc: string;
   sourceGenre: string;
   recGenre: string;
-  contrast: string;
 };
 
 /**
- * Ten distinct structural templates (tone, theme, narrative, comparison, audience × 2).
- * `invert` flips clause order when we must reuse a template index on long lists.
+ * Twelve standalone paragraph shapes (tone, plot spine, character pressure, payoff, stakes,
+ * genre lens, fork, era, viewer hook, mood, centerpiece beat, texture). Each is written as a
+ * single short rationale—no shared closing library, no [intro]+[overlap]+[tail] assembly.
+ * Pages cap at ten rows, so a shuffled subset guarantees distinct structure per recommendation.
  */
-function runTemplate(id: number, ctx: ParagraphCtx, invert: boolean): string {
-  const { sourceTitle, recTitle, sourceHook, recHook, themes, moodDesc, sourceGenre, recGenre, contrast } =
-    ctx;
+const PARAGRAPH_STYLE_COUNT = 12;
 
-  const blocks: Record<number, [string, string]> = {
-    0: [
-      `${recTitle} keeps ${themes} in motion, yet the register is ${moodDesc}: ${sourceTitle} roots tension in ${sourceHook}; here the pressure tracks ${recHook}.`,
-      `The ${moodDesc} delivery is the pivot—${recTitle} still honors ${themes}, but unlike ${sourceTitle}’s ${sourceGenre} spine (${sourceHook}), this version steers through ${recHook}.`,
-    ],
-    1: [
-      `Tone-first, ${recTitle} is ${moodDesc} where ${sourceTitle} leaned on ${sourceGenre} storytelling—parallel curiosity, different aftertaste when ${recHook} replaces ${sourceHook}.`,
-      `If ${sourceTitle} trained you on ${sourceHook}, ${recTitle} answers with ${recHook} while holding ${themes}—only the emotional temperature matches ${moodDesc}, not the scene list.`,
-    ],
-    2: [
-      `The thematic braid is ${themes}, but the moral math shifts: ${sourceTitle} stages ${sourceHook} while ${recTitle} forces the conflict through ${recHook}.`,
-      `${themes} stay visible, then diverge: ${recHook} becomes the engine in ${recTitle}, whereas ${sourceTitle} hung its weight on ${sourceHook}.`,
-    ],
-    3: [
-      `Shared DNA (${themes}) hides a fork—${sourceTitle}’s plot leans on ${sourceHook}; ${recTitle} re-threads the same worries through ${recHook}.`,
-      `You will recognize ${themes}, yet the story argues differently: ${sourceHook} versus ${recHook} is not a cosmetic swap between ${sourceTitle} and ${recTitle}.`,
-    ],
-    4: [
-      `Narrative geometry changes: ${sourceTitle} builds toward ${sourceHook}; ${recTitle} reroutes stakes so ${recHook} carries the climax’s weight.`,
-      `Same appetite for momentum, different spine—${sourceTitle} locks the arc around ${sourceHook}, ${recTitle} around ${recHook}.`,
-    ],
-    5: [
-      `Plot mileage is not parallel—${sourceHook} in ${sourceTitle} versus ${recHook} in ${recTitle} means beats land in a new order even when ${themes} echo.`,
-      `Sequencing matters: where ${sourceTitle} resolves through ${sourceHook}, ${recTitle} saves its sharpest turns for ${recHook}.`,
-    ],
-    6: [
-      `Side-by-side, ${sourceTitle} is ${sourceGenre}-forward (${sourceHook}) and ${recTitle} pushes ${recGenre} choices (${recHook})—${contrast}.`,
-      `Compare the lenses: ${sourceTitle} frames ${sourceHook}; ${recTitle} reframes the night around ${recHook}, so ${contrast}.`,
-    ],
-    7: [
-      `Stack ${sourceTitle} against ${recTitle}: one leans ${sourceHook}, the other bets on ${recHook}—same neighborhood of ${themes}, different floor plan.`,
-      `The contrast is concrete—${sourceHook} vs ${recHook}—not a vague “vibe match,” which is why ${recTitle} earns its own slot beside ${sourceTitle}.`,
-    ],
-    8: [
-      `For ${sourceTitle} fans who want ${themes} but need a lateral move, ${recTitle} trades ${sourceGenre} habits for ${recHook} while staying ${moodDesc}.`,
-      `Audiences who liked ${sourceHook} in ${sourceTitle} often chase ${recHook} next; ${recTitle} delivers that handoff without pretending the story beats are identical.`,
-    ],
-    9: [
-      `You arrive carrying ${sourceTitle}’s ${themes} expectations—${recTitle} honors the itch, then bends the plot through ${recHook} instead of repeating ${sourceHook}.`,
-      `Built for viewers who measure films by payoff, not poster: ${recTitle} pays off ${themes} via ${recHook}, where ${sourceTitle} paid via ${sourceHook}.`,
-    ],
-  };
-
-  const pair = blocks[id] ?? blocks[0]!;
-  const base = invert ? pair[1]! : pair[0]!;
-  return base;
+function capWhyItFitsParagraph(text: string): string {
+  const sentences = text.split(/(?<=[.!?])\s+/).map((s) => s.trim()).filter(Boolean);
+  const trimmed = sentences.slice(0, 3).join(" ");
+  const words = trimmed.split(/\s+/).filter(Boolean);
+  if (words.length <= 58) return trimmed;
+  const cut = words.slice(0, 52).join(" ");
+  return /[.!?]$/.test(cut) ? cut : `${cut}.`;
 }
 
-function pickLengthVariant(text: string, rng: () => number): string {
-  const words = text.split(/\s+/).filter(Boolean);
-  if (words.length <= 42) return text;
-  const cap = rng() < 0.45 ? 36 : rng() < 0.7 ? 44 : 52;
-  return words.slice(0, cap).join(" ").replace(/[,;]$/, "") + (words.length > cap ? "…" : "");
+function shuffleStyleOrder(rng: () => number): number[] {
+  const order = Array.from({ length: PARAGRAPH_STYLE_COUNT }, (_, i) => i);
+  for (let i = order.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [order[i], order[j]] = [order[j]!, order[i]!];
+  }
+  return order;
+}
+
+function buildWhyItFitsByStyle(style: number, ctx: ParagraphCtx): string {
+  const {
+    sourceTitle,
+    recTitle,
+    sourceYear,
+    recYear,
+    sourceHook,
+    recHook,
+    themes,
+    moodDesc,
+    sourceGenre,
+    recGenre,
+  } = ctx;
+
+  switch (style) {
+    case 0:
+      return `${recTitle} is pitched ${moodDesc}, which is the first thing you feel beside ${sourceTitle}. ${themes} still braid the two films, but ${recTitle} leans on ${recHook} where ${sourceTitle} anchored itself in ${sourceHook}.`;
+    case 1:
+      return `In ${sourceTitle}, the spine is ${sourceHook}; ${recTitle} finds its spine in ${recHook}. ${themes} explain why the pairing clicks even though the scene list diverges.`;
+    case 2:
+      return `Character pressure in ${recTitle} accumulates around ${recHook}, echoing how ${sourceTitle} tightened the screws with ${sourceHook}. The through-line is ${themes}, not mirrored blocking.`;
+    case 3:
+      return `The afterglow from ${recTitle} is ${moodDesc}: different residue than ${sourceTitle}, even when ${themes} read familiar. Trace the fork to ${sourceHook} versus ${recHook}.`;
+    case 4:
+      return `What actually breaks in the third act is not the same beat: ${sourceTitle} pays off through ${sourceHook}, while ${recTitle} pushes resolution toward ${recHook}. ${themes} stay urgent in both.`;
+    case 5:
+      return `${recTitle} handles ${recHook} with a ${recGenre} bias that ${sourceTitle} did not foreground in its ${sourceGenre} read of ${sourceHook}. ${themes} are the bridge.`;
+    case 6:
+      return `${sourceTitle} and ${recTitle} split at the plot: ${sourceHook} on one side, ${recHook} on the other. ${themes} keep the kinship honest, and ${recTitle} stays ${moodDesc} throughout.`;
+    case 7:
+      return `A ${recYear} frame changes how ${recHook} lands next to ${sourceTitle} (${sourceYear}) and its ${sourceHook}. ${themes} survive the era shift without forcing the stories to match.`;
+    case 8:
+      return `If ${sourceHook} is what locked you into ${sourceTitle}, ${recTitle} hands you ${recHook} as the next jolt of narrative curiosity. ${themes} are what make the handoff feel deliberate.`;
+    case 9:
+      return `${themes} surface in both films, yet ${recTitle} keeps the temperature ${moodDesc}, not a tonal echo of ${sourceTitle}. Compare ${recHook} against ${sourceHook} and the contrast is obvious.`;
+    case 10:
+      return `${recHook} is the sharpest reason to queue ${recTitle} after ${sourceTitle}: it refracts the same curiosity ${sourceHook} stirred, with ${themes} doing quieter parallel work underneath.`;
+    case 11:
+      return `Surface texture differs—${recGenre} treatment of ${recHook} beside ${sourceGenre} treatment of ${sourceHook}—while ${themes} stay legible. ${recTitle} commits to ${moodDesc} in how those pieces land.`;
+    default:
+      return `${recTitle} chases ${themes} through ${recHook} instead of repeating ${sourceHook} from ${sourceTitle}. The overall read stays ${moodDesc}.`;
+  }
 }
 
 /**
@@ -182,14 +169,10 @@ export function buildRecommendationSeoParagraphsForPage(
     slugEntropy(pageSlug) * 2654435761 +
     recs.reduce((acc, r) => acc + r.tmdbId * 17, 0);
   const rng = mulberry32(seed >>> 0);
-  const slots = shuffleTemplateSlots(rng);
+  const styleOrder = shuffleStyleOrder(rng);
 
   return recs.map((rec, i) => {
-    const { id: templateId, invert } = slots[i] ?? {
-      id: i % 10,
-      invert: Math.floor(i / 10) % 2 === 1,
-    };
-    const overflow = i >= 20 ? Math.floor(i / 20) : 0;
+    const style = styleOrder[i % PARAGRAPH_STYLE_COUNT] ?? 0;
 
     const sourceHook = plotHook(
       source.overview,
@@ -211,25 +194,10 @@ export function buildRecommendationSeoParagraphsForPage(
       moodDesc: MOOD_COPY[rec.mood],
       sourceGenre: primaryGenre(source.genres, "drama"),
       recGenre: primaryGenre(rec.genreNames ?? [], "drama"),
-      contrast: contrastBeat(source, rec),
     };
 
-    let extension = runTemplate(templateId, ctx, invert);
-    if (overflow > 0) {
-      extension = `On a longer shortlist, ${extension.charAt(0).toLowerCase()}${extension.slice(1)}`;
-    }
-    extension = pickLengthVariant(extension, rng);
-
-    const why = scrubBannedPhrases(rec.whyYoullLoveIt?.trim() ?? "");
-    let combined: string;
-    if (!why) {
-      combined = extension;
-    } else if (rng() < 0.38) {
-      combined = `${extension} ${why}`;
-    } else {
-      combined = `${why} ${extension}`;
-    }
-    return scrubBannedPhrases(combined).replace(/\s+/g, " ").trim();
+    const raw = buildWhyItFitsByStyle(style, ctx);
+    return scrubBannedPhrases(capWhyItFitsParagraph(raw)).replace(/\s+/g, " ").trim();
   });
 }
 
@@ -275,7 +243,7 @@ export function buildMoviesLikeIntro(source: SourceMovie, overview: string | nul
   const padC = pickVariant(ent + 2, [
     ` Each note under the titles explains the kinship with ${title}, so you can match mood and runtime to your night—not just the poster.`,
     ` Every entry includes a plain-English reason it belongs beside ${title}, which makes tradeoffs easier when time is limited.`,
-    ` Short rationales keep the page scannable: you will see where tone, stakes, and style line up with what you already liked.`,
+    ` Short rationales keep the page scannable: each note names tone, stakes, and style in plain terms so you can compare quickly.`,
   ]);
 
   let wc = wordCount(body);
