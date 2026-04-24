@@ -1,0 +1,171 @@
+{
+  "sourceMovie": {
+    "tmdbId": 24,
+    "title": "Kill Bill: Vol. 1",
+    "slug": "kill-bill",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "People revisit Kill Bill: Vol. 1 for the same reason it broke through in 2003: clear stakes, memorable faces, and a crime rhythm that doesn't stall in the middle. Quentin Tarantino keeps the ensemble pointed in one direction. The action and crime blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "crime",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 155,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, The Dark Knight (2008) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 324552,
+      "title": "John Wick: Chapter 2",
+      "year": 2017,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, John Wick: Chapter 2 (2017) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 541671,
+      "title": "Ballerina",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, Ballerina (2025) is a strong next stop: both trade in action and crime, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 10027,
+      "title": "Unleashed",
+      "year": 2005,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, Unleashed (2005) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 150,
+      "title": "48 Hrs.",
+      "year": 1982,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, 48 Hrs. (1982) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 13154,
+      "title": "Showdown in Little Tokyo",
+      "year": 1991,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, Showdown in Little Tokyo (1991) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9501,
+      "title": "Crying Freeman",
+      "year": 1995,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, Crying Freeman (1995) is a strong next stop: both trade in action and crime, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 250,
+      "title": "In China They Eat Dogs",
+      "year": 1999,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, In China They Eat Dogs (1999) is a strong next stop: both trade in action and crime, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Kill Bill: Vol. 1 clicked for you, The Lord of the Rings: The Return of the King (2003) is a strong next stop: both trade in action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Kill Bill: Vol. 1?",
+      "answer": "Try The Dark Knight, John Wick: Chapter 2, Ballerina—each shares DNA with Kill Bill: Vol. 1 while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Kill Bill: Vol. 1?",
+      "answer": "Kill Bill: Vol. 1 (2003) is best described as Action, Crime. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Kill Bill: Vol. 1 part of a franchise?",
+      "answer": "Yes—it's part of the \"Kill Bill Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "16-blocks",
+    "2-guns",
+    "21-bridges",
+    "21-jump-street",
+    "22-jump-street",
+    "48-hrs"
+  ]
+}
