@@ -1,6 +1,3 @@
-import os
-instructions = os.getenv("INSTRUCTIONS", "")
-
 #!/usr/bin/env python3
 """
 Generate one missing movie page JSON bundle from a raw movie title.
@@ -12,6 +9,9 @@ Pipeline:
 """
 
 from __future__ import annotations
+
+import os
+instructions = os.getenv("INSTRUCTIONS", "")
 
 import argparse
 import json
