@@ -8,6 +8,231 @@ const MOOD_COPY: Record<RecommendationEntry["mood"], string> = {
   bittersweet: "a bittersweet, emotionally layered tone",
 };
 
+/** Enriched fields optional — used only for SEO paragraph generation. */
+export type RecommendationForSeoParagraph = RecommendationEntry & {
+  overview?: string | null;
+  genreNames?: readonly string[];
+};
+
+export type SourceForSeoParagraph = SourceMovie & {
+  overview?: string | null;
+};
+
+const BANNED_PHRASES = [
+  "strong pick for anyone",
+  "keeps the viewing experience cohesive",
+  "without feeling like a copy",
+] as const;
+
+function scrubBannedPhrases(text: string): string {
+  let t = text;
+  for (const phrase of BANNED_PHRASES) {
+    const re = new RegExp(phrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "gi");
+    t = t.replace(re, "").replace(/\s{2,}/g, " ").trim();
+  }
+  return t.replace(/\s+([.,;])/g, "$1").trim();
+}
+
+function mulberry32(seed: number): () => number {
+  let a = seed >>> 0;
+  return () => {
+    a += 0x6d2b79f5;
+    let t = a;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffleTemplateSlots(rng: () => number): Array<{ id: number; invert: boolean }> {
+  const slots: Array<{ id: number; invert: boolean }> = [];
+  for (let id = 0; id < 10; id++) {
+    slots.push({ id, invert: false }, { id, invert: true });
+  }
+  for (let i = slots.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [slots[i], slots[j]] = [slots[j]!, slots[i]!];
+  }
+  return slots;
+}
+
+/** First sentence or clause, capped — for concrete plot texture. */
+function plotHook(overview: string | null | undefined, fallback: string): string {
+  if (!overview || overview.length < 20) return fallback;
+  const cleaned = overview.replace(/\s+/g, " ").trim();
+  const parts = cleaned.split(/(?<=[.!?])\s+/);
+  const chunk = (parts[0]?.length >= 40 ? parts[0] : `${parts[0] ?? ""} ${parts[1] ?? ""}`).trim();
+  const words = chunk.split(/\s+/).slice(0, 18).join(" ");
+  return words || fallback;
+}
+
+function primaryGenre(genres: readonly string[] | undefined, fallback: string): string {
+  const g = genres?.[0]?.trim();
+  return g || fallback;
+}
+
+function themePhrase(shared: string[]): string {
+  if (!shared.length) return "pace, stakes, and character pressure";
+  return shared.slice(0, 3).map((v) => v.replace(/-/g, " ")).join(", ");
+}
+
+function contrastBeat(source: SourceForSeoParagraph, rec: RecommendationForSeoParagraph): string {
+  const sg = source.genres[0];
+  const rg = rec.genreNames?.[0];
+  if (sg && rg && sg.toLowerCase() !== rg.toLowerCase()) {
+    return `${sg} gives way to ${rg} in how the plot weights each scene`;
+  }
+  const dy = Math.abs(source.year - rec.year);
+  if (dy >= 14) {
+    return `${source.year} and ${rec.year} ask for different cultural readouts even when the hook sounds related`;
+  }
+  if (rec.mood && MOOD_COPY[rec.mood]) {
+    return `the finish is pitched ${MOOD_COPY[rec.mood]}, so the ride does not mirror ${source.title} beat for beat`;
+  }
+  return `setpieces and turning points land in different rooms than ${source.title} chooses`;
+}
+
+type ParagraphCtx = {
+  sourceTitle: string;
+  recTitle: string;
+  sourceYear: number;
+  recYear: number;
+  sourceHook: string;
+  recHook: string;
+  themes: string;
+  moodDesc: string;
+  sourceGenre: string;
+  recGenre: string;
+  contrast: string;
+};
+
+/**
+ * Ten distinct structural templates (tone, theme, narrative, comparison, audience × 2).
+ * `invert` flips clause order when we must reuse a template index on long lists.
+ */
+function runTemplate(id: number, ctx: ParagraphCtx, invert: boolean): string {
+  const { sourceTitle, recTitle, sourceHook, recHook, themes, moodDesc, sourceGenre, recGenre, contrast } =
+    ctx;
+
+  const blocks: Record<number, [string, string]> = {
+    0: [
+      `${recTitle} keeps ${themes} in motion, yet the register is ${moodDesc}: ${sourceTitle} roots tension in ${sourceHook}; here the pressure tracks ${recHook}.`,
+      `The ${moodDesc} delivery is the pivot—${recTitle} still honors ${themes}, but unlike ${sourceTitle}’s ${sourceGenre} spine (${sourceHook}), this version steers through ${recHook}.`,
+    ],
+    1: [
+      `Tone-first, ${recTitle} is ${moodDesc} where ${sourceTitle} leaned on ${sourceGenre} storytelling—parallel curiosity, different aftertaste when ${recHook} replaces ${sourceHook}.`,
+      `If ${sourceTitle} trained you on ${sourceHook}, ${recTitle} answers with ${recHook} while holding ${themes}—only the emotional temperature matches ${moodDesc}, not the scene list.`,
+    ],
+    2: [
+      `The thematic braid is ${themes}, but the moral math shifts: ${sourceTitle} stages ${sourceHook} while ${recTitle} forces the conflict through ${recHook}.`,
+      `${themes} stay visible, then diverge: ${recHook} becomes the engine in ${recTitle}, whereas ${sourceTitle} hung its weight on ${sourceHook}.`,
+    ],
+    3: [
+      `Shared DNA (${themes}) hides a fork—${sourceTitle}’s plot leans on ${sourceHook}; ${recTitle} re-threads the same worries through ${recHook}.`,
+      `You will recognize ${themes}, yet the story argues differently: ${sourceHook} versus ${recHook} is not a cosmetic swap between ${sourceTitle} and ${recTitle}.`,
+    ],
+    4: [
+      `Narrative geometry changes: ${sourceTitle} builds toward ${sourceHook}; ${recTitle} reroutes stakes so ${recHook} carries the climax’s weight.`,
+      `Same appetite for momentum, different spine—${sourceTitle} locks the arc around ${sourceHook}, ${recTitle} around ${recHook}.`,
+    ],
+    5: [
+      `Plot mileage is not parallel—${sourceHook} in ${sourceTitle} versus ${recHook} in ${recTitle} means beats land in a new order even when ${themes} echo.`,
+      `Sequencing matters: where ${sourceTitle} resolves through ${sourceHook}, ${recTitle} saves its sharpest turns for ${recHook}.`,
+    ],
+    6: [
+      `Side-by-side, ${sourceTitle} is ${sourceGenre}-forward (${sourceHook}) and ${recTitle} pushes ${recGenre} choices (${recHook})—${contrast}.`,
+      `Compare the lenses: ${sourceTitle} frames ${sourceHook}; ${recTitle} reframes the night around ${recHook}, so ${contrast}.`,
+    ],
+    7: [
+      `Stack ${sourceTitle} against ${recTitle}: one leans ${sourceHook}, the other bets on ${recHook}—same neighborhood of ${themes}, different floor plan.`,
+      `The contrast is concrete—${sourceHook} vs ${recHook}—not a vague “vibe match,” which is why ${recTitle} earns its own slot beside ${sourceTitle}.`,
+    ],
+    8: [
+      `For ${sourceTitle} fans who want ${themes} but need a lateral move, ${recTitle} trades ${sourceGenre} habits for ${recHook} while staying ${moodDesc}.`,
+      `Audiences who liked ${sourceHook} in ${sourceTitle} often chase ${recHook} next; ${recTitle} delivers that handoff without pretending the story beats are identical.`,
+    ],
+    9: [
+      `You arrive carrying ${sourceTitle}’s ${themes} expectations—${recTitle} honors the itch, then bends the plot through ${recHook} instead of repeating ${sourceHook}.`,
+      `Built for viewers who measure films by payoff, not poster: ${recTitle} pays off ${themes} via ${recHook}, where ${sourceTitle} paid via ${sourceHook}.`,
+    ],
+  };
+
+  const pair = blocks[id] ?? blocks[0]!;
+  const base = invert ? pair[1]! : pair[0]!;
+  return base;
+}
+
+function pickLengthVariant(text: string, rng: () => number): string {
+  const words = text.split(/\s+/).filter(Boolean);
+  if (words.length <= 42) return text;
+  const cap = rng() < 0.45 ? 36 : rng() < 0.7 ? 44 : 52;
+  return words.slice(0, cap).join(" ").replace(/[,;]$/, "") + (words.length > cap ? "…" : "");
+}
+
+/**
+ * Builds one SEO paragraph per recommendation with unique structural templates on a page.
+ * Uses TMDB overviews when present for concrete plot hooks; never mutates JSON bundles.
+ */
+export function buildRecommendationSeoParagraphsForPage(
+  recs: RecommendationForSeoParagraph[],
+  source: SourceForSeoParagraph,
+  pageSlug: string,
+): string[] {
+  const seed =
+    slugEntropy(pageSlug) * 2654435761 +
+    recs.reduce((acc, r) => acc + r.tmdbId * 17, 0);
+  const rng = mulberry32(seed >>> 0);
+  const slots = shuffleTemplateSlots(rng);
+
+  return recs.map((rec, i) => {
+    const { id: templateId, invert } = slots[i] ?? {
+      id: i % 10,
+      invert: Math.floor(i / 10) % 2 === 1,
+    };
+    const overflow = i >= 20 ? Math.floor(i / 20) : 0;
+
+    const sourceHook = plotHook(
+      source.overview,
+      `${source.genres[0] ?? "its"} central conflict and ensemble pressure`,
+    );
+    const recHook = plotHook(
+      rec.overview,
+      `${rec.genreNames?.[0] ?? "drama"}-shaded stakes the synopsis barely names`,
+    );
+
+    const ctx: ParagraphCtx = {
+      sourceTitle: source.title,
+      recTitle: rec.title,
+      sourceYear: source.year,
+      recYear: rec.year,
+      sourceHook,
+      recHook,
+      themes: themePhrase(rec.sharedVibes),
+      moodDesc: MOOD_COPY[rec.mood],
+      sourceGenre: primaryGenre(source.genres, "drama"),
+      recGenre: primaryGenre(rec.genreNames ?? [], "drama"),
+      contrast: contrastBeat(source, rec),
+    };
+
+    let extension = runTemplate(templateId, ctx, invert);
+    if (overflow > 0) {
+      extension = `On a longer shortlist, ${extension.charAt(0).toLowerCase()}${extension.slice(1)}`;
+    }
+    extension = pickLengthVariant(extension, rng);
+
+    const why = scrubBannedPhrases(rec.whyYoullLoveIt?.trim() ?? "");
+    let combined: string;
+    if (!why) {
+      combined = extension;
+    } else if (rng() < 0.38) {
+      combined = `${extension} ${why}`;
+    } else {
+      combined = `${why} ${extension}`;
+    }
+    return scrubBannedPhrases(combined).replace(/\s+/g, " ").trim();
+  });
+}
+
 function wordCount(text: string): number {
   return text.trim().split(/\s+/).filter(Boolean).length;
 }
@@ -82,33 +307,14 @@ function pickVariant(seed: number, variants: string[]): string {
 }
 
 /**
- * 2–3 sentences per recommendation: editorial line + similarity, tone, themes, audience.
+ * Single recommendation helper. Prefer {@link buildRecommendationSeoParagraphsForPage} on movie pages
+ * so each row gets a distinct template shape.
  */
 export function buildRecommendationSeoParagraph(
-  rec: RecommendationEntry,
-  source: SourceMovie,
+  rec: RecommendationForSeoParagraph,
+  source: SourceForSeoParagraph,
 ): string {
-  const themes = rec.sharedVibes.length
-    ? rec.sharedVibes.map((v) => v.replace(/-/g, " ")).join(", ")
-    : "story rhythm and stakes";
-  const moodDesc = MOOD_COPY[rec.mood];
-  const g0 = source.genres[0]?.toLowerCase() ?? "that film’s";
-  const v = rec.tmdbId;
-
-  const s2 = pickVariant(v, [
-    `It lines up with ${source.title} through ${themes}, while the overall feel stays ${moodDesc}—so the echo is thematic, not a retread.`,
-    `Where it overlaps ${source.title} is ${themes}; the register is ${moodDesc}, which keeps the viewing experience cohesive without feeling like a copy.`,
-    `You will notice the same appetite for ${themes} that ${source.title} fans respond to, delivered with ${moodDesc} energy that still lets the story breathe.`,
-  ]);
-
-  const s3 = pickVariant(v + 1, [
-    `Best for viewers who liked ${source.title}’s ${g0} flavor and want a new title that earns its twists honestly.`,
-    `Ideal if you want the same “why am I still thinking about this?” afterglow—without sacrificing clarity or character work.`,
-    `A strong pick for anyone who treats ${source.title} as a benchmark and wants another film that respects patience and payoff.`,
-  ]);
-
-  const out = `${rec.whyYoullLoveIt} ${s2} ${s3}`;
-  return out.replace(/\s+/g, " ").trim();
+  return buildRecommendationSeoParagraphsForPage([rec], source, `single-${rec.tmdbId}`)[0]!;
 }
 
 export function buildWhyYoullLoveTheseMovies(

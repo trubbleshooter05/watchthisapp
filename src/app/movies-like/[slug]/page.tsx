@@ -16,7 +16,7 @@ import {
 } from "@/lib/recommendations";
 import {
   buildMoviesLikeIntro,
-  buildRecommendationSeoParagraph,
+  buildRecommendationSeoParagraphsForPage,
   buildSchemaFaqItems,
   buildWhyYoullLoveTheseMovies,
   mergeFaqForPage,
@@ -89,9 +89,10 @@ export default async function MovieLikePage({ params }: Props) {
   );
   const mergedFaq = mergeFaqForPage(bundle.faq, schemaFaq);
 
-  const recommendationsWithSeo = recommendations.map((r) => ({
+  const seoParagraphs = buildRecommendationSeoParagraphsForPage(recommendations, source, slug);
+  const recommendationsWithSeo = recommendations.map((r, i) => ({
     ...r,
-    seoParagraph: buildRecommendationSeoParagraph(r, bundle.sourceMovie),
+    seoParagraph: seoParagraphs[i]!,
   }));
 
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);

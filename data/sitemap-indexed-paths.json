@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "paths": [
+    "/",
+    "/blog",
+    "/popular",
+    "/best-revenge-movies-like-kill-bill",
+    "/quiz",
+    "/watchlist",
+    "/about",
+    "/login",
+    "/signup"
+  ]
+}
