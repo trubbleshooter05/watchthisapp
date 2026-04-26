@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1003596,
+    "title": "Avengers: Doomsday",
+    "slug": "avengers-doomsday",
+    "year": 2026,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Avengers: Doomsday draws searches because it promises comic-book scale with sharp comic timing and loud franchise stakes. Fans usually want more movies that balance superpowered spectacle with personality, fast pacing, and characters who know exactly how absurd their world can be.",
+    "vibes": [
+      "superhero",
+      "action",
+      "funny",
+      "franchise",
+      "crowd-pleasing"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 299534,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Avengers: Endgame is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The adventure and science fiction angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Avengers: Infinity War is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The adventure and action angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 271110,
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Captain America: Civil War is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The adventure and action angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 453395,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Doctor Strange in the Multiverse of Madness is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The fantasy and action angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 447365,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Guardians of the Galaxy Vol. 3 is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The science fiction and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Black Panther is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 609681,
+      "title": "The Marvels",
+      "year": 2023,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, The Marvels is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The science fiction and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, X-Men: Days of Future Past is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 141052,
+      "title": "Justice League",
+      "year": 2017,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, Justice League is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 414906,
+      "title": "The Batman",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Avengers: Doomsday is the reason you are searching, The Batman is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The crime and mystery angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Avengers: Doomsday?",
+      "answer": "Start with Avengers: Endgame, Avengers: Infinity War, Captain America: Civil War. They keep the closest mix of tone, pacing, and audience appeal while giving you a different story to settle into."
+    },
+    {
+      "question": "What is the closest movie to Avengers: Doomsday?",
+      "answer": "Avengers: Endgame is the safest first pick because it overlaps most clearly in mood and genre. Avengers: Infinity War is a strong backup if you want the same lane with a different rhythm."
+    },
+    {
+      "question": "Are these movies exactly like Avengers: Doomsday?",
+      "answer": "No. The goal is not duplication; it is a set of movies with similar pleasures, whether that means the same genre, emotional hook, pace, or visual style."
+    }
+  ],
+  "relatedPages": [
+    "deadpool-and-wolverine",
+    "spider-man-brand-new-day",
+    "clayface",
+    "the-batman"
+  ],
+  "customIntroParagraphs": [
+    "If you are looking for movies like Avengers: Doomsday, the useful matches are not just surface-level genre copies. The list below focuses on films that share its pacing, emotional hook, audience promise, or particular flavor of spectacle.",
+    "These picks are ordered for search intent first: start near the top for the closest match, then move down if you want the same lane with a stronger tilt toward comedy, horror, romance, action, or fantasy."
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "deadpool-and-wolverine",
+      "anchorText": "More movies like deadpool and wolverine"
+    },
+    {
+      "slug": "spider-man-brand-new-day",
+      "anchorText": "More movies like spider man brand new day"
+    },
+    {
+      "slug": "clayface",
+      "anchorText": "More movies like clayface"
+    },
+    {
+      "slug": "the-batman",
+      "anchorText": "More movies like the batman"
+    }
+  ]
+}

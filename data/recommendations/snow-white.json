@@ -1,0 +1,194 @@
+{
+  "sourceMovie": {
+    "tmdbId": 447273,
+    "title": "Snow White",
+    "slug": "snow-white",
+    "year": 2025,
+    "genres": [
+      "Family",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "Snow White fits the comfort-fantasy lane: enchanted worlds, clear emotional stakes, and a storybook shape that still leaves room for danger. These recommendations favor wonder, romance, and mythic visuals over empty spectacle.",
+    "vibes": [
+      "fantasy",
+      "storybook",
+      "romantic",
+      "adventure",
+      "magical"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 150689,
+      "title": "Cinderella",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Cinderella is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The romance and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 102651,
+      "title": "Maleficent",
+      "year": 2014,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Maleficent is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The fantasy and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 4523,
+      "title": "Enchanted",
+      "year": 2007,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Enchanted is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The comedy and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 62764,
+      "title": "Mirror Mirror",
+      "year": 2012,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Mirror Mirror is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 224141,
+      "title": "Into the Woods",
+      "year": 2014,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Into the Woods is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The fantasy and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 321612,
+      "title": "Beauty and the Beast",
+      "year": 2017,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Beauty and the Beast is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The family and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, The Princess Bride is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Stardust is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 14442,
+      "title": "Ella Enchanted",
+      "year": 2004,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, Ella Enchanted is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The family and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 630,
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Snow White is the reason you are searching, The Wizard of Oz is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Snow White?",
+      "answer": "Start with Cinderella, Maleficent, Enchanted. They keep the closest mix of tone, pacing, and audience appeal while giving you a different story to settle into."
+    },
+    {
+      "question": "What is the closest movie to Snow White?",
+      "answer": "Cinderella is the safest first pick because it overlaps most clearly in mood and genre. Maleficent is a strong backup if you want the same lane with a different rhythm."
+    },
+    {
+      "question": "Are these movies exactly like Snow White?",
+      "answer": "No. The goal is not duplication; it is a set of movies with similar pleasures, whether that means the same genre, emotional hook, pace, or visual style."
+    }
+  ],
+  "relatedPages": [
+    "the-wizard-of-oz",
+    "dungeons-and-dragons-honor-among-thieves",
+    "practical-magic",
+    "beauty-and-the-beast"
+  ],
+  "customIntroParagraphs": [
+    "If you are looking for movies like Snow White, the useful matches are not just surface-level genre copies. The list below focuses on films that share its pacing, emotional hook, audience promise, or particular flavor of spectacle.",
+    "These picks are ordered for search intent first: start near the top for the closest match, then move down if you want the same lane with a stronger tilt toward comedy, horror, romance, action, or fantasy."
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-wizard-of-oz",
+      "anchorText": "More movies like the wizard of oz"
+    },
+    {
+      "slug": "dungeons-and-dragons-honor-among-thieves",
+      "anchorText": "More movies like dungeons and dragons honor among thieves"
+    },
+    {
+      "slug": "practical-magic",
+      "anchorText": "More movies like practical magic"
+    },
+    {
+      "slug": "beauty-and-the-beast",
+      "anchorText": "More movies like beauty and the beast"
+    }
+  ]
+}

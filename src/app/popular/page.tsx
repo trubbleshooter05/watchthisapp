@@ -9,6 +9,19 @@ import { getSiteUrl } from "@/lib/site-url";
 const baseUrl = getSiteUrl();
 const popularModifiedIso = getProjectFileMtimeIso("src/app/popular/page.tsx");
 
+const FRESH_POPULAR_GUIDES = [
+  { slug: "deadpool-and-wolverine", anchor: "R-rated superhero chaos after Deadpool & Wolverine" },
+  { slug: "lilo-and-stitch", anchor: "warm family adventures like Lilo & Stitch" },
+  { slug: "snow-white", anchor: "storybook fantasy picks like Snow White" },
+  { slug: "the-accountant-2", anchor: "tactical action thrillers like The Accountant 2" },
+  { slug: "spider-man-brand-new-day", anchor: "new Spider-Man follow-up searches" },
+  { slug: "avengers-doomsday", anchor: "big ensemble superhero movies like Avengers: Doomsday" },
+  { slug: "mortal-kombat-ii", anchor: "martial-arts action like Mortal Kombat II" },
+  { slug: "dungeons-and-dragons-honor-among-thieves", anchor: "fantasy quests like Dungeons & Dragons" },
+  { slug: "the-mortuary-assistant", anchor: "occult horror like The Mortuary Assistant" },
+  { slug: "the-strangers-chapter-3", anchor: "home-invasion horror like The Strangers: Chapter 3" },
+] as const;
+
 export const metadata: Metadata = {
   title: "Popular Movie Guides",
   description: "Top movie recommendation pages for quick crawl discovery.",
@@ -47,6 +60,21 @@ export default function PopularPage() {
           );
         })}
       </ul>
+
+      <section className="mt-10 border-t border-white/10 pt-8" aria-labelledby="fresh-popular-heading">
+        <h2 id="fresh-popular-heading" className="font-display text-xl font-semibold mb-4">
+          Fresh searches gaining traction
+        </h2>
+        <ul className="space-y-2">
+          {FRESH_POPULAR_GUIDES.map(({ slug, anchor }) => (
+            <li key={slug}>
+              <Link href={`/movies-like/${slug}`} className="text-amber-500 hover:underline">
+                {anchor}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       <p className="mt-10 text-sm text-[#6B7280]">
         Looking for long-form context?{" "}

@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 552524,
+    "title": "Lilo & Stitch",
+    "slug": "lilo-and-stitch",
+    "year": 2025,
+    "genres": [
+      "Family",
+      "Science Fiction",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Lilo & Stitch works for viewers who want creature-driven warmth, bright adventure, and family emotion without losing a sense of mischief. The best follow-ups keep the story accessible while giving adults enough craft, humor, and feeling to stay invested.",
+    "vibes": [
+      "family",
+      "warm",
+      "adventure",
+      "funny",
+      "emotional"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 1184918,
+      "title": "The Wild Robot",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, The Wild Robot is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The family and animation angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1087192,
+      "title": "How to Train Your Dragon",
+      "year": 2025,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, How to Train Your Dragon is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The fantasy and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 346648,
+      "title": "Paddington 2",
+      "year": 2017,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Paddington 2 is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The adventure and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 1108427,
+      "title": "Moana",
+      "year": 2026,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Moana is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The family and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12,
+      "title": "Finding Nemo",
+      "year": 2003,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Finding Nemo is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The animation and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 10386,
+      "title": "The Iron Giant",
+      "year": 1999,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, The Iron Giant is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The animation and science fiction angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 501929,
+      "title": "The Mitchells vs. the Machines",
+      "year": 2021,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, The Mitchells vs. the Machines is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The animation and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 527774,
+      "title": "Raya and the Last Dragon",
+      "year": 2021,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Raya and the Last Dragon is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The animation and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 315162,
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Puss in Boots: The Last Wish is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The animation and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Lilo & Stitch is the reason you are searching, Toy Story is an easy next step. It has the same mix of warmth, visual charm, and trouble that turns into found-family feeling. The family and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "family",
+        "warm",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Lilo & Stitch?",
+      "answer": "Start with The Wild Robot, How to Train Your Dragon, Paddington 2. They keep the closest mix of tone, pacing, and audience appeal while giving you a different story to settle into."
+    },
+    {
+      "question": "What is the closest movie to Lilo & Stitch?",
+      "answer": "The Wild Robot is the safest first pick because it overlaps most clearly in mood and genre. How to Train Your Dragon is a strong backup if you want the same lane with a different rhythm."
+    },
+    {
+      "question": "Are these movies exactly like Lilo & Stitch?",
+      "answer": "No. The goal is not duplication; it is a set of movies with similar pleasures, whether that means the same genre, emotional hook, pace, or visual style."
+    }
+  ],
+  "relatedPages": [
+    "the-emoji-movie",
+    "tom-and-jerry-forbidden-compass",
+    "the-wild-robot",
+    "inside-out-2"
+  ],
+  "customIntroParagraphs": [
+    "If you are looking for movies like Lilo & Stitch, the useful matches are not just surface-level genre copies. The list below focuses on films that share its pacing, emotional hook, audience promise, or particular flavor of spectacle.",
+    "These picks are ordered for search intent first: start near the top for the closest match, then move down if you want the same lane with a stronger tilt toward comedy, horror, romance, action, or fantasy."
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-emoji-movie",
+      "anchorText": "More movies like the emoji movie"
+    },
+    {
+      "slug": "tom-and-jerry-forbidden-compass",
+      "anchorText": "More movies like tom and jerry forbidden compass"
+    },
+    {
+      "slug": "the-wild-robot",
+      "anchorText": "More movies like the wild robot"
+    },
+    {
+      "slug": "inside-out-2",
+      "anchorText": "More movies like inside out 2"
+    }
+  ]
+}

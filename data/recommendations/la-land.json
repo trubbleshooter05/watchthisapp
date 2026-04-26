@@ -170,6 +170,23 @@
     "a-dogs-will",
     "a-drama-of-jealousy-and-other-things",
     "annie-hall",
-    "anora"
+    "anora",
+    "love-and-other-drugs",
+    "reminders-of-him",
+    "practical-magic"
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "love-and-other-drugs",
+      "anchorText": "Grown-up romance with charm and ache"
+    },
+    {
+      "slug": "reminders-of-him",
+      "anchorText": "Emotional second-chance romance picks"
+    },
+    {
+      "slug": "practical-magic",
+      "anchorText": "Romantic comfort viewing with a magical tilt"
+    }
   ]
 }

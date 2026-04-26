@@ -118,7 +118,19 @@
     {
       "slug": "get-out",
       "anchorText": "Polite surfaces, basement truths—social thriller in a ‘nice’ house (Get Out)"
+    },
+    {
+      "slug": "downsizing",
+      "anchorText": "Offbeat social satire with a strange-premise hook"
+    },
+    {
+      "slug": "the-divide",
+      "anchorText": "Class pressure after the social order collapses"
+    },
+    {
+      "slug": "psycho-killer",
+      "anchorText": "Darker thriller trails with investigative dread"
     }
   ],
-  "relatedPages": ["the-unhealer", "hereditary", "get-out", "the-conjuring", "men", "inception", "shutter-island", "fight-club", "midsommar", "the-shawshank-redemption"]
+  "relatedPages": ["the-unhealer", "hereditary", "get-out", "the-conjuring", "men", "inception", "shutter-island", "fight-club", "midsommar", "the-shawshank-redemption", "downsizing", "the-divide", "psycho-killer"]
 }

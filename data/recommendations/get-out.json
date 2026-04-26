@@ -36,7 +36,10 @@
     { "slug": "us", "anchorText": "Peele’s next paranoia puzzle (Us)" },
     { "slug": "inception", "anchorText": "You can’t trust the architecture of the scene (Inception)" },
     { "slug": "joker", "anchorText": "Polite surface, rage underneath (Joker)" },
-    { "slug": "shutter-island", "anchorText": "Institutions that gaslight the lead (Shutter Island)" }
+    { "slug": "shutter-island", "anchorText": "Institutions that gaslight the lead (Shutter Island)" },
+    { "slug": "the-strangers-chapter-3", "anchorText": "When the safe house stops being safe" },
+    { "slug": "psycho-killer", "anchorText": "More manhunt dread with a psychological edge" },
+    { "slug": "the-mortuary-assistant", "anchorText": "Occult horror where control slips away" }
   ],
   "recommendations": [
     {
@@ -195,6 +198,9 @@
     "midsommar",
     "hereditary",
     "shutter-island",
-    "sorry-to-bother-you"
+    "sorry-to-bother-you",
+    "the-strangers-chapter-3",
+    "psycho-killer",
+    "the-mortuary-assistant"
   ]
 }

@@ -173,6 +173,23 @@
     "fight-club",
     "the-shawshank-redemption",
     "midsommar",
-    "shutter-island"
+    "shutter-island",
+    "the-shrinking-man",
+    "downsizing",
+    "avengers-doomsday"
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-shrinking-man",
+      "anchorText": "High-concept sci-fi about scale and identity"
+    },
+    {
+      "slug": "downsizing",
+      "anchorText": "A stranger science premise with human fallout"
+    },
+    {
+      "slug": "avengers-doomsday",
+      "anchorText": "Cosmic-scale blockbuster stakes"
+    }
   ]
 }

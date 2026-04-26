@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 630,
+    "title": "The Wizard of Oz",
+    "slug": "the-wizard-of-oz",
+    "year": 1939,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "whyPeopleLoveIt": "The Wizard of Oz fits the comfort-fantasy lane: enchanted worlds, clear emotional stakes, and a storybook shape that still leaves room for danger. These recommendations favor wonder, romance, and mythic visuals over empty spectacle.",
+    "vibes": [
+      "fantasy",
+      "storybook",
+      "romantic",
+      "adventure",
+      "magical"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 13155,
+      "title": "Return to Oz",
+      "year": 1985,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Return to Oz is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 252,
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Willy Wonka & the Chocolate Factory is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The family and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 433,
+      "title": "Mary Poppins",
+      "year": 1964,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Mary Poppins is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The comedy and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 13597,
+      "title": "Labyrinth",
+      "year": 1986,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Labyrinth is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 34584,
+      "title": "The NeverEnding Story",
+      "year": 1984,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, The NeverEnding Story is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 12155,
+      "title": "Alice in Wonderland",
+      "year": 2010,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Alice in Wonderland is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The family and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 11708,
+      "title": "Chitty Chitty Bang Bang",
+      "year": 1968,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Chitty Chitty Bang Bang is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The family and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2270,
+      "title": "Stardust",
+      "year": 2007,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Stardust is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2493,
+      "title": "The Princess Bride",
+      "year": 1987,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, The Princess Bride is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and family angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 879,
+      "title": "Hook",
+      "year": 1991,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Wizard of Oz is the reason you are searching, Hook is an easy next step. It carries the same fairy-tale sense of danger and wonder without losing the human emotion. The adventure and fantasy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "fantasy",
+        "storybook",
+        "romantic"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Wizard of Oz?",
+      "answer": "Start with Return to Oz, Willy Wonka & the Chocolate Factory, Mary Poppins. They keep the closest mix of tone, pacing, and audience appeal while giving you a different story to settle into."
+    },
+    {
+      "question": "What is the closest movie to The Wizard of Oz?",
+      "answer": "Return to Oz is the safest first pick because it overlaps most clearly in mood and genre. Willy Wonka & the Chocolate Factory is a strong backup if you want the same lane with a different rhythm."
+    },
+    {
+      "question": "Are these movies exactly like The Wizard of Oz?",
+      "answer": "No. The goal is not duplication; it is a set of movies with similar pleasures, whether that means the same genre, emotional hook, pace, or visual style."
+    }
+  ],
+  "relatedPages": [
+    "snow-white",
+    "dungeons-and-dragons-honor-among-thieves",
+    "practical-magic",
+    "beauty-and-the-beast"
+  ],
+  "customIntroParagraphs": [
+    "If you are looking for movies like The Wizard of Oz, the useful matches are not just surface-level genre copies. The list below focuses on films that share its pacing, emotional hook, audience promise, or particular flavor of spectacle.",
+    "These picks are ordered for search intent first: start near the top for the closest match, then move down if you want the same lane with a stronger tilt toward comedy, horror, romance, action, or fantasy."
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "snow-white",
+      "anchorText": "More movies like snow white"
+    },
+    {
+      "slug": "dungeons-and-dragons-honor-among-thieves",
+      "anchorText": "More movies like dungeons and dragons honor among thieves"
+    },
+    {
+      "slug": "practical-magic",
+      "anchorText": "More movies like practical magic"
+    },
+    {
+      "slug": "beauty-and-the-beast",
+      "anchorText": "More movies like beauty and the beast"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "sourceMovie": {
+    "tmdbId": 533535,
+    "title": "Deadpool & Wolverine",
+    "slug": "deadpool-and-wolverine",
+    "year": 2024,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Science Fiction"
+    ],
+    "whyPeopleLoveIt": "Deadpool & Wolverine draws searches because it promises comic-book scale with sharp comic timing and loud franchise stakes. Fans usually want more movies that balance superpowered spectacle with personality, fast pacing, and characters who know exactly how absurd their world can be.",
+    "vibes": [
+      "superhero",
+      "action",
+      "funny",
+      "franchise",
+      "crowd-pleasing"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 263115,
+      "title": "Logan",
+      "year": 2017,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Logan is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and drama angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 23483,
+      "title": "Kick-Ass",
+      "year": 2010,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Kick-Ass is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and crime angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 436969,
+      "title": "The Suicide Squad",
+      "year": 2021,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, The Suicide Squad is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Guardians of the Galaxy is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and science fiction angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 550988,
+      "title": "Free Guy",
+      "year": 2021,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Free Guy is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The comedy and adventure angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 19908,
+      "title": "Zombieland",
+      "year": 2009,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Zombieland is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The comedy and horror angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 207703,
+      "title": "Kingsman: The Secret Service",
+      "year": 2015,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Kingsman: The Secret Service is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The crime and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 245891,
+      "title": "John Wick",
+      "year": 2014,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, John Wick is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and thriller angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 22538,
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Scott Pilgrim vs. the World is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 718930,
+      "title": "Bullet Train",
+      "year": 2022,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Deadpool & Wolverine is the reason you are searching, Bullet Train is an easy next step. It keeps the action playful while still giving the characters real stakes to fight through. The action and comedy angle gives it a slightly different flavor.",
+      "sharedVibes": [
+        "superhero",
+        "action",
+        "funny"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Deadpool & Wolverine?",
+      "answer": "Start with Logan, Kick-Ass, The Suicide Squad. They keep the closest mix of tone, pacing, and audience appeal while giving you a different story to settle into."
+    },
+    {
+      "question": "What is the closest movie to Deadpool & Wolverine?",
+      "answer": "Logan is the safest first pick because it overlaps most clearly in mood and genre. Kick-Ass is a strong backup if you want the same lane with a different rhythm."
+    },
+    {
+      "question": "Are these movies exactly like Deadpool & Wolverine?",
+      "answer": "No. The goal is not duplication; it is a set of movies with similar pleasures, whether that means the same genre, emotional hook, pace, or visual style."
+    }
+  ],
+  "relatedPages": [
+    "spider-man-brand-new-day",
+    "avengers-doomsday",
+    "clayface",
+    "the-batman"
+  ],
+  "customIntroParagraphs": [
+    "If you are looking for movies like Deadpool & Wolverine, the useful matches are not just surface-level genre copies. The list below focuses on films that share its pacing, emotional hook, audience promise, or particular flavor of spectacle.",
+    "These picks are ordered for search intent first: start near the top for the closest match, then move down if you want the same lane with a stronger tilt toward comedy, horror, romance, action, or fantasy."
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "spider-man-brand-new-day",
+      "anchorText": "More movies like spider man brand new day"
+    },
+    {
+      "slug": "avengers-doomsday",
+      "anchorText": "More movies like avengers doomsday"
+    },
+    {
+      "slug": "clayface",
+      "anchorText": "More movies like clayface"
+    },
+    {
+      "slug": "the-batman",
+      "anchorText": "More movies like the batman"
+    }
+  ]
+}

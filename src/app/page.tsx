@@ -35,6 +35,13 @@ const POPULAR_SEARCH_SLUGS = [
   "top-gun-maverick",
 ] as const;
 
+const FRESH_MOVIE_GUIDE_SLUGS = [
+  "deadpool-and-wolverine",
+  "lilo-and-stitch",
+  "dungeons-and-dragons-honor-among-thieves",
+  "the-mortuary-assistant",
+] as const;
+
 const GENRE_QUICK_LINKS = [
   { label: "Romcom", query: "romcom" },
   { label: "Action", query: "action" },
@@ -148,6 +155,16 @@ export default async function HomePage() {
     }
   });
 
+  const freshGuideLinks = FRESH_MOVIE_GUIDE_SLUGS.flatMap((slug) => {
+    try {
+      const bundle = getRecommendationBundle(slug);
+      return bundle ? [{ slug, title: bundle.sourceMovie.title }] : [];
+    } catch (error) {
+      console.error(`Error loading fresh guide ${slug}:`, error);
+      return [];
+    }
+  });
+
   return (
     <>
       <script
@@ -200,6 +217,27 @@ export default async function HomePage() {
                 className="inline-flex rounded-full border border-white/15 bg-[#1a1a1a] px-4 py-2.5 text-sm font-medium text-amber-500 hover:border-amber-500/50 hover:bg-amber-500/10 transition-colors"
               >
                 Movies like {title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="mt-10 border-t border-white/10 pt-8" aria-labelledby="fresh-guides-heading">
+        <h2 id="fresh-guides-heading" className="font-display text-xl font-semibold text-[#FAFAFA] mb-3">
+          Fresh movie guides
+        </h2>
+        <p className="text-sm text-[#9CA3AF] mb-4 max-w-2xl">
+          A few newer searches people are using to branch out from recent blockbusters and horror releases.
+        </p>
+        <ul className="flex flex-wrap gap-2 sm:gap-3">
+          {freshGuideLinks.map(({ slug, title }) => (
+            <li key={slug}>
+              <Link
+                href={`/movies-like/${slug}`}
+                className="inline-flex rounded-full border border-white/15 bg-[#141414] px-4 py-2 text-sm text-[#D1D5DB] hover:border-amber-500/40 hover:text-amber-400 transition-colors"
+              >
+                More like {title}
               </Link>
             </li>
           ))}

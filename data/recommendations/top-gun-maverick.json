@@ -221,6 +221,23 @@
     "dunkirk",
     "whiplash",
     "interstellar",
-    "oppenheimer"
+    "oppenheimer",
+    "the-accountant-2",
+    "deadpool-and-wolverine",
+    "border-2"
+  ],
+  "midPageYouMightAlsoLike": [
+    {
+      "slug": "the-accountant-2",
+      "anchorText": "More precision-mission thrillers after Maverick"
+    },
+    {
+      "slug": "deadpool-and-wolverine",
+      "anchorText": "Modern blockbusters with stunt-first swagger"
+    },
+    {
+      "slug": "border-2",
+      "anchorText": "Big patriotic action with military stakes"
+    }
   ]
 }
