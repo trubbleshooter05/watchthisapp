@@ -1,14 +1,16 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState, useTransition } from "react";
 import Link from "next/link";
+import { useRouter, useSearchParams } from "next/navigation";
 import { MovieSearch, type MovieEntry } from "@/components/MovieSearch";
 
 type BrowseMovie = MovieEntry & { genres: string[] };
 
 type Props = {
   movies: BrowseMovie[];
-  initialGenre?: string;
+  /** Server-rendered genre from the request URL (useSearchParams may be null on first SSR pass). */
+  initialGenre: string;
 };
 
 const GENRE_CHIPS = [
@@ -38,20 +40,40 @@ function matchesGenre(movie: BrowseMovie, term: string): boolean {
     return normalizedGenres.includes("romance") && normalizedGenres.includes("comedy");
   }
   if (normalizedTerm === "scifi") {
-    return (
-      normalizedGenres.includes("sciencefiction") ||
-      normalizedGenres.includes("scifi")
-    );
+    return normalizedGenres.includes("sciencefiction") || normalizedGenres.includes("scifi");
   }
   return normalizedGenres.some((genre) => genre.includes(normalizedTerm));
 }
 
-export function BrowseClient({ movies, initialGenre = "" }: Props) {
+export function BrowseClient({ movies, initialGenre }: Props) {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const [isPending, startTransition] = useTransition();
+
+  const param = searchParams.get("genre");
+  /** Single source: query string; fall back to server prop when param is absent on SSR. */
+  const genre = (param !== null ? param : initialGenre).trim();
+
   const [filtered, setFiltered] = useState<MovieEntry[]>(movies);
-  const [genre, setGenre] = useState(initialGenre);
+  const [draftGenre, setDraftGenre] = useState(genre);
+
+  useEffect(() => {
+    setDraftGenre(genre);
+  }, [genre]);
 
   const displaySlugs = new Set(filtered.map((m) => m.slug));
   const display = movies.filter((m) => displaySlugs.has(m.slug) && matchesGenre(m, genre));
+
+  function applyGenreToUrl(next: string) {
+    const v = next.trim();
+    startTransition(() => {
+      if (!v) {
+        router.replace("/browse");
+        return;
+      }
+      router.replace(`/browse?genre=${encodeURIComponent(v)}`);
+    });
+  }
 
   return (
     <>
@@ -70,14 +92,25 @@ export function BrowseClient({ movies, initialGenre = "" }: Props) {
       />
 
       <section className="mb-8">
-        <p className="text-xs uppercase tracking-wide text-[#6B7280] mb-2">Genre</p>
+        <label htmlFor="browse-genre-input" className="block text-xs uppercase tracking-wide text-[#6B7280] mb-2">
+          Genre
+        </label>
         <input
+          id="browse-genre-input"
           type="text"
-          value={genre}
-          onChange={(e) => setGenre(e.target.value)}
-          placeholder="Type a genre (e.g. romcom, drama, action)"
-          className="mb-3 w-full max-w-md rounded-full border border-white/15 bg-[#1a1a1a] px-4 py-2.5 text-sm text-[#FAFAFA] placeholder-[#6B7280] focus:outline-none focus:border-amber-500/60 focus:ring-1 focus:ring-amber-500/30 transition-colors"
+          value={draftGenre}
+          onChange={(e) => setDraftGenre(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === "Enter") {
+              e.preventDefault();
+              applyGenreToUrl(draftGenre);
+            }
+          }}
+          disabled={isPending}
+          placeholder="Type a genre (e.g. romcom, drama, action) — press Enter"
+          className="mb-3 w-full max-w-md rounded-full border border-white/15 bg-[#1a1a1a] px-4 py-2.5 text-sm text-[#FAFAFA] placeholder-[#6B7280] focus:outline-none focus:border-amber-500/60 focus:ring-1 focus:ring-amber-500/30 transition-colors disabled:opacity-60"
         />
+        <p className="text-xs text-[#6B7280] mb-3">Press Enter to sync the URL and filter. Chips update the address bar immediately.</p>
         <div className="flex flex-wrap gap-2">
           {GENRE_CHIPS.map((chip) => {
             const active = normalizeGenreValue(genre) === normalizeGenreValue(chip.value);
@@ -85,8 +118,11 @@ export function BrowseClient({ movies, initialGenre = "" }: Props) {
               <button
                 key={chip.label}
                 type="button"
-                onClick={() => setGenre(chip.value)}
-                className={`rounded-full px-3 py-1.5 text-sm transition-colors ${
+                disabled={isPending}
+                onClick={() => {
+                  applyGenreToUrl(chip.value);
+                }}
+                className={`rounded-full px-3 py-1.5 text-sm transition-colors disabled:opacity-50 ${
                   active
                     ? "bg-amber-500 text-[#0F0F0F] font-medium"
                     : "bg-white/5 text-[#9CA3AF] hover:bg-white/10 hover:text-[#FAFAFA]"

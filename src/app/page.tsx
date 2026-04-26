@@ -8,7 +8,7 @@ import { buildOrganizationAndWebSiteJsonLd } from "@/lib/schema-org";
 import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
 import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
-import { MovieSearch } from "@/components/MovieSearch";
+import { HomeSearchPanel } from "@/components/HomeSearchPanel";
 import { fetchMovieDetails, posterUrl } from "@/lib/tmdb";
 
 export const metadata: Metadata = {
@@ -157,30 +157,19 @@ export default async function HomePage() {
       <main className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
       <div className="max-w-3xl">
         <h1 className="font-display text-4xl sm:text-5xl font-bold tracking-tight text-balance mb-6">
-          Find what to watch by genre
+          Find movies like your favorites
         </h1>
-        <p className="text-lg text-[#9CA3AF] text-pretty leading-relaxed mb-8">
-          Type a movie title or start with genres like romcom, drama, or action.
+        <p className="text-lg text-[#9CA3AF] text-pretty leading-relaxed mb-10">
+          <span className="text-[#D1D5DB] font-medium">Start with a title</span> to open a full guide, or{" "}
+          <span className="text-[#D1D5DB] font-medium">browse by genre</span> to explore the catalog.
         </p>
 
-        <MovieSearch movies={movies} className="mb-4" />
+        <HomeSearchPanel movies={movies} />
 
-        <form action="/browse" className="mt-3 flex flex-col gap-3 sm:flex-row sm:items-center">
-          <input
-            type="text"
-            name="genre"
-            placeholder="Type a genre... (e.g. romcom)"
-            className="w-full rounded-full border border-white/15 bg-[#1a1a1a] px-4 py-3 text-sm text-[#FAFAFA] placeholder-[#6B7280] focus:outline-none focus:border-amber-500/60 focus:ring-1 focus:ring-amber-500/30 transition-colors sm:max-w-sm"
-          />
-          <button
-            type="submit"
-            className="inline-flex rounded-full border border-amber-500/40 bg-amber-500/10 px-5 py-3 text-sm font-medium text-amber-500 hover:bg-amber-500/20 transition-colors"
-          >
-            Browse genre
-          </button>
-        </form>
-
-        <div className="mt-4 flex flex-wrap gap-2">
+        <p className="mt-2 text-xs font-semibold uppercase tracking-wide text-[#6B7280]">
+          Popular genre shortcuts
+        </p>
+        <div className="mt-2 flex flex-wrap gap-2">
           {GENRE_QUICK_LINKS.map((genre) => (
             <Link
               key={genre.query}
@@ -283,7 +272,7 @@ export default async function HomePage() {
         <section className="mt-20 border-t border-white/10 pt-14">
           <h2 className="font-display text-2xl font-semibold mb-3">Essays &amp; analysis</h2>
           <p className="text-[#9CA3AF] mb-6 max-w-2xl leading-relaxed">
-            Long-form writing from the WatchThis Editorial Team — pair with our{" "}
+            Long-form writing from the MoviesLike Editorial Team — pair with our{" "}
             <Link href="/popular" className="text-amber-500 hover:text-amber-400 transition-colors">
               popular movie guides
             </Link>{" "}

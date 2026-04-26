@@ -56,19 +56,22 @@ function pickFromSeed<T>(seed: number, arr: T[]): T {
 
 /**
  * Generate CTR-optimized title with number + emotional word
- * Format: "[15-25] [Emotional] Movies Like [Movie] (You'll Love #X)"
+ * When `recommendationCount` is set (>0), that value is the headline count (matches on-page list length).
+ * Otherwise falls back to a seeded 15–25 style number for legacy pages.
  * Target: 50-65 chars
  */
-export function generateTitle(movieName: string): string {
+export function generateTitle(movieName: string, recommendationCount?: number): string {
   const seed = hashCode(movieName);
-  const number = pickFromSeed(seed, NUMBERS);
+  const number =
+    typeof recommendationCount === "number" && recommendationCount > 0
+      ? recommendationCount
+      : pickFromSeed(seed, NUMBERS);
   const emotion = pickFromSeed(seed + 1, EMOTIONAL_TRIGGERS);
 
-  // Variant templates with different emotional hooks
   const templates = [
-    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Movies Like ${movieName} (You'll Love #7)`,
-    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Films Like ${movieName} (Top Pick #3)`,
-    `Movies Like ${movieName}: ${number} ${emotion} Picks (Must-Watch)`,
+    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Movies Like ${movieName}`,
+    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Films Like ${movieName}`,
+    `Movies Like ${movieName}: ${number} ${emotion} Picks`,
     `Top ${number} Movies Like ${movieName} (${emotion.charAt(0).toUpperCase() + emotion.slice(1)})`,
   ];
 
@@ -120,9 +123,13 @@ export function generateDescription(movieName: string): string {
  * Must be hook-heavy and curiosity-driven
  * Example: "If You Loved Interstellar, Watch These Next"
  */
-export function generateH1(movieName: string): string {
+export function generateH1(movieName: string, recommendationCount?: number): string {
   const seed = hashCode(movieName);
   const curiosity = pickFromSeed(seed, CURIOSITY_PHRASES);
+  const countForList =
+    typeof recommendationCount === "number" && recommendationCount > 0
+      ? recommendationCount
+      : pickFromSeed(seed + 1, NUMBERS);
 
   const templates = [
     `If You Loved ${movieName}, Watch These Next`,
@@ -130,7 +137,8 @@ export function generateH1(movieName: string): string {
     `Because You Loved ${movieName}`,
     `${movieName} Fans: These Films Are Essential`,
     `If ${movieName} Moved You, These Will Too`,
-    `Loved ${movieName}? Your Next ${pickFromSeed(seed + 1, NUMBERS)} Must-Watches`,
+    `Loved ${movieName}? Your Next ${countForList} Must-Watches`,
+    `Loved ${movieName}? Here Are ${countForList} Films Worth Your Time`,
   ];
 
   return pickFromSeed(seed + 2, templates);
@@ -149,7 +157,7 @@ export function generateIntroHook(movieName: string, genres: string[], vibes: st
   const vibeStr = vibes.length ? vibes.slice(0, 2).join(" and ") : "storytelling";
 
   const hooks = [
-    `${movieName} hit you with ${emotion} storytelling that stuck around long after the credits. If you're still thinking about it, here are 10 films that deliver the same emotional gut-punch and ${vibeStr} DNA.`,
+    `${movieName} hit you with ${emotion} storytelling that stuck around long after the credits. If you're still thinking about it, here are films that deliver the same emotional gut-punch and ${vibeStr} DNA.`,
     `${movieName} isn't just a movie—it's an experience that rewired how you think about ${genreStr}. Looking for more films with that same ${emotion} impact? These picks echo the same themes, tone, and ${vibeStr} backbone.`,
     `What made ${movieName} so ${emotion.replace('-', ' ')} was its refusal to compromise on ${vibeStr} and stakes. If that resonated with you, the films below are built on that same commitment to craft and emotional payoff.`,
   ];

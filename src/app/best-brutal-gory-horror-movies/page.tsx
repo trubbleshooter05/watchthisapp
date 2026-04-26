@@ -179,7 +179,7 @@ export default function BestBrutalGoryHorrorMoviesPage() {
       </section>
 
       <p className="text-sm text-[#6B7280] mb-8">
-        More from WatchThis: <InlineLink href="/popular">Popular movie guides</InlineLink>
+        More from MoviesLike: <InlineLink href="/popular">Popular movie guides</InlineLink>
         {" · "}
         <InlineLink href="/">Home</InlineLink>
       </p>

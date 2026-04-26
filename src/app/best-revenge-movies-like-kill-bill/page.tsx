@@ -200,7 +200,7 @@ export default function BestRevengeMoviesLikeKillBillPage() {
       </p>
       <p className="text-xs text-[#6B7280] mb-8">
         There is no <code className="text-[#9CA3AF]">/movies-like/kill-bill</code> route—Volume 1 is the
-        primary Kill Bill hub on WatchThis.
+        primary Kill Bill hub on MoviesLike.
       </p>
 
       <EditorialAttribution updatedIso={pageUpdatedIso} />

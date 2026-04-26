@@ -9,7 +9,6 @@ import {
 import { SEO_PRIORITY_SLUG_SET } from "@/lib/seo-priority-movies";
 import { getAllBlogSlugs } from "@/lib/blog-utils";
 import { getSiteUrl } from "@/lib/site-url";
-import { getSitemapIndexedAllowlist, isPathAllowedForSitemap } from "@/lib/sitemap-allowlist";
 
 function appFileMtime(relativePath: string): Date {
   try {
@@ -29,7 +28,6 @@ type ChangeFrequency = NonNullable<MetadataRoute.Sitemap[number]["changeFrequenc
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
   const dataFresh = getLatestRecommendationBundleMtime();
-  const { restrict, allowedPaths } = getSitemapIndexedAllowlist();
 
   const staticPathEntries: Array<{
     path: string;
@@ -94,23 +92,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  const staticRoutes: MetadataRoute.Sitemap = staticPathEntries
-    .filter((e) => isPathAllowedForSitemap(e.path, restrict, allowedPaths))
-    .map((e) => ({
-      url: toUrl(baseUrl, e.path),
-      lastModified: e.lastModified,
-      changeFrequency: e.changeFrequency,
-      priority: e.priority,
-    }));
+  const staticRoutes: MetadataRoute.Sitemap = staticPathEntries.map((e) => ({
+    url: toUrl(baseUrl, e.path),
+    lastModified: e.lastModified,
+    changeFrequency: e.changeFrequency,
+    priority: e.priority,
+  }));
 
-  const moviePathEntries = getAllMovieSlugs()
-    .map((slug) => ({
-      path: `/movies-like/${slug}` as const,
-      lastModified: getRecommendationJsonMtime(slug),
-      changeFrequency: "weekly" as const,
-      priority: SEO_PRIORITY_SLUG_SET.has(slug) ? 1 : 0.95,
-    }))
-    .filter((e) => isPathAllowedForSitemap(e.path, restrict, allowedPaths));
+  const moviePathEntries = getAllMovieSlugs().map((slug) => ({
+    path: `/movies-like/${slug}` as const,
+    lastModified: getRecommendationJsonMtime(slug),
+    changeFrequency: "weekly" as const,
+    priority: SEO_PRIORITY_SLUG_SET.has(slug) ? 1 : 0.95,
+  }));
 
   const movies: MetadataRoute.Sitemap = moviePathEntries.map((e) => ({
     url: toUrl(baseUrl, e.path),
@@ -119,14 +113,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: e.priority,
   }));
 
-  const essayPathEntries = getAllBlogSlugs()
-    .map((slug) => ({
-      path: `/blog/${slug}` as const,
-      lastModified: appFileMtime(`src/content/blog/${slug}.mdx`),
-      changeFrequency: "monthly" as const,
-      priority: 0.8,
-    }))
-    .filter((e) => isPathAllowedForSitemap(e.path, restrict, allowedPaths));
+  const essayPathEntries = getAllBlogSlugs().map((slug) => ({
+    path: `/blog/${slug}` as const,
+    lastModified: appFileMtime(`src/content/blog/${slug}.mdx`),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
 
   const essays: MetadataRoute.Sitemap = essayPathEntries.map((e) => ({
     url: toUrl(baseUrl, e.path),

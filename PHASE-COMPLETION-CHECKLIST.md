@@ -1,6 +1,6 @@
 # SEO Hardening: Phase Completion Checklist
 
-**Project:** WatchThis (MoviesLike.app)  
+**Project:** MoviesLike (movieslike.app)  
 **Scope:** 4,319 movie recommendation pages  
 **Implementation Date:** 2026-04-12  
 **Status:** ✅ ALL 10 PHASES COMPLETE

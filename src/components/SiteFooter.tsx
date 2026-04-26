@@ -5,7 +5,7 @@ export function SiteFooter() {
     <footer className="mt-20 border-t border-white/10 bg-[#0a0a0a] px-4 py-12 text-sm text-[#6B7280] sm:px-6">
       <div className="mx-auto max-w-6xl space-y-6">
         <p className="text-xs leading-relaxed max-w-2xl">
-          WatchThis may earn commissions from qualifying purchases or sign-ups through links to
+          MoviesLike may earn commissions from qualifying purchases or sign-ups through links to
           streaming services (affiliate disclosure). Availability and prices change; confirm on the
           provider&apos;s site.
         </p>
@@ -35,7 +35,7 @@ export function SiteFooter() {
             Sitemap
           </Link>
         </div>
-        <p className="text-xs text-[#4B5563]">© {new Date().getFullYear()} WatchThis</p>
+        <p className="text-xs text-[#4B5563]">© {new Date().getFullYear()} MoviesLike</p>
       </div>
     </footer>
   );

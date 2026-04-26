@@ -36,8 +36,8 @@ export function getRecommendationBundle(slug: string): RecommendationBundle | nu
   }
 }
 
-export function getSeoTitle(sourceTitle: string): string {
-  return generateTitle(sourceTitle);
+export function getSeoTitle(sourceTitle: string, recommendationCount?: number): string {
+  return generateTitle(sourceTitle, recommendationCount);
 }
 
 export function getSeoDescription(sourceTitle: string): string {

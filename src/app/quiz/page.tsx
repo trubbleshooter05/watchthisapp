@@ -4,7 +4,7 @@ import { getSiteUrl } from "@/lib/site-url";
 
 export const metadata: Metadata = {
   title: "Quiz",
-  description: "What should I watch? — coming soon on WatchThis.",
+  description: "What should I watch? — coming soon on MoviesLike (movieslike.app).",
   alternates: { canonical: `${getSiteUrl()}/quiz` },
   robots: { index: true, follow: true },
 };

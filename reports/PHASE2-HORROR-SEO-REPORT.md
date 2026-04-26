@@ -4,7 +4,7 @@
 **Engagement:** “Top picks if you liked [movie]” strip + Continue watching enabled for the same slug set as `top-gun-maverick` (see `src/lib/movies-like-engagement.ts`).  
 **Distinctness:** Each page uses a different CTR emotional token in **seoTitle** (Gripping / Haunting / Addictive / Breathtaking / Stunning). **seoH1** and **seoDescription** strings are unique per film.
 
-**Browser tab title** uses the root layout template: `{seoTitle} | WatchThis`.
+**Browser tab title** uses the root layout template: `{seoTitle} | MoviesLike`.
 
 ---
 

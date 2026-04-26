@@ -212,14 +212,22 @@ function slugEntropy(slug: string): number {
 /**
  * 150–200 word intro: plot/context, appeal, genre/tone/themes, and “movies like [title]”.
  */
-export function buildMoviesLikeIntro(source: SourceMovie, overview: string | null, slug: string): string {
+export function buildMoviesLikeIntro(
+  source: SourceMovie,
+  overview: string | null,
+  slug: string,
+  recommendationCount: number,
+): string {
   const { title, genres, vibes, whyPeopleLoveIt } = source;
   const genreStr = genres.length ? genres.slice(0, 4).join(", ") : "distinctive storytelling";
   const vibePhrase = vibes.length
     ? vibes.slice(0, 6).map((v) => v.replace(/-/g, " ")).join(", ")
     : "memorable atmosphere";
 
-  const keywordSentence = `If you are looking for movies like ${title}, the ten picks below are chosen to echo what made the original feel special—not random genre matches, but films that chase a comparable emotional and stylistic fingerprint.`;
+  const keywordSentence =
+    recommendationCount > 0
+      ? `If you are looking for movies like ${title}, the ${recommendationCount} picks below are chosen to echo what made the original feel special—not random genre matches, but films that chase a comparable emotional and stylistic fingerprint.`
+      : `If you are looking for movies like ${title}, the recommendations below are chosen to echo what made the original feel special—not random genre matches, but films that chase a comparable emotional and stylistic fingerprint.`;
 
   let body: string;
 
@@ -333,7 +341,7 @@ export function buildSchemaFaqItems(movieTitle: string, recTitles: string[]): Fa
     },
     {
       question: `What should I watch if I liked ${movieTitle}?`,
-      answer: `Use the ranked list above: it highlights ten close cousins—similar tension, character dynamics, and storytelling ambition—so you can queue something tonight without endless browsing.`,
+      answer: `Use the ranked list above: it highlights ${recTitles.length} close cousins—similar tension, character dynamics, and storytelling ambition—so you can queue something tonight without endless browsing.`,
     },
     {
       question: `Are there movies with the same vibe as ${movieTitle}?`,

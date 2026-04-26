@@ -20,15 +20,15 @@ const body = DM_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
   title: {
-    default: "WatchThis — Find your next favorite movie",
-    template: "%s | WatchThis",
+    default: "MoviesLike — Find your next favorite movie",
+    template: "%s | MoviesLike",
   },
   description:
-    "AI-powered movie recommendations with streaming links. Discover what to watch next—optimized for fans searching movies like their favorites.",
+    "Curated movie recommendations with streaming links at movieslike.app. Discover what to watch next—movies-like guides for fans searching for their next favorite film.",
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "WatchThis",
+    siteName: "MoviesLike",
   },
 };
 

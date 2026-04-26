@@ -3,6 +3,7 @@
  */
 import { readFileSync, readdirSync } from "fs";
 import path from "path";
+import { validateWhyBlurb } from "./recommendation-why-blurb.mjs";
 
 const TEMPLATE_MARKERS = [
   "clicked for you",
@@ -86,6 +87,13 @@ export function auditBundle(slug, bundle) {
         issues.push({ type: "template_phrase", detail: marker, indices: [i] });
         break;
       }
+    }
+  }
+
+  for (let i = 0; i < texts.length; i++) {
+    const v = validateWhyBlurb(texts[i]);
+    if (!v.ok) {
+      issues.push({ type: "weak_blurb", detail: v.reason, indices: [i] });
     }
   }
 

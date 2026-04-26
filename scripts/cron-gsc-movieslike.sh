@@ -73,6 +73,7 @@ if ! git diff --cached --quiet; then
 
   if [[ "${RUN_VERCEL_DEPLOY}" == "1" ]]; then
     npm run deploy:vercel
+    npm run indexing:health
   fi
 else
   echo "No new pages generated."

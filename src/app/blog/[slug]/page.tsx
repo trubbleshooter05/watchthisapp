@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "article",
       publishedTime: new Date(post.frontmatter.date).toISOString(),
       modifiedTime: modifiedIso,
-      authors: ["WatchThis Editorial Team"],
+      authors: ["MoviesLike Editorial Team"],
     },
     alternates: {
       canonical: postUrl,
@@ -104,7 +104,7 @@ export default function BlogPostPage({ params }: Props) {
               Updated <time dateTime={updatedIso}>{updatedPretty}</time>
             </span>
             <span aria-hidden>•</span>
-            <span className="text-[#D1D5DB]">WatchThis Editorial Team</span>
+            <span className="text-[#D1D5DB]">MoviesLike Editorial Team</span>
             <span aria-hidden>•</span>
             <span className="rounded-full bg-amber-500/20 px-3 py-1 text-amber-400">
               {post.frontmatter.category}
@@ -120,7 +120,7 @@ export default function BlogPostPage({ params }: Props) {
 
       <footer className="mt-12 border-t border-white/10 pt-8 space-y-4">
         <p className="text-sm text-[#6B7280]">
-          More from WatchThis:{" "}
+          More from MoviesLike:{" "}
           <Link href="/popular" className="text-amber-500 hover:text-amber-400">
             Popular movie guides
           </Link>

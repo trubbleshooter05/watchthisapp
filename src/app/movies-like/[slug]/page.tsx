@@ -28,6 +28,10 @@ import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { generateH1 } from "@/lib/seo/ctr";
 import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
 import { MOVIES_LIKE_ENGAGEMENT_SLUGS } from "@/lib/movies-like-engagement";
+import {
+  pickRelatedSlugsForFooter,
+  relatedMovieFooterAnchor,
+} from "@/lib/movies-like-related-section";
 import { UNHEALER_TOP_THREE_BLURBS } from "@/lib/the-unhealer-page";
 import { WhereToWatch } from "@/components/WhereToWatch";
 
@@ -41,7 +45,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const bundle = getRecommendationBundle(slug);
   if (!bundle) return {};
   const t = bundle.sourceMovie.title;
-  const title = bundle.seoTitle ?? getSeoTitle(t);
+  const recommendationCount = bundle.recommendations.length;
+  const title = bundle.seoTitle ?? getSeoTitle(t, recommendationCount);
   const description = bundle.seoDescription ?? getSeoDescription(t);
   const baseUrl = getSiteUrl();
   const modified = getRecommendationJsonMtime(slug);
@@ -71,21 +76,22 @@ export default async function MovieLikePage({ params }: Props) {
   if (!bundle) notFound();
 
   const { source, recommendations } = await enrichMovieLikePage(bundle);
+  const recommendationCount = recommendations.length;
   const baseUrl = getSiteUrl();
 
-  const title = bundle.seoTitle ?? getSeoTitle(bundle.sourceMovie.title);
+  const title = bundle.seoTitle ?? getSeoTitle(bundle.sourceMovie.title, recommendationCount);
   const description = bundle.seoDescription ?? getSeoDescription(bundle.sourceMovie.title);
-  const h1 = bundle.seoH1 ?? generateH1(bundle.sourceMovie.title);
+  const h1 = bundle.seoH1 ?? generateH1(bundle.sourceMovie.title, recommendationCount);
 
   const introHtml = bundle.customIntroParagraphs?.length
     ? ""
-    : buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug);
+    : buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount);
   const introForValidation =
     bundle.customIntroParagraphs?.join("\n\n") || introHtml || "";
-  const whyLoveThese = buildWhyYoullLoveTheseMovies(bundle.sourceMovie, bundle.recommendations);
+  const whyLoveThese = buildWhyYoullLoveTheseMovies(bundle.sourceMovie, recommendations);
   const schemaFaq = buildSchemaFaqItems(
     bundle.sourceMovie.title,
-    bundle.recommendations.map((r) => r.title),
+    recommendations.map((r) => r.title),
   );
   const mergedFaq = mergeFaqForPage(bundle.faq, schemaFaq);
 
@@ -97,6 +103,7 @@ export default async function MovieLikePage({ params }: Props) {
 
   const alsoLikeLinks = pickAlsoLikeSlugs(slug);
   const relatedGuideLinks = filterExistingRelatedSlugs(bundle.relatedPages).filter((s) => s !== slug);
+  const relatedFooterSlugs = pickRelatedSlugsForFooter(bundle.relatedPages, slug, 6);
 
   const midPageGuideLinks =
     bundle.midPageYouMightAlsoLike?.flatMap((entry) => {
@@ -357,9 +364,9 @@ export default async function MovieLikePage({ params }: Props) {
           </section>
 
           <h2 className="font-display text-2xl font-bold mb-8">
-            Your {bundle.recommendations.length} recommendations
+            Your {recommendationCount} recommendations
           </h2>
-          {bundle.recommendations.length === 0 ? (
+          {recommendationCount === 0 ? (
             <p className="text-sm text-amber-500/90 border border-amber-500/20 rounded-xl bg-amber-500/5 px-4 py-3 max-w-xl">
               This guide is being filled out—recommendations will appear here after the list is added
               to the site data.
@@ -371,7 +378,7 @@ export default async function MovieLikePage({ params }: Props) {
             />
           )}
 
-          {bundle.recommendations.length > 0 && (
+          {recommendationCount > 0 && (
             <section className="mt-16 border-t border-white/10 pt-12">
               <h2 className="font-display text-xl font-semibold text-[#FAFAFA] mb-4">
                 Why You&apos;ll Love These Movies
@@ -415,54 +422,29 @@ export default async function MovieLikePage({ params }: Props) {
             </section>
           )}
 
-          {(alsoLikeLinks.length > 0 || relatedGuideLinks.length > 0) && (
+          {alsoLikeLinks.length > 0 && (
             <section className="mt-16 border-t border-white/10 pt-12 space-y-10">
-              {alsoLikeLinks.length > 0 && (
-                <div>
-                  <h2 className="font-display text-xl font-semibold mb-6 text-[#FAFAFA]">
-                    You Might Also Like
-                  </h2>
-                  <ul className="flex flex-wrap gap-3">
-                    {alsoLikeLinks.map((s) => {
-                      const b = getRecommendationBundle(s);
-                      const label = b?.sourceMovie.title ?? s;
-                      return (
-                        <li key={s}>
-                          <Link
-                            href={`/movies-like/${s}`}
-                            className="inline-block rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors"
-                          >
-                            Movies like {label}
-                          </Link>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </div>
-              )}
-              {relatedGuideLinks.length > 0 && (
-                <div>
-                  <h2 className="font-display text-xl font-semibold mb-6 text-[#FAFAFA]">
-                    Related movie guides
-                  </h2>
-                  <ul className="flex flex-wrap gap-3">
-                    {relatedGuideLinks.map((s) => {
-                      const b = getRecommendationBundle(s);
-                      const label = b?.sourceMovie.title ?? s;
-                      return (
-                        <li key={s}>
-                          <Link
-                            href={`/movies-like/${s}`}
-                            className="inline-block rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors"
-                          >
-                            Movies like {label}
-                          </Link>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </div>
-              )}
+              <div>
+                <h2 className="font-display text-xl font-semibold mb-6 text-[#FAFAFA]">
+                  You Might Also Like
+                </h2>
+                <ul className="flex flex-wrap gap-3">
+                  {alsoLikeLinks.map((s) => {
+                    const b = getRecommendationBundle(s);
+                    const label = b?.sourceMovie.title ?? s;
+                    return (
+                      <li key={s}>
+                        <Link
+                          href={`/movies-like/${s}`}
+                          className="inline-block rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors"
+                        >
+                          Movies like {label}
+                        </Link>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </div>
             </section>
           )}
 
@@ -488,6 +470,42 @@ export default async function MovieLikePage({ params }: Props) {
             </p>
             <AllMovieGuideLinks exceptSlug={slug} />
           </section>
+
+          {relatedFooterSlugs.length > 0 && (
+            <section
+              className="mt-16 border-t border-white/10 pt-12"
+              aria-labelledby="related-movies-footer-heading"
+            >
+              <h2
+                id="related-movies-footer-heading"
+                className="font-display text-xl font-semibold text-[#FAFAFA] mb-2"
+              >
+                Related movies
+              </h2>
+              <p className="text-sm text-[#9CA3AF] mb-6 max-w-2xl leading-relaxed">
+                Hand-picked guides from this page&apos;s data—same editorial lane as{" "}
+                <span className="text-[#D1D5DB]">{source.title}</span>.
+              </p>
+              <ul className="flex flex-col sm:flex-row sm:flex-wrap gap-3">
+                {relatedFooterSlugs.map((s, i) => {
+                  const b = getRecommendationBundle(s);
+                  const targetTitle = b?.sourceMovie.title ?? s;
+                  const targetYear = b?.sourceMovie.year ?? 0;
+                  const anchor = relatedMovieFooterAnchor(i, source.title, targetTitle, targetYear);
+                  return (
+                    <li key={s} className="sm:max-w-md">
+                      <Link
+                        href={`/movies-like/${s}`}
+                        className="inline-block w-full sm:w-auto rounded-xl border border-white/10 bg-[#141414] px-4 py-3 text-sm text-amber-500/90 hover:border-amber-500/40 hover:bg-amber-500/5 transition-colors text-balance leading-snug"
+                      >
+                        {anchor}
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
+            </section>
+          )}
 
           <EditorialAttribution updatedIso={guideUpdatedIso} />
 

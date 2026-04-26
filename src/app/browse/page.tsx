@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Suspense } from "react";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { BrowseClient } from "@/components/BrowseClient";
 import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
@@ -10,18 +11,16 @@ const browseUpdatedIso = getProjectFileMtimeIso("src/app/browse/page.tsx");
 
 export const metadata: Metadata = {
   title: "Browse",
-  description: "All movies-like recommendation pages on WatchThis.",
+  description: "All movies-like recommendation pages on MoviesLike (movieslike.app).",
   alternates: { canonical: `${getSiteUrl()}/browse` },
   robots: { index: false, follow: true },
 };
 
-type Props = {
-  searchParams?: {
-    genre?: string;
-  };
+type BrowsePageProps = {
+  searchParams?: { genre?: string };
 };
 
-export default function BrowsePage({ searchParams }: Props) {
+export default function BrowsePage({ searchParams }: BrowsePageProps) {
   const initialGenre = searchParams?.genre?.trim() ?? "";
   const movies = getAllMovieSlugs()
     .map((slug) => ({
@@ -37,7 +36,15 @@ export default function BrowsePage({ searchParams }: Props) {
       <p className="text-[#9CA3AF] mb-8 max-w-xl">
         Pick a genre first, then open any movie page for tailored recommendations.
       </p>
-      <BrowseClient movies={movies} initialGenre={initialGenre} />
+      <Suspense
+        fallback={
+          <div className="rounded-xl border border-white/10 bg-[#141414]/50 p-8 animate-pulse text-sm text-[#6B7280]">
+            Loading browse filters…
+          </div>
+        }
+      >
+        <BrowseClient movies={movies} initialGenre={initialGenre} />
+      </Suspense>
 
       <p className="mt-12 text-sm text-[#6B7280] max-w-xl">
         Shortlist:{" "}

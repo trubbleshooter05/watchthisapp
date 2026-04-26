@@ -26,6 +26,7 @@
     "cron:daily": "zsh scripts/cron-movieslike.sh daily",
     "automation:daily": "zsh scripts/run-daily-automation.sh",
     "deploy:vercel": "npx vercel@latest deploy --prod",
+    "indexing:health": "node scripts/indexing-health.mjs",
     "smoke:movieslike": "zsh scripts/smoke-test-movieslike-jobs.sh"
   },
   "dependencies": {

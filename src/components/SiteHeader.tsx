@@ -13,7 +13,7 @@ export function SiteHeader() {
     <header className="border-b border-white/10 bg-[#0F0F0F]/80 backdrop-blur-md sticky top-0 z-50">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="font-display text-lg font-bold tracking-tight text-[#FAFAFA]">
-          Watch<span className="text-amber-500">This</span>
+          Movies<span className="text-amber-500">Like</span>
         </Link>
         <nav className="flex flex-wrap items-center justify-end gap-x-3 gap-y-1 sm:gap-x-6 text-sm text-[#9CA3AF]">
           {nav.map((item) => (

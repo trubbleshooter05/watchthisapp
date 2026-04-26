@@ -15,6 +15,7 @@ import {
   buildFaq,
   runQualityAudit,
 } from "./quality-lib.mjs";
+import { validateWhyBlurb } from "./recommendation-why-blurb.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -184,7 +185,7 @@ RULES — follow these exactly:
 1. Each recommendation must share the EMOTIONAL EXPERIENCE or THEMATIC DNA of ${title}, not just surface-level genre. "Both are dramas" is not a reason. "Both explore how obsession corrodes identity" IS a reason.
 
 2. For EACH recommendation, write a "whyYoullLoveIt" that is:
-   - Exactly 2 sentences
+   - Exactly 1–2 complete sentences (full clauses, no fragments, no clipped endings)
    - References a SPECIFIC element of ${title} (a character dynamic, a scene type, a feeling, a theme)
    - Connects it to a SPECIFIC element of the recommended movie
    - NEVER starts with "If you liked ${title}" or "If ${title} clicked for you" — find a more creative opening
@@ -209,7 +210,7 @@ Return ONLY valid JSON with this shape (10 items in recommendations):
       "title": "The Talented Mr. Ripley",
       "year": 1999,
       "matchPercentage": 96,
-      "whyYoullLoveIt": "Two sentences here.",
+      "whyYoullLoveIt": "One or two complete sentences here.",
       "sharedVibes": ["obsession", "class", "psychological"],
       "mood": "dark"
     }
@@ -225,31 +226,6 @@ Also provide 4-6 short vibe tags (kebab-case) capturing tone and theme.
 Return ONLY JSON: { "whyPeopleLoveIt": "...", "vibes": ["tag-one", "tag-two"] }`;
 }
 
-/** Count "sentences" for validation: . ! ? ; or em dash between substantial clauses. Abbreviations like Dr. are masked. */
-function countWhySentences(text) {
-  let s = String(text).trim();
-  if (!s) return 0;
-  s = s.replace(/\b(Mr|Mrs|Ms|Mx|Dr|Prof|Jr|Sr|St)\./gi, (m) => m.replace(/\./g, "․"));
-  s = s.replace(/\b(e\.g\.|i\.e\.|vs\.|etc\.)\b/gi, (m) => m.replace(/\./g, "․"));
-  const restore = (t) => t.replace(/․/g, ".");
-  const byTerminal = s
-    .split(/(?<=[.!?])\s+/)
-    .map((x) => restore(x).trim())
-    .filter((x) => x.length > 0);
-  if (byTerminal.length >= 2) return byTerminal.length;
-  const bySemi = s
-    .split(/;\s+/)
-    .map((x) => restore(x).trim())
-    .filter((x) => x.length >= 20);
-  if (bySemi.length >= 2) return 2;
-  const byDash = s
-    .split(/\s+—\s+|\s+–\s+/)
-    .map((x) => restore(x).trim())
-    .filter((x) => x.length >= 20);
-  if (byDash.length >= 2) return 2;
-  return byTerminal.length;
-}
-
 function validateRecItem(x, i) {
   const yr = typeof x.year === "number" ? x.year : parseInt(x.year, 10);
   if (!x.title || !Number.isFinite(yr)) return `rec[${i}] missing title/year`;
@@ -257,7 +233,6 @@ function validateRecItem(x, i) {
   if (typeof x.matchPercentage !== "number" || x.matchPercentage < 70 || x.matchPercentage > 98)
     return `rec[${i}] bad matchPercentage`;
   if (!x.whyYoullLoveIt || typeof x.whyYoullLoveIt !== "string") return `rec[${i}] missing whyYoullLoveIt`;
-  if (countWhySentences(x.whyYoullLoveIt) < 2) return `rec[${i}] whyYoullLoveIt should be 2 sentences`;
   if (!MOODS.has(x.mood)) return `rec[${i}] bad mood: ${x.mood}`;
   if (!Array.isArray(x.sharedVibes) || x.sharedVibes.length < 2) return `rec[${i}] sharedVibes`;
   const low = x.whyYoullLoveIt.toLowerCase();
@@ -269,6 +244,9 @@ function validateRecItem(x, i) {
     /if you loved /.test(low)
   )
     return `rec[${i}] banned template phrase in whyYoullLoveIt`;
+  const v = validateWhyBlurb(x.whyYoullLoveIt);
+  if (!v.ok) return `rec[${i}] whyYoullLoveIt: ${v.reason}`;
+  x.whyYoullLoveIt = v.text;
   return null;
 }
 
@@ -291,10 +269,30 @@ async function buildTmdbPadEntry(movieResult, matchPercentage, slotIndex) {
     `${t} (${ry}) lands on many “people also watched” rails for this film: different characters, but the same hunger to watch privilege curdle.`,
     `Queue ${t} when you want the aftertaste of the last movie to linger—here the social chess is messier and the comedy (if any) cuts closer.`,
     `${t} is a pragmatic next pick from TMDB overlap data: not a clone, but it tends to satisfy viewers who liked the last film’s pressure-cooker politeness.`,
-    `If you liked how the last film weaponized awkward rooms, ${t} offers a fresh layout with familiar stakes—worth it for the tonal echo alone.`,
+    `Viewers who appreciated how the last film weaponized awkward rooms will find a similar charge in ${t}, even though the floor plan of the story changes completely.`,
     `Consider ${t} as a lateral move: new story, similar “who’s performing for whom?” energy that made the previous watch stick.`,
+    `${t} (${ry}) keeps the same emotional temperature as the last film while swapping in a new cast of characters and conflicts.`,
+    `The overlap audiences see between this pick and the last film comes down to pacing and payoff, not plot photocopying.`,
   ];
-  const whyYoullLoveIt = hooks[slotIndex % hooks.length].replace(/\bthe last film\b/gi, "that film").replace(/\bthe previous watch\b/gi, "that one");
+  const scrub = (s) =>
+    s
+      .replace(/\bthe last film\b/gi, "that film")
+      .replace(/\bthe last movie\b/gi, "that film")
+      .replace(/\bthe previous watch\b/gi, "that one");
+  let whyYoullLoveIt = "";
+  for (let k = 0; k < hooks.length; k++) {
+    const raw = scrub(hooks[(slotIndex + k) % hooks.length]);
+    const v = validateWhyBlurb(raw);
+    if (v.ok) {
+      whyYoullLoveIt = v.text;
+      break;
+    }
+  }
+  if (!whyYoullLoveIt) {
+    const raw = scrub(hooks[slotIndex % hooks.length]);
+    const v = validateWhyBlurb(raw);
+    whyYoullLoveIt = v.ok ? v.text : raw;
+  }
   return {
     tmdbId: detail.id,
     title: t,
@@ -405,8 +403,8 @@ async function regenerateOne(slug) {
       system,
       `Fix this recommendation list. Issues:\n${issues.slice(0, 15).join("\n")}
 
-Rules for whyYoullLoveIt: exactly TWO full sentences. End the first with a period (.), then one space, then the second sentence ending with . ! or ?
-Do not use one long run-on. Do not use only a semicolon unless you also have two clear sentences (each 15+ words).
+Rules for whyYoullLoveIt: 1–2 complete sentences only (no fragments, no clipped endings, no stitched half-phrases). Each sentence must end with . ! or ? and contain at least eight words.
+If you write two sentences, separate them with a single space after the first final period.
 
 Return full JSON with key "recommendations" (array of 10). Titles must be real movies.
 

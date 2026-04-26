@@ -16,7 +16,7 @@ export function EditorialAttribution({ updatedIso, className = "" }: Props) {
     <p
       className={`text-sm text-[#6B7280] border-t border-white/10 pt-6 mt-10 ${className}`.trim()}
     >
-      <span className="text-[#9CA3AF]">WatchThis Editorial Team</span>
+      <span className="text-[#9CA3AF]">MoviesLike Editorial Team</span>
       <span className="mx-2" aria-hidden>
         ·
       </span>

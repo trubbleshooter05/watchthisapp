@@ -11,6 +11,7 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
+import { postProcessWhyBlurb, validateWhyBlurb } from "./recommendation-why-blurb.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "../data/recommendations");
@@ -110,18 +111,22 @@ function isTemplate(text) {
   return /clicked for you/i.test(text) || /strong next stop/i.test(text);
 }
 
-function pickTemplate(sourceTitle, recIndex) {
-  const seed = simpleHash(sourceTitle) + recIndex * 7;
-  return TEMPLATES[seed % TEMPLATES.length];
-}
-
 function generateBlurb(sourceTitle, rec, recIndex) {
   const vibes = (rec.sharedVibes ?? []).slice();
   const mood = rec.mood ?? "engaging";
   const year = rec.year ?? "";
   const recTitle = rec.title ?? "this film";
-  const fn = pickTemplate(sourceTitle, recIndex);
-  return fn(sourceTitle, recTitle, vibes, mood, String(year));
+  const base = simpleHash(sourceTitle) + recIndex * 7;
+  for (let k = 0; k < TEMPLATES.length; k++) {
+    const fn = TEMPLATES[(base + k) % TEMPLATES.length];
+    const raw = fn(sourceTitle, recTitle, vibes, mood, String(year));
+    const v = validateWhyBlurb(raw);
+    if (v.ok) return v.text;
+  }
+  const fn = TEMPLATES[base % TEMPLATES.length];
+  const fallbackRaw = fn(sourceTitle, recTitle, vibes, mood, String(year));
+  const v = validateWhyBlurb(fallbackRaw);
+  return postProcessWhyBlurb(v.ok ? v.text : fallbackRaw);
 }
 
 // ─── Main ───────────────────────────────────────────────────────────────────

@@ -1,8 +1,8 @@
 import type { EnrichedSource } from "@/lib/enrich-page";
 import type { RecommendationBundle } from "@/lib/types/recommendation";
 
-const BRAND = "WatchThis";
-const PUBLISHER = "WatchThis Editorial Team";
+const BRAND = "MoviesLike";
+const PUBLISHER = "MoviesLike Editorial Team";
 
 export function buildOrganizationAndWebSiteJsonLd(baseUrl: string) {
   const orgId = `${baseUrl}/#organization`;
@@ -14,10 +14,10 @@ export function buildOrganizationAndWebSiteJsonLd(baseUrl: string) {
         "@type": "Organization",
         "@id": orgId,
         name: BRAND,
-        alternateName: ["WatchThis — MoviesLike.app", "movieslike.app"],
+        alternateName: ["MoviesLike.app", "movieslike.app", "www.movieslike.app"],
         url: baseUrl,
         description:
-          "WatchThis helps you find what to watch next with curated “movies like” guides, streaming context, and editorial recommendations at movieslike.app.",
+          "MoviesLike helps you find what to watch next with curated “movies like” guides, streaming context, and editorial recommendations at https://www.movieslike.app.",
       },
       {
         "@type": "WebSite",

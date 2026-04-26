@@ -10,6 +10,7 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
+import { pickValidBlurb } from "./recommendation-why-blurb.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const force = process.argv.includes("--force");
@@ -205,7 +206,9 @@ function buildVibes(genreNames, vote) {
 
 function buildWhyYoullLoveIt(sourceTitle, sourceGenres, recTitle, recYear, recGenres, mood) {
   const shared = sourceGenres.filter((x) => recGenres.includes(x));
-  const sg = shared.length ? shared.slice(0, 2).join(" and ").toLowerCase() : recGenres.slice(0, 2).join(" and ").toLowerCase();
+  const sg = shared.length
+    ? shared.slice(0, 2).join(" and ").toLowerCase()
+    : recGenres.slice(0, 2).join(" and ").toLowerCase();
   const moodHint =
     mood === "funny"
       ? "comic timing and sharper banter"
@@ -216,7 +219,19 @@ function buildWhyYoullLoveIt(sourceTitle, sourceGenres, recTitle, recYear, recGe
           : mood === "uplifting"
             ? "earned warmth without mush"
             : "momentum and clean stakes";
-  return `If ${sourceTitle} clicked for you, ${recTitle} (${recYear}) is a strong next stop: both trade in ${sg}, with ${moodHint}. Expect a different story, but a similar willingness to go big when the moment demands it.`;
+
+  return pickValidBlurb([
+    () =>
+      `If ${sourceTitle} worked for you, ${recTitle} (${recYear}) is a strong next pick. The two films share ${sg} throughlines and ${moodHint}, even though the stories go in different directions.`,
+    () =>
+      `${recTitle} (${recYear}) makes a natural follow-up to ${sourceTitle} for viewers who want more of that flavor. Both lean into ${sg} and deliver ${moodHint}, while keeping the plot and characters fresh.`,
+    () =>
+      `After ${sourceTitle}, many fans queue ${recTitle} (${recYear}) next because the pairing feels intuitive. You still get ${sg} and the same appetite for ${moodHint}, wrapped in a new story that stands on its own.`,
+    () =>
+      `${recTitle} (${recYear}) belongs in the same conversation as ${sourceTitle}: both foreground ${sg} and ${moodHint} without feeling like a retread. The second film earns its place with a distinct narrative arc.`,
+    () =>
+      `${sourceTitle} and ${recTitle} (${recYear}) are not the same movie, but they rhyme in the ways that matter. Each commits to ${sg}, brings ${moodHint}, and trusts the audience to stay with a bold swing.`,
+  ]);
 }
 
 function sharedVibesList(sourceGenres, recGenres) {
