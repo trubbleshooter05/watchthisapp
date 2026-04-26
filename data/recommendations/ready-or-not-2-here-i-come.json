@@ -1,0 +1,172 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1266127,
+    "title": "Ready or Not 2: Here I Come",
+    "slug": "ready-or-not-2-here-i-come",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Ready or Not 2: Here I Come (2026) stuck because it commits to its horror premise without apologizing—viewers remember set pieces and momentum as much as plot. Matt Bettinelli-Olpin's control of tone keeps the ride coherent. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 917496,
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Beetlejuice Beetlejuice (2024) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9374,
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Death Becomes Her (1992) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, The Curse of Bridge Hollow (2022) is a strong next stop: both trade in horror and comedy, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 642885,
+      "title": "Hocus Pocus 2",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Hocus Pocus 2 (2022) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5683,
+      "title": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Pee-wee's Big Adventure (1985) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5506,
+      "title": "The Ladykillers",
+      "year": 1955,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, The Ladykillers (1955) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 5486,
+      "title": "A Bay of Blood",
+      "year": 1971,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, A Bay of Blood (1971) is a strong next stop: both trade in horror, with unease that lingers after the credits. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "horror",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 5204,
+      "title": "Kontroll",
+      "year": 2003,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Kontroll (2003) is a strong next stop: both trade in comedy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "comedy",
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 101299,
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, The Hunger Games: Catching Fire (2013) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1895,
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Ready or Not 2: Here I Come clicked for you, Star Wars: Episode III - Revenge of the Sith (2005) is a strong next stop: both trade in adventure and action, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Ready or Not 2: Here I Come?",
+      "answer": "Try Beetlejuice Beetlejuice, Death Becomes Her, The Curse of Bridge Hollow—each shares DNA with Ready or Not 2: Here I Come while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Ready or Not 2: Here I Come?",
+      "answer": "Ready or Not 2: Here I Come (2026) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Ready or Not 2: Here I Come part of a franchise?",
+      "answer": "Yes—it's part of the \"Ready or Not Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "as-the-gods-will"
+  ]
+}
