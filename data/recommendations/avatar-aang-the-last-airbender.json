@@ -1,0 +1,187 @@
+{
+  "sourceMovie": {
+    "tmdbId": 10196,
+    "title": "The Last Airbender",
+    "slug": "avatar-aang-the-last-airbender",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "whyPeopleLoveIt": "People revisit The Last Airbender for the same reason it broke through in 2010: clear stakes, memorable faces, and a adventure rhythm that doesn't stall in the middle. M. Night Shyamalan keeps the ensemble pointed in one direction. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "fantasy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 68735,
+      "title": "Warcraft",
+      "year": 2016,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Warcraft (2016) is a strong next stop: both trade in action and adventure, with momentum and clean stakes. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1011985,
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Kung Fu Panda 4 (2024) is a strong next stop: both trade in action and adventure, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1087192,
+      "title": "How to Train Your Dragon",
+      "year": 2025,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, How to Train Your Dragon (2025) is a strong next stop: both trade in action and adventure, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 808,
+      "title": "Shrek",
+      "year": 2001,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Shrek (2001) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 810,
+      "title": "Shrek the Third",
+      "year": 2007,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Shrek the Third (2007) is a strong next stop: both trade in adventure and fantasy, with comic timing and sharper banter. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10601,
+      "title": "Peter Pan",
+      "year": 2003,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Peter Pan (2003) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Return to Never Land (2002) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Tinker Bell and the Lost Treasure (2009) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 5889,
+      "title": "Azumi",
+      "year": 2003,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Azumi (2003) is a strong next stop: both trade in action and adventure, with emotional whiplash that feels honest. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "thriller",
+        "romance"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 15035,
+      "title": "Fire and Ice",
+      "year": 1983,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Last Airbender clicked for you, Fire and Ice (1983) is a strong next stop: both trade in adventure and fantasy, with earned warmth without mush. Expect a different story, but a similar willingness to go big when the moment demands it.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "animation",
+        "science-fiction"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Last Airbender?",
+      "answer": "Try Warcraft, Kung Fu Panda 4, How to Train Your Dragon—each shares DNA with The Last Airbender while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Last Airbender?",
+      "answer": "The Last Airbender (2010) is best described as Action, Adventure, Fantasy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Last Airbender worth revisiting?",
+      "answer": "Viewer scores sit around 4.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-touch-of-zen",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days"
+  ]
+}
