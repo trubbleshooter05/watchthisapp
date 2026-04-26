@@ -57,6 +57,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.75,
     },
     {
+      path: "/best-brutal-gory-horror-movies",
+      lastModified: appFileMtime("src/app/best-brutal-gory-horror-movies/page.tsx"),
+      changeFrequency: "monthly",
+      priority: 0.75,
+    },
+    {
       path: "/quiz",
       lastModified: appFileMtime("src/app/quiz/page.tsx"),
       changeFrequency: "monthly",
