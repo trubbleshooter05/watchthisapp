@@ -5,6 +5,7 @@ import { getProjectFileMtimeIso } from "@/lib/editorial-meta";
 import { getRecommendationBundle } from "@/lib/recommendations";
 import { SEO_PRIORITY_MOVIE_SLUGS } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
+import { MOVIE_COLLECTIONS } from "@/lib/movie-collections";
 
 const baseUrl = getSiteUrl();
 const popularModifiedIso = getProjectFileMtimeIso("src/app/popular/page.tsx");
@@ -70,6 +71,21 @@ export default function PopularPage() {
             <li key={slug}>
               <Link href={`/movies-like/${slug}`} className="text-amber-500 hover:underline">
                 {anchor}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="mt-10 border-t border-white/10 pt-8" aria-labelledby="collections-heading">
+        <h2 id="collections-heading" className="font-display text-xl font-semibold mb-4">
+          Curated paths from real search demand
+        </h2>
+        <ul className="space-y-2">
+          {MOVIE_COLLECTIONS.map((collection) => (
+            <li key={collection.slug}>
+              <Link href={`/collections/${collection.slug}`} className="text-amber-500 hover:underline">
+                {collection.title}
               </Link>
             </li>
           ))}

@@ -9,6 +9,7 @@ import {
 import { SEO_PRIORITY_SLUG_SET } from "@/lib/seo-priority-movies";
 import { getAllBlogSlugs } from "@/lib/blog-utils";
 import { getSiteUrl } from "@/lib/site-url";
+import { getAllMovieCollectionSlugs } from "@/lib/movie-collections";
 
 function appFileMtime(relativePath: string): Date {
   try {
@@ -127,5 +128,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: e.priority,
   }));
 
-  return [...staticRoutes, ...movies, ...essays];
+  const collections: MetadataRoute.Sitemap = getAllMovieCollectionSlugs().map((slug) => ({
+    url: toUrl(baseUrl, `/collections/${slug}`),
+    lastModified: appFileMtime("src/lib/movie-collections.ts"),
+    changeFrequency: "weekly" as const,
+    priority: 0.82,
+  }));
+
+  return [...staticRoutes, ...movies, ...essays, ...collections];
 }
