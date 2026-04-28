@@ -6,7 +6,7 @@ type Props = {
 };
 
 export function WhereToWatch({ movieTitle, includeNetflix }: Props) {
-  const { netflix, amazonPrime, appleTv } = buildWhereToWatchUrls(movieTitle);
+  const { netflix, amazonPrime, appleTv, fandango, justWatch } = buildWhereToWatchUrls(movieTitle);
 
   const linkClass =
     "text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors";
@@ -49,10 +49,30 @@ export function WhereToWatch({ movieTitle, includeNetflix }: Props) {
           <a
             href={appleTv}
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer sponsored"
             className={linkClass}
           >
             Watch on Apple TV
+          </a>
+        </li>
+        <li>
+          <a
+            href={fandango}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className={linkClass}
+          >
+            Find tickets on Fandango
+          </a>
+        </li>
+        <li>
+          <a
+            href={justWatch}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            className={linkClass}
+          >
+            Compare streaming options
           </a>
         </li>
       </ul>

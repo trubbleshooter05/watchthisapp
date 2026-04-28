@@ -8,22 +8,30 @@ export default function SignupPage() {
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState("");
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const trimmed = email.trim().toLowerCase();
     if (!trimmed || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(trimmed)) {
       setError("Please enter a valid email address.");
       return;
     }
+    setError("");
+
     try {
-      const existing: string[] = JSON.parse(localStorage.getItem("wt_waitlist") ?? "[]");
-      if (!existing.includes(trimmed)) {
-        localStorage.setItem("wt_waitlist", JSON.stringify([...existing, trimmed]));
+      const res = await fetch("/api/newsletter", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: trimmed }),
+      });
+
+      if (!res.ok) {
+        setError("We couldn't save that email. Please try again.");
+        return;
       }
+      setSubmitted(true);
     } catch {
-      // localStorage unavailable — still show success
+      setError("We couldn't save that email. Please try again.");
     }
-    setSubmitted(true);
   }
 
   return (
@@ -35,7 +43,7 @@ export default function SignupPage() {
             You&apos;re on the list!
           </h1>
           <p className="text-[#9CA3AF] leading-relaxed">
-            We&apos;ll email you when watchlists are ready.
+            We&apos;ll send a weekly shortlist of movies worth watching and where to stream them.
           </p>
           <div className="pt-4">
             <Link

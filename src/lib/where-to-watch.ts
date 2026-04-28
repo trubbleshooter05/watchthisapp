@@ -12,5 +12,7 @@ export function buildWhereToWatchUrls(movieTitle: string) {
     netflix: `https://www.netflix.com/search?q=${q}`,
     amazonPrime,
     appleTv: `https://tv.apple.com/search?term=${q}`,
+    fandango: `https://www.fandango.com/search?q=${q}`,
+    justWatch: `https://www.justwatch.com/us/search?q=${q}`,
   };
 }

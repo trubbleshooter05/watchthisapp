@@ -113,7 +113,7 @@ export function RecommendationList({
 
       <ol className="space-y-10 list-none p-0 m-0">
         {filtered.map((rec, i) => {
-          const { amazonPrime } = buildWhereToWatchUrls(rec.title);
+          const { amazonPrime, appleTv, justWatch } = buildWhereToWatchUrls(rec.title);
           return (
           <li key={rec.tmdbId} id={`movie-like-rec-${rec.tmdbId}`} className="scroll-mt-24">
             <article className="rounded-2xl border border-white/10 bg-[#141414] overflow-hidden sm:flex">
@@ -196,7 +196,7 @@ export function RecommendationList({
                       We may earn a commission from qualifying purchases made through links on this page.
                     </p>
                   ) : null}
-                  <p className="mt-2">
+                  <p className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
                     <a
                       href={amazonPrime}
                       target="_blank"
@@ -204,6 +204,22 @@ export function RecommendationList({
                       className="text-sm text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors"
                     >
                       Search Prime Video
+                    </a>
+                    <a
+                      href={appleTv}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="text-sm text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors"
+                    >
+                      Search Apple TV
+                    </a>
+                    <a
+                      href={justWatch}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="text-sm text-amber-500/90 hover:text-amber-400 underline-offset-2 hover:underline transition-colors"
+                    >
+                      Compare streamers
                     </a>
                   </p>
                 </div>
