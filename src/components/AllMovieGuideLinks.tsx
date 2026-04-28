@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { getAllMovieSlugs, getRecommendationBundle } from "@/lib/recommendations";
+import { getRecommendationBundle } from "@/lib/recommendations";
+import { getIndexableMovieGuideSlugs } from "@/lib/seo-priority-movies";
 
 type Props = {
   /** Omit on listing pages; set on a movie page to skip self. */
@@ -8,7 +9,7 @@ type Props = {
 };
 
 export function AllMovieGuideLinks({ exceptSlug, className = "" }: Props) {
-  const slugs = getAllMovieSlugs()
+  const slugs = getIndexableMovieGuideSlugs()
     .filter((s) => s !== exceptSlug)
     .sort((a, b) => {
       const ta = getRecommendationBundle(a)?.sourceMovie.title ?? a;

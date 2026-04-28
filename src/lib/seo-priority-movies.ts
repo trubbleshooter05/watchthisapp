@@ -32,11 +32,43 @@ export const SEO_PRIORITY_MOVIE_SLUGS = [
   "twilight",
   "the-conjuring",
   "hereditary",
+  "deadpool-and-wolverine",
+  "lilo-and-stitch",
+  "dungeons-and-dragons-honor-among-thieves",
+  "the-mortuary-assistant",
+  "snow-white",
+  "the-accountant-2",
+  "spider-man-brand-new-day",
+  "avengers-doomsday",
+  "mortal-kombat-ii",
+  "the-strangers-chapter-3",
+  "a-quiet-place",
+  "midsommar",
+  "talk-to-me",
+  "insidious",
+  "the-babadook",
+  "us",
+  "blade-runner-2049",
+  "la-land",
+  "whiplash",
+  "dunkirk",
+  "fury",
+  "top-gun",
+  "28-days-later",
 ] as const;
 
 export type SeoPriorityMovieSlug = (typeof SEO_PRIORITY_MOVIE_SLUGS)[number];
 
 export const SEO_PRIORITY_SLUG_SET = new Set<string>(SEO_PRIORITY_MOVIE_SLUGS);
+
+/** Temporary indexing allow-list while the long-tail programmatic catalog is upgraded. */
+export function isIndexableMovieGuideSlug(slug: string): boolean {
+  return SEO_PRIORITY_SLUG_SET.has(slug);
+}
+
+export function getIndexableMovieGuideSlugs(): string[] {
+  return SEO_PRIORITY_MOVIE_SLUGS.filter((slug) => Boolean(getRecommendationBundle(slug)));
+}
 
 function slugEntropy(slug: string): number {
   return slug.split("").reduce((acc, ch) => acc + ch.charCodeAt(0), 0);

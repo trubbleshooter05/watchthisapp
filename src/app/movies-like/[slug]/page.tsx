@@ -16,12 +16,13 @@ import {
 } from "@/lib/recommendations";
 import {
   buildMoviesLikeIntro,
+  buildPriorityMoviesLikeIntro,
   buildRecommendationSeoParagraphsForPage,
   buildSchemaFaqItems,
   buildWhyYoullLoveTheseMovies,
   mergeFaqForPage,
 } from "@/lib/movies-like-seo";
-import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
+import { isIndexableMovieGuideSlug, pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
 import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
@@ -50,10 +51,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const description = bundle.seoDescription ?? getSeoDescription(t);
   const baseUrl = getSiteUrl();
   const modified = getRecommendationJsonMtime(slug);
+  const indexable = isIndexableMovieGuideSlug(slug);
   return {
     title,
     description,
-    robots: { index: true, follow: true },
+    robots: indexable
+      ? { index: true, follow: true }
+      : { index: false, follow: true },
     alternates: { canonical: `/movies-like/${slug}` },
     openGraph: {
       title,
@@ -82,10 +86,13 @@ export default async function MovieLikePage({ params }: Props) {
   const title = bundle.seoTitle ?? getSeoTitle(bundle.sourceMovie.title, recommendationCount);
   const description = bundle.seoDescription ?? getSeoDescription(bundle.sourceMovie.title);
   const h1 = bundle.seoH1 ?? generateH1(bundle.sourceMovie.title, recommendationCount);
+  const indexable = isIndexableMovieGuideSlug(slug);
 
   const introHtml = bundle.customIntroParagraphs?.length
     ? ""
-    : buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount);
+    : indexable
+      ? buildPriorityMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount)
+      : buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount);
   const introForValidation =
     bundle.customIntroParagraphs?.join("\n\n") || introHtml || "";
   const whyLoveThese = buildWhyYoullLoveTheseMovies(bundle.sourceMovie, recommendations);
@@ -465,8 +472,7 @@ export default async function MovieLikePage({ params }: Props) {
           <section className="mt-16 border-t border-white/10 pt-12">
             <h2 className="font-display text-xl font-semibold mb-2">More movie guides</h2>
             <p className="text-sm text-[#6B7280] mb-6">
-              Browse every &quot;movies like&quot; page on the site—including ones still waiting to be
-              indexed.
+              Browse the movie guides currently prioritized for search discovery and editorial expansion.
             </p>
             <AllMovieGuideLinks exceptSlug={slug} />
           </section>

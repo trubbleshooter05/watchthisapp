@@ -81,6 +81,11 @@ export function generateTitle(movieName: string, recommendationCount?: number): 
   if (selected.length > 65) {
     return selected.substring(0, 62) + "...";
   }
+  if (selected.length < 50) {
+    const suffix = " Worth Watching Next";
+    if (selected.length + suffix.length <= 65) return `${selected}${suffix}`;
+    return `${selected} Picks Worth Watching`;
+  }
   return selected;
 }
 
@@ -95,10 +100,10 @@ export function generateDescription(movieName: string): string {
   const emotion = pickFromSeed(seed + 1, EMOTIONAL_TRIGGERS);
 
   const templates = [
-    `If you loved ${movieName}, explore ${curiosity}. Curated ${emotion} recommendations with themes, tone & streaming info.`,
-    `If you loved ${movieName}—find more films ${curiosity}. ${emotion} picks that echo the same vibe & emotional impact.`,
-    `Loved ${movieName}? Here are ${curiosity} that capture the same ${emotion} feeling. Full movie guides inside.`,
-    `If ${movieName} captivated you, these ${curiosity}. ${emotion} recommendations curated for fans of great storytelling.`,
+    `If you loved ${movieName}, explore ${emotion} films ${curiosity}, with clear notes on shared themes, tone, and streaming context.`,
+    `If you loved ${movieName}, find ${emotion} films ${curiosity} that echo the same mood, stakes, and emotional aftertaste.`,
+    `If you loved ${movieName}, these ${emotion} picks carry a related feeling, with specific comparisons so you can choose faster.`,
+    `If you loved ${movieName}, start with these ${emotion} recommendations built around similar tension, style, and story appetite.`,
   ];
 
   const selected = pickFromSeed(seed + 2, templates);

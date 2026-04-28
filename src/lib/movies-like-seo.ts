@@ -273,6 +273,51 @@ export function buildMoviesLikeIntro(
   return body;
 }
 
+/**
+ * Deeper intro for the temporary indexable set. It uses title/year/genre/vibes/overview so the
+ * page lead is specific to the movie instead of reading like generic programmatic boilerplate.
+ */
+export function buildPriorityMoviesLikeIntro(
+  source: SourceMovie,
+  overview: string | null,
+  slug: string,
+  recommendationCount: number,
+): string {
+  const { title, year, genres, vibes, whyPeopleLoveIt } = source;
+  const genreStr = genres.length ? genres.slice(0, 3).join(", ") : "movie";
+  const vibeStr = vibes.length
+    ? vibes.slice(0, 5).map((v) => v.replace(/-/g, " ")).join(", ")
+    : "tone, pacing, and emotional payoff";
+  const hook = plotHook(
+    overview,
+    `${title}'s mix of ${genreStr.toLowerCase()} storytelling and ${vibeStr}`,
+  );
+  const angle = pickVariant(slugEntropy(slug), [
+    `The useful comparison point is not only genre; it is how the movie controls attention from scene to scene.`,
+    `The best follow-ups preserve the pressure, rhythm, and point of view before they worry about matching plot mechanics.`,
+    `A good companion watch should feel adjacent in appetite, not like a weaker replay of the same story.`,
+    `The strongest matches carry over the viewing mood while giving you a different dramatic engine.`,
+  ]);
+  const queue = pickVariant(slugEntropy(slug) + 7, [
+    `That is why the list below separates close tonal cousins from looser genre neighbors.`,
+    `Use the ranked picks as a watch-night path: immediate matches first, then stranger detours with the same charge.`,
+    `The notes under each title call out the exact overlap, so you can choose by mood instead of scrolling posters.`,
+    `Each recommendation names the shared texture and the difference, which makes the page more useful than a plain list.`,
+  ]);
+
+  const body = [
+    `${title} (${year}) works because ${decapitalize(whyPeopleLoveIt)} The concrete hook is ${decapitalize(hook)}, and that gives this guide a clear center of gravity.`,
+    `For movies like ${title}, we prioritized ${genreStr.toLowerCase()} films that share ${vibeStr} without flattening everything into one broad genre bucket. ${angle}`,
+    recommendationCount > 0
+      ? `${queue} These ${recommendationCount} recommendations are ordered to keep the ${title} feeling intact while still giving you different characters, stakes, and endings.`
+      : `${queue} Recommendations will be ordered to keep the ${title} feeling intact while still giving you different characters, stakes, and endings.`,
+  ].join(" ");
+
+  const words = body.trim().split(/\s+/).filter(Boolean);
+  if (words.length <= 230) return body;
+  return `${words.slice(0, 230).join(" ")}…`;
+}
+
 function decapitalize(s: string): string {
   if (!s) return s;
   return s.charAt(0).toLowerCase() + s.slice(1);
