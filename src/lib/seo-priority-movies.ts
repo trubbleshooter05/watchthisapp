@@ -61,11 +61,12 @@ export type SeoPriorityMovieSlug = (typeof SEO_PRIORITY_MOVIE_SLUGS)[number];
 
 export const SEO_PRIORITY_SLUG_SET = new Set<string>(SEO_PRIORITY_MOVIE_SLUGS);
 
-/** Temporary indexing allow-list while the long-tail programmatic catalog is upgraded. */
+/** Existing recommendation bundles are crawlable; this list only marks boosted/featured pages. */
 export function isIndexableMovieGuideSlug(slug: string): boolean {
-  return SEO_PRIORITY_SLUG_SET.has(slug);
+  return Boolean(getRecommendationBundle(slug));
 }
 
+/** Curated priority guides used for featured links and boosted sitemap priority. */
 export function getIndexableMovieGuideSlugs(): string[] {
   return SEO_PRIORITY_MOVIE_SLUGS.filter((slug) => Boolean(getRecommendationBundle(slug)));
 }

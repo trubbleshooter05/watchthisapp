@@ -2,10 +2,11 @@ import type { MetadataRoute } from "next";
 import { statSync } from "fs";
 import path from "path";
 import {
+  getAllMovieSlugs,
   getLatestRecommendationBundleMtime,
   getRecommendationJsonMtime,
 } from "@/lib/recommendations";
-import { SEO_PRIORITY_SLUG_SET, getIndexableMovieGuideSlugs } from "@/lib/seo-priority-movies";
+import { SEO_PRIORITY_SLUG_SET } from "@/lib/seo-priority-movies";
 import { getAllBlogSlugs } from "@/lib/blog-utils";
 import { getSiteUrl } from "@/lib/site-url";
 import { getAllMovieCollectionSlugs } from "@/lib/movie-collections";
@@ -99,7 +100,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: e.priority,
   }));
 
-  const moviePathEntries = getIndexableMovieGuideSlugs().map((slug) => ({
+  const moviePathEntries = getAllMovieSlugs().map((slug) => ({
     path: `/movies-like/${slug}` as const,
     lastModified: getRecommendationJsonMtime(slug),
     changeFrequency: "weekly" as const,
