@@ -1,4 +1,5 @@
 import type { RecommendationBundle, RecommendationEntry } from "@/lib/types/recommendation";
+import { sourcePosterFallbackUrl } from "@/lib/source-poster-fallback";
 import {
   extractDirectorNames,
   extractTopActorNames,
@@ -103,7 +104,7 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
   const source: EnrichedSource = {
     ...bundle.sourceMovie,
     tmdbId: sourceId,
-    posterUrl: posterUrl(srcDetails?.poster_path ?? null),
+    posterUrl: posterUrl(srcDetails?.poster_path ?? null) ?? sourcePosterFallbackUrl(bundle.sourceMovie.slug),
     runtimeLabel: formatRuntime(srcDetails?.runtime ?? null),
     voteAverage: srcDetails?.vote_average ?? null,
     overview: srcDetails?.overview?.trim() ? srcDetails.overview.trim() : null,
