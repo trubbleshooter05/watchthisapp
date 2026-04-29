@@ -23,6 +23,8 @@ SCRIPTS_DIR = REPO_ROOT / "scripts"
 DATA_REC = REPO_ROOT / "data" / "recommendations"
 QUEUE_FILE = SCRIPTS_DIR / "forge_queue.json"
 GENERATE_NEW_PAGE = SCRIPTS_DIR / "generate_new_page.py"
+PUBLISH_PATHS = ["data/recommendations", "scripts/forge_queue.json"]
+PUBLISH_COMMIT_MESSAGE = "Forge: add recommendation pages [auto]"
 
 
 def _preview_value(val: Any, max_len: int = 120) -> str:
@@ -158,6 +160,53 @@ def run_generate(title: str, slug: str, dry_run: bool) -> int:
     return int(proc.returncode)
 
 
+def commit_and_push_generated_pages() -> None:
+    add_proc = subprocess.run(
+        ["git", "add", *PUBLISH_PATHS],
+        cwd=str(REPO_ROOT),
+        capture_output=True,
+        text=True,
+    )
+    if add_proc.returncode != 0:
+        err = (add_proc.stderr or add_proc.stdout or "").strip()
+        print(f"FORGE WARN: git add failed: {err}", flush=True)
+        return
+
+    diff_proc = subprocess.run(
+        ["git", "diff", "--cached", "--quiet", "--", *PUBLISH_PATHS],
+        cwd=str(REPO_ROOT),
+    )
+    if diff_proc.returncode == 0:
+        return
+
+    commit_proc = subprocess.run(
+        ["git", "commit", "-m", PUBLISH_COMMIT_MESSAGE, "--", *PUBLISH_PATHS],
+        cwd=str(REPO_ROOT),
+        capture_output=True,
+        text=True,
+    )
+    if commit_proc.returncode != 0:
+        err = (commit_proc.stderr or commit_proc.stdout or "").strip()
+        print(f"FORGE WARN: git commit failed: {err}", flush=True)
+        return
+
+    push_proc = subprocess.run(
+        ["git", "push", "origin", "main"],
+        cwd=str(REPO_ROOT),
+        capture_output=True,
+        text=True,
+    )
+    if push_proc.returncode != 0:
+        err = (push_proc.stderr or push_proc.stdout or "").strip()
+        print(f"FORGE WARN: git push failed: {err}", flush=True)
+
+
+def finish_generation(rc: int, dry_run: bool) -> int:
+    if rc == 0 and not dry_run:
+        commit_and_push_generated_pages()
+    return rc
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Forge page generation: priority queue (T1 then T2) or immediate --slug."
@@ -187,7 +236,7 @@ def main() -> int:
             print(f"SKIP already exists: {out} (delete file first to regenerate)", flush=True)
             return 0
         print("FORGE: --slug mode — bypassing T1/T2 queue", flush=True)
-        return run_generate(title, slug, args.dry_run)
+        return finish_generation(run_generate(title, slug, args.dry_run), args.dry_run)
 
     entries = queue_entries_ordered()
     if not entries:
@@ -213,7 +262,7 @@ def main() -> int:
             print(f"SKIP exists: {out.name}", flush=True)
             continue
         print(f"QUEUE: next up — {title} ({year}) -> {slug}", flush=True)
-        return run_generate(title, slug, args.dry_run)
+        return finish_generation(run_generate(title, slug, args.dry_run), args.dry_run)
 
     print("QUEUE: nothing to generate (all listed titles already have JSON).", flush=True)
     return 0
