@@ -1,0 +1,173 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1450527,
+    "title": "Forbidden Fruits",
+    "slug": "forbidden-fruits",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Forbidden Fruits works as a horror movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. The horror and comedy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "horror",
+      "comedy",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9374,
+      "title": "Death Becomes Her",
+      "year": 1992,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Death Becomes Her (1992) is a strong next pick. The two films share horror and comedy throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 864959,
+      "title": "The Curse of Bridge Hollow",
+      "year": 2022,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, The Curse of Bridge Hollow (2022) is a strong next pick. The two films share horror and comedy throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "adventure",
+        "family"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24452,
+      "title": "The Little Shop of Horrors",
+      "year": 1960,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, The Little Shop of Horrors (1960) is a strong next pick. The two films share horror and comedy throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 511817,
+      "title": "Wendell & Wild",
+      "year": 2022,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Wendell & Wild (2022) is a strong next pick. The two films share horror and comedy throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "comedy",
+        "animation",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4011,
+      "title": "Beetlejuice",
+      "year": 1988,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Beetlejuice (1988) is a strong next pick. The two films share comedy throughlines and comic timing and sharper banter, even though the stories go in different directions.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1878,
+      "title": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Fear and Loathing in Las Vegas (1998) is a strong next pick. The two films share comedy throughlines and comic timing and sharper banter, even though the stories go in different directions.",
+      "sharedVibes": [
+        "comedy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1832,
+      "title": "Dogma",
+      "year": 1999,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Dogma (1999) is a strong next pick. The two films share comedy throughlines and comic timing and sharper banter, even though the stories go in different directions.",
+      "sharedVibes": [
+        "comedy",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 429417,
+      "title": "Ghost Stories",
+      "year": 2018,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Ghost Stories (2018) is a strong next pick. The two films share horror throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "drama"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 9871,
+      "title": "Ginger Snaps",
+      "year": 2000,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, Ginger Snaps (2000) is a strong next pick. The two films share horror throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "horror",
+        "fantasy",
+        "drama",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 4484,
+      "title": "La Cage aux Folles",
+      "year": 1978,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Forbidden Fruits worked for you, La Cage aux Folles (1978) is a strong next pick. The two films share comedy throughlines and comic timing and sharper banter, even though the stories go in different directions.",
+      "sharedVibes": [
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Forbidden Fruits?",
+      "answer": "Try Death Becomes Her, The Curse of Bridge Hollow, The Little Shop of Horrors—each shares DNA with Forbidden Fruits while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Forbidden Fruits?",
+      "answer": "Forbidden Fruits (2026) is best described as Horror, Comedy. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Forbidden Fruits worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this horror lane."
+    }
+  ],
+  "relatedPages": [
+    "a-fantastic-fear-of-everything",
+    "a-haunted-house",
+    "a-haunted-house-2",
+    "an-american-werewolf-in-london",
+    "anaconda",
+    "army-of-darkness",
+    "as-the-gods-will"
+  ]
+}
