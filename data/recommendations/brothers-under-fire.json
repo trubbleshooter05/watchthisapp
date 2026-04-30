@@ -1,0 +1,176 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1414413,
+    "title": "Brothers Under Fire",
+    "slug": "brothers-under-fire",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit Brothers Under Fire for the same reason it broke through in 2026: clear stakes, memorable faces, and a thriller rhythm that doesn't stall in the middle. Justin Chadwick keeps the ensemble pointed in one direction. The action and thriller blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "thriller",
+      "mystery",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 302528,
+      "title": "Remember",
+      "year": 2015,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Remember (2015) is a strong next pick. The two films share thriller and mystery throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "thriller",
+        "mystery",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 336843,
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Maze Runner: The Death Cure (2018) is a strong next pick. The two films share action and thriller throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 563,
+      "title": "Starship Troopers",
+      "year": 1997,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Starship Troopers (1997) is a strong next pick. The two films share action and thriller throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 828,
+      "title": "The Day the Earth Stood Still",
+      "year": 1951,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, The Day the Earth Stood Still (1951) is a strong next pick. The two films share thriller and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "thriller",
+        "drama",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 857,
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Saving Private Ryan (1998) is a strong next pick. The two films share drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "war",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1724,
+      "title": "The Incredible Hulk",
+      "year": 2008,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, The Incredible Hulk (2008) is a strong next pick. The two films share action throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 600,
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Full Metal Jacket (1987) is a strong next pick. The two films share drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "war"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1091,
+      "title": "The Thing",
+      "year": 1982,
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, The Thing (1982) is a strong next pick. The two films share mystery throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "mystery",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 568,
+      "title": "Apollo 13",
+      "year": 1995,
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Apollo 13 (1995) is a strong next pick. The two films share drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 588,
+      "title": "Silent Hill",
+      "year": 2006,
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Brothers Under Fire worked for you, Silent Hill (2006) is a strong next pick. The two films share mystery throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "mystery",
+        "horror"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Brothers Under Fire?",
+      "answer": "Try Remember, Maze Runner: The Death Cure, Starship Troopers—each shares DNA with Brothers Under Fire while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Brothers Under Fire?",
+      "answer": "Brothers Under Fire (2026) is best described as Action, Thriller, Mystery, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Brothers Under Fire worth revisiting?",
+      "answer": "Viewer scores sit around 6.3/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "breakdown",
+    "in-the-line-of-fire",
+    "infernal-affairs",
+    "oldboy",
+    "the-bourne-identity",
+    "the-bourne-ultimatum",
+    "the-net"
+  ]
+}
