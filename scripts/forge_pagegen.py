@@ -122,6 +122,28 @@ def load_queue() -> dict[str, list[dict[str, Any]]]:
     return {"t1": t1, "t2": t2}
 
 
+def save_queue(queue: dict[str, list[dict[str, Any]]]) -> None:
+    QUEUE_FILE.write_text(json.dumps(queue, indent=2) + "\n", encoding="utf-8")
+
+
+def remove_queue_entry(title: str, slug: str) -> None:
+    """Drop a generated or failed queue row so one bad title cannot block future jobs."""
+    queue = load_queue()
+    changed = False
+    for tier in ("t1", "t2"):
+        kept: list[dict[str, Any]] = []
+        for row in queue.get(tier, []):
+            row_title = str(row.get("title") or "").strip()
+            row_slug = str(row.get("slug") or "").strip() or slugify(row_title)
+            if row_title == title and row_slug == slug:
+                changed = True
+                continue
+            kept.append(row)
+        queue[tier] = kept
+    if changed:
+        save_queue(queue)
+
+
 def demote_avatar(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Push Avatar-titled rows to the end so one blockbuster doesn't starve the queue."""
     safe: list[dict[str, Any]] = []
@@ -260,12 +282,23 @@ def main() -> int:
         out = DATA_REC / f"{slug}.json"
         if out.exists():
             print(f"SKIP exists: {out.name}", flush=True)
+            if not args.dry_run:
+                remove_queue_entry(title, slug)
             continue
         print(f"QUEUE: next up — {title} ({year}) -> {slug}", flush=True)
-        return finish_generation(run_generate(title, slug, args.dry_run), args.dry_run)
+        rc = run_generate(title, slug, args.dry_run)
+        if rc == 0:
+            if not args.dry_run:
+                remove_queue_entry(title, slug)
+            return finish_generation(rc, args.dry_run)
+        if args.dry_run:
+            return rc
+        print(f"FORGE WARN: generation failed for {title} ({slug}); removing row and continuing.", flush=True)
+        remove_queue_entry(title, slug)
+        continue
 
     print("QUEUE: nothing to generate (all listed titles already have JSON).", flush=True)
-    return 0
+    return finish_generation(0, args.dry_run)
 
 
 if __name__ == "__main__":
