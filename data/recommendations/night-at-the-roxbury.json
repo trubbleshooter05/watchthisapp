@@ -1,0 +1,102 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9429,
+    "title": "A Night at the Roxbury",
+    "slug": "night-at-the-roxbury",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "whyPeopleLoveIt": "A Night at the Roxbury turns awkward club confidence, sibling delusion, and late-90s dance-floor energy into a very specific comfort-comedy lane. Fans usually want more movies with big dumb commitment, quotable bits, and characters who are funny because they take themselves completely seriously.",
+    "vibes": [
+      "awkward comedy",
+      "90s comedy",
+      "party comedy"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9398,
+      "title": "Zoolander",
+      "year": 2001,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Zoolander is the cleanest next click after A Night at the Roxbury: another comedy about impossibly self-serious men who turn shallow ambition into absurd commitment.",
+      "sharedVibes": [
+        "comedy",
+        "awkward confidence",
+        "quotable"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8467,
+      "title": "Dumb and Dumber",
+      "year": 1994,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Dumb and Dumber has the same oblivious-brother energy, with two leads charging through bad ideas like they are excellent plans.",
+      "sharedVibes": [
+        "comedy",
+        "buddy comedy",
+        "idiot heroes"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8872,
+      "title": "Wayne's World",
+      "year": 1992,
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Wayne's World shares the sketch-comedy DNA and turns low-status dreamers into a bigger, sillier pop-culture world.",
+      "sharedVibes": [
+        "comedy",
+        "music",
+        "sketch comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 1542,
+      "title": "Office Space",
+      "year": 1999,
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Office Space is less clubby but just as quotable, built around people stuck in a ridiculous social machine they barely understand.",
+      "sharedVibes": [
+        "comedy",
+        "90s",
+        "deadpan"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8193,
+      "title": "Napoleon Dynamite",
+      "year": 2004,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Napoleon Dynamite hits the awkward-confidence request directly: strange rhythms, oddball self-belief, and comedy that gets funnier the longer it refuses to wink.",
+      "sharedVibes": [
+        "comedy",
+        "awkward",
+        "cult"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after A Night at the Roxbury?",
+      "answer": "Start with Zoolander, Dumb and Dumber, Wayne's World, Office Space, and Napoleon Dynamite if you want awkward, quotable comedy with confident fools."
+    },
+    {
+      "question": "What kind of comedy is A Night at the Roxbury?",
+      "answer": "It is a 90s sketch-rooted buddy comedy with club culture, romantic delusion, and absurd confidence as the main engine."
+    }
+  ],
+  "relatedPages": [
+    "zoolander",
+    "dumb-and-dumber",
+    "waynes-world",
+    "office-space",
+    "napoleon-dynamite"
+  ]
+}

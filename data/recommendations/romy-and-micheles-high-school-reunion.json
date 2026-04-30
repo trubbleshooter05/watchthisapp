@@ -1,0 +1,101 @@
+{
+  "sourceMovie": {
+    "tmdbId": 9611,
+    "title": "Romy and Michele's High School Reunion",
+    "slug": "romy-and-micheles-high-school-reunion",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "whyPeopleLoveIt": "Romy and Michele's High School Reunion blends friendship, reinvention, fashion, and deeply unserious confidence into a cult-comedy comfort watch. People looking for movies like it usually want bright 90s energy, women-led comedy, social revenge, and characters who win by refusing to become less themselves.",
+    "vibes": [
+      "90s comedy",
+      "friendship",
+      "cult comedy"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 9603,
+      "title": "Clueless",
+      "year": 1995,
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Clueless shares the bright style, verbal snap, and generous affection for characters who seem shallow until the movie reveals their emotional intelligence.",
+      "sharedVibes": [
+        "comedy",
+        "90s",
+        "style"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8835,
+      "title": "Legally Blonde",
+      "year": 2001,
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Legally Blonde scratches the same underestimation-to-victory itch, with a heroine whose confidence becomes the point rather than the joke.",
+      "sharedVibes": [
+        "comedy",
+        "self-reinvention",
+        "underdog"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10625,
+      "title": "Mean Girls",
+      "year": 2004,
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Mean Girls turns social performance and status anxiety into sharp comedy, making it a natural follow-up for reunion, popularity, and reinvention themes.",
+      "sharedVibes": [
+        "comedy",
+        "school",
+        "social satire"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 55721,
+      "title": "Bridesmaids",
+      "year": 2011,
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Bridesmaids is messier and more adult, but it keeps the friendship anxiety and comic humiliation that make Romy and Michele feel human under the glitter.",
+      "sharedVibes": [
+        "comedy",
+        "friendship",
+        "awkward"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 505600,
+      "title": "Booksmart",
+      "year": 2019,
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Booksmart updates the ride-or-die best-friends formula with sharper pacing, but the emotional appeal is familiar: two people realizing their bond is the real story.",
+      "sharedVibes": [
+        "comedy",
+        "friendship",
+        "coming of age"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Romy and Michele's High School Reunion?",
+      "answer": "Try Clueless, Legally Blonde, Mean Girls, Bridesmaids, and Booksmart for women-led comedy about confidence, friendship, and social reinvention."
+    },
+    {
+      "question": "Why is Romy and Michele a cult comedy?",
+      "answer": "It pairs bright, silly surface comedy with sincere friendship and outsider confidence, which makes it more rewatchable than a standard reunion comedy."
+    }
+  ],
+  "relatedPages": [
+    "clueless",
+    "legally-blonde",
+    "mean-girls",
+    "bridesmaids",
+    "booksmart"
+  ]
+}
