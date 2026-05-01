@@ -57,7 +57,7 @@ function tmdbRequest(pathname: string): RequestInfo {
 
 function tmdbFetchInit(credential: string): RequestInit {
   const init: RequestInit = {
-    next: { revalidate: 86400 },
+    cache: "no-store",
   };
 
   if (isBearerToken(credential)) {
