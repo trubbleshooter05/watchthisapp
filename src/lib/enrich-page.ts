@@ -84,13 +84,15 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
   const detailsMap = new Map<number, Awaited<ReturnType<typeof fetchMovieDetails>>>();
   const providersMap = new Map<number, Awaited<ReturnType<typeof fetchWatchProviders>>>();
 
-  await Promise.all(
-    unique.map(async (id) => {
-      const [d, w] = await Promise.all([fetchMovieDetails(id), fetchWatchProviders(id)]);
-      detailsMap.set(id, d);
-      providersMap.set(id, w);
-    }),
-  );
+  for (const id of unique) {
+    const d = await fetchMovieDetails(id);
+    detailsMap.set(id, d);
+  }
+
+  for (const id of unique) {
+    const w = await fetchWatchProviders(id);
+    providersMap.set(id, w);
+  }
 
   const srcDetails = detailsMap.get(sourceId);
   const rd = srcDetails?.release_date?.trim();
