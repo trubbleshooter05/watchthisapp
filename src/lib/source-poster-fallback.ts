@@ -5,6 +5,7 @@ const SOURCE_POSTER_URLS: Partial<Record<string, string>> = {
 };
 
 const SOURCE_POSTER_PATHS: Partial<Record<string, string>> = {
+  "brothers-under-fire": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
   "quieres-ser-mi-novia": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
   "sniper-no-nation": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
   "star-wars-the-mandalorian-and-grogu": "/m8lEffySgTuKxN3VsMd2gdgx1aw.jpg",
