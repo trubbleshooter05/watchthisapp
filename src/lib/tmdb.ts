@@ -35,13 +35,42 @@ export type TmdbWatchProvidersResult = {
   };
 };
 
-function getKey(): string | undefined {
-  return process.env.TMDB_API_KEY;
+function getTmdbCredential(): string | undefined {
+  return process.env.TMDB_API_KEY || process.env.TMDB_READ_ACCESS_TOKEN;
+}
+
+function isBearerToken(value: string): boolean {
+  return value.startsWith("eyJ") || value.startsWith("Bearer ");
+}
+
+function tmdbRequest(pathname: string): RequestInfo {
+  const credential = getTmdbCredential()?.trim();
+  if (!credential) return `${TMDB_BASE}${pathname}`;
+
+  if (isBearerToken(credential)) {
+    return `${TMDB_BASE}${pathname}`;
+  }
+
+  const separator = pathname.includes("?") ? "&" : "?";
+  return `${TMDB_BASE}${pathname}${separator}api_key=${encodeURIComponent(credential)}`;
+}
+
+function tmdbFetchInit(credential: string): RequestInit {
+  const init: RequestInit = {
+    next: { revalidate: 86400 },
+  };
+
+  if (isBearerToken(credential)) {
+    const token = credential.replace(/^Bearer\s+/i, "");
+    init.headers = { Authorization: `Bearer ${token}` };
+  }
+
+  return init;
 }
 
 /** Shown when poster_url is null (missing env vs bad TMDB response). */
 export function posterPlaceholderHint(): string {
-  if (!getKey()?.trim()) {
+  if (!getTmdbCredential()?.trim()) {
     return process.env.VERCEL
       ? "Add TMDB_API_KEY in Vercel → Settings → Environment Variables (Production), then Redeploy."
       : "Set TMDB_API_KEY in .env.local and restart the dev server.";
@@ -55,14 +84,9 @@ export function posterUrl(posterPath: string | null, size: "w342" | "w500" = "w5
 }
 
 export async function fetchMovieDetails(tmdbId: number): Promise<TmdbMovieDetails | null> {
-  const key = getKey();
-  if (!key) return null;
-  const res = await fetch(
-    `${TMDB_BASE}/movie/${tmdbId}?api_key=${key}&append_to_response=credits`,
-    {
-      next: { revalidate: 86400 },
-    },
-  );
+  const credential = getTmdbCredential()?.trim();
+  if (!credential) return null;
+  const res = await fetch(tmdbRequest(`/movie/${tmdbId}?append_to_response=credits`), tmdbFetchInit(credential));
   if (!res.ok) return null;
   return res.json() as Promise<TmdbMovieDetails>;
 }
@@ -90,11 +114,9 @@ export function extractTopActorNames(
 }
 
 export async function fetchWatchProviders(tmdbId: number): Promise<TmdbWatchProvidersResult | null> {
-  const key = getKey();
-  if (!key) return null;
-  const res = await fetch(`${TMDB_BASE}/movie/${tmdbId}/watch/providers?api_key=${key}`, {
-    next: { revalidate: 86400 },
-  });
+  const credential = getTmdbCredential()?.trim();
+  if (!credential) return null;
+  const res = await fetch(tmdbRequest(`/movie/${tmdbId}/watch/providers`), tmdbFetchInit(credential));
   if (!res.ok) return null;
   return res.json() as Promise<TmdbWatchProvidersResult>;
 }
