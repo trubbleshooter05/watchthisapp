@@ -126,7 +126,7 @@ export async function enrichMovieLikePage(bundle: RecommendationBundle): Promise
     return {
       ...rec,
       tmdbId: id,
-      posterUrl: posterUrl(d?.poster_path ?? null),
+      posterUrl: posterUrl(d?.poster_path ?? rec.posterPath ?? null),
       runtimeLabel: formatRuntime(d?.runtime ?? null),
       voteAverage: d?.vote_average ?? null,
       genreNames: d?.genres?.map((g) => g.name) ?? [],

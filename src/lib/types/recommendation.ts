@@ -14,6 +14,7 @@ export type RecommendationEntry = {
   tmdbId: number;
   title: string;
   year: number;
+  posterPath?: string | null;
   matchPercentage: number;
   whyYoullLoveIt: string;
   sharedVibes: string[];

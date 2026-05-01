@@ -349,6 +349,7 @@ async function main() {
           tmdbId: r.id,
           title: r.title || r.original_title || "Unknown",
           year: ry,
+          posterPath: r.poster_path ?? null,
           matchPercentage: Math.max(55, 96 - i * 2),
           whyYoullLoveIt: buildWhyYoullLoveIt(
             detail.title || bundle.sourceMovie.title,
