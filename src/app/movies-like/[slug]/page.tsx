@@ -5,7 +5,6 @@ import { notFound } from "next/navigation";
 import { AllMovieGuideLinks } from "@/components/AllMovieGuideLinks";
 import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
-import { posterPlaceholderHint } from "@/lib/tmdb";
 import {
   buildContinueWatchingLinks,
   filterExistingRelatedSlugs,
@@ -40,6 +39,39 @@ import { WhereToWatch } from "@/components/WhereToWatch";
 export const revalidate = 86400;
 
 type Props = { params: { slug: string } };
+
+function SourcePosterFallback({
+  title,
+  year,
+  genres,
+}: {
+  title: string;
+  year: number;
+  genres: string[];
+}) {
+  const genreLabel = genres.slice(0, 2).join(" / ");
+
+  return (
+    <div className="relative flex h-full min-h-[280px] flex-col justify-between overflow-hidden bg-[#15110A] px-5 py-6 text-left">
+      <div className="absolute inset-0 bg-[linear-gradient(145deg,rgba(245,158,11,0.18),transparent_42%),linear-gradient(180deg,rgba(255,255,255,0.08),transparent_24%,rgba(0,0,0,0.5))]" />
+      <div className="relative">
+        <p className="text-[10px] font-semibold uppercase tracking-[0.18em] text-amber-300/80">
+          MoviesLike pick
+        </p>
+        <h3 className="mt-5 font-display text-2xl font-bold leading-tight text-[#FAFAFA] text-balance">
+          {title}
+        </h3>
+      </div>
+      <div className="relative space-y-3">
+        <div className="h-px w-16 bg-amber-400/50" />
+        <p className="text-xs uppercase tracking-[0.12em] text-[#D1D5DB]">
+          {year}
+          {genreLabel ? ` · ${genreLabel}` : ""}
+        </p>
+      </div>
+    </div>
+  );
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = params;
@@ -340,9 +372,11 @@ export default async function MovieLikePage({ params }: Props) {
                   priority
                 />
               ) : (
-                <div className="flex h-full min-h-[280px] items-center justify-center text-sm text-[#4B5563] px-4 text-center">
-                  {posterPlaceholderHint()}
-                </div>
+                <SourcePosterFallback
+                  title={source.title}
+                  year={source.year}
+                  genres={source.genres}
+                />
               )}
             </div>
             <div className="space-y-4">
