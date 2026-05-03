@@ -1,4 +1,4 @@
-import { getRecommendationBundle } from "@/lib/recommendations";
+import { getRecommendationBundle, getAllMovieSlugs } from "@/lib/recommendations";
 
 /**
  * High-value programmatic SEO pages: canonical slugs that must stay crawlable,
@@ -75,11 +75,20 @@ function slugEntropy(slug: string): number {
   return slug.split("").reduce((acc, ch) => acc + ch.charCodeAt(0), 0);
 }
 
-/** 3–5 internal links for movies-like pages, rotated so nearby pages aren’t identical sitewide. */
+/** 3–5 internal links for movies-like pages, rotated so nearby pages aren’t identical sitewide.
+ *  Uses ALL recommendation slugs so Forge-generated pages get internal links and become crawlable.
+ *  SEO priority slugs are weighted first so the most important pages get more cross-links.
+ */
 export function pickAlsoLikeSlugs(currentSlug: string, max = 5): string[] {
-  const pool = SEO_PRIORITY_MOVIE_SLUGS.filter(
-    (s) => s !== currentSlug && getRecommendationBundle(s),
+  const allSlugs = getAllMovieSlugs();
+  // Weight: SEO priority slugs first, then all others — deduped, current excluded
+  const priorityPool = SEO_PRIORITY_MOVIE_SLUGS.filter(
+    (s) => s !== currentSlug && allSlugs.includes(s),
   );
+  const restPool = allSlugs.filter(
+    (s) => s !== currentSlug && !SEO_PRIORITY_SLUG_SET.has(s),
+  );
+  const pool = [...priorityPool, ...restPool];
   if (pool.length === 0) return [];
 
   const cap = Math.min(max, pool.length);
