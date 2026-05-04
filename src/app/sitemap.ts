@@ -104,7 +104,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     path: `/movies-like/${slug}` as const,
     lastModified: getRecommendationJsonMtime(slug),
     changeFrequency: "weekly" as const,
-    priority: SEO_PRIORITY_SLUG_SET.has(slug) ? 1 : 0.95,
+    // Tiered priority: hand-curated (1.0) > standard (0.8) > forge/programmatic (0.6)
+    priority: SEO_PRIORITY_SLUG_SET.has(slug) ? 1 : 0.6,
   }));
 
   const movies: MetadataRoute.Sitemap = moviePathEntries.map((e) => ({
