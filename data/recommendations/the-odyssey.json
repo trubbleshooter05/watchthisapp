@@ -1,0 +1,182 @@
+{
+  "sourceMovie": {
+    "tmdbId": 332794,
+    "title": "The Odyssey",
+    "slug": "the-odyssey",
+    "year": 2016,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "People revisit The Odyssey for the same reason it broke through in 2016: clear stakes, memorable faces, and a drama rhythm that doesn't stall in the middle. Jérôme Salle keeps the ensemble pointed in one direction. The adventure and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 551,
+      "title": "The Poseidon Adventure",
+      "year": 1972,
+      "posterPath": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Odyssey worked for you, The Poseidon Adventure (1972) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 11943,
+      "title": "Jeremiah Johnson",
+      "year": 1972,
+      "posterPath": "/fANj1S3UmBB51wnKxYRKtw8LMBn.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Odyssey worked for you, Jeremiah Johnson (1972) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "western",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 458302,
+      "title": "Remi, Nobody's Boy",
+      "year": 2018,
+      "posterPath": "/mQYXlxlUTmOP4FWt52qkZZb8JNM.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Odyssey worked for you, Remi, Nobody's Boy (2018) is a strong next pick. The two films share adventure and drama throughlines and earned warmth without mush, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 671295,
+      "title": "Blue Miracle",
+      "year": 2021,
+      "posterPath": "/wlDSL8Rn4eQCzDPy1pPRkCh8H32.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Odyssey worked for you, Blue Miracle (2021) is a strong next pick. The two films share adventure and drama throughlines and earned warmth without mush, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "family"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 739986,
+      "title": "True Spirit",
+      "year": 2023,
+      "posterPath": "/5qntAorVEzixuYOIPMCGwDiuGkd.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Odyssey worked for you, True Spirit (2023) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 550,
+      "title": "Fight Club",
+      "year": 1999,
+      "posterPath": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Odyssey worked for you, Fight Club (1999) is a strong next pick. The two films share drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 120,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "posterPath": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If The Odyssey worked for you, The Lord of the Rings: The Fellowship of the Ring (2001) is a strong next pick. The two films share adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 122,
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "posterPath": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Odyssey worked for you, The Lord of the Rings: The Return of the King (2003) is a strong next pick. The two films share adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 121,
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "posterPath": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Odyssey worked for you, The Lord of the Rings: The Two Towers (2002) is a strong next pick. The two films share adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 238,
+      "title": "The Godfather",
+      "year": 1972,
+      "posterPath": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Odyssey worked for you, The Godfather (1972) is a strong next pick. The two films share drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Odyssey?",
+      "answer": "Try The Poseidon Adventure, Jeremiah Johnson, Remi, Nobody's Boy—each shares DNA with The Odyssey while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Odyssey?",
+      "answer": "The Odyssey (2016) is best described as Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Odyssey worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "127-hours",
+    "13-assassins",
+    "a-dogs-purpose",
+    "a-i-artificial-intelligence",
+    "a-knights-tale",
+    "a-writers-odyssey",
+    "against-the-ice"
+  ]
+}
