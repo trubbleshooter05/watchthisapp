@@ -3,6 +3,8 @@ import { DM_Sans, Outfit } from "next/font/google";
 import "./globals.css";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { GoogleAnalyticsInit } from "@/components/google-analytics-init";
+import { GoogleAnalytics } from "@/components/google-analytics";
 import { getSiteUrl } from "@/lib/site-url";
 
 const display = Outfit({
@@ -40,6 +42,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
+        <GoogleAnalyticsInit />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2012100367550025"
@@ -49,6 +52,7 @@ export default function RootLayout({
       <body
         className={`${display.variable} ${body.variable} min-h-screen bg-[#0F0F0F] font-body text-[#FAFAFA] antialiased`}
       >
+        <GoogleAnalytics />
         <SiteHeader />
         {children}
         <SiteFooter />
