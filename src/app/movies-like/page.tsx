@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { TrendingMovieComparisons } from "@/components/TrendingMovieComparisons";
 
 export const metadata: Metadata = {
