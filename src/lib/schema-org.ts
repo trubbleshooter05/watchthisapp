@@ -37,8 +37,11 @@ export function buildMovieLikePageJsonLd(opts: {
   bundle: RecommendationBundle;
   source: EnrichedSource;
   faqItems: RecommendationBundle["faq"];
-}) {
-  const { baseUrl, slug, bundle, source, faqItems } = opts;
+  /** When false, skip JSON-LD to align with `robots` noindex on thin or non-priority guides. */
+  shouldIndex: boolean;
+}): Record<string, unknown> | null {
+  const { baseUrl, slug, bundle, source, faqItems, shouldIndex } = opts;
+  if (!shouldIndex) return null;
   const pageUrl = `${baseUrl}/movies-like/${slug}`;
   const poster = source.posterUrl;
   const description =
@@ -114,7 +117,10 @@ export function buildMovieLikePageJsonLd(opts: {
     })),
   };
 
-  return { "@context": "https://schema.org", "@graph": [movie, itemList, faq] };
+  return {
+    "@context": "https://schema.org",
+    "@graph": [movie, itemList, faq],
+  } as Record<string, unknown>;
 }
 
 export function buildBlogPostingJsonLd(opts: {

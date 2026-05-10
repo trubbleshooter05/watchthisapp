@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import { AllMovieGuideLinks } from "@/components/AllMovieGuideLinks";
 import { RecommendationList } from "@/components/RecommendationList";
 import { enrichMovieLikePage } from "@/lib/enrich-page";
+import { moviePageIndexingRobots } from "@/lib/movie-indexing-word-count";
+import { computeMovieGuideShouldIndex } from "@/lib/movie-page-data";
 import {
   buildContinueWatchingLinks,
   filterExistingRelatedSlugs,
@@ -21,7 +23,7 @@ import {
   buildWhyYoullLoveTheseMovies,
   mergeFaqForPage,
 } from "@/lib/movies-like-seo";
-import { isIndexableMovieGuideSlug, pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
+import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
 import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
@@ -83,13 +85,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const description = bundle.seoDescription ?? getSeoDescription(t);
   const baseUrl = getSiteUrl();
   const modified = getRecommendationJsonMtime(slug);
-  const indexable = isIndexableMovieGuideSlug(slug);
+  const { shouldIndex, wordCount } = computeMovieGuideShouldIndex(slug, bundle);
+  const wordRobots = moviePageIndexingRobots(wordCount);
   return {
     title,
     description,
-    robots: indexable
-      ? { index: true, follow: true }
-      : { index: false, follow: true },
+    robots: {
+      index: shouldIndex,
+      follow: wordRobots.follow,
+      googleBot: {
+        index: shouldIndex,
+        follow: wordRobots.googleBot.follow,
+      },
+    },
     alternates: { canonical: `/movies-like/${slug}` },
     openGraph: {
       title,
@@ -115,14 +123,15 @@ export default async function MovieLikePage({ params }: Props) {
   const recommendationCount = recommendations.length;
   const baseUrl = getSiteUrl();
 
+  const { shouldIndex, wordCount, slugIndexable } = computeMovieGuideShouldIndex(slug, bundle);
+
   const title = bundle.seoTitle ?? getSeoTitle(bundle.sourceMovie.title, recommendationCount);
   const description = bundle.seoDescription ?? getSeoDescription(bundle.sourceMovie.title);
   const h1 = bundle.seoH1 ?? generateH1(bundle.sourceMovie.title, recommendationCount);
-  const indexable = isIndexableMovieGuideSlug(slug);
 
   const introHtml = bundle.customIntroParagraphs?.length
     ? ""
-    : indexable
+    : slugIndexable
       ? buildPriorityMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount)
       : buildMoviesLikeIntro(bundle.sourceMovie, source.overview, slug, recommendationCount);
   const introForValidation =
@@ -181,6 +190,9 @@ export default async function MovieLikePage({ params }: Props) {
     recommendationsWithSeo,
     hasInternalLinks: alsoLikeLinks.length > 0 || relatedGuideLinks.length > 0,
     movieName: bundle.sourceMovie.title,
+    shouldIndex,
+    wordCount,
+    slugIndexable,
   });
 
   // Log validation results for monitoring (non-blocking - page always renders)
@@ -192,6 +204,7 @@ export default async function MovieLikePage({ params }: Props) {
     bundle,
     source,
     faqItems: mergedFaq,
+    shouldIndex,
   });
   const guideUpdatedIso = getRecommendationJsonMtime(slug).toISOString();
 

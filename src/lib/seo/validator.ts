@@ -5,6 +5,7 @@
  * If any rule is violated, the build will exit with error code 1.
  */
 
+import { MOVIE_PAGE_INDEX_WORD_THRESHOLD } from "@/lib/movie-indexing-word-count";
 import { validateCTRMetrics } from "./ctr";
 
 export interface PageValidationConfig {
@@ -15,6 +16,10 @@ export interface PageValidationConfig {
   recommendationsWithSeo: Array<{ seoParagraph?: string }>;
   hasInternalLinks: boolean;
   movieName: string;
+  /** When provided, adds context when the page is noindex (thin content or non-priority slug). */
+  shouldIndex?: boolean;
+  wordCount?: number;
+  slugIndexable?: boolean;
 }
 
 export interface PageValidationResult {
@@ -77,6 +82,18 @@ export function validateMovieLikePage(config: PageValidationConfig): PageValidat
   // Check for duplicate title/h1
   if (config.title.toLowerCase().trim() === config.h1.toLowerCase().trim()) {
     errors.push("Title and H1 must be different. H1 should provide a different hook/perspective.");
+  }
+
+  if (config.shouldIndex === false) {
+    const parts: string[] = ["Page is noindex (robots)."];
+    const wc = config.wordCount;
+    if (config.slugIndexable === false) {
+      parts.push("Slug not on the discovery index allowlist.");
+    }
+    if (typeof wc === "number" && wc < MOVIE_PAGE_INDEX_WORD_THRESHOLD) {
+      parts.push(`Editorial word count ${wc} is below ${MOVIE_PAGE_INDEX_WORD_THRESHOLD}.`);
+    }
+    warnings.push(parts.join(" "));
   }
 
   const result: PageValidationResult = {
