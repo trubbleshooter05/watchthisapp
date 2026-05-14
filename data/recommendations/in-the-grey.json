@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 75174,
+    "title": "The Grey",
+    "slug": "in-the-grey",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Thriller",
+      "Horror"
+    ],
+    "whyPeopleLoveIt": "The Grey (2012) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Joe Carnahan's control of tone keeps the ride coherent. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "drama",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 338676,
+      "title": "Extinction",
+      "year": 2015,
+      "posterPath": "/zwIDreu9pYCqKpv4jomqVM9yX1e.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If The Grey worked for you, Extinction (2015) is a strong next pick. The two films share action and adventure throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "horror",
+        "science-fiction"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 405774,
+      "title": "Bird Box",
+      "year": 2018,
+      "posterPath": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If The Grey worked for you, Bird Box (2018) is a strong next pick. The two films share drama and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "drama",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 44115,
+      "title": "127 Hours",
+      "year": 2010,
+      "posterPath": "/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If The Grey worked for you, 127 Hours (2010) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8810,
+      "title": "Mad Max 2",
+      "year": 1981,
+      "posterPath": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If The Grey worked for you, Mad Max 2 (1981) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "thriller",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "posterPath": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If The Grey worked for you, Black Panther (2018) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284052,
+      "title": "Doctor Strange",
+      "year": 2016,
+      "posterPath": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If The Grey worked for you, Doctor Strange (2016) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "posterPath": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The Grey and Guardians of the Galaxy Vol. 2 (2017) are not the same movie, but they rhyme in the ways that matter. Each commits to action and adventure, brings momentum and clean stakes, and trusts the audience to stay with a bold swing.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 634649,
+      "title": "Spider-Man: No Way Home",
+      "year": 2021,
+      "posterPath": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If The Grey worked for you, Spider-Man: No Way Home (2021) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 281957,
+      "title": "The Revenant",
+      "year": 2015,
+      "posterPath": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If The Grey worked for you, The Revenant (2015) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 20766,
+      "title": "The Road",
+      "year": 2009,
+      "posterPath": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If The Grey worked for you, The Road (2009) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Grey?",
+      "answer": "Try Extinction, Bird Box, 127 Hours—each shares DNA with The Grey while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is The Grey?",
+      "answer": "The Grey (2012) is best described as Action, Adventure, Drama, Thriller, Horror. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Grey worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "along-with-the-gods-the-two-worlds",
+    "badland-hunters",
+    "beast",
+    "berserk-the-golden-age-arc-i-the-egg-of-the-king",
+    "dantes-peak",
+    "executive-decision",
+    "extortion"
+  ]
+}
