@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 152747,
+    "title": "All Is Lost",
+    "slug": "all-is-lost",
+    "year": 2013,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "whyPeopleLoveIt": "Audiences latched onto All Is Lost (2013) as a action theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed. The action and adventure blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "adventure",
+      "drama",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 205775,
+      "title": "In the Heart of the Sea",
+      "year": 2015,
+      "posterPath": "/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If All Is Lost worked for you, In the Heart of the Sea (2015) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama",
+        "thriller",
+        "history"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 2133,
+      "title": "The Perfect Storm",
+      "year": 2000,
+      "posterPath": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If All Is Lost worked for you, The Perfect Storm (2000) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285,
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007,
+      "posterPath": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Pirates of the Caribbean: At World's End (2007) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8358,
+      "title": "Cast Away",
+      "year": 2000,
+      "posterPath": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Cast Away (2000) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 296524,
+      "title": "Deepwater Horizon",
+      "year": 2016,
+      "posterPath": "/9IFt6tOf6o7CnaDlgB9uE8Cr1WZ.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Deepwater Horizon (2016) is a strong next pick. The two films share action and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 9804,
+      "title": "Waterworld",
+      "year": 1995,
+      "posterPath": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Waterworld (1995) is a strong next pick. The two films share action and adventure throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 14411,
+      "title": "Sinbad: Legend of the Seven Seas",
+      "year": 2003,
+      "posterPath": "/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Sinbad: Legend of the Seven Seas (2003) is a strong next pick. The two films share action and adventure throughlines and earned warmth without mush, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "family",
+        "animation",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 300673,
+      "title": "The Finest Hours",
+      "year": 2016,
+      "posterPath": "/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If All Is Lost worked for you, The Finest Hours (2016) is a strong next pick. The two films share action and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 246080,
+      "title": "Black Sea",
+      "year": 2014,
+      "posterPath": "/oqOXFP35a2DjxjdpmEaOTIfI5TS.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Black Sea (2014) is a strong next pick. The two films share adventure and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 401200,
+      "title": "Kursk",
+      "year": 2018,
+      "posterPath": "/1Y09MkMJ8CESSPW4fcbDm9s5cAS.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If All Is Lost worked for you, Kursk (2018) is a strong next pick. The two films share action and drama throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "history",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after All Is Lost?",
+      "answer": "Try In the Heart of the Sea, The Perfect Storm, Pirates of the Caribbean: At World's End—each shares DNA with All Is Lost while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is All Is Lost?",
+      "answer": "All Is Lost (2013) is best described as Action, Adventure, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is All Is Lost worth revisiting?",
+      "answer": "Viewer scores sit around 6.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "13-assassins",
+    "a-knights-tale",
+    "a-writers-odyssey",
+    "alexander",
+    "along-with-the-gods-the-two-worlds",
+    "amaran",
+    "attack-on-titan-the-last-attack"
+  ]
+}
