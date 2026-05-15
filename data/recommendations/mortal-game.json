@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 46541,
+    "title": "Game of Death",
+    "slug": "mortal-game",
+    "year": 2011,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "People revisit Game of Death for the same reason it broke through in 2011: clear stakes, memorable faces, and a action rhythm that doesn't stall in the middle. Giorgio Serafini keeps the ensemble pointed in one direction. The adventure and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "adventure",
+      "action",
+      "thriller",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 954,
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "posterPath": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "If Game of Death worked for you, Mission: Impossible (1996) is a strong next pick. The two films share adventure and action throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 27576,
+      "title": "Salt",
+      "year": 2010,
+      "posterPath": "/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "If Game of Death worked for you, Salt (2010) is a strong next pick. The two films share action and thriller throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "mystery"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 325348,
+      "title": "Hardcore Henry",
+      "year": 2015,
+      "posterPath": "/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "If Game of Death worked for you, Hardcore Henry (2015) is a strong next pick. The two films share adventure and action throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "adventure",
+        "action",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1428,
+      "title": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "posterPath": "/bsHbVPpaOfmGlcLMG20HfrPv1hg.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "If Game of Death worked for you, Once Upon a Time in Mexico (2003) is a strong next pick. The two films share action and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime",
+        "western"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 26389,
+      "title": "From Paris with Love",
+      "year": 2010,
+      "posterPath": "/2nD0RAWVOccomLp1iToVJn6KC2a.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "If Game of Death worked for you, From Paris with Love (2010) is a strong next pick. The two films share action and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "posterPath": "/7T3sYQOvCvIsNttljFfzxJ8rzBI.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "If Game of Death worked for you, Repo Men (2010) is a strong next pick. The two films share action and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "science-fiction",
+        "crime"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 1647,
+      "title": "The Recruit",
+      "year": 2003,
+      "posterPath": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "If Game of Death worked for you, The Recruit (2003) is a strong next pick. The two films share action and thriller throughlines and momentum and clean stakes, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 285923,
+      "title": "Grindhouse",
+      "year": 2007,
+      "posterPath": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "If Game of Death worked for you, Grindhouse (2007) is a strong next pick. The two films share action and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "horror"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 7516,
+      "title": "Smokin' Aces",
+      "year": 2006,
+      "posterPath": "/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "If Game of Death worked for you, Smokin' Aces (2006) is a strong next pick. The two films share action and thriller throughlines and comic timing and sharper banter, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "comedy",
+        "crime",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 10651,
+      "title": "The Dead Pool",
+      "year": 1988,
+      "posterPath": "/krxLLDnFuDtjagN7KrCjuH6QrcW.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "If Game of Death worked for you, The Dead Pool (1988) is a strong next pick. The two films share action and thriller throughlines and unease that lingers after the credits, even though the stories go in different directions.",
+      "sharedVibes": [
+        "action",
+        "thriller",
+        "crime"
+      ],
+      "mood": "dark"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Game of Death?",
+      "answer": "Try Mission: Impossible, Salt, Hardcore Henry—each shares DNA with Game of Death while changing the setting enough to feel fresh."
+    },
+    {
+      "question": "What genre is Game of Death?",
+      "answer": "Game of Death (2011) is best described as Adventure, Action, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Game of Death worth revisiting?",
+      "answer": "Viewer scores sit around 5.0/10 on TMDB—high enough that replays are common for people who like this adventure lane."
+    }
+  ],
+  "relatedPages": [
+    "16-blocks",
+    "a-view-to-a-kill",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "american-assassin",
+    "anna",
+    "armageddon"
+  ]
+}
