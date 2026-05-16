@@ -27,6 +27,7 @@
     "automation:daily": "zsh scripts/run-daily-automation.sh",
     "deploy:vercel": "npx vercel@latest deploy --prod",
     "indexing:health": "node scripts/indexing-health.mjs",
+    "gsc:sitemap-submit": "node scripts/gsc-submit-sitemap.mjs",
     "smoke:movieslike": "zsh scripts/smoke-test-movieslike-jobs.sh"
   },
   "dependencies": {
