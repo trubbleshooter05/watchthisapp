@@ -1,0 +1,190 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1439930,
+    "title": "The Punisher: One Last Kill",
+    "slug": "the-punisher-one-last-kill",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Drama",
+      "Crime"
+    ],
+    "whyPeopleLoveIt": "The Punisher: One Last Kill works as a action movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival. It commits to action without hedging: no false warmth to soften the edges, no filler to pad the runtime.",
+    "vibes": [
+      "action",
+      "drama",
+      "crime",
+      "crowd-favorite"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 395990,
+      "title": "Death Wish",
+      "year": 2018,
+      "posterPath": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Both The Punisher: One Last Kill and Death Wish (2018) insist on action and drama without softening the edges. The unease that lingers after the credits is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 483906,
+      "title": "Polar",
+      "year": 2019,
+      "posterPath": "/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "The momentum and clean stakes that The Punisher: One Last Kill delivers so well reappears in Polar (2019), anchored by the same action and drama instincts. Different film, same essential itch scratched.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 15255,
+      "title": "Undisputed II: Last Man Standing",
+      "year": 2006,
+      "posterPath": "/2gMCokqpIJoh6u5o06LlOZWsI3k.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The Punisher: One Last Kill uses action and drama to get under your skin; Undisputed II: Last Man Standing (2006) works the same seam with different tools. The unease that lingers after the credits is the reward both films share.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 14373,
+      "title": "Death Wish II",
+      "year": 1982,
+      "posterPath": "/3iX2nI3Cs9Q864SxA35RE6Hnl5p.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The Punisher: One Last Kill fans keep landing on Death Wish II (1982) because the action and drama wavelength is unmistakable. Both films build toward unease that lingers after the credits without cheating to get there.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 24873,
+      "title": "Death Wish 3",
+      "year": 1985,
+      "posterPath": "/mc33TytXxkC9cSKyztDJzwF3lbn.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Death Wish 3 (1985) occupies the same tonal register as The Punisher: One Last Kill: committed action and drama, unease that lingers after the credits, and zero interest in making things easier than they need to be.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "crime",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 8456,
+      "title": "Never Back Down",
+      "year": 2008,
+      "posterPath": "/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "The Punisher: One Last Kill fans keep landing on Never Back Down (2008) because the action and drama wavelength is unmistakable. Both films build toward momentum and clean stakes without cheating to get there.",
+      "sharedVibes": [
+        "action",
+        "drama"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 8856,
+      "title": "The Karate Kid Part II",
+      "year": 1986,
+      "posterPath": "/k0OwgRR6PNu7h3SiqpCbRdZWNaG.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The Punisher: One Last Kill fans keep landing on The Karate Kid Part II (1986) because the action and drama wavelength is unmistakable. Both films build toward emotional honesty that stings a little without cheating to get there.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "adventure",
+        "romance",
+        "family"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 8292,
+      "title": "Four Brothers",
+      "year": 2005,
+      "posterPath": "/8cO39cnWSZQi2ncPG5TxL3YRzKc.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Where The Punisher: One Last Kill builds its action and crime world through one story, Four Brothers (2005) arrives at the same momentum and clean stakes from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "action",
+        "crime"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 31867,
+      "title": "Repo Men",
+      "year": 2010,
+      "posterPath": "/7T3sYQOvCvIsNttljFfzxJ8rzBI.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Where The Punisher: One Last Kill builds its action and crime world through one story, Repo Men (2010) arrives at the same unease that lingers after the credits from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "action",
+        "crime",
+        "science-fiction",
+        "thriller"
+      ],
+      "mood": "dark"
+    },
+    {
+      "tmdbId": 19277,
+      "title": "In Hell",
+      "year": 2003,
+      "posterPath": "/vE2fYcP07fbIHoouATNErRQuNrw.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "There's a specific kind of action and drama satisfaction in The Punisher: One Last Kill that In Hell (2003) reproduces through its own logic. The momentum and clean stakes is the handshake between them.",
+      "sharedVibes": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Punisher: One Last Kill?",
+      "answer": "Try Death Wish, Polar, Undisputed II: Last Man Standing. Each one rewards the instincts that made The Punisher: One Last Kill click, without simply repeating it."
+    },
+    {
+      "question": "What genre is The Punisher: One Last Kill?",
+      "answer": "The Punisher: One Last Kill (2026) blends Action, Drama, Crime—the action element drives the plot, but the rest is why people keep coming back."
+    },
+    {
+      "question": "Is The Punisher: One Last Kill worth revisiting?",
+      "answer": "Viewer scores sit around 8.6/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "12-12-the-day",
+    "21-bridges",
+    "a-better-tomorrow",
+    "a-bittersweet-life",
+    "a-man-apart",
+    "a-marvel-television-special-presentation---the-punisher-one-last-kill",
+    "ad-vitam"
+  ]
+}
