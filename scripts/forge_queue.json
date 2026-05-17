@@ -1,26 +1,20 @@
 {
-  "t1": [
-    {
-      "title": "2",
-      "year": "",
-      "slug": "2"
-    },
-    {
-      "title": "A",
-      "year": "",
-      "slug": "a"
-    },
-    {
-      "title": "C",
-      "year": "",
-      "slug": "c"
-    }
-  ],
+  "t1": [],
   "t2": [
     {
-      "title": "The Magic Faraway Tree",
+      "title": "Bride of the Year",
       "year": "",
-      "slug": "the-magic-faraway-tree"
+      "slug": "bride-of-the-year"
+    },
+    {
+      "title": "Kartavya",
+      "year": "",
+      "slug": "kartavya"
+    },
+    {
+      "title": "The Crash",
+      "year": "",
+      "slug": "the-crash"
     }
   ]
 }

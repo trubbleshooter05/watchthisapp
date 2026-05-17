@@ -1,0 +1,189 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1140521,
+    "title": "The Magic Faraway Tree",
+    "slug": "the-magic-faraway-tree",
+    "year": 2026,
+    "genres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "The Magic Faraway Tree (2026) earns its reputation by doing the hard thing: it's a family film that actually has something to say, and the audience knows it even when they can't articulate why. It commits to family without hedging: no false warmth to soften the edges, no filler to pad the runtime.",
+    "vibes": [
+      "family",
+      "fantasy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 258230,
+      "title": "A Monster Calls",
+      "year": 2016,
+      "posterPath": "/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "2016's A Monster Calls works the same family and fantasy terrain as The Magic Faraway Tree and lands at the same destination: earned warmth without sentimentality that feels earned rather than manufactured.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 116711,
+      "title": "Epic",
+      "year": 2013,
+      "posterPath": "/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Where The Magic Faraway Tree builds its family and fantasy world through one story, Epic (2013) arrives at the same earned warmth without sentimentality from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 420814,
+      "title": "Christopher Robin",
+      "year": 2018,
+      "posterPath": "/i6Ytex4d3CdfIKJFxB5v5vh24vb.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "The Magic Faraway Tree uses family and fantasy to get under your skin; Christopher Robin (2018) works the same seam with different tools. The comic timing and sharper banter is the reward both films share.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 8204,
+      "title": "The Spiderwick Chronicles",
+      "year": 2008,
+      "posterPath": "/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The earned warmth without sentimentality that The Magic Faraway Tree delivers so well reappears in The Spiderwick Chronicles (2008), anchored by the same family and fantasy instincts. Different film, same essential itch scratched.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "drama"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 2309,
+      "title": "Inkheart",
+      "year": 2008,
+      "posterPath": "/eXFK5aBDzUPSynAhSKMJy7xLxqE.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Where The Magic Faraway Tree builds its family and fantasy world through one story, Inkheart (2008) arrives at the same earned warmth without sentimentality from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 25475,
+      "title": "Tinker Bell and the Lost Treasure",
+      "year": 2009,
+      "posterPath": "/hg1959yuBkHb4BKbIvETQSfxGCT.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "2009's Tinker Bell and the Lost Treasure works the same family and fantasy terrain as The Magic Faraway Tree and lands at the same destination: earned warmth without sentimentality that feels earned rather than manufactured.",
+      "sharedVibes": [
+        "family",
+        "fantasy",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 116149,
+      "title": "Paddington",
+      "year": 2014,
+      "posterPath": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The Magic Faraway Tree fans keep landing on Paddington (2014) because the family and adventure wavelength is unmistakable. Both films build toward comic timing and sharper banter without cheating to get there.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 346648,
+      "title": "Paddington 2",
+      "year": 2017,
+      "posterPath": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Think of Paddington 2 (2017) as a lateral move from The Magic Faraway Tree—the family and adventure priorities are the same, the story is entirely different. The comic timing and sharper banter is what seals the pairing.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 297270,
+      "title": "Tinker Bell and the Legend of the NeverBeast",
+      "year": 2014,
+      "posterPath": "/3S0mmmpYStB3GqodRghcfOt81wQ.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Tinker Bell and the Legend of the NeverBeast (2014) understands that family and adventure works best when it trusts the audience—the same principle that drives The Magic Faraway Tree. Both films close on earned warmth without sentimentality you won't shake quickly.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 522478,
+      "title": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "posterPath": "/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "There's a specific kind of family and adventure satisfaction in The Magic Faraway Tree that Peter Rabbit 2: The Runaway (2021) reproduces through its own logic. The comic timing and sharper banter is the handshake between them.",
+      "sharedVibes": [
+        "family",
+        "adventure",
+        "comedy"
+      ],
+      "mood": "funny"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after The Magic Faraway Tree?",
+      "answer": "Try A Monster Calls, Epic, Christopher Robin. Each one rewards the instincts that made The Magic Faraway Tree click, without simply repeating it."
+    },
+    {
+      "question": "What genre is The Magic Faraway Tree?",
+      "answer": "The Magic Faraway Tree (2026) blends Family, Fantasy, Adventure—the family element drives the plot, but the rest is why people keep coming back."
+    },
+    {
+      "question": "Is The Magic Faraway Tree part of a franchise?",
+      "answer": "Yes—it's part of the \"The Magic Faraway Tree Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-dogs-purpose",
+    "a-minecraft-movie",
+    "a-monster-calls",
+    "abominable",
+    "aladdin",
+    "alice-in-wonderland",
+    "alice-through-the-looking-glass"
+  ]
+}
