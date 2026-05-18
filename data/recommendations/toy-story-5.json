@@ -1,0 +1,198 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1084244,
+    "title": "Toy Story 5",
+    "slug": "toy-story-5",
+    "year": 2026,
+    "genres": [
+      "Animation",
+      "Family",
+      "Comedy",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Few animation from 2026 stuck like Toy Story 5—it found the nerve that matters and pressed on it without letting up. Andrew Stanton understood the assignment. The animation core is where fans keep coming back—it delivers on the promise the opening scene makes.",
+    "vibes": [
+      "animation",
+      "family",
+      "comedy",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 862,
+      "title": "Toy Story",
+      "year": 1995,
+      "posterPath": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Toy Story (1995) channels the animation and family energy of Toy Story 5 into a completely different story. Expect the same comic timing and sharper banter, earned through its own logic rather than borrowed from the first watch.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 301528,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "posterPath": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "The comic timing and sharper banter that Toy Story 5 delivers so well reappears in Toy Story 4 (2019), anchored by the same animation and family instincts. Different film, same essential itch scratched.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 80321,
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "year": 2012,
+      "posterPath": "/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Toy Story 5 fans keep landing on Madagascar 3: Europe's Most Wanted (2012) because the animation and family wavelength is unmistakable. Both films build toward comic timing and sharper banter without cheating to get there.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 153518,
+      "title": "The Angry Birds Movie",
+      "year": 2016,
+      "posterPath": "/iOH0fEFtV9z9rZp9zmBFGGeWicv.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Toy Story 5 fans keep landing on The Angry Birds Movie (2016) because the animation and family wavelength is unmistakable. Both films build toward comic timing and sharper banter without cheating to get there.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 412117,
+      "title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "posterPath": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Both Toy Story 5 and The Secret Life of Pets 2 (2019) insist on animation and family without softening the edges. The comic timing and sharper banter is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 11430,
+      "title": "The Lion King 1½",
+      "year": 2004,
+      "posterPath": "/u2hN0WT7Dz46HfhQbr6uzSYfVW4.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "The Lion King 1½ (2004) occupies the same tonal register as Toy Story 5: committed animation and family, comic timing and sharper banter, and zero interest in making things easier than they need to be.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 675445,
+      "title": "PAW Patrol: The Movie",
+      "year": 2021,
+      "posterPath": "/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "PAW Patrol: The Movie (2021) occupies the same tonal register as Toy Story 5: committed animation and family, comic timing and sharper banter, and zero interest in making things easier than they need to be.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "action"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 597316,
+      "title": "My Little Pony: A New Generation",
+      "year": 2021,
+      "posterPath": "/uvbj8puRj37Pc8FS4rIfVeReYFF.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Toy Story 5 uses animation and family to get under your skin; My Little Pony: A New Generation (2021) works the same seam with different tools. The comic timing and sharper banter is the reward both films share.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "comedy",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 16690,
+      "title": "Return to Never Land",
+      "year": 2002,
+      "posterPath": "/wB3r2b8sxUZspqNyr8copMlt7se.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Toy Story 5 uses animation and family to get under your skin; Return to Never Land (2002) works the same seam with different tools. The earned warmth without sentimentality is the reward both films share.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure",
+        "fantasy"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 250480,
+      "title": "The Many Adventures of Winnie the Pooh",
+      "year": 1977,
+      "posterPath": "/cT1oDTMwVMVvkaBkbyCKxvtZ8TQ.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Toy Story 5 and The Many Adventures of Winnie the Pooh (1977) share an architecture: animation and family on the surface, earned warmth without sentimentality beneath it. The second film earns the comparison with a distinct narrative arc.",
+      "sharedVibes": [
+        "animation",
+        "family",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Toy Story 5?",
+      "answer": "Toy Story first—it's the tightest match—then Toy Story 4 and Madagascar 3: Europe's Most Wanted branch out from there."
+    },
+    {
+      "question": "What genre is Toy Story 5?",
+      "answer": "Strictly it's Animation, Family, Comedy, Adventure, but Toy Story 5 plays like it knows what genre it belongs to and pushes against it. That tension is part of the appeal."
+    },
+    {
+      "question": "Is Toy Story 5 part of a franchise?",
+      "answer": "Yes—it's part of the \"Toy Story Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-bugs-life",
+    "a-goofy-movie",
+    "abominable",
+    "back-to-the-outback",
+    "bee-movie",
+    "big-hero-6",
+    "bolt"
+  ]
+}
