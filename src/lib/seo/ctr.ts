@@ -130,20 +130,17 @@ export function generateDescription(movieName: string): string {
  */
 export function generateH1(movieName: string, recommendationCount?: number): string {
   const seed = hashCode(movieName);
-  const curiosity = pickFromSeed(seed, CURIOSITY_PHRASES);
   const countForList =
     typeof recommendationCount === "number" && recommendationCount > 0
       ? recommendationCount
       : pickFromSeed(seed + 1, NUMBERS);
 
   const templates = [
-    `If You Loved ${movieName}, Watch These Next`,
-    `Discover Films Like ${movieName}—${curiosity}`,
-    `Because You Loved ${movieName}`,
-    `${movieName} Fans: These Films Are Essential`,
-    `If ${movieName} Moved You, These Will Too`,
-    `Loved ${movieName}? Your Next ${countForList} Must-Watches`,
-    `Loved ${movieName}? Here Are ${countForList} Films Worth Your Time`,
+    `Best Movies Like ${movieName} — ${countForList} Recommendations`,
+    `${countForList} Best Movies Like ${movieName}`,
+    `Movies Like ${movieName}: ${countForList} Picks You'll Love`,
+    `${countForList} Movies Like ${movieName} Worth Watching`,
+    `Best Movies Like ${movieName} (${countForList} Picks)`,
   ];
 
   return pickFromSeed(seed + 2, templates);
