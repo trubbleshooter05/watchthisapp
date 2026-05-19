@@ -1,0 +1,191 @@
+{
+  "sourceMovie": {
+    "tmdbId": 11649,
+    "title": "Masters of the Universe",
+    "slug": "masters-of-the-universe",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction",
+      "Adventure",
+      "Thriller"
+    ],
+    "whyPeopleLoveIt": "Masters of the Universe (1987) stuck because it commits to its action premise without apologizing—viewers remember set pieces and momentum as much as plot. Gary Goddard's control of tone keeps the ride coherent. The action and fantasy blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "action",
+      "fantasy",
+      "science-fiction",
+      "adventure",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 15359,
+      "title": "Wonder Woman",
+      "year": 2009,
+      "posterPath": "/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Wonder Woman (2009) channels the action and fantasy energy of Masters of the Universe into a completely different story. Expect the same earned warmth without sentimentality, earned through its own logic rather than borrowed from the first watch.",
+      "sharedVibes": [
+        "action",
+        "fantasy",
+        "science-fiction",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "posterPath": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "2012's The Avengers works the same action and science fiction terrain as Masters of the Universe and lands at the same destination: momentum and clean stakes that feels earned rather than manufactured.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "posterPath": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Think of Guardians of the Galaxy (2014) as a lateral move from Masters of the Universe—the action and science fiction priorities are the same, the story is entirely different. The momentum and clean stakes is what seals the pairing.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 99861,
+      "title": "Avengers: Age of Ultron",
+      "year": 2015,
+      "posterPath": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "The momentum and clean stakes that Masters of the Universe delivers so well reappears in Avengers: Age of Ultron (2015), anchored by the same action and science fiction instincts. Different film, same essential itch scratched.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 324857,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "posterPath": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The earned warmth without sentimentality that makes Masters of the Universe linger is the through-line here. Spider-Man: Into the Spider-Verse (2018) gets there through action and science fiction—same destination, entirely different route.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure",
+        "animation"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "posterPath": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Where Masters of the Universe builds its action and science fiction world through one story, X-Men: Days of Future Past (2014) arrives at the same momentum and clean stakes from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 49521,
+      "title": "Man of Steel",
+      "year": 2013,
+      "posterPath": "/cB46TSg3kGjq2eVy5kVUhlpUa1H.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "The momentum and clean stakes that makes Masters of the Universe linger is the through-line here. Man of Steel (2013) gets there through action and science fiction—same destination, entirely different route.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1858,
+      "title": "Transformers",
+      "year": 2007,
+      "posterPath": "/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "2007's Transformers works the same action and science fiction terrain as Masters of the Universe and lands at the same destination: momentum and clean stakes that feels earned rather than manufactured.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "posterPath": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "The momentum and clean stakes that makes Masters of the Universe linger is the through-line here. Eternals (2021) gets there through action and science fiction—same destination, entirely different route.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 1924,
+      "title": "Superman",
+      "year": 1978,
+      "posterPath": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "The momentum and clean stakes that Masters of the Universe delivers so well reappears in Superman (1978), anchored by the same action and science fiction instincts. Different film, same essential itch scratched.",
+      "sharedVibes": [
+        "action",
+        "science-fiction",
+        "adventure"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Masters of the Universe?",
+      "answer": "Start with Wonder Woman—it's the closest match—then work through The Avengers and Guardians of the Galaxy for the wider orbit."
+    },
+    {
+      "question": "What genre is Masters of the Universe?",
+      "answer": "Masters of the Universe (1987) is best described as Action, Fantasy, Science Fiction, Adventure, Thriller. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Masters of the Universe worth revisiting?",
+      "answer": "Viewer scores sit around 5.8/10 on TMDB—high enough that replays are common for people who like this action lane."
+    }
+  ],
+  "relatedPages": [
+    "godzilla-final-wars",
+    "race-to-witch-mountain",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days",
+    "along-with-the-gods-the-two-worlds",
+    "armageddon",
+    "battleship"
+  ]
+}
