@@ -6,11 +6,25 @@ import path from "path";
 import { validateWhyBlurb } from "./recommendation-why-blurb.mjs";
 
 const TEMPLATE_MARKERS = [
+  // Legacy fill-all-bundles v1 phrases
   "clicked for you",
   "strong next stop",
+  "is a strong next stop",
   "both trade in",
   "similar willingness to go big",
-  "is a strong next stop",
+  // fill-all-bundles v2 Template 0 phrases (now removed from generator)
+  "worked for you",
+  "strong next pick",
+  "makes a natural follow-up",
+  "rhyme in the ways that matter",
+  "many fans queue",
+  // LLM chronology-rule copy phrases
+  "laid groundwork",
+  "this predecessor shows",
+  "emotional dna",
+  // fix-template-blurbs legacy phrases
+  "same conversation as",
+  "natural next step after",
 ];
 
 export function loadAllBundles(dataDir) {

@@ -26,7 +26,7 @@ const tmdbCachePath = path.join(cacheDir, "tmdb-script-cache.json");
 const MOODS = new Set(["dark", "uplifting", "tense", "funny", "bittersweet"]);
 const OPENAI_MODEL = "gpt-4o-mini";
 const CHRONOLOGY_RULE =
-  "IMPORTANT: When describing why a recommended movie is similar to the source movie, always respect chronology. If the recommended movie was released BEFORE the source movie, frame it as an influence or predecessor (e.g., 'This laid the groundwork for films like [source]' or 'You can see where [source] drew inspiration'). If the recommended movie was released AFTER the source movie, frame it as carrying the torch (e.g., 'Takes the [theme] from [source] and runs with it'). NEVER say an older film 'captures' or 'imitates' a newer film.";
+  "IMPORTANT: Respect chronology in your descriptions. If the recommended film predates the source, acknowledge it as an antecedent or influence without implying it copied or was inspired by the newer film—older films cannot be inspired by movies that didn't exist yet. If the recommended film postdates the source, you may note it builds on a tradition the source helped establish. Either way, write the chronological framing in your own words; do NOT copy any example phrases from this instruction.";
 
 function loadEnvLocal() {
   const p = path.join(root, ".env.local");
@@ -182,14 +182,14 @@ ${whyPeopleLoveIt}
 Key vibes: ${vibeStr}
 
 RULES — follow these exactly:
-1. Each recommendation must share the EMOTIONAL EXPERIENCE or THEMATIC DNA of ${title}, not just surface-level genre. "Both are dramas" is not a reason. "Both explore how obsession corrodes identity" IS a reason.
+1. Each recommendation must share the EMOTIONAL EXPERIENCE or THEMATIC CORE of ${title}, not just surface-level genre. "Both are dramas" is not a reason. "Both explore how obsession corrodes identity" IS a reason.
 
 2. For EACH recommendation, write a "whyYoullLoveIt" that is:
    - Exactly 1–2 complete sentences (full clauses, no fragments, no clipped endings)
    - References a SPECIFIC element of ${title} (a character dynamic, a scene type, a feeling, a theme)
    - Connects it to a SPECIFIC element of the recommended movie
-   - NEVER starts with "If you liked ${title}" or "If ${title} clicked for you" — find a more creative opening
-   - NEVER uses generic phrases like "both trade in [genre]" or "similar willingness to go big"
+   - NEVER starts with "If you liked ${title}", "If ${title} clicked for you", or "If ${title} resonated for you"
+   - NEVER uses generic phrases like "both trade in [genre]", "similar willingness to go big", "emotional DNA", "laid groundwork", "this predecessor shows", "carries the torch"
 
 3. Do NOT recommend sequels, films from the same franchise, or films by the same director unless the connection is non-obvious.
 
@@ -202,6 +202,8 @@ RULES — follow these exactly:
 7. Assign mood to each: exactly one of: dark, uplifting, tense, funny, bittersweet.
 
 8. sharedVibes: 3-6 short kebab-case or single-word tags (e.g. obsession, class-anxiety, psychological).
+
+9. UNIQUENESS: Every recommendation must open with a DIFFERENT word and use a DIFFERENT sentence structure. No two blurbs on this list may share the same opening word. Vary your angle across the 10 entries: use temporal connections, tonal parallels, character-focused observations, plot-structural comparisons, and cinematically specific descriptions.
 
 Return ONLY valid JSON with this shape (10 items in recommendations):
 {
@@ -239,9 +241,16 @@ function validateRecItem(x, i) {
   if (
     low.includes("clicked for you") ||
     low.includes("strong next stop") ||
+    low.includes("strong next pick") ||
     low.includes("both trade in") ||
+    low.includes("emotional dna") ||
+    low.includes("laid groundwork") ||
+    low.includes("this predecessor shows") ||
+    low.includes("makes a natural follow-up") ||
+    low.includes("rhyme in the ways that matter") ||
     /if you liked /.test(low) ||
-    /if you loved /.test(low)
+    /if you loved /.test(low) ||
+    /if you? .{2,30} resonated for you/.test(low)
   )
     return `rec[${i}] banned template phrase in whyYoullLoveIt`;
   const v = validateWhyBlurb(x.whyYoullLoveIt);
@@ -265,20 +274,26 @@ async function buildTmdbPadEntry(movieResult, matchPercentage, slotIndex) {
   const genreNames = (detail.genres || []).map((g) => g.name);
   const genres = genreNames.map((n) => n.toLowerCase().replace(/\s+/g, "-"));
   const t = detail.title || movieResult.title;
+  // Genre-neutral hooks — no subject-specific references (social class, awkward rooms, etc.)
+  // 14 hooks so a page with multiple TMDB-padded slots gets varied language.
   const hooks = [
-    `${t} (${ry}) lands on many “people also watched” rails for this film: different characters, but the same hunger to watch privilege curdle.`,
-    `Queue ${t} when you want the aftertaste of the last movie to linger—here the social chess is messier and the comedy (if any) cuts closer.`,
-    `${t} is a pragmatic next pick from TMDB overlap data: not a clone, but it tends to satisfy viewers who liked the last film’s pressure-cooker politeness.`,
-    `Viewers who appreciated how the last film weaponized awkward rooms will find a similar charge in ${t}, even though the floor plan of the story changes completely.`,
-    `Consider ${t} as a lateral move: new story, similar “who’s performing for whom?” energy that made the previous watch stick.`,
-    `${t} (${ry}) keeps the same emotional temperature as the last film while swapping in a new cast of characters and conflicts.`,
-    `The overlap audiences see between this pick and the last film comes down to pacing and payoff, not plot photocopying.`,
+    `${t} (${ry}) surfaces consistently in audience overlap data for this genre—different story, recognisably similar emotional register throughout.`,
+    `Viewers who appreciated the pacing and payoff of the previous film tend to respond well to ${t}: the narrative structure rhymes even when the subject matter diverges.`,
+    `${t} is a practical addition based on TMDB audience overlap—not a copy, but it satisfies the tonal appetite that brought you here.`,
+    `Consider ${t} (${ry}) a lateral move: the character dynamics shift, the genre energy stays close enough to feel like a natural continuation.`,
+    `${t} (${ry}) operates at the same emotional temperature—new cast, new conflict, comparable investment in the outcome.`,
+    `The connection between this film and ${t} comes down to pacing and stakes, not plot similarity: both earn their endings rather than giving them away early.`,
+    `${t} (${ry}) rewards the instincts that brought you to this list—it approaches its story from a different angle but lands on a comparable register.`,
+    `Audience behaviour data places ${t} in frequent rotation alongside this genre: the tonal overlap holds even as the specific story changes completely.`,
+    `${t} (${ry}) is the kind of film that satisfies the same underlying drive—different surface, comparable depth once it finds its footing.`,
+    `Where many recommendations feel like genre copies, ${t} (${ry}) earns its place through structural and tonal alignment rather than surface similarity.`,
+    `${t} keeps appearing in watchlists alongside these titles because the emotional investment it asks for—and delivers—matches the pattern established here.`,
+    `${t} (${ry}) rounds out this list as a dependable tonal companion: the story goes somewhere different, but the craft and register stay consistent.`,
+    `Viewers who finished the previous film often queue ${t} next—the overlap is not in plot but in the kind of attention both films demand.`,
+    `${t} (${ry}) fits the emotional neighbourhood of this selection: unhurried where it needs to be, sharp when the story calls for it.`,
   ];
-  const scrub = (s) =>
-    s
-      .replace(/\bthe last film\b/gi, "that film")
-      .replace(/\bthe last movie\b/gi, "that film")
-      .replace(/\bthe previous watch\b/gi, "that one");
+  // No scrub needed — hooks no longer reference "the last film"
+  const scrub = (s) => s;
   let whyYoullLoveIt = "";
   for (let k = 0; k < hooks.length; k++) {
     const raw = scrub(hooks[(slotIndex + k) % hooks.length]);

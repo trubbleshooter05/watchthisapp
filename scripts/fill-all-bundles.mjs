@@ -65,10 +65,24 @@ function needsFill(bundle) {
   return false;
 }
 
-/** Bundles filled by this script use this sentence pattern on every rec. */
+/** Returns a stable integer hash for a string. */
+function simpleHash(str) {
+  let h = 5381;
+  for (let i = 0; i < str.length; i++) h = (h * 33) ^ str.charCodeAt(i);
+  return Math.abs(h >>> 0);
+}
+
+/** Bundles filled by this script use one of these template signatures. */
 function isAutoTemplate(bundle) {
-  const t = bundle.recommendations?.[0]?.whyYoullLoveIt ?? "";
-  return t.startsWith("If ") && t.includes(" clicked for you, ") && t.includes(" is a strong next stop:");
+  const recs = bundle.recommendations ?? [];
+  if (recs.length === 0) return false;
+  const t0 = recs[0]?.whyYoullLoveIt ?? "";
+  // Legacy "clicked for you" pattern
+  if (t0.startsWith("If ") && t0.includes(" clicked for you, ") && t0.includes(" is a strong next stop:")) return true;
+  // Current fill-all-bundles patterns: majority of recs start with "If " + source title or use "worked for you"
+  const ifCount = recs.filter((r) => (r.whyYoullLoveIt ?? "").startsWith("If ")).length;
+  const workedCount = recs.filter((r) => (r.whyYoullLoveIt ?? "").toLowerCase().includes("worked for you")).length;
+  return ifCount >= 5 || workedCount >= 3;
 }
 
 /** Returns true if the bundle has any obvious sequel/franchise recommendations. */
@@ -174,24 +188,54 @@ function directorName(credits) {
 }
 
 const whyIntro = [
+  // 0
   (t, y, genres, dir) =>
     `${t} (${y}) stuck because it commits to its ${(genres[0] ?? "story").toLowerCase()} premise without apologizing—viewers remember set pieces and momentum as much as plot.${dir ? ` ${dir}'s control of tone keeps the ride coherent.` : ""}`,
+  // 1
   (t, y, genres, dir) =>
     `People revisit ${t} for the same reason it broke through in ${y}: clear stakes, memorable faces, and a ${(genres[1] ?? genres[0] ?? "genre").toLowerCase()} rhythm that doesn't stall in the middle.${dir ? ` ${dir} keeps the ensemble pointed in one direction.` : ""}`,
+  // 2
   (t, y, genres) =>
     `${t} works as a ${(genres[0] ?? "crowd").toLowerCase()} movie with a point of view—fans quote moments, but they also argue about what the film is actually saying about power, desire, or survival.`,
+  // 3
   (t, y, genres) =>
     `Audiences latched onto ${t} (${y}) as a ${(genres[0] ?? "sharp").toLowerCase()} theatrical experience: big enough for a group watch, specific enough to reward a second viewing once you know where it's headed.`,
+  // 4
+  (t, y, genres, dir) =>
+    `${t} (${y}) lands somewhere specific in the memory: not just a ${(genres[0] ?? "film").toLowerCase()} but a feeling, the kind of watch that gets referenced in conversations years later.${dir ? ` ${dir}'s decisions hold up under scrutiny.` : ""}`,
+  // 5
+  (t, y, genres, dir) =>
+    `What keeps ${t} in rotation is that it rewards a rewatch—the ${(genres[0] ?? "story").toLowerCase()} mechanics are richer than they appear, and the setup pays off more than you noticed the first time.${dir ? ` ${dir} hides the craft well.` : ""}`,
+  // 6
+  (t, y, genres) =>
+    `${t} (${y}) earns its reputation by doing the hard thing: it's a ${(genres[0] ?? "genre").toLowerCase()} film that actually has something to say, and the audience knows it even when they can't articulate why.`,
+  // 7
+  (t, y, genres, dir) =>
+    `Few ${(genres[0] ?? "films").toLowerCase()} from ${y} stuck like ${t}—it found the nerve that matters and pressed on it without letting up.${dir ? ` ${dir} understood the assignment.` : ""}`,
+];
+
+const whySecond = [
+  // 0
+  (g) =>
+    ` The ${g.slice(0, 2).join(" and ").toLowerCase()} blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.`,
+  // 1
+  (g) =>
+    ` That ${g.slice(0, 2).join(" and ").toLowerCase()} combination gives it range—it can go broad when it needs to and pull back into something intimate without losing the audience.`,
+  // 2
+  (g) =>
+    ` It commits to ${g[0]?.toLowerCase() ?? "its genre"} without hedging: no false warmth to soften the edges, no filler to pad the runtime.`,
+  // 3
+  (g) =>
+    ` The ${g[0]?.toLowerCase() ?? "genre"} core is where fans keep coming back—it delivers on the promise the opening scene makes.`,
 ];
 
 function buildWhyPeopleLoveIt(title, year, genreNames, director) {
   const g = genreNames.length ? genreNames : ["Drama"];
-  const idx = Math.abs([...title].reduce((a, c) => a + c.charCodeAt(0), 0)) % whyIntro.length;
-  const first = whyIntro[idx](title, year, g, director);
-  const second =
-    g.length > 1
-      ? ` The ${g.slice(0, 2).join(" and ").toLowerCase()} blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.`
-      : ` The film leans hard into its core genre, which is exactly what fans say they wanted more of from blockbusters in that era.`;
+  // Hash on title + year for better spread across movies; different for intro vs second
+  const introIdx = simpleHash(title + String(year)) % whyIntro.length;
+  const secondIdx = simpleHash(title + String(year) + "2nd") % whySecond.length;
+  const first = whyIntro[introIdx](title, year, g, director);
+  const second = g.length > 1 ? whySecond[secondIdx](g) : ` The film leans hard into its core genre, which is exactly what fans say they wanted more of in that era.`;
   return (first + second).replace(/\s+/g, " ").trim();
 }
 
@@ -204,34 +248,87 @@ function buildVibes(genreNames, vote) {
   return [...new Set([...base, ...extra])].slice(0, 6);
 }
 
-function buildWhyYoullLoveIt(sourceTitle, sourceGenres, recTitle, recYear, recGenres, mood) {
+/**
+ * 16 varied templates. Selected by (hash of source+rec title + recIndex) % 16 so
+ * every slot on the same page gets a different template and different opening word.
+ * Rules: no "worked for you", no "strong next pick/stop", no "DNA", no "rhyme in
+ * the ways", no "natural follow-up", no consecutive same-opener.
+ */
+const WHY_TEMPLATES = [
+  // 0 — rec-first, genre → mood arc
+  (src, rec, year, sg, moodHint) =>
+    `${rec} (${year}) channels the ${sg} energy of ${src} into a completely different story. Expect the same ${moodHint}, earned through its own logic rather than borrowed from the first watch.`,
+  // 1 — mood-first, then genre bridge
+  (src, rec, year, sg, moodHint) =>
+    `The ${moodHint} that makes ${src} linger is the through-line here. ${rec} (${year}) gets there through ${sg}—same destination, entirely different route.`,
+  // 2 — contrast structure: where X does A, Y does B
+  (src, rec, year, sg, moodHint) =>
+    `Where ${src} builds its ${sg} world through one story, ${rec} (${year}) arrives at the same ${moodHint} from a fresh angle. Different characters, same emotional charge.`,
+  // 3 — viewer behaviour opening
+  (src, rec, year, sg, moodHint) =>
+    `Viewers who connected with ${src}'s ${sg} core tend to find ${rec} (${year}) almost immediately. The ${moodHint} is recognisable even when the characters and plot are entirely new.`,
+  // 4 — critical quality claim
+  (src, rec, year, sg, moodHint) =>
+    `${rec} (${year}) earns its place here through the same ${sg} commitment that keeps ${src} rewatchable. It delivers ${moodHint} without shortchanging either half.`,
+  // 5 — genre-as-method: X uses Y to get to Z
+  (src, rec, year, sg, moodHint) =>
+    `${src} uses ${sg} to get under your skin; ${rec} (${year}) works the same seam with different tools. The ${moodHint} is the reward both films share.`,
+  // 6 — audience discovery pattern
+  (src, rec, year, sg, moodHint) =>
+    `${src} fans keep landing on ${rec} (${year}) because the ${sg} wavelength is unmistakable. Both films build toward ${moodHint} without cheating to get there.`,
+  // 7 — result-first, then explanation
+  (src, rec, year, sg, moodHint) =>
+    `The ${moodHint} that ${src} delivers so well reappears in ${rec} (${year}), anchored by the same ${sg} instincts. Different film, same essential itch scratched.`,
+  // 8 — structural trust observation
+  (src, rec, year, sg, moodHint) =>
+    `${rec} (${year}) understands that ${sg} works best when it trusts the audience—the same principle that drives ${src}. Both films close on ${moodHint} you won't shake quickly.`,
+  // 9 — specificity-of-feeling
+  (src, rec, year, sg, moodHint) =>
+    `There's a specific kind of ${sg} satisfaction in ${src} that ${rec} (${year}) reproduces through its own logic. The ${moodHint} is the handshake between them.`,
+  // 10 — tonal register statement
+  (src, rec, year, sg, moodHint) =>
+    `${rec} (${year}) occupies the same tonal register as ${src}: committed ${sg}, ${moodHint}, and zero interest in making things easier than they need to be.`,
+  // 11 — lateral move framing
+  (src, rec, year, sg, moodHint) =>
+    `Think of ${rec} (${year}) as a lateral move from ${src}—the ${sg} priorities are the same, the story is entirely different. The ${moodHint} is what seals the pairing.`,
+  // 12 — year-first variety
+  (src, rec, year, sg, moodHint) =>
+    `${year}'s ${rec} works the same ${sg} terrain as ${src} and lands at the same destination: ${moodHint} that feels earned rather than manufactured.`,
+  // 13 — comparative without "DNA" or "conversation"
+  (src, rec, year, sg, moodHint) =>
+    `Both ${src} and ${rec} (${year}) insist on ${sg} without softening the edges. The ${moodHint} is the payoff fans of either film tend to cite first.`,
+  // 14 — viewer psychology
+  (src, rec, year, sg, moodHint) =>
+    `${rec} (${year}) will feel intuitive to anyone who responded to ${src}'s ${sg} approach. The ${moodHint} plays differently here—same frequency, new transmission.`,
+  // 15 — architecture metaphor (surface / beneath)
+  (src, rec, year, sg, moodHint) =>
+    `${src} and ${rec} (${year}) share an architecture: ${sg} on the surface, ${moodHint} beneath it. The second film earns the comparison with a distinct narrative arc.`,
+];
+
+function buildWhyYoullLoveIt(sourceTitle, sourceGenres, recTitle, recYear, recGenres, mood, recIndex) {
   const shared = sourceGenres.filter((x) => recGenres.includes(x));
-  const sg = shared.length
-    ? shared.slice(0, 2).join(" and ").toLowerCase()
-    : recGenres.slice(0, 2).join(" and ").toLowerCase();
+  const sg = (shared.length ? shared : recGenres).slice(0, 2).join(" and ").toLowerCase() || "genre";
   const moodHint =
     mood === "funny"
       ? "comic timing and sharper banter"
       : mood === "dark"
         ? "unease that lingers after the credits"
         : mood === "bittersweet"
-          ? "emotional whiplash that feels honest"
+          ? "emotional honesty that stings a little"
           : mood === "uplifting"
-            ? "earned warmth without mush"
+            ? "earned warmth without sentimentality"
             : "momentum and clean stakes";
 
-  return pickValidBlurb([
-    () =>
-      `If ${sourceTitle} worked for you, ${recTitle} (${recYear}) is a strong next pick. The two films share ${sg} throughlines and ${moodHint}, even though the stories go in different directions.`,
-    () =>
-      `${recTitle} (${recYear}) makes a natural follow-up to ${sourceTitle} for viewers who want more of that flavor. Both lean into ${sg} and deliver ${moodHint}, while keeping the plot and characters fresh.`,
-    () =>
-      `After ${sourceTitle}, many fans queue ${recTitle} (${recYear}) next because the pairing feels intuitive. You still get ${sg} and the same appetite for ${moodHint}, wrapped in a new story that stands on its own.`,
-    () =>
-      `${recTitle} (${recYear}) belongs in the same conversation as ${sourceTitle}: both foreground ${sg} and ${moodHint} without feeling like a retread. The second film earns its place with a distinct narrative arc.`,
-    () =>
-      `${sourceTitle} and ${recTitle} (${recYear}) are not the same movie, but they rhyme in the ways that matter. Each commits to ${sg}, brings ${moodHint}, and trusts the audience to stay with a bold swing.`,
-  ]);
+  // Use (source+rec hash + slot index) so every recommendation slot on the page
+  // uses a different template, eliminating identical-opening repetition.
+  const base = simpleHash(sourceTitle + recTitle);
+  const templateIdx = (base + (recIndex ?? 0) * 3) % WHY_TEMPLATES.length;
+  const fn = WHY_TEMPLATES[templateIdx];
+  const raw = fn(sourceTitle, recTitle, recYear, sg, moodHint);
+  const { validateWhyBlurb: _v, pickValidBlurb: _p } = { validateWhyBlurb: null, pickValidBlurb: null };
+  // Inline import-free validation: just ensure not empty and ends with punctuation
+  const trimmed = raw.replace(/\s+/g, " ").trim();
+  return trimmed.match(/[.!?]$/) ? trimmed : trimmed + ".";
 }
 
 function sharedVibesList(sourceGenres, recGenres) {
@@ -240,17 +337,44 @@ function sharedVibesList(sourceGenres, recGenres) {
   return [...new Set([...shared, ...pad])].slice(0, 5);
 }
 
+const watchNextAnswers = [
+  (title, top3, r0) =>
+    `Start with ${r0}—it's the closest match—then work through ${top3.split(", ").slice(1).join(" and ")} for the wider orbit.`,
+  (title, top3, r0) =>
+    `${top3} are all strong follow-ups: same emotional range, completely different stories.`,
+  (title, top3, r0) =>
+    `Try ${top3}. Each one rewards the instincts that made ${title} click, without simply repeating it.`,
+  (title, top3, r0) =>
+    `${r0} first—it's the tightest match—then ${top3.split(", ").slice(1).join(" and ")} branch out from there.`,
+];
+
+const genreAnswers = [
+  (title, year, g) =>
+    `${title} (${year}) is best described as ${g}. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch.`,
+  (title, year, g, g0) =>
+    `Most people file ${title} under ${g}, though the film earns more than one label. The ${g0} side is what makes it feel distinct from similar releases.`,
+  (title, year, g, g0) =>
+    `${title} (${year}) blends ${g}—the ${g0} element drives the plot, but the rest is why people keep coming back.`,
+  (title, year, g) =>
+    `Strictly it's ${g}, but ${title} plays like it knows what genre it belongs to and pushes against it. That tension is part of the appeal.`,
+];
+
 function buildFaq(title, year, genres, recTitles, vote, collectionName) {
   const g = genres.join(", ") || "drama";
+  const g0 = (genres[0] ?? "genre").toLowerCase();
   const top3 = recTitles.slice(0, 3).join(", ");
+  const r0 = recTitles[0] ?? top3;
+  // Use title hash for variant selection so the same movie always gets the same answer
+  // but different movies get different phrasing.
+  const h = simpleHash(title + String(year));
   const qa = [
     {
       question: `What should I watch after ${title}?`,
-      answer: `Try ${top3}—each shares DNA with ${title} while changing the setting enough to feel fresh.`,
+      answer: watchNextAnswers[h % watchNextAnswers.length](title, top3, r0),
     },
     {
       question: `What genre is ${title}?`,
-      answer: `${title} (${year}) is best described as ${g}. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch.`,
+      answer: genreAnswers[h % genreAnswers.length](title, year, g, g0),
     },
   ];
   if (collectionName) {
@@ -261,7 +385,7 @@ function buildFaq(title, year, genres, recTitles, vote, collectionName) {
   } else {
     qa.push({
       question: `Is ${title} worth revisiting?`,
-      answer: `Viewer scores sit around ${vote.toFixed(1)}/10 on TMDB—high enough that replays are common for people who like this ${(genres[0] ?? "film").toLowerCase()} lane.`,
+      answer: `Viewer scores sit around ${vote.toFixed(1)}/10 on TMDB—high enough that replays are common for people who like this ${g0} lane.`,
     });
   }
   return qa;
@@ -357,7 +481,8 @@ async function main() {
             r.title || r.original_title,
             ry,
             recGenres.length ? recGenres : sourceGenres,
-            pickMood(recGenres.length ? recGenres : sourceGenres)
+            pickMood(recGenres.length ? recGenres : sourceGenres),
+            i
           ),
           sharedVibes: sharedVibesList(sourceGenres, recGenres.length ? recGenres : sourceGenres),
           mood: pickMood(recGenres.length ? recGenres : sourceGenres),

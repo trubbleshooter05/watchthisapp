@@ -22,80 +22,115 @@ const DRY_RUN = process.argv.includes("--dry-run");
 // We rotate through them by (hash of source slug + rec index) % TEMPLATES.length
 
 const TEMPLATES = [
-  // 0
+  // 0 — rec-first, genre → mood arc
   (src, rec, vibes, mood, year) =>
-    `${rec} draws from the same ${vibes[0] ?? "genre"} well as ${src}, channeling ${vibes[1] ?? "atmosphere"} in ways that feel unmistakably related. ` +
-    `The ${year} film makes a natural companion watch — similar in spirit but distinctly its own.`,
+    `${rec} (${year}) channels the ${vibes[0] ?? "genre"} energy of ${src} into a completely different story. ` +
+    `Expect the same ${mood} register, earned through its own logic rather than borrowed from the first watch.`,
 
-  // 1
+  // 1 — mood-first opening
   (src, rec, vibes, mood, year) =>
-    `Fans of ${src} who respond to its ${vibes[0] ?? "tone"} will find ${rec} (${year}) immediately familiar. ` +
-    `Both films share a ${vibes[1] ?? mood} sensibility without ever feeling like carbon copies of each other.`,
+    `The ${mood} quality that makes ${src} stick is the real through-line here. ` +
+    `${rec} (${year}) gets there through ${vibes[0] ?? "its genre"}\u2014same destination, entirely different route.`,
 
-  // 2
+  // 2 — contrast: where X does A, Y does B
   (src, rec, vibes, mood, year) =>
-    `Where ${src} excels in ${vibes[0] ?? "storytelling"}, ${rec} (${year}) doubles down on ${vibes[1] ?? "craft"} to comparable effect. ` +
-    `The tonal similarities run deep enough that watching both back-to-back feels intentional.`,
+    `Where ${src} builds its ${vibes[0] ?? "story"} world through one lens, ${rec} (${year}) arrives at the same ${mood} from a fresh angle. ` +
+    `Different characters, recognisably similar emotional charge.`,
 
-  // 3
+  // 3 — viewer behaviour observation
   (src, rec, vibes, mood, year) =>
-    `${rec} (${year}) belongs to the same conversation as ${src} — both anchor their ${vibes[0] ?? "story"} in ${vibes[1] ?? "authentic"} emotion that doesn't let go. ` +
-    `The ${mood} undercurrent connects them more than any plot summary would suggest.`,
+    `Viewers who responded to ${src}'s ${vibes[0] ?? "tone"} tend to find ${rec} (${year}) almost immediately. ` +
+    `The ${mood} register is recognisable even when the plot and characters are entirely new.`,
 
-  // 4
+  // 4 — quality claim with specific vibe
   (src, rec, vibes, mood, year) =>
-    `The ${vibes[0] ?? "genre"} energy of ${src} is alive in ${rec} (${year}), filtered through a different story but the same emotional register. ` +
-    `It earns its place on this list with a ${mood} payoff that rivals the original pick.`,
+    `${rec} (${year}) earns its place here through the same ${vibes[0] ?? "commitment"} that keeps ${src} rewatchable. ` +
+    `It delivers ${vibes[1] ?? mood} without shortchanging either half.`,
 
-  // 5
+  // 5 — genre-as-method
   (src, rec, vibes, mood, year) =>
-    `${rec} shares ${src}'s gift for ${vibes[0] ?? "tension"} — the ${year} film delivers ${vibes[1] ?? "momentum"} without overstaying its welcome. ` +
-    `Consider it required viewing once you've finished rewatching your first pick.`,
+    `${src} uses ${vibes[0] ?? "its genre"} to get under your skin; ${rec} (${year}) works the same seam with different tools. ` +
+    `The ${mood} payoff is the reward both films share.`,
 
-  // 6
+  // 6 — audience discovery
   (src, rec, vibes, mood, year) =>
-    `The filmmakers behind ${rec} (${year}) clearly understood what makes ${vibes[0] ?? "this genre"} work — the same quality that keeps ${src} rewatchable. ` +
-    `Expect the same ${mood} rhythm, executed with a fresh angle.`,
+    `${src} fans keep landing on ${rec} (${year}) because the ${vibes[0] ?? "tonal"} wavelength is unmistakable. ` +
+    `Both films build toward ${mood} without cutting corners to get there.`,
 
-  // 7
+  // 7 — result-first, then explanation
   (src, rec, vibes, mood, year) =>
-    `${rec} (${year}) captures the ${vibes[0] ?? "core"} appeal of ${src} without simply imitating it. ` +
-    `The ${vibes[1] ?? mood} streak running through both films is what puts ${rec} at the top of any "if you liked…" shortlist.`,
+    `The ${mood} that ${src} delivers so well reappears in ${rec} (${year}), anchored by the same ${vibes[0] ?? "instincts"}. ` +
+    `Different film, same essential itch scratched.`,
 
-  // 8
+  // 8 — audience trust observation
   (src, rec, vibes, mood, year) =>
-    `There's a reason ${src} fans keep landing on ${rec} (${year}) — the ${vibes[0] ?? "atmosphere"} is unmistakably related even when the plots diverge. ` +
-    `Both films operate on the same emotional frequency, especially in their third acts.`,
+    `${rec} (${year}) understands that ${vibes[0] ?? "this genre"} works best when it trusts the audience\u2014the same principle driving ${src}. ` +
+    `Both films close on ${mood} that takes time to shake.`,
 
-  // 9
+  // 9 — specificity-of-feeling
   (src, rec, vibes, mood, year) =>
-    `${rec} (${year}) is the natural next step after ${src}: same ${vibes[0] ?? "genre"} DNA, different perspective. ` +
-    `The ${mood} streak and ${vibes[1] ?? "craft"} elevate it well above a simple genre exercise.`,
+    `There's a specific kind of ${vibes[0] ?? "tonal"} satisfaction in ${src} that ${rec} (${year}) reproduces through its own logic. ` +
+    `The ${mood} is the handshake between them.`,
 
-  // 10
+  // 10 — tonal register statement (no "conversation")
   (src, rec, vibes, mood, year) =>
-    `If ${src}'s ${vibes[0] ?? "tone"} stayed with you, ${rec} (${year}) delivers the same sensation through an entirely different story. ` +
-    `The ${vibes[1] ?? mood} through-line is the real common thread between them.`,
+    `${rec} (${year}) occupies the same tonal register as ${src}: committed ${vibes[0] ?? "genre"}, ${mood}, and zero interest in softening its edges. ` +
+    `It earns the comparison with a completely distinct narrative arc.`,
 
-  // 11
+  // 11 — lateral move framing (updated, no "next step after")
   (src, rec, vibes, mood, year) =>
-    `${rec} (${year}) operates in the same ${vibes[0] ?? "space"} as ${src}, but with its own distinct voice and pacing. ` +
-    `The ${mood} payoff will feel satisfyingly familiar without retreading the same ground.`,
+    `Think of ${rec} (${year}) as a lateral move from ${src}\u2014the ${vibes[0] ?? "genre"} priorities are the same, the story is entirely different. ` +
+    `The ${mood} is what seals the pairing.`,
 
-  // 12
+  // 12 — year-first opening for variety
   (src, rec, vibes, mood, year) =>
-    `Much of what makes ${src} compelling — the ${vibes[0] ?? "tension"}, the ${vibes[1] ?? "atmosphere"} — shows up in ${rec} (${year}) in a slightly different form. ` +
-    `Both films understand that ${mood} storytelling works best when it trusts the audience.`,
+    `${year}'s ${rec} works the same ${vibes[0] ?? "terrain"} as ${src} and lands at the same destination: ` +
+    `${mood} that feels earned rather than manufactured.`,
 
-  // 13
+  // 13 — comparative without "DNA" or "conversation"
   (src, rec, vibes, mood, year) =>
-    `${rec} (${year}) is the kind of film ${src} fans discover and immediately send to their group chat. ` +
-    `The ${vibes[0] ?? "genre"} overlap is real, but it's the ${mood} emotional pull that seals the recommendation.`,
+    `Both ${src} and ${rec} (${year}) insist on ${vibes[0] ?? "their genre"} without softening the edges. ` +
+    `The ${mood} is the payoff fans of either film tend to cite first.`,
 
-  // 14
+  // 14 — viewer psychology
   (src, rec, vibes, mood, year) =>
-    `The ${vibes[0] ?? "core"} appeal of ${src} — that ${mood} edge, the ${vibes[1] ?? "craft"} — translates cleanly into ${rec} (${year}). ` +
-    `Different setting, same essential satisfaction.`,
+    `${rec} (${year}) will feel intuitive to anyone who responded to ${src}'s ${vibes[0] ?? "approach"}. ` +
+    `The ${mood} plays differently here\u2014same frequency, new transmission.`,
+
+  // 15 — architecture metaphor (surface / beneath)
+  (src, rec, vibes, mood, year) =>
+    `${src} and ${rec} (${year}) share an architecture: ${vibes[0] ?? "genre"} on the surface, ${mood} beneath it. ` +
+    `The second film earns the comparison with a distinct story that stands on its own.`,
+
+  // 16 — pacing focus
+  (src, rec, vibes, mood, year) =>
+    `${rec} (${year}) matches ${src}'s sense of pacing\u2014it knows when to let scenes breathe and when to tighten the grip. ` +
+    `The ${vibes[0] ?? "genre"} framework is the same; the ${mood} delivery is its own.`,
+
+  // 17 — emotional residue opening
+  (src, rec, vibes, mood, year) =>
+    `That ${vibes[0] ?? "tonal"} residue ${src} leaves behind shows up again in ${rec} (${year}), filtered through a different story but the same underlying register. ` +
+    `The ${mood} ending will feel familiar in the best sense.`,
+
+  // 18 — craft observation
+  (src, rec, vibes, mood, year) =>
+    `${rec} (${year}) is built with the same care for ${vibes[0] ?? "craft"} that distinguishes ${src} from comparable releases. ` +
+    `The ${mood} tone is consistent without the two films ever feeling like copies of each other.`,
+
+  // 19 — discovery framing
+  (src, rec, vibes, mood, year) =>
+    `${src} fans who haven't seen ${rec} (${year}) tend to find it quickly once they start looking. ` +
+    `The ${vibes[0] ?? "tonal"} overlap is real, and the ${mood} payoff lands with comparable weight.`,
+
+  // 20 — implied community
+  (src, rec, vibes, mood, year) =>
+    `${rec} (${year}) keeps appearing alongside ${src} in watchlists and recommendation threads for good reason: ` +
+    `the ${vibes[0] ?? "genre"} commitment and ${mood} register connect them beyond surface plot similarity.`,
+
+  // 21 — stakes focus
+  (src, rec, vibes, mood, year) =>
+    `What ${src} does well\u2014making ${vibes[0] ?? "its genre"} feel like it matters\u2014${rec} (${year}) does with equal conviction. ` +
+    `The ${mood} stakes hold throughout, and the film earns its ending.`,
 ];
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
@@ -108,7 +143,19 @@ function simpleHash(str) {
 
 function isTemplate(text) {
   if (!text) return false;
-  return /clicked for you/i.test(text) || /strong next stop/i.test(text);
+  // Legacy fill-all-bundles patterns
+  if (/clicked for you/i.test(text)) return true;
+  if (/strong next stop/i.test(text)) return true;
+  // Current fill-all-bundles Template 0 pattern
+  if (/worked for you.*is a strong next pick/i.test(text)) return true;
+  if (/\bstrong next pick\b/i.test(text)) return true;
+  // fill-all-bundles "natural follow-up" pattern
+  if (/makes a natural follow-up/i.test(text)) return true;
+  // fill-all-bundles "rhyme in the ways that matter" pattern
+  if (/rhyme in the ways that matter/i.test(text)) return true;
+  // fill-all-bundles "After X, many fans queue" pattern
+  if (/many fans queue/i.test(text)) return true;
+  return false;
 }
 
 function generateBlurb(sourceTitle, rec, recIndex) {
@@ -116,7 +163,8 @@ function generateBlurb(sourceTitle, rec, recIndex) {
   const mood = rec.mood ?? "engaging";
   const year = rec.year ?? "";
   const recTitle = rec.title ?? "this film";
-  const base = simpleHash(sourceTitle) + recIndex * 7;
+  // Hash source + rec title + index so every slot on the same page uses a different template
+  const base = simpleHash(sourceTitle + recTitle + String(recIndex));
   for (let k = 0; k < TEMPLATES.length; k++) {
     const fn = TEMPLATES[(base + k) % TEMPLATES.length];
     const raw = fn(sourceTitle, recTitle, vibes, mood, String(year));
