@@ -1,4 +1,4 @@
-export const MOVIE_PAGE_INDEX_WORD_THRESHOLD = 300;
+export const MOVIE_PAGE_INDEX_WORD_THRESHOLD = 150;
 
 export type MoviePageIndexingWordsInput = {
   pageTitle: string;

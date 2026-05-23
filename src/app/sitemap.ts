@@ -68,28 +68,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     },
     {
-      path: "/watchlist",
-      lastModified: appFileMtime("src/app/watchlist/page.tsx"),
-      changeFrequency: "monthly",
-      priority: 0.5,
-    },
-    {
       path: "/about",
       lastModified: appFileMtime("src/app/about/page.tsx"),
       changeFrequency: "monthly",
       priority: 0.5,
-    },
-    {
-      path: "/login",
-      lastModified: appFileMtime("src/app/login/page.tsx"),
-      changeFrequency: "yearly",
-      priority: 0.3,
-    },
-    {
-      path: "/signup",
-      lastModified: appFileMtime("src/app/signup/page.tsx"),
-      changeFrequency: "yearly",
-      priority: 0.3,
     },
   ];
 
