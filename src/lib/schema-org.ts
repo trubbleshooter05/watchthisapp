@@ -123,6 +123,22 @@ export function buildMovieLikePageJsonLd(opts: {
   } as Record<string, unknown>;
 }
 
+export function buildBreadcrumbListJsonLd(
+  baseUrl: string,
+  items: Array<{ name: string; path: string }>,
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.name,
+      item: `${baseUrl}${item.path}`,
+    })),
+  };
+}
+
 export function buildBlogPostingJsonLd(opts: {
   baseUrl: string;
   title: string;

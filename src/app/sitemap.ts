@@ -73,6 +73,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.5,
     },
+    {
+      path: "/privacy",
+      lastModified: appFileMtime("src/app/privacy/page.tsx"),
+      changeFrequency: "yearly",
+      priority: 0.25,
+    },
+    {
+      path: "/terms",
+      lastModified: appFileMtime("src/app/terms/page.tsx"),
+      changeFrequency: "yearly",
+      priority: 0.25,
+    },
   ];
 
   const staticRoutes: MetadataRoute.Sitemap = staticPathEntries.map((e) => ({

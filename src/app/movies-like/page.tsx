@@ -1,9 +1,25 @@
 import type { Metadata } from "next";
 import { TrendingMovieComparisons } from "@/components/TrendingMovieComparisons";
+import { getSiteUrl } from "@/lib/site-url";
+
+const baseUrl = getSiteUrl();
 
 export const metadata: Metadata = {
   title: "Movies Like - Find Movies You'll Love",
   description: "Discover movies similar to your favorites. Browse trending movie comparisons and find your next watch.",
+  alternates: { canonical: `${baseUrl}/movies-like` },
+  robots: { index: true, follow: true },
+  openGraph: {
+    title: "Movies Like - Find Movies You'll Love",
+    description: "Discover movies similar to your favorites. Browse trending movie comparisons and find your next watch.",
+    url: `${baseUrl}/movies-like`,
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Movies Like - Find Movies You'll Love",
+    description: "Discover movies similar to your favorites. Browse trending movie comparisons and find your next watch.",
+  },
 };
 
 export default function MoviesLikePage() {

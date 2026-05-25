@@ -25,7 +25,7 @@ import {
 } from "@/lib/movies-like-seo";
 import { pickAlsoLikeSlugs } from "@/lib/seo-priority-movies";
 import { getSiteUrl } from "@/lib/site-url";
-import { buildMovieLikePageJsonLd } from "@/lib/schema-org";
+import { buildBreadcrumbListJsonLd, buildMovieLikePageJsonLd } from "@/lib/schema-org";
 import { EditorialAttribution } from "@/components/EditorialAttribution";
 import { generateH1 } from "@/lib/seo/ctr";
 import { validateMovieLikePage, logValidationIssues } from "@/lib/seo/validator";
@@ -206,6 +206,13 @@ export default async function MovieLikePage({ params }: Props) {
     faqItems: mergedFaq,
     shouldIndex,
   });
+  const breadcrumbStructured = shouldIndex
+    ? buildBreadcrumbListJsonLd(baseUrl, [
+        { name: "MoviesLike", path: "/" },
+        { name: "Movies Like", path: "/movies-like" },
+        { name: `Movies like ${bundle.sourceMovie.title}`, path: `/movies-like/${slug}` },
+      ])
+    : null;
   const guideUpdatedIso = getRecommendationJsonMtime(slug).toISOString();
 
   return (
@@ -214,6 +221,12 @@ export default async function MovieLikePage({ params }: Props) {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structured) }}
+        />
+      )}
+      {breadcrumbStructured && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbStructured) }}
         />
       )}
       <div className="min-h-screen">

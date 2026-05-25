@@ -1,7 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { getSiteUrl } from "@/lib/site-url";
 
-export const metadata: Metadata = { title: "Log in" };
+export const metadata: Metadata = {
+  title: "Log in",
+  description: "MoviesLike account login placeholder.",
+  alternates: { canonical: `${getSiteUrl()}/login` },
+  robots: { index: false, follow: false },
+};
 
 export default function LoginPage() {
   return (

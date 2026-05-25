@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Watchlist",
   description: "Your saved movies — coming soon.",
   alternates: { canonical: `${getSiteUrl()}/watchlist` },
-  robots: { index: true, follow: true },
+  robots: { index: false, follow: false },
 };
 
 export default function WatchlistPage() {

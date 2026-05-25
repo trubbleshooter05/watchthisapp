@@ -5,6 +5,7 @@ import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
 import { GoogleAnalyticsInit } from "@/components/google-analytics-init";
 import { GoogleAnalytics } from "@/components/google-analytics";
+import { AttributionCapture } from "@/components/AttributionCapture";
 import { getSiteUrl } from "@/lib/site-url";
 
 const display = Outfit({
@@ -53,6 +54,7 @@ export default function RootLayout({
         className={`${display.variable} ${body.variable} min-h-screen bg-[#0F0F0F] font-body text-[#FAFAFA] antialiased`}
       >
         <GoogleAnalytics />
+        <AttributionCapture />
         <SiteHeader />
         {children}
         <SiteFooter />
