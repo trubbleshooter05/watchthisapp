@@ -1,0 +1,185 @@
+{
+  "sourceMovie": {
+    "tmdbId": 453395,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "slug": "madness",
+    "year": 2022,
+    "genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "whyPeopleLoveIt": "Doctor Strange in the Multiverse of Madness (2022) lands somewhere specific in the memory: not just a fantasy but a feeling, the kind of watch that gets referenced in conversations years later. Sam Raimi's decisions hold up under scrutiny. The fantasy and action blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
+    "vibes": [
+      "fantasy",
+      "action",
+      "adventure",
+      "rewatchable"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 76338,
+      "title": "Thor: The Dark World",
+      "year": 2013,
+      "posterPath": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Thor: The Dark World (2013) occupies the same tonal register as Doctor Strange in the Multiverse of Madness: committed fantasy and action, momentum and clean stakes, and zero interest in making things easier than they need to be.",
+      "sharedVibes": [
+        "fantasy",
+        "action",
+        "adventure"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 24428,
+      "title": "The Avengers",
+      "year": 2012,
+      "posterPath": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Viewers who connected with Doctor Strange in the Multiverse of Madness's action and adventure core tend to find The Avengers (2012) almost immediately. The momentum and clean stakes is recognisable even when the characters and plot are entirely new.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 299536,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Think of Avengers: Infinity War (2018) as a lateral move from Doctor Strange in the Multiverse of Madness—the action and adventure priorities are the same, the story is entirely different. The momentum and clean stakes is what seals the pairing.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 118340,
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "posterPath": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Doctor Strange in the Multiverse of Madness uses action and adventure to get under your skin; Guardians of the Galaxy (2014) works the same seam with different tools. The momentum and clean stakes is the reward both films share.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 284054,
+      "title": "Black Panther",
+      "year": 2018,
+      "posterPath": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "The momentum and clean stakes that makes Doctor Strange in the Multiverse of Madness linger is the through-line here. Black Panther (2018) gets there through action and adventure—same destination, entirely different route.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 283995,
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017,
+      "posterPath": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Guardians of the Galaxy Vol. 2 (2017) earns its place here through the same action and adventure commitment that keeps Doctor Strange in the Multiverse of Madness rewatchable. It delivers momentum and clean stakes without shortchanging either half.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 10138,
+      "title": "Iron Man 2",
+      "year": 2010,
+      "posterPath": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Iron Man 2 (2010) will feel intuitive to anyone who responded to Doctor Strange in the Multiverse of Madness's action and adventure approach. The momentum and clean stakes plays differently here—same frequency, new transmission.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 100402,
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "posterPath": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "The momentum and clean stakes that makes Doctor Strange in the Multiverse of Madness linger is the through-line here. Captain America: The Winter Soldier (2014) gets there through action and adventure—same destination, entirely different route.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 127585,
+      "title": "X-Men: Days of Future Past",
+      "year": 2014,
+      "posterPath": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Where Doctor Strange in the Multiverse of Madness builds its action and adventure world through one story, X-Men: Days of Future Past (2014) arrives at the same momentum and clean stakes from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 524434,
+      "title": "Eternals",
+      "year": 2021,
+      "posterPath": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Think of Eternals (2021) as a lateral move from Doctor Strange in the Multiverse of Madness—the action and adventure priorities are the same, the story is entirely different. The momentum and clean stakes is what seals the pairing.",
+      "sharedVibes": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Doctor Strange in the Multiverse of Madness?",
+      "answer": "Start with Thor: The Dark World—it's the closest match—then work through The Avengers and Avengers: Infinity War for the wider orbit."
+    },
+    {
+      "question": "What genre is Doctor Strange in the Multiverse of Madness?",
+      "answer": "Doctor Strange in the Multiverse of Madness (2022) is best described as Fantasy, Action, Adventure. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is Doctor Strange in the Multiverse of Madness part of a franchise?",
+      "answer": "Yes—it's part of the \"Doctor Strange Collection\" storyline. You can enjoy it standalone, but sequels and tie-ins build on characters and continuity established here."
+    }
+  ],
+  "relatedPages": [
+    "a-chinese-odyssey-part-one-pandoras-box",
+    "a-chinese-odyssey-part-two-cinderella",
+    "a-legend",
+    "a-touch-of-zen",
+    "a-writers-odyssey",
+    "alienoid",
+    "along-with-the-gods-the-last-49-days"
+  ]
+}
