@@ -1,0 +1,188 @@
+{
+  "sourceMovie": {
+    "tmdbId": 1556616,
+    "title": "Summer House",
+    "slug": "summer-house",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Family",
+      "Drama",
+      "Mystery"
+    ],
+    "whyPeopleLoveIt": "Summer House (2026) earns its reputation by doing the hard thing: it's a romance film that actually has something to say, and the audience knows it even when they can't articulate why. It commits to romance without hedging: no false warmth to soften the edges, no filler to pad the runtime.",
+    "vibes": [
+      "romance",
+      "family",
+      "drama",
+      "mystery",
+      "divisive"
+    ]
+  },
+  "recommendations": [
+    {
+      "tmdbId": 137321,
+      "title": "Winter's Tale",
+      "year": 2014,
+      "posterPath": "/dwDAUpidqVEql6w1o51VIPlMtbG.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Think of Winter's Tale (2014) as a lateral move from Summer House—the romance and drama priorities are the same, the story is entirely different. The emotional honesty that stings a little is what seals the pairing.",
+      "sharedVibes": [
+        "romance",
+        "drama",
+        "mystery",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 9816,
+      "title": "Save the Last Dance",
+      "year": 2001,
+      "posterPath": "/sV8GIxT3BjHIiwgKUNwk1S8VSLa.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Where Summer House builds its romance and family world through one story, Save the Last Dance (2001) arrives at the same emotional honesty that stings a little from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "romance",
+        "family",
+        "drama",
+        "music"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 13768,
+      "title": "Tuck Everlasting",
+      "year": 2002,
+      "posterPath": "/9BXAC4uTHuD37hpiGOmhetqNgnO.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Both Summer House and Tuck Everlasting (2002) insist on romance and family without softening the edges. The emotional honesty that stings a little is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "romance",
+        "family",
+        "drama",
+        "fantasy"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 361475,
+      "title": "Departure",
+      "year": 2016,
+      "posterPath": "/6TZ4H3iOHcpWr9zmClps3jZGhQV.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Both Summer House and Departure (2016) insist on romance and family without softening the edges. The emotional honesty that stings a little is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "romance",
+        "family",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 226857,
+      "title": "Endless Love",
+      "year": 2014,
+      "posterPath": "/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Where Summer House builds its romance and drama world through one story, Endless Love (2014) arrives at the same emotional honesty that stings a little from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 302528,
+      "title": "Remember",
+      "year": 2015,
+      "posterPath": "/x496Ip0weJYfsEX23eNyzG4MjXV.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Summer House fans keep landing on Remember (2015) because the drama and mystery wavelength is unmistakable. Both films build toward momentum and clean stakes without cheating to get there.",
+      "sharedVibes": [
+        "drama",
+        "mystery",
+        "thriller"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 12837,
+      "title": "The Secret Life of Bees",
+      "year": 2008,
+      "posterPath": "/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "Viewers who connected with Summer House's family and drama core tend to find The Secret Life of Bees (2008) almost immediately. The earned warmth without sentimentality is recognisable even when the characters and plot are entirely new.",
+      "sharedVibes": [
+        "family",
+        "drama",
+        "adventure"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 745376,
+      "title": "Hello, Goodbye, and Everything in Between",
+      "year": 2022,
+      "posterPath": "/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "Both Summer House and Hello, Goodbye, and Everything in Between (2022) insist on romance and drama without softening the edges. The emotional honesty that stings a little is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "romance",
+        "drama"
+      ],
+      "mood": "bittersweet"
+    },
+    {
+      "tmdbId": 32790,
+      "title": "The Good Witch",
+      "year": 2008,
+      "posterPath": "/nZVOeGCbhLzIfCOB7BCvIrE2TaY.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Viewers who connected with Summer House's family and drama core tend to find The Good Witch (2008) almost immediately. The earned warmth without sentimentality is recognisable even when the characters and plot are entirely new.",
+      "sharedVibes": [
+        "family",
+        "drama",
+        "fantasy",
+        "tv-movie"
+      ],
+      "mood": "uplifting"
+    },
+    {
+      "tmdbId": 790867,
+      "title": "The Eternal Daughter",
+      "year": 2022,
+      "posterPath": "/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Think of The Eternal Daughter (2022) as a lateral move from Summer House—the drama and mystery priorities are the same, the story is entirely different. The momentum and clean stakes is what seals the pairing.",
+      "sharedVibes": [
+        "drama",
+        "mystery"
+      ],
+      "mood": "tense"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What should I watch after Summer House?",
+      "answer": "Try Winter's Tale, Save the Last Dance, Tuck Everlasting. Each one rewards the instincts that made Summer House click, without simply repeating it."
+    },
+    {
+      "question": "What genre is Summer House?",
+      "answer": "Summer House (2026) blends Romance, Family, Drama, Mystery—the romance element drives the plot, but the rest is why people keep coming back."
+    },
+    {
+      "question": "Is Summer House worth revisiting?",
+      "answer": "Viewer scores sit around 0.0/10 on TMDB—high enough that replays are common for people who like this romance lane."
+    }
+  ],
+  "relatedPages": [
+    "burning-betrayal",
+    "cinderella",
+    "entrapment",
+    "hannah-montana-the-movie",
+    "high-school-musical",
+    "love-dont-co-t-a-thing",
+    "mr-holmes"
+  ]
+}
