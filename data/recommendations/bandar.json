@@ -8,20 +8,171 @@
       "Comedy",
       "Drama"
     ],
-    "whyPeopleLoveIt": "EDIT THIS: 2–4 sentences on why audiences love this film—specific, not a plot copy from IMDB.",
+    "whyPeopleLoveIt": "The Banger Sisters (2002) stuck because it commits to its comedy premise without apologizing—viewers remember set pieces and momentum as much as plot. Bob Dolman's control of tone keeps the ride coherent. The comedy and drama blend is the engine: it lets the film shift registers without feeling like two different movies stitched together.",
     "vibes": [
-      "EDIT",
-      "ADD",
-      "3-5",
-      "TAGS"
+      "comedy",
+      "drama",
+      "divisive"
     ]
   },
-  "recommendations": [],
-  "faq": [
+  "recommendations": [
     {
-      "question": "EDIT: What movie is most similar to The Banger Sisters?",
-      "answer": "EDIT: Your original answer."
+      "tmdbId": 437586,
+      "title": "mid90s",
+      "year": 2018,
+      "posterPath": "/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+      "matchPercentage": 96,
+      "whyYoullLoveIt": "Where The Banger Sisters builds its comedy and drama world through one story, mid90s (2018) arrives at the same comic timing and sharper banter from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 327331,
+      "title": "The Dirt",
+      "year": 2019,
+      "posterPath": "/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
+      "matchPercentage": 94,
+      "whyYoullLoveIt": "Both The Banger Sisters and The Dirt (2019) insist on comedy and drama without softening the edges. The comic timing and sharper banter is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 188222,
+      "title": "Entourage",
+      "year": 2015,
+      "posterPath": "/28dqsx1jCxhR05DfH35ui13ywNZ.jpg",
+      "matchPercentage": 92,
+      "whyYoullLoveIt": "Where The Banger Sisters builds its comedy and drama world through one story, Entourage (2015) arrives at the same comic timing and sharper banter from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 12508,
+      "title": "Rock Star",
+      "year": 2001,
+      "posterPath": "/8pRMweo9WA1MvYOLsD2hWyFpZ1V.jpg",
+      "matchPercentage": 90,
+      "whyYoullLoveIt": "Where The Banger Sisters builds its comedy and drama world through one story, Rock Star (2001) arrives at the same comic timing and sharper banter from a fresh angle. Different characters, same emotional charge.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 256924,
+      "title": "Danny Collins",
+      "year": 2015,
+      "posterPath": "/sf9ndc9l6alP9DhJF1ZpKz1PaXK.jpg",
+      "matchPercentage": 88,
+      "whyYoullLoveIt": "Danny Collins (2015) understands that comedy and drama works best when it trusts the audience—the same principle that drives The Banger Sisters. Both films close on comic timing and sharper banter you won't shake quickly.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 6396,
+      "title": "SLC Punk",
+      "year": 1998,
+      "posterPath": "/7u3IZPuIOPjICi55K7cJgzV3e3B.jpg",
+      "matchPercentage": 86,
+      "whyYoullLoveIt": "Viewers who connected with The Banger Sisters's comedy and drama core tend to find SLC Punk (1998) almost immediately. The comic timing and sharper banter is recognisable even when the characters and plot are entirely new.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "music"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 9283,
+      "title": "Beautiful Girls",
+      "year": 1996,
+      "posterPath": "/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+      "matchPercentage": 84,
+      "whyYoullLoveIt": "1996's Beautiful Girls works the same comedy and drama terrain as The Banger Sisters and lands at the same destination: comic timing and sharper banter that feels earned rather than manufactured.",
+      "sharedVibes": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 920125,
+      "title": "White Men Can't Jump",
+      "year": 2023,
+      "posterPath": "/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
+      "matchPercentage": 82,
+      "whyYoullLoveIt": "There's a specific kind of comedy and drama satisfaction in The Banger Sisters that White Men Can't Jump (2023) reproduces through its own logic. The comic timing and sharper banter is the handshake between them.",
+      "sharedVibes": [
+        "comedy",
+        "drama"
+      ],
+      "mood": "funny"
+    },
+    {
+      "tmdbId": 4512,
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007,
+      "posterPath": "/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
+      "matchPercentage": 80,
+      "whyYoullLoveIt": "Both The Banger Sisters and The Assassination of Jesse James by the Coward Robert Ford (2007) insist on drama without softening the edges. The momentum and clean stakes is the payoff fans of either film tend to cite first.",
+      "sharedVibes": [
+        "drama",
+        "western"
+      ],
+      "mood": "tense"
+    },
+    {
+      "tmdbId": 4379,
+      "title": "Monster-in-Law",
+      "year": 2005,
+      "posterPath": "/iRqcGkIPdRbEaW0xMEA5kgceUF8.jpg",
+      "matchPercentage": 78,
+      "whyYoullLoveIt": "Monster-in-Law (2005) earns its place here through the same comedy commitment that keeps The Banger Sisters rewatchable. It delivers comic timing and sharper banter without shortchanging either half.",
+      "sharedVibes": [
+        "comedy",
+        "romance"
+      ],
+      "mood": "funny"
     }
   ],
-  "relatedPages": []
+  "faq": [
+    {
+      "question": "What should I watch after The Banger Sisters?",
+      "answer": "Start with mid90s—it's the closest match—then work through The Dirt and Entourage for the wider orbit."
+    },
+    {
+      "question": "What genre is The Banger Sisters?",
+      "answer": "The Banger Sisters (2002) is best described as Comedy, Drama. Stores and algorithms use different labels, but that mix is what fans actually recognize on a rewatch."
+    },
+    {
+      "question": "Is The Banger Sisters worth revisiting?",
+      "answer": "Viewer scores sit around 5.6/10 on TMDB—high enough that replays are common for people who like this comedy lane."
+    }
+  ],
+  "relatedPages": [
+    "10-things-i-hate-about-you",
+    "17-again",
+    "3-idiots",
+    "50-50",
+    "500-days-of-summer",
+    "53-sundays",
+    "a-different-man"
+  ]
 }
