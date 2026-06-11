@@ -68,11 +68,14 @@ export function generateTitle(movieName: string, recommendationCount?: number): 
       : pickFromSeed(seed, NUMBERS);
   const emotion = pickFromSeed(seed + 1, EMOTIONAL_TRIGGERS);
 
+  const emotionCap = emotion.charAt(0).toUpperCase() + emotion.slice(1);
+
+  // Lead with "Movies Like [X]" — matches the dominant SERP query pattern.
   const templates = [
-    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Movies Like ${movieName}`,
-    `${number} ${emotion.charAt(0).toUpperCase() + emotion.slice(1)} Films Like ${movieName}`,
-    `Movies Like ${movieName}: ${number} ${emotion} Picks`,
-    `Top ${number} Movies Like ${movieName} (${emotion.charAt(0).toUpperCase() + emotion.slice(1)})`,
+    `Movies Like ${movieName}: ${number} ${emotionCap} Films to Watch`,
+    `Movies Like ${movieName} — ${number} ${emotionCap} Picks`,
+    `${number} ${emotionCap} Movies Like ${movieName} to Stream`,
+    `Best Movies Like ${movieName}: ${number} ${emotionCap} Picks`,
   ];
 
   const selected = pickFromSeed(seed + 2, templates);
@@ -82,9 +85,11 @@ export function generateTitle(movieName: string, recommendationCount?: number): 
     return selected.substring(0, 62) + "...";
   }
   if (selected.length < 50) {
-    const suffix = " Worth Watching Next";
-    if (selected.length + suffix.length <= 65) return `${selected}${suffix}`;
-    return `${selected} Picks Worth Watching`;
+    const suffixes = [" — Curated List", " Worth Watching Next", " (Where to Stream)"];
+    for (const suffix of suffixes) {
+      if (selected.length + suffix.length <= 65) return `${selected}${suffix}`;
+    }
+    return `${selected} — Watch Next`;
   }
   return selected;
 }
@@ -94,16 +99,20 @@ export function generateTitle(movieName: string, recommendationCount?: number): 
  * Format: "If you loved [Movie]... [curiosity hook]"
  * Target: 140-160 chars
  */
-export function generateDescription(movieName: string): string {
+export function generateDescription(movieName: string, recommendationCount?: number): string {
   const seed = hashCode(movieName);
   const curiosity = pickFromSeed(seed, CURIOSITY_PHRASES);
   const emotion = pickFromSeed(seed + 1, EMOTIONAL_TRIGGERS);
+  const number =
+    typeof recommendationCount === "number" && recommendationCount > 0
+      ? recommendationCount
+      : pickFromSeed(seed + 3, NUMBERS);
 
   const templates = [
-    `If you loved ${movieName}, explore ${emotion} films ${curiosity}, with clear notes on shared themes, tone, and streaming context.`,
-    `If you loved ${movieName}, find ${emotion} films ${curiosity} that echo the same mood, stakes, and emotional aftertaste.`,
-    `If you loved ${movieName}, these ${emotion} picks carry a related feeling, with specific comparisons so you can choose faster.`,
-    `If you loved ${movieName}, start with these ${emotion} recommendations built around similar tension, style, and story appetite.`,
+    `If you loved ${movieName}, these ${number} ${emotion} picks ${curiosity} — with theme notes and where to stream each film.`,
+    `If you loved ${movieName}, explore ${number} ${emotion} films ${curiosity}. Curated list with tone, stakes, and streaming links.`,
+    `If you loved ${movieName}, start here: ${number} ${emotion} movies ${curiosity}, compared on mood, style, and watch options.`,
+    `If you loved ${movieName}, find ${number} ${emotion} films ${curiosity} — ranked picks with why each one fits fans of the original.`,
   ];
 
   const selected = pickFromSeed(seed + 2, templates);
@@ -136,11 +145,11 @@ export function generateH1(movieName: string, recommendationCount?: number): str
       : pickFromSeed(seed + 1, NUMBERS);
 
   const templates = [
-    `Best Movies Like ${movieName} — ${countForList} Recommendations`,
-    `${countForList} Best Movies Like ${movieName}`,
-    `Movies Like ${movieName}: ${countForList} Picks You'll Love`,
-    `${countForList} Movies Like ${movieName} Worth Watching`,
-    `Best Movies Like ${movieName} (${countForList} Picks)`,
+    `If You Loved ${movieName}, Start With These ${countForList} Films`,
+    `Best Movies Like ${movieName} — ${countForList} Curated Picks`,
+    `${countForList} Movies Like ${movieName} Fans Actually Recommend`,
+    `Movies Like ${movieName}: ${countForList} Picks Worth Your Time`,
+    `Because You Loved ${movieName} — ${countForList} Films to Try`,
   ];
 
   return pickFromSeed(seed + 2, templates);

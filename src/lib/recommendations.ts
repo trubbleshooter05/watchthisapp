@@ -40,8 +40,8 @@ export function getSeoTitle(sourceTitle: string, recommendationCount?: number): 
   return generateTitle(sourceTitle, recommendationCount);
 }
 
-export function getSeoDescription(sourceTitle: string): string {
-  return generateDescription(sourceTitle);
+export function getSeoDescription(sourceTitle: string, recommendationCount?: number): string {
+  return generateDescription(sourceTitle, recommendationCount);
 }
 
 export function filterExistingRelatedSlugs(related: string[]): string[] {

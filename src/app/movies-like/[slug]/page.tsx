@@ -82,7 +82,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const t = bundle.sourceMovie.title;
   const recommendationCount = bundle.recommendations.length;
   const title = bundle.seoTitle ?? getSeoTitle(t, recommendationCount);
-  const description = bundle.seoDescription ?? getSeoDescription(t);
+  const description = bundle.seoDescription ?? getSeoDescription(t, recommendationCount);
   const baseUrl = getSiteUrl();
   const modified = getRecommendationJsonMtime(slug);
   const { shouldIndex, wordCount } = computeMovieGuideShouldIndex(slug, bundle);
@@ -126,7 +126,8 @@ export default async function MovieLikePage({ params }: Props) {
   const { shouldIndex, wordCount, slugIndexable } = computeMovieGuideShouldIndex(slug, bundle);
 
   const title = bundle.seoTitle ?? getSeoTitle(bundle.sourceMovie.title, recommendationCount);
-  const description = bundle.seoDescription ?? getSeoDescription(bundle.sourceMovie.title);
+  const description =
+    bundle.seoDescription ?? getSeoDescription(bundle.sourceMovie.title, recommendationCount);
   const h1 = bundle.seoH1 ?? generateH1(bundle.sourceMovie.title, recommendationCount);
 
   const introHtml = bundle.customIntroParagraphs?.length
