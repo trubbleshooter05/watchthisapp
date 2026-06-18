@@ -1,6 +1,8 @@
 # MoviesLike deployment source
 
-**Production:** `https://www.movieslike.app` is deployed from **`watchthisapp`**, not the `movieslike` repo.
+**Production:** `https://www.movieslike.app` is deployed from **`movieslike`** (GitHub `watchthisapp-prod`, Vercel project `watchthisapp-prod`).
+
+**Legacy corpus:** **`watchthisapp`** holds 4,465 JSON bundles + forge automation — archive only while Path B is active.
 
 ## Verify alignment
 
